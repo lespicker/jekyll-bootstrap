@@ -4343,3 +4343,21 @@ blockquote cite {
 #bott-3 {
   width: 33.33333%;
 }
+
+/* line 148, ../sass/app.scss */
+.nivoSlider {
+  position: relative;
+}
+
+/* line 152, ../sass/app.scss */
+.nivoSlider img {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+/* line 158, ../sass/app.scss */
+.nivoslider a {
+  border: 0px;
+  display: block;
+}
