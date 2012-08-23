@@ -1,0 +1,146 @@
+// You custom settings file to override Foundation defaults
+@import "settings";
+
+// Comment out this import if you are customizing you imports below
+@import "foundation";
+
+// ----------------------------------------
+// Import specific parts of Foundation by commenting the import "foundation"
+// and uncommenting what you want below. You must uncomment the following if customizing
+
+// @import "compass/css3";
+// @import "foundation/settings";
+// @import "foundation/functions/all";
+// @import "foundation/common/globals";
+// @import "foundation/mixins/clearfix";
+// @import "modular-scale";
+
+// Control which mixins you have access too
+
+// @import "foundation/mixins/css-triangle";
+// @import "foundation/mixins/font-size";
+
+// Must include next two for semantic grid to work
+
+// @import "foundation/mixins/respond-to";
+// @import "foundation/mixins/semantic-grid";
+
+// Must include the grid for any responsiveness
+
+// @import "foundation/components/grid";
+
+// Control which common styles get compiled
+
+// @import "foundation/common/typography";
+// @import "foundation/common/forms";
+
+// Control which components you get if customizing
+
+// @import "foundation/components/modules/buttons";
+// @import "foundation/components/modules/tabs";
+// @import "foundation/components/modules/ui";
+// @import "foundation/components/modules/navbar";
+// @import "foundation/components/modules/orbit";
+// @import "foundation/components/modules/reveal";
+// @import "foundation/components/modules/offcanvas";
+
+
+a{
+	color: #8d0003;
+	//color: #444444;
+	&:hover{
+		color: #cd0007;
+	}
+	@include transition(color .5s);
+}
+
+.orbit-caption a{
+	color: #999999;
+	&:hover{
+		color: #cd0007;
+	}
+	@include transition(color .5s);
+}
+
+blockquote cite{
+	font-size: ms(2);
+}
+
+#container{
+	@include outerRow();
+}
+
+#top-row{
+	@include innerRow();
+}
+
+#header{
+	//@include push(4);
+	@include column(12,collapse);
+	img{
+		margin-top: 1em;
+		margin-bottom: 2em;
+	}
+}
+
+#content{
+	@include push(4);
+	@include column(8);
+	p, blockquote{
+		font-size: ms(1);
+	}
+	p.ms-zero{
+		font-size: ms(0);
+	}
+	p.ms-one{
+		font-size: ms(1);
+	}
+	p.ms-two{
+		font-size: ms(2);
+	}
+	cite {
+		font-size: ms(2);
+	}
+}
+
+#sidebar{
+	@include pull(8);
+	@include column(4);
+	img{
+		margin-top: 0.3em;
+		margin-bottom: 1em;
+	}
+	p{
+		font-weight: 400;
+	}
+	h3{
+		font-size: ms(1);
+		font-family: "anivers-sc";
+		margin-bottom: 0;
+	}
+	ul{
+		list-style: none;
+		list-style-type: none;
+	}
+	li{
+	}
+	a{
+		font-family: "chaparral-pro-web";
+	}
+}
+
+#bott-row{
+	@include innerRow();
+}
+
+#bott-1{
+	@include column(4);
+}
+
+#bott-2{
+	@include column(4);
+}
+
+#bott-3{
+	@include column(4);
+}
