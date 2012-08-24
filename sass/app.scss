@@ -160,7 +160,11 @@ blockquote cite{
 	display: block;
 }
 
+.slider-wrapper .theme-light{
+	padding: 0 !important;
+}
+
 .theme-light .nivo-caption{
 	background: rgba(0,0,0,0.3) !important;
-	font-family: $headerFontFamily;
+	font-family: $headerFontFamily !important;
 }

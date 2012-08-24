@@ -234,7 +234,7 @@ aside p {
 
 /* line 14, ../../../../.rvm/gems/ruby-1.9.2-p290@compass-play/gems/zurb-foundation-3.0.9/scss/foundation/common/_typography.scss */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "aniverse", "aniverse", Helvetica, Arial, sans-serif;
+  font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-rendering: optimizeLegibility;
   line-height: 1.1;
@@ -4363,7 +4363,12 @@ blockquote cite {
 }
 
 /* line 163, ../sass/app.scss */
+.slider-wrapper .theme-light {
+  padding: 0 !important;
+}
+
+/* line 167, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
-  font-family: "aniverse", "aniverse", Helvetica, Arial, sans-serif;
+  font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;
 }
