@@ -6,7 +6,7 @@ categories:
 - Design
 - Tech
 ---
-{% img  /images/2012/08/natalia-sketches.png %}
+{% img  /images/img3.jpg %}
 
 Notice anything different since last time you were here? I'll just let the cat out of the bag - it's the typefaces. Previously I cheap'd out and just used random stuff found on [google web fonts](http://www.google.com/webfonts/). For free it's fantastic. If you spend enough time wading through the whole morass you can find some real winners - too bad most of it is utter crap. Having a **huge** amount of web work to do in the near future I don't have time to find the gems buried in the manure. I am too familiar with the big foundries to be bothered hunting through google fonts so I finally pried open the wallet to pay for a big-boy [Typekit](https://typekit.com/fonts) account that gives me access to everything across unlimited domains.
 
