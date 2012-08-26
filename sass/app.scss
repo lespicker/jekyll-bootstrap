@@ -145,6 +145,16 @@ blockquote cite{
 	@include column(4);
 }
 
+#archive{
+	ul{
+		list-style: none;
+		list-style-type: none;
+	}
+	li{
+		font-size: ms(1);
+	}
+}
+
 .nivoSlider{
 	position: relative;
 }

@@ -4344,30 +4344,40 @@ blockquote cite {
   width: 33.33333%;
 }
 
-/* line 148, ../sass/app.scss */
+/* line 149, ../sass/app.scss */
+#archive ul {
+  list-style: none;
+  list-style-type: none;
+}
+/* line 153, ../sass/app.scss */
+#archive li {
+  font-size: 17px;
+}
+
+/* line 158, ../sass/app.scss */
 .nivoSlider {
   position: relative;
 }
 
-/* line 152, ../sass/app.scss */
+/* line 162, ../sass/app.scss */
 .nivoSlider img {
   position: relative;
   top: 0px;
   left: 0px;
 }
 
-/* line 158, ../sass/app.scss */
+/* line 168, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 163, ../sass/app.scss */
+/* line 173, ../sass/app.scss */
 .slider-wrapper .theme-light {
   padding: 0 !important;
 }
 
-/* line 167, ../sass/app.scss */
+/* line 177, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;
