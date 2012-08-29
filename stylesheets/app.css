@@ -4373,7 +4373,7 @@ blockquote cite {
 }
 
 /* line 173, ../sass/app.scss */
-.slider-wrapper .theme-light {
+.slider-wrapper.theme-light {
   padding: 0 !important;
 }
 
