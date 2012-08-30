@@ -1,0 +1,16 @@
+<div class="slider-wrapper theme-light">
+	<div id="slider" class="nivoSlider">
+		{% for slimg in page.slider %}
+			<img src="{{ slimg }}" title="{{ '#htmlCaption' }}{{ forloop.index }}" />
+		{% endfor %}
+	</div>
+</div>
+
+{% for slcap in page.slider-caption %}
+<div class="nivo-html-caption" id="{{ 'htmlCaption' }}{{ forloop.index }}">
+	<a href="/{{ page.slider-link[forloop.index]}}">
+		<h3>{{ slcap }}</h3>
+	</a>
+</div> 
+{% endfor %}
+
