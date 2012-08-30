@@ -4355,29 +4355,17 @@ blockquote cite {
 }
 
 /* line 158, ../sass/app.scss */
-.nivoSlider {
-  position: relative;
-}
-
-/* line 162, ../sass/app.scss */
-.nivoSlider img {
-  position: relative;
-  top: 0px;
-  left: 0px;
-}
-
-/* line 168, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 173, ../sass/app.scss */
+/* line 163, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
 }
 
-/* line 177, ../sass/app.scss */
+/* line 167, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;
