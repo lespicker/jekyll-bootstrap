@@ -44,6 +44,7 @@
 // @import "foundation/components/modules/reveal";
 // @import "foundation/components/modules/offcanvas";
 
+$highlightcolor: #cd0007;
 
 a{
 	color: #8d0003;
@@ -72,16 +73,61 @@ blockquote cite{
 
 #top-row{
 	@include innerRow();
+	margin-top: 6em;
 }
 
 #header{
 	//@include push(4);
 	@include column(12,collapse);
+	background-color: rgba(255,255,255, 0.6);
+	position: fixed;
+	z-index: 999;
+	h1, h2, h3, h4, h5, h6{
+		display: inline;
+	}
+	h1{
+		color: $highlightcolor;
+	}
 	img{
+		display: inline;
 		margin-top: 1em;
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 	}
 }
+
+#nav-block{
+	display: inline-block;
+	padding-left: 2em;
+	vertical-align: middle;
+	//float: right;
+}
+
+#nav{
+	a, ul, li{
+		display: inline;
+	}
+	li{
+		font-size: ms(1);
+		padding-left: 1em;
+//		text-transform: uppercase;
+		a{
+			color: $headerFontColor;
+			&:hover{
+					color: $highlightcolor;
+					//text-decoration: underline;
+			}	
+		}
+	}
+}
+
+//#header{
+//	//@include push(4);
+//	@include column(12,collapse);
+//	img{
+//		margin-top: 1em;
+//		margin-bottom: 2em;
+//	}
+//}
 
 #content{
 	@include push(4);
