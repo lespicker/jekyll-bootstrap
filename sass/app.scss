@@ -167,7 +167,7 @@ blockquote cite{
 
 #sidebar{
 	@include pull(8);
-	@include column(4);
+	@include column(3);
 	img{
 		margin-top: 0.3em;
 		margin-bottom: 1em;
