@@ -2,6 +2,7 @@
 layout: post
 title: Pond Sunset
 category: print
+comments: true
 ---
 {% img /images/img3.jpg %}
 
