@@ -44,11 +44,15 @@
 // @import "foundation/components/modules/reveal";
 // @import "foundation/components/modules/offcanvas";
 
-$highlightcolor: #2e4f80;
+$highlightcolor: #e1a100;
 
 img{
-	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: 1em;
+	display: block;
+	float: left;
+	word-wrap: break-word;
 }
 
 a{
@@ -81,11 +85,12 @@ blockquote cite{
 }
 
 #header{
-	//@include push(4);
-	@include column(12,collapse);
-	background-color: rgba(255,255,255, 0.6);
-	position: fixed;
-	z-index: 999;
+	@include offsetBy(1);
+	@include column(10,collapse);
+//	background-color: rgba(255,255,255, 0.6);
+//	position: fixed;
+//	z-index: 999;
+	margin-top: 2em;
 	h1, h2, h3, h4, h5, h6{
 		display: inline;
 	}
@@ -102,7 +107,7 @@ blockquote cite{
 #nav-block{
 	display: inline-block;
 	padding-left: 2em;
-	margin-top: 2.5em;
+	margin-top: 1em;
 	vertical-align: top;
 	//float: right;
 }
@@ -146,8 +151,8 @@ blockquote cite{
 //}
 
 #content{
-	@include push(4);
-	@include column(8);
+	@include offsetBy(1);
+	@include column(10);
 	p, blockquote{
 		font-size: ms(1);
 	}
@@ -165,6 +170,7 @@ blockquote cite{
 	}
 }
 
+/*
 #sidebar{
 	@include pull(8);
 	@include column(3);
@@ -206,6 +212,7 @@ blockquote cite{
 #bott-3{
 	@include column(4);
 }
+*/
 
 #archive{
 	ul{
