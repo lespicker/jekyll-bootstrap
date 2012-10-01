@@ -1,56 +1,34 @@
 ---
 layout: page
-title: The Dagger of Isis - Reader Guide
+title: The Dagger of Isis
 comments: false
 ---
 # The Dagger of Isis
 
-## Readers' Guide
+## The Backstory
 
-1. Where does the title come from?
+As I researched [**The First Pharaoh**](/pharaoh/), the opening novel in The First Dynasty Series, I became aware of another amazing story. It turned out that, much to my surprise, there was a woman Pharaoh (although they were actually called kings in those early days).This first woman pharaoh reigned early in the First Dynasty and she was so highly respected she was given a burial place of high honor overlooking a sacred desert mountain pass. I made a casual note to maybe come back to this story at a later time. 
 
-2. Could things have worked out differently for Nubiti’s and Meryt-Neith’s relationship? 
+When I finished writing **The First Pharaoh**, I was exhausted. But, after a couple of weeks, something kept nagging at me. Reluctantly, I began to look into this first woman Pharaoh and in short order I was hooked… again! Truthfully, I had wanted to work on a different, contemporary novel, but I simply could not pull away from the remarkable story of Meryt-Neith. 
 
-3. Did Meryt-Neith’s near rape at the beginning of the book affect her in any way for the rest of her life?
+In **The Dagger of Isis**, Book II of the The First Dynasty Series, I trace the life of Meryt-Neith, the first female ruler of a united Egypt (although there are indications that matriarchs may have ruled small tribal villages in Egypt even in the more remote past). The story takes place around 3,100 BC. 
 
-4. How did King Narmer’s unseen presence affect the characters? 
+From her marriage to King Wadjet to her eventual coronation after his death, The Dagger of Isis is a tale woven of intrigue and betrayal. From her carefree youth, the book follows Meryt-Neith's unlikely ascension to the throne, the wars she fought to defend the Two Lands, and the loves that gave meaning to her life. This saga takes us on a journey throughout ancient Egypt and into nearby lands, as Meryt-Neith struggles against her evil cousin, Nubiti, the Head Priestess of the Temple of Isis, to bring honor to her family's dynasty.
 
-5. One of the aspects of ancient Egyptian life was the legal rights given to women, including the right to initiate divorce proceedings, to own a business, and to inherit property. Did learning that in the novel surprise you?
+## The Research
 
-6. Would Nubiti have turned out the way she did without her mother’s influence?
+My research for **The Dagger of Isis** was really started with the first book in the series, **The First Pharaoh**. By the time I sat down to write that novel I was immersed in the history, customs, culture, foods and medical practices of ancient Egypt circa 3,150 BC. I also felt that I understood the improtance of dynasty to the population and how that the dynastic tradition defined the ruling class of this great society. 
 
-7. How would you characterize the relationship between Nubiti and Bakht? 
+And so, my research for **The Dagger of Isis** was confined to whatever I could find out about this legendary ruler, which made the job slightly easier. But, as with most research about that time period, either not much information survived or else the writing systems they used were not yet very sophisticated so they did not bother to record details. Probably it is a combination of the two. 
 
-8. The mid-East even today is riven by tribal loyalties and conflicts. Much of that cultural influence dates back to the time before Meryt-Neith. How does Bakht’s priesthood reinforce that tribal culture?
+In a way that allowed me a bit more flexibility in writing **The Dagger of Isis**. Most Egyptologists believe that Meryt-Neith served as regent for her son, although we do not know the circumstances that brought that about. The best guesses from various sources also indicate that Meryt-Neith ruled for approximately 17 years. In those details I stuck to the factual storyline. 
 
-9. In the preface, Nubiti says: 
+## Spinning the Yarn
 
-"Anubis, I am Nubiti, half-sister of King Wadjet and daughter of Shepsit and King Djer. Before your scales I swear that my heart is light as a feather. Before you lay the scrolls of my life as told to my scribes. Please do not judge Meryt-Neith’s actions harshly. Allow my sister to visit with me in the Afterlife. My words are Truth."  
+Writing **The Dagger of Isis** was pure joy, for many reasons. First, I love a strong protagonist and the fact that my protagonist was a woman gave it extra special cache to me. I also knew that I would need an equally strong antagonist, and I think I found her in Nubiti (and her henchman, Bakht). It took me about seven months to spin the yarn into a first draft, but several more months to take it through several revisions. 
 
-Does this reveal anything about Nubiti’s character?
+I think people tend to romanticize ancient Egyptian society. There is no doubt that life was difficult in those times. Few peasants had teeth left after a lifetime of eating bread laden with sand. Medical knowledge was rudimentary. Myths and fears were pervasive. Lifespans were short. 
 
-10. In the preface, Meryt-Neith says: 
+Yet, the more I understand about ancient cultures, the more remarkable ancient Egyptian society appears to me. Knowledge was respected, as was the written word. Traditions and order mattered greatly. A legal system developed that afforded a measure of protection to all citizens. Women were respected and given certain rights even from the earliest dynasties. 
 
-"I am Meryt-Neith, Queen of the Two Lands, loyal wife of King Wadjet and mother of King Den, son of King Wadjet, son of King Djer, son of King Hor-Aha, son of the god-King Narmer. I swear before you, Anubis, that these scrolls are the True Telling of My Life. I was a good niece, a good wife and good mother. I was the caretaker of our beloved Kem until my son, King Den, came of age. I beg you to be lenient toward the sins of my sister, Nubiti, so that she may enjoy the rewards of the Afterlife. I await your judgment." 
-
-What does this reveal about Meryt-Neith’s character? 
-
-11. Who was responsible for the tragedy of Meryt-Neith’s and Ti-Ameny’s relationship?
-
-12. Did Nubiti gain any lasting lessons from her father’s death?
-
-13. Was Meryt-Neith a good mother? Was she overly protective? What were the most important life lessons she imparted to Zenty?
-
-14. Does the Apep priesthood bear any resemblance to modern-day conditions in the Middle East? In what ways?
-
-15. Did Meryt-Neith make the right choice in exiling Nubiti to Abu Island?
-
-16. How would you characterize Herihor’s relationship with Zenty? Who gained the most from their relationship?
-
-17. Some Egyptologists believe that the first Egyptians were dark-skinned tribesmen from what is now Sudan. Whether or not that is true, early Egyptians interacted with their southern neighbors frequently. Did any aspects of Nekau’s relationship with the Royal Court surprise you? 
-
-18. Why did Meryt-Neith call Nubiti to her death bed? 
-
-19. What did Meryt-Neith mean on her death bed when she said to Nubiti: 
-
-“It is alright. I have seen it. All is forgiven.”
+With this in mind, I hope that you enjoy The First Dynasty Series. I look forward to your comments. 

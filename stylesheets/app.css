@@ -4225,7 +4225,7 @@ img {
 
 /* line 58, ../sass/app.scss */
 a {
-  color: #e1a100;
+  color: #ff6300;
   -webkit-transition: color 0.5s;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
@@ -4233,7 +4233,7 @@ a {
 }
 /* line 60, ../sass/app.scss */
 a:hover {
-  color: #bf7f00;
+  color: #dd4100;
 }
 
 /* line 66, ../sass/app.scss */
@@ -4246,7 +4246,7 @@ a:hover {
 }
 /* line 68, ../sass/app.scss */
 .orbit-caption a:hover {
-  color: #e1a100;
+  color: #ff6300;
 }
 
 /* line 74, ../sass/app.scss */
@@ -4281,7 +4281,7 @@ blockquote cite {
 }
 /* line 97, ../sass/app.scss */
 #header h1 {
-  color: #e1a100;
+  color: #ff6300;
 }
 /* line 100, ../sass/app.scss */
 #header img {
@@ -4318,7 +4318,7 @@ blockquote cite {
 }
 /* line 124, ../sass/app.scss */
 #nav a:hover, #nav li:hover {
-  color: #e1a100;
+  color: #ff6300;
 }
 /* line 129, ../sass/app.scss */
 #nav li {
@@ -4332,7 +4332,7 @@ blockquote cite {
 }
 /* line 136, ../sass/app.scss */
 #nav li a:hover {
-  color: #e1a100;
+  color: #ff6300;
 }
 
 /* line 153, ../sass/app.scss */
