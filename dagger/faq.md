@@ -26,11 +26,13 @@ I also did a great deal of reading and Internet research, corresponding with exp
 I'm an inveterate researcher and have to stop myself at some point in order to actually start writing.
 
 **Was Meryt-Neith real?**
+
 Most definitely so. She was real and respected. Her tomb is placed in such a way as to have access to a holy rift between two small desert mountains. This rift was considered a divine passage to the next life. 
 
 Meryt-Neith ruled for about 17 years, until her son was old enough to become King in his own right. 
 
 **Was Wadjet (Djet) real?**
+
 Yes. He is recorded as a First Dynasty King and was buried in a tomb in Abydos. We also know his reign was short-lived and that Meryt-Neith succeeded him. The line of succession was Narmer, Hor-Aha, Djer (Wadjer), Djet (Wadjet), Meryt-Neith, Den (Wadjden). 
 
 **What about Nubiti and Bakht?**
@@ -40,6 +42,10 @@ Novelists have to conjure up characters to challenge our protagonists and spur t
 **Surely Herihor was real?**
 
 Yes, no and maybe. It is certainly likely that all the early kings had a military chief to take care of armed struggles. This role became more formalized as Egypt matured. So, I extrapolated back from what we know from the historical record in later dynasties to my creation of the Herihor character. 
+
+**Did women really enjoy certain right sin ancient Egypt?**
+
+That is absolutely true. Even from early times women had the right to initiate divorce, to run their own businesses, to inherit and disburse their assets. And these are only some of the rights enjoyed by women. That is not to say that women were viewed as equal to men, but they did have certain basic protections and legal rights. 
 
 
 **More questions?**

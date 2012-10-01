@@ -9,7 +9,7 @@ I guess one could make a case that I am professionally schizophrenic. There are 
 
 ## Fiction Writing
 
-There is nothing like a well-spun yarn. Ever since I was a child I would spend hours, alone in my room, wandering through the magical worlds created by the likes of Jules Verne, Robert Heinlein, John Steinbeck. After winning a 5th grade writing contest, I swore that one day I would be a writer. 
+![Les Picker](/images/les.jpg)There is nothing like a well-spun yarn. Ever since I was a child I would spend hours, alone in my room, wandering through the magical worlds created by the likes of Jules Verne, Robert Heinlein, John Steinbeck. After winning a 5th grade writing contest, I swore that one day I would be a writer. 
 
 So far I have written and published four novels, each of which is described on other web pages within this site. Two of my novels are part of what will eventually be a trilogy, about the First Dynasty of ancient Egypt. 
 

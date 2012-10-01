@@ -1,11 +1,10 @@
 ---
 layout: page
-title: The Dagger of Isis - Reader Guide
+title: The Dagger of Isis Reader Guide
 comments: false
 ---
 # The Dagger of Isis
-
-## Readers' Guide
+### Readers' Guide
 
 1. Where does the title come from?
 
@@ -23,17 +22,9 @@ comments: false
 
 8. The mid-East even today is riven by tribal loyalties and conflicts. Much of that cultural influence dates back to the time before Meryt-Neith. How does Bakht’s priesthood reinforce that tribal culture?
 
-9. In the preface, Nubiti says: 
+9. In the preface, Nubiti says: "Anubis, I am Nubiti, half-sister of King Wadjet and daughter of Shepsit and King Djer. Before your scales I swear that my heart is light as a feather. Before you lay the scrolls of my life as told to my scribes. Please do not judge Meryt-Neith’s actions harshly. Allow my sister to visit with me in the Afterlife. My words are Truth." Does this reveal anything about Nubiti’s character?
 
-"Anubis, I am Nubiti, half-sister of King Wadjet and daughter of Shepsit and King Djer. Before your scales I swear that my heart is light as a feather. Before you lay the scrolls of my life as told to my scribes. Please do not judge Meryt-Neith’s actions harshly. Allow my sister to visit with me in the Afterlife. My words are Truth."  
-
-Does this reveal anything about Nubiti’s character?
-
-10. In the preface, Meryt-Neith says: 
-
-"I am Meryt-Neith, Queen of the Two Lands, loyal wife of King Wadjet and mother of King Den, son of King Wadjet, son of King Djer, son of King Hor-Aha, son of the god-King Narmer. I swear before you, Anubis, that these scrolls are the True Telling of My Life. I was a good niece, a good wife and good mother. I was the caretaker of our beloved Kem until my son, King Den, came of age. I beg you to be lenient toward the sins of my sister, Nubiti, so that she may enjoy the rewards of the Afterlife. I await your judgment." 
-
-What does this reveal about Meryt-Neith’s character? 
+10. In the preface, Meryt-Neith says: "I am Meryt-Neith, Queen of the Two Lands, loyal wife of King Wadjet and mother of King Den, son of King Wadjet, son of King Djer, son of King Hor-Aha, son of the god-King Narmer. I swear before you, Anubis, that these scrolls are the True Telling of My Life. I was a good niece, a good wife and good mother. I was the caretaker of our beloved Kem until my son, King Den, came of age. I beg you to be lenient toward the sins of my sister, Nubiti, so that she may enjoy the rewards of the Afterlife. I await your judgment." What does this reveal about Meryt-Neith’s character? 
 
 11. Who was responsible for the tragedy of Meryt-Neith’s and Ti-Ameny’s relationship?
 
@@ -51,6 +42,4 @@ What does this reveal about Meryt-Neith’s character?
 
 18. Why did Meryt-Neith call Nubiti to her death bed? 
 
-19. What did Meryt-Neith mean on her death bed when she said to Nubiti: 
-
-“It is alright. I have seen it. All is forgiven.”
+19. What did Meryt-Neith mean on her death bed when she said to Nubiti: “It is alright. I have seen it. All is forgiven.”

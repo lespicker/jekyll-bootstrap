@@ -5,7 +5,7 @@ comments: false
 ---
 # The Dagger of Isis
 
-## The Backstory
+### The Backstory
 
 As I researched [**The First Pharaoh**](/pharaoh/), the opening novel in The First Dynasty Series, I became aware of another amazing story. It turned out that, much to my surprise, there was a woman Pharaoh (although they were actually called kings in those early days).This first woman pharaoh reigned early in the First Dynasty and she was so highly respected she was given a burial place of high honor overlooking a sacred desert mountain pass. I made a casual note to maybe come back to this story at a later time. 
 
@@ -15,7 +15,7 @@ In **The Dagger of Isis**, Book II of the The First Dynasty Series, I trace the 
 
 From her marriage to King Wadjet to her eventual coronation after his death, The Dagger of Isis is a tale woven of intrigue and betrayal. From her carefree youth, the book follows Meryt-Neith's unlikely ascension to the throne, the wars she fought to defend the Two Lands, and the loves that gave meaning to her life. This saga takes us on a journey throughout ancient Egypt and into nearby lands, as Meryt-Neith struggles against her evil cousin, Nubiti, the Head Priestess of the Temple of Isis, to bring honor to her family's dynasty.
 
-## The Research
+### The Research
 
 My research for **The Dagger of Isis** was really started with the first book in the series, **The First Pharaoh**. By the time I sat down to write that novel I was immersed in the history, customs, culture, foods and medical practices of ancient Egypt circa 3,150 BC. I also felt that I understood the improtance of dynasty to the population and how that the dynastic tradition defined the ruling class of this great society. 
 
@@ -23,7 +23,7 @@ And so, my research for **The Dagger of Isis** was confined to whatever I could 
 
 In a way that allowed me a bit more flexibility in writing **The Dagger of Isis**. Most Egyptologists believe that Meryt-Neith served as regent for her son, although we do not know the circumstances that brought that about. The best guesses from various sources also indicate that Meryt-Neith ruled for approximately 17 years. In those details I stuck to the factual storyline. 
 
-## Spinning the Yarn
+### Spinning the Yarn
 
 Writing **The Dagger of Isis** was pure joy, for many reasons. First, I love a strong protagonist and the fact that my protagonist was a woman gave it extra special cache to me. I also knew that I would need an equally strong antagonist, and I think I found her in Nubiti (and her henchman, Bakht). It took me about seven months to spin the yarn into a first draft, but several more months to take it through several revisions. 
 

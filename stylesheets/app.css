@@ -4225,7 +4225,7 @@ img {
 
 /* line 58, ../sass/app.scss */
 a {
-  color: #ff6300;
+  color: #710300;
   -webkit-transition: color 0.5s;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
@@ -4233,10 +4233,16 @@ a {
 }
 /* line 60, ../sass/app.scss */
 a:hover {
-  color: #dd4100;
+  color: #932517;
 }
 
 /* line 66, ../sass/app.scss */
+h1 {
+  font-size: 37px;
+  text-align: center;
+}
+
+/* line 71, ../sass/app.scss */
 .orbit-caption a {
   color: #999999;
   -webkit-transition: color 0.5s;
@@ -4244,17 +4250,17 @@ a:hover {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 68, ../sass/app.scss */
+/* line 73, ../sass/app.scss */
 .orbit-caption a:hover {
-  color: #ff6300;
+  color: #932517;
 }
 
-/* line 74, ../sass/app.scss */
+/* line 79, ../sass/app.scss */
 blockquote cite {
   font-size: 23px;
 }
 
-/* line 78, ../sass/app.scss */
+/* line 83, ../sass/app.scss */
 #container {
   width: 1000px;
   max-width: 100%;
@@ -4262,51 +4268,51 @@ blockquote cite {
   margin: 0 auto;
 }
 
-/* line 82, ../sass/app.scss */
+/* line 87, ../sass/app.scss */
 #top-row {
   margin: 0 -15px;
   margin-top: 8em;
 }
 
-/* line 87, ../sass/app.scss */
+/* line 92, ../sass/app.scss */
 #header {
   margin-left: 8.33333%;
   padding: 0;
   width: 83.33333%;
   margin-top: 2em;
 }
-/* line 94, ../sass/app.scss */
+/* line 99, ../sass/app.scss */
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
   display: inline;
 }
-/* line 97, ../sass/app.scss */
+/* line 102, ../sass/app.scss */
 #header h1 {
-  color: #ff6300;
+  color: #932517;
 }
-/* line 100, ../sass/app.scss */
+/* line 105, ../sass/app.scss */
 #header img {
   display: inline;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 107, ../sass/app.scss */
+/* line 112, ../sass/app.scss */
 #nav-block {
   display: inline-block;
   padding-left: 2em;
-  margin-top: 1em;
+  margin-top: .5em;
   vertical-align: top;
 }
 
-/* line 115, ../sass/app.scss */
+/* line 120, ../sass/app.scss */
 #nav {
   display: inline-block;
 }
-/* line 117, ../sass/app.scss */
+/* line 122, ../sass/app.scss */
 #nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
   font-size: 17px;
 }
-/* line 120, ../sass/app.scss */
+/* line 125, ../sass/app.scss */
 #nav a, #nav li {
   display: inline;
   text-align: center;
@@ -4316,49 +4322,53 @@ blockquote cite {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 124, ../sass/app.scss */
-#nav a:hover, #nav li:hover {
-  color: #ff6300;
-}
 /* line 129, ../sass/app.scss */
+#nav a:hover, #nav li:hover {
+  color: #932517;
+}
+/* line 134, ../sass/app.scss */
 #nav li {
   font-family: "trajan-sans-pro", "trajan-sans-pro", Helvetica, Arial, sans-serif;
   font-size: 17px;
   padding-left: 1em;
 }
-/* line 134, ../sass/app.scss */
+/* line 139, ../sass/app.scss */
 #nav li a {
   color: #222222;
 }
-/* line 136, ../sass/app.scss */
+/* line 141, ../sass/app.scss */
 #nav li a:hover {
-  color: #ff6300;
+  color: #932517;
 }
 
-/* line 153, ../sass/app.scss */
+/* line 158, ../sass/app.scss */
 #content {
   margin-left: 8.33333%;
   width: 83.33333%;
 }
-/* line 156, ../sass/app.scss */
-#content p, #content blockquote {
+/* line 161, ../sass/app.scss */
+#content p, #content blockquote, #content li {
   font-size: 17px;
 }
-/* line 159, ../sass/app.scss */
+/* line 164, ../sass/app.scss */
 #content p.ms-zero {
   font-size: 14px;
 }
-/* line 162, ../sass/app.scss */
+/* line 167, ../sass/app.scss */
 #content p.ms-one {
   font-size: 17px;
 }
-/* line 165, ../sass/app.scss */
+/* line 170, ../sass/app.scss */
 #content p.ms-two {
   font-size: 23px;
 }
-/* line 168, ../sass/app.scss */
+/* line 173, ../sass/app.scss */
 #content cite {
   font-size: 23px;
+}
+/* line 176, ../sass/app.scss */
+#content ul {
+  list-style-type: square;
 }
 
 /*
@@ -4404,28 +4414,28 @@ blockquote cite {
 	@include column(4);
 }
 */
-/* line 218, ../sass/app.scss */
+/* line 226, ../sass/app.scss */
 #archive ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 222, ../sass/app.scss */
+/* line 230, ../sass/app.scss */
 #archive li {
   font-size: 17px;
 }
 
-/* line 227, ../sass/app.scss */
+/* line 235, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 232, ../sass/app.scss */
+/* line 240, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
 }
 
-/* line 236, ../sass/app.scss */
+/* line 244, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "trajan-sans-pro", "trajan-sans-pro", Helvetica, Arial, sans-serif !important;

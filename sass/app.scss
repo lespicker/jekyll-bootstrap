@@ -44,8 +44,7 @@
 // @import "foundation/components/modules/reveal";
 // @import "foundation/components/modules/offcanvas";
 
-$highlightcolor: #ff6300;
-
+$highlightcolor: rgba(147,37,23,1);
 
 img{
 	margin-top: 0;
@@ -57,11 +56,16 @@ img{
 }
 
 a{
-	color: $highlightcolor;
+	color: $highlightcolor - #222;
 	&:hover{
-		color: $highlightcolor - #222;
+		color: $highlightcolor;
 	}
 	@include transition(color .5s);
+}
+
+h1{
+	font-size: ms(4);
+	text-align: center;
 }
 
 .orbit-caption a{
@@ -108,7 +112,7 @@ blockquote cite{
 #nav-block{
 	display: inline-block;
 	padding-left: 2em;
-	margin-top: 1em;
+	margin-top: .5em;
 	vertical-align: top;
 	//float: right;
 }
@@ -154,7 +158,7 @@ blockquote cite{
 #content{
 	@include offsetBy(1);
 	@include column(10);
-	p, blockquote{
+	p, blockquote, li{
 		font-size: ms(1);
 	}
 	p.ms-zero{
@@ -168,6 +172,9 @@ blockquote cite{
 	}
 	cite {
 		font-size: ms(2);
+	}
+	ul{
+		list-style-type: square;
 	}
 }
 

@@ -3,13 +3,7 @@ layout: page
 title: Lester Picker
 comments: false
 ---
-###The Dagger Of Isis
-
-[![The Dagger of Isis](images/thumb/dagger.jpg)](/dagger/) Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-###The First Pharaoh
+### The First Pharaoh
 
 [![The First Pharaoh](images/thumb/pharaoh.jpg)](/pharaoh/) Throughout antiquity Egypt was a land of hundreds of tiny  villages, with constantly warring tribes, loosely divided between Upper and Lower Egypt. Then, in the space of a few extraordinary decades, the impossible happened. An incredible man, King Narmer (also known as Menes), united Upper and Lower Egypt. 
 
@@ -18,3 +12,10 @@ The First Pharaoh is the story of Narmer and his epic journey, seen through his 
 Written on a huge tapestry, The First Pharaoh allows us to share Narmer’s far-reaching visions for Egypt’s future that were so compelling and that ultimately proved so enduring. The First Pharaoh tells the inspiring story of the mythic journey of the visionary hero, through obstacles and triumphs, wars and peace, love and hate, to launch the greatest civilization ever to appear on earth.
 
 ---
+
+### The Dagger Of Isis
+
+[![The Dagger of Isis](images/thumb/dagger.jpg)](/dagger/) Dangers lurk for the first woman Pharaoh. The Dagger of Isis, Book II of the The First Dynasty Series, traces the life of Meryt-Neith, the first female ruler of a united Egypt. From her marriage to King Wadjet to her eventual coronation after his death, this tale of intrigue and betrayal follows her ascension, the wars she fought and the loves that gave meaning to her life. This saga takes us on a journey throughout ancient Egypt and into nearby lands, as Meryt-Neith struggles against her cousin, Nubiti, the Head Priestess of the Temple of Isis, to bring honor to her family's dynasty.
+
+---
+

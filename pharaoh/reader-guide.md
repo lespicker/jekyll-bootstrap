@@ -1,12 +1,11 @@
 ---
 layout: page
-title: The First Pharaoh - FAQ
+title: The First Pharaoh Reader Guide
 comments: false
 ---
-
 # The First Pharaoh
 
-## Readers' Discussion Guide
+### Readers' Discussion Guide
 
 
 1. The First Pharaoh is set in approximately 3,150 BC. By then Egypt was already an advanced civilization. What aspects of early ancient Egypt culture surprised you?
