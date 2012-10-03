@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: page-side
 title: The Dagger of Isis
 comments: false
+thumb: /images/thumb/dagger.jpg
+guide: /dagger/reader-guide.html
+faq: /dagger/faq.html
 ---
-# The Dagger of Isis
-
 ### The Backstory
 
 As I researched [**The First Pharaoh**](/pharaoh/), the opening novel in The First Dynasty Series, I became aware of another amazing story. It turned out that, much to my surprise, there was a woman Pharaoh (although they were actually called kings in those early days).This first woman pharaoh reigned early in the First Dynasty and she was so highly respected she was given a burial place of high honor overlooking a sacred desert mountain pass. I made a casual note to maybe come back to this story at a later time. 

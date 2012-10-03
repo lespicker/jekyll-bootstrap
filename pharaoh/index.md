@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: page-side
 title: The First Pharaoh
 comments: false
+thumb: /images/thumb/pharaoh.jpg
+guide: /pharaoh/reader-guide.html
+faq: /pharaoh/faq.html
 ---
-# The First Pharaoh
-
 ### The Backstory
 
 Writing **The First Pharaoh** fulfilled a lifelong dream of mine. As a child, my father would take me at least once a year to the Metropolitan Museum of Art in New York City. For some reason I was fascinated by the Egyptian wing, although we'd also spend some time at the Medieval knights display. 
