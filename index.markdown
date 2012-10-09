@@ -3,6 +3,12 @@ layout: page
 title: Lester Picker
 comments: false
 ---
+First, welcome and thank you for visiting my website. I hope you'll find it engaging. I highly value the opinions and suggestions of my readers, so please ask questions and leave comments. I look forward to corresponding with you. 
+
+For more information, just click on the image of a book and you will be linked to a page that gives more in-depth information as well as Reader's Guides, Frequently Asked Questions, News, and other information. 
+
+___
+
 ### The First Pharaoh
 
 [![The First Pharaoh](images/thumb/pharaoh.jpg)](/pharaoh/) Throughout antiquity Egypt was a land of hundreds of tiny  villages, with constantly warring tribes, loosely divided between Upper and Lower Egypt. Then, in the space of a few extraordinary decades, the impossible happened. An incredible man, King Narmer (also known as Menes), united Upper and Lower Egypt. 
@@ -16,6 +22,8 @@ Written on a huge tapestry, The First Pharaoh allows us to share Narmer’s far-
 ### The Dagger Of Isis
 
 [![The Dagger of Isis](images/thumb/dagger.jpg)](/dagger/) Dangers lurk for the first woman Pharaoh. The Dagger of Isis, Book II of the The First Dynasty Series, traces the life of Meryt-Neith, the first female ruler of a united Egypt. From her marriage to King Wadjet to her eventual coronation after his death, this tale of intrigue and betrayal follows her ascension, the wars she fought and the loves that gave meaning to her life. This saga takes us on a journey throughout ancient Egypt and into nearby lands, as Meryt-Neith struggles against her cousin, Nubiti, the Head Priestess of the Temple of Isis, to bring honor to her family's dynasty.
+
+[Book III](http://www.lesterpicker.com/2012/10/06/third-book/) of The First Dynasty Series will be available in 2013. 
 
 ---
 

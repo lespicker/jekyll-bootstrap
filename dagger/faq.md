@@ -47,6 +47,27 @@ Yes, no and maybe. It is certainly likely that all the early kings had a militar
 
 That is absolutely true. Even from early times women had the right to initiate divorce, to run their own businesses, to inherit and disburse their assets. And these are only some of the rights enjoyed by women. That is not to say that women were viewed as equal to men, but they did have certain basic protections and legal rights. 
 
+**I'd like to learn more about the First Dynasty period. Can you recommend some books and/or articles?**
+
+For those of you bitten by the bug that is ancient Egypt, I can assure you there is no cure. However, I recommend the following books as a starting point if you want to delve deeper into the topic.
+
+Early Dynastic Egypt by Toby A. H. Wilkinson (Routledge, 1999).
+
+Genesis of the Pharaohs by Toby Wilkinson (Thames & Hudson, 2003).
+
+What Life Was Like On The Banks of the Nile by The Editors (Time-Life Books, undated).
+
+Egypt Before the Pharaohs by Michael A. Hoffman (Barnes & Noble Books, 1993). 
+
+Chronicles of the Pharaohs by Peter A. Clayton (Thames & Hudson, 1994). 
+
+Bedouin Life in the Egyptian Wilderness by Joseph J. Hobbs (University of Texas Press, 1989).
+
+Egyptian Women of the Old Kingdom by Henry George Fischer (The Metropolitan museum of Art, 1989).
+
+I welcome your suggestions of other books to add to this list. Please write to me with the full citation. Please indicate if you wish me to use your name as the referring source. 
+
+---
 
 **More questions?**
 

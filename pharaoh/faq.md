@@ -56,6 +56,26 @@ Perhaps. We cannot be sure about all of them. We now know with certainty that Ki
 
 My research and my personal beliefs are that Judaism as a defined religion appeared much later in history and, in fact, is indebted to Egypt for many of its beliefs and traditions. From circumcision, death rituals, dietary restrictions, and many other practices, one can clearly see the influence of ancient Egyptian culture on Jewish practices. However, for this story I extrapolated that there may have been semitic nomads even in earliest times that believed in a single God. 
 
+**I'd like to learn more about the First Dynasty period. Can you recommend some books and/or articles?**
+
+For those of you bitten by the bug that is ancient Egypt, I can assure you there is no cure. However, I recommend the following books as a starting point if you want to delve deeper into the topic.
+
+Early Dynastic Egypt by Toby A. H. Wilkinson (Routledge, 1999).
+
+Genesis of the Pharaohs by Toby Wilkinson (Thames & Hudson, 2003).
+
+What Life Was Like On The Banks of the Nile by The Editors (Time-Life Books, undated).
+
+Egypt Before the Pharaohs by Michael A. Hoffman (Barnes & Noble Books, 1993). 
+
+Chronicles of the Pharaohs by Peter A. Clayton (Thames & Hudson, 1994). 
+
+Bedouin Life in the Egyptian Wilderness by Joseph J. Hobbs (University of Texas Press, 1989).
+
+Egyptian Women of the Old Kingdom by Henry George Fischer (The Metropolitan museum of Art, 1989).
+
+I welcome your suggestions of other books to add to this list. Please write to me with the full citation. Please indicate if you wish me to use your name as the referring source. 
+
 ---
 
 If you have more questions concerning **The First Pharaoh** please write to me so that I may include them in the FAQ section. 
