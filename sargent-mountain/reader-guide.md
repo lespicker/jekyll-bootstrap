@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Sargent Mountain Readers' Guide
+title: Sargent Mountain Reader Guide
 comments: false
 ---
-## Sargent Mountain
-## Readers' Guide
+# Sargent Mountain
+
+### Readers' Guide
 
 1. How do the chapter beginning descriptions of the natural events on top of Sargent Mountain relate to the story?
 
@@ -42,7 +43,7 @@ comments: false
 
 18. In her final communication with Rose, Ellen wrote:
 
-“… personally I do not believe in accidents. I think things happen for a reason, for a higher purpose, even though we may not understand what they are at the moment. I’d like to believe that the sweatshirt is another symbol of how we are connected, how John provided comfort for us both.”
+>… personally I do not believe in accidents. I think things happen for a reason, for a higher purpose, even though we may not understand what they are at the moment. I’d like to believe that the sweatshirt is another symbol of how we are connected, how John provided comfort for us both.
 
 19. Was Ellen correct in her assessment of how she and Rose were connected? Did John, indeed, provide comfort for them both?
 

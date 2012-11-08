@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: page-side
 title: Sargent Mountain
 comments: false
+thumb: /images/thumb/sargentmountain.png
+guide: /sargent-mountain/reader-guide.html
+faq: /sargent-mountain/faq.html
 ---
-# Sargent Mountain
-
-## The Backstory
+### The Backstory
 
 It was painful time for me. My mother had just passed away, one of my businesses was rapidly heading south, and I was going through a painful divorce (is there any other kind?). 
 
@@ -13,7 +14,7 @@ Those life circumstances forced me to spend time on the road, caring for a dying
 
 Even thinking was difficult, but eventually I did what writers do; I turned to my writing and a story line began to crystallize from the fog. I thought a lot about what family means, about loss, about what might have been. And slowly, the threads of **Sargent Mountain** began to weave themselves into a tapestry that made sense. 
 
-## True Life?
+### True Life?
 
 Readers often wonder how much of a story is autobiographical. I can say that while much of **Sargent Mountain** is based on my own experiences, the storyline itself is fabricated. Yes, I lived in Maine for ten years and know Acadia National Park well, since some of my ecology doctoral research was done there. I also lived on a farm in Maryland, where much of the story takes place. I also raised two biological children and two stepchildren and as families we spent much time in Maine. 
 
@@ -21,7 +22,7 @@ But the story I felt compelled to tell in **Sargent Mountain** was about family,
 
 People often ask wether I realize that Sargent is misspelled. It's not. Sargent Mountain is the name of the second tallest peak in Acadia National Park and it is named after the Sargent family. 
 
-## Some Interesting Facts
+### Some Interesting Facts
 
 Sargent Mountain is the second highest peak in Acadia National Park at 1,373 feet. Cadillac Mountain is the highest at 1,530 feet. Cadillac is the only mountain in Acadia that has a road going to the summit.
 

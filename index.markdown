@@ -27,3 +27,8 @@ Written on a huge tapestry, The First Pharaoh allows us to share Narmer’s far-
 
 ---
 
+### Sargent Mountain
+
+[![sargent-mountain](images/thumb/sargentmountain.png)](/sargent-mountain/)What does a rural housewife and mother do when she learns, while still mourning the death of her husband, that he had been unfaithful for fully half of their twenty year marriage? Worse yet, his affair was with a woman as seemingly opposite to the protagonist as any two people could be. 
+
+**Sargent Mountain** explores the wounds of betrayal, the painful process of healing, and the many meanings of love. 
