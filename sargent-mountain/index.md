@@ -8,7 +8,7 @@ faq: /sargent-mountain/faq.html
 ---
 ### The Backstory
 
-It was painful time for me. My mother had just passed away, one of my businesses was rapidly heading south, and I was going through a painful divorce (is there any other kind?). 
+It was a painful time for me. My mother had just passed away, one of my businesses was rapidly heading south, and I was going through a painful divorce (is there any other kind?). 
 
 Those life circumstances forced me to spend time on the road, caring for a dying mother, and in the office, rescuing my publishing business. It also gave me lots of time alone to think.
 
