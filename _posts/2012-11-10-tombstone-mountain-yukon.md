@@ -2,6 +2,7 @@
 layout: post
 title: Storm over Tombstone Valley
 category: print
+Featured
 comments: false
 ---
 {% img /images/LAP1377.jpg %}
