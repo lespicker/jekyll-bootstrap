@@ -44,7 +44,7 @@
 // @import "foundation/components/modules/reveal";
 // @import "foundation/components/modules/offcanvas";
 
-$highlightcolor: #2e4f80;
+$highlightcolor: #b90303;
 
 img{
 	margin-top: 1em;
@@ -224,6 +224,11 @@ blockquote cite{
 
 .slider-wrapper.theme-light{
 	padding: 0 !important;
+	margin: 0 !important;
+	img{
+		padding: 0 !important;
+		margin: 0 !important;
+	}
 }
 
 .theme-light .nivo-caption{

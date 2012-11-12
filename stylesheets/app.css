@@ -4221,7 +4221,7 @@ img {
 
 /* line 54, ../sass/app.scss */
 a {
-  color: #2e4f80;
+  color: #b90303;
   -webkit-transition: color 0.5s;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
@@ -4229,7 +4229,7 @@ a {
 }
 /* line 56, ../sass/app.scss */
 a:hover {
-  color: #0c2d5e;
+  color: #970000;
 }
 
 /* line 62, ../sass/app.scss */
@@ -4242,7 +4242,7 @@ a:hover {
 }
 /* line 64, ../sass/app.scss */
 .orbit-caption a:hover {
-  color: #2e4f80;
+  color: #b90303;
 }
 
 /* line 70, ../sass/app.scss */
@@ -4278,7 +4278,7 @@ blockquote cite {
 }
 /* line 92, ../sass/app.scss */
 #header h1 {
-  color: #2e4f80;
+  color: #b90303;
 }
 /* line 95, ../sass/app.scss */
 #header img {
@@ -4315,7 +4315,7 @@ blockquote cite {
 }
 /* line 119, ../sass/app.scss */
 #nav a:hover, #nav li:hover {
-  color: #2e4f80;
+  color: #b90303;
 }
 /* line 124, ../sass/app.scss */
 #nav li {
@@ -4329,7 +4329,7 @@ blockquote cite {
 }
 /* line 131, ../sass/app.scss */
 #nav li a:hover {
-  color: #2e4f80;
+  color: #b90303;
 }
 
 /* line 148, ../sass/app.scss */
@@ -4427,9 +4427,15 @@ blockquote cite {
 /* line 225, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
+  margin: 0 !important;
+}
+/* line 228, ../sass/app.scss */
+.slider-wrapper.theme-light img {
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
-/* line 229, ../sass/app.scss */
+/* line 234, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;
