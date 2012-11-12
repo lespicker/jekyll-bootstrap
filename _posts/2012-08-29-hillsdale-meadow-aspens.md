@@ -2,7 +2,7 @@
 layout: post
 title: Hillsdale Meadow Aspens
 category: print
-featured
+- featured
 comments: false
 ---
 {% img /images/LAP2958.jpg %}
