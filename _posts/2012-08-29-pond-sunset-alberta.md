@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Pond Sunset
-category: print
+categories: 
+- print
 comments: false
 ---
 {% img /images/LAP3652.jpg %}

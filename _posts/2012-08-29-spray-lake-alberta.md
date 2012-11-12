@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Spray Lake 
-category: print
+categories: 
+- print
 comments: false
 ---
 {% img /images/LAP3823.jpg %}

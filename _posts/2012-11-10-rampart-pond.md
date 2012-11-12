@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Sunrise on Rampart Pond
-category: print
+categories: 
+- print
 comments: false
 ---
 {% img /images/LAP3080.jpg %}

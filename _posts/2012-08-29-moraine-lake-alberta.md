@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Moraine Lake
-category: print
+categories: 
+- print
 comments: false
 ---
 {% img /images/LAP2328.jpg %}

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Storm over Tombstone Valley
-category: print
+categories:
+- print
 - news
 comments: false
 ---
