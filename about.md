@@ -3,7 +3,7 @@ layout: page
 title: About Me
 comments: false
 ---
-## About Me
+# About Me
 
 I guess one could make a case that I am professionally schizophrenic. There are three sides of me: fiction writer, non-fiction writer, and photographer. 
 
@@ -39,5 +39,41 @@ To learn more about my photography or to purchase prints of my photographic imag
 
 I’m passionate about both my writing and photography and consider myself incredibly fortunate to earn a living doing what I love every day.
 
+
+## The Writing Life
+
+### Frequenty Asked Questions 
+
+**Did you always know you'd be a writer?**
+
+Actually, yes. I've been an avid reader since my earliest memories. In fifth grade a won a writing contest and from then on I was hooked. 
+
+**What is writing like for you?**
+
+It is pure joy and unbearable agony. I mostly love it, but there are aspects that I dislike. When I'm in the flow I want to write forever. When I'm out of the flow it's agonizing to get back in. 
+
+**How do you approach the task of writing?**
+
+As I do my research, I also begin to outline the story. I'm kind of anal in terms of organization, so I have to get my ducks in order before I can focus on the actual writing.
+
+I typically start with a two or three page outline of the book, more of an overview than a detailed description. I then begin to flesh it out, taking special care to develop my characters. I ask tons of questions of myself. How do they look (I often find photographic examples on the Internet)? How would they react to certain situations? What influenced their lives? 
+
+As I flesh out my characters story ideas begin to come to me. Some of them I jot down in my iPhone, others on scraps of paper or dictated as I drive. Pretty soon I have enough "flesh on the bones" to develop a chapter-by-chapter outline. From then on it's clear sailing, as I just write to the outline. 
+
+**What is the writing process like for you?**
+
+If by that you mean the mechanical stuff, then it's pretty routine. After breakfast and a pot of tea, I like to put in several solid hours focusing. I start by reviewing what I wrote the day before. Then I start churning out words. I don't self-edit much, there's always time later for that. Right now getting into the "groove" is the challenge. 
+
+As I write I find that my characters take on a life of their own. It often shocks or amuses me what they say. At other times I find that I am literally watching the scene as my characters interact. Soon the scene has played itself out and I hardly know what has happened. Many times I get emotionally involved in a scene and might feel my heart racing, or find myself laughing out loud or crying. Sometimes I write through lunch and don't realize until evening that I haven't eaten all day. 
+
+**What about your family? How do they react while you are in the midst of the writing process?**
+
+Great question. Mostly they are okay with it. My wife may interrupt with the stuff of life; grocery needs, picking up our granddaughter or taking out the trash. When I'm too distracted I let her know and she is really, really good with letting me be. 
+
+Other times I get so engrossed in what is happening to my characters I can hardly concentrate on anything else. Once, at a restaurant, my wife asked me what was wrong. I seemed so inattentive and far away. I told her that I was completely discombobulated because I had left my main character in the midst of a battle. She thoughtfully called for the waiter and we left soon afterwards. I wrote until 3:00 A.M. that night. 
+
+**What's next?**
+
+I'm currently working on the third and final book of **The First Dynasty** trilogy. Expect that in late 2013. In the meantime, if you have questions, please write to me. 
 
 
