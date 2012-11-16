@@ -19,3 +19,13 @@ Each print is separated by a sheet of fine vellum paper. The vellum interliners 
 ---
 
 As a finishing touch, we include a pair of white cotton gloves so that you will be able to enjoy Les' images again and again without risk of damaging fingerprints. Our goal is simply to provide you with a lifetime of viewing pleasure. 
+
+<ul>
+	{% for post in site.categories['box'] limit:5 %}
+		<li>
+			<a href="{{ post.url }}">
+				{{ post.title }}
+			</a>
+		</li>
+	{%  endfor %}
+</ul>
