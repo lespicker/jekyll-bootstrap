@@ -4,9 +4,9 @@ title: Residential Installations
 comments: false
 ---
 
-## Residential Installations
+## Residential Art Installations
 
-Whether is be decorating a child's play room with Les' wildlife images or creating an upscale ambience with Les' nature and landscape images, at Les Picker Fine Art Photography we offer the discerning home owner a truly customized solution.
+Whether is be decorating a child's play room with Les' wildlife images or creating an upscale ambience in your living areas with Les' nature and landscape images, at Les Picker Fine Art Photography we offer the discerning home owner a truly customized solution.
 
 Are you looking to redo a basement entertaining area? Allow us to add exciting, eye-popping, floor-to-ceiling durable wall coverings that will simply amaze your guests. 
 
