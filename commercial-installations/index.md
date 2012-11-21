@@ -6,6 +6,8 @@ comments: false
 
 ## Commercial Art Installations
 
+{% img /images/2012/11/Sinai0080.jpg %}
+
 At Les Picker Fine Art Photography we take great pride in transforming office, hospital, and corporate environments into luscious, visually exciting living spaces. Research has clearly shown the benefits of fine art images in promoting feelings of well-being. 
 
 We will never promote a one-size-fits-all approach to our valued clients. Instead we arrange an initial consultation where we discuss your needs and desired outcomes. We measure the available spaces and then propose a customized visual solution.  Whether it be planning an entire hospital's installation of calming naturescapes, or travel and cultural images for an international consulting company, we work with our clients to develop an individualized solution. We help you create the mood you desire, with an artful grouping of images and displays. 
@@ -29,6 +31,8 @@ We creatively mount our images on single- or double-framed plexiglass for a clea
 Aluminum prints are offered in brushed, glossy and matt finishes  to add a modern, sleek look to an installation. They are highly durable and can be mounted flat on a wall or with stand-offs to create a three-dimensional effect. 
 
 ### LED Backlit Panels
+
+{% img /images/2012/11/Sinai0213.jpg %}
 
 LED Backlit Panels offer the ultimate in trendy, arresting displays. A high graphic fabric is stretched over a frame and evenly backlit with LED lights to produce eye-popping images that visitors will not soon forget.
 

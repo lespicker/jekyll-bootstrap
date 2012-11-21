@@ -10,7 +10,7 @@ This 4-day workshop took place in October, 2012 in Maine's iconic Acadia Nationa
 
 {% img /images/2012/11/water-reflection-c-soderlund.jpg %}
 
-Sample photo from participant Carol Soderlund, who creatively used her zoom to isolate the colorful reflections of Jordan Pond. Other images from participates can be found [here](https://www.dropbox.com/sh/gph1ut53nadoqbo/xKw8tYu7uT). In order of appearance, left to right and top to bottom: Carol Soderlund, Tom Wilson, Lewis Rothman, David Soderlund, Lewis Rothman, Carol Soderlund)
+*Sample photo from participant Carol Soderlund, who creatively used her zoom to isolate the colorful reflections of Jordan Pond. Other images from participates can be found [here](https://www.dropbox.com/sh/gph1ut53nadoqbo/xKw8tYu7uT). In order of appearance, left to right and top to bottom: Carol Soderlund, Tom Wilson, Lewis Rothman, David Soderlund, Lewis Rothman, Carol Soderlund)*
 
 The workshop was offered through [Nikonians Academy](http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7), where I am on the faculty. Nine participants attended (the tenth had to miss due to a family medical emergency). 
 
@@ -43,3 +43,4 @@ Here are some comments from participants:
 
 > To sum up, this was a great experience! Mt. Desert Island and Acadia National Park in the fall are unbelievably beautiful, and Les Picker allowed us to take maximum advantage of our time there. I know that he is planning to offer this workshop again next year, and I can recommend it without reservation.<cite>Dave Soderlund, Ithaca, New York</cite>
 
+> This workshop was a special experience at multiple levels: image creation, learning, and in the case of this particular workshop enjoying the camaraderie of a diverse group of people that quickly bonded sharing their passion for photography and enjoying each others company.  Les Picker was the key to creating this experience   Les' in depth knowledge of Acadia enabled him to guide the group to a diverse set of sites on a off the beaten path, sunrise to sunset.  His gracious style in sharing his artistic and technical expertise set the tone for the group dynamics. Post shoot discussions were nicely balanced between a focus on developing an eye for the creative image and technical / practical tips and techniques.  Les' knowledge of the history and flora of Acadia enriched the experience.<cite>Thomas E. Wilson, North Sandwich, NH</cite>

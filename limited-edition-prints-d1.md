@@ -24,6 +24,16 @@ Each print is thoroughly dried, inspected and then hand signed and numbered by L
 
 Once the last print of a Limited Edition Print run is sold, it is retired from printing and will only be available on the secondary art market.
 
+<ul>
+	{% for post in site.categories['print'] limit:15 %}
+		<li>
+			<a href="{{ post.url }}">
+				{{ post.title }}
+			</a>
+		</li>
+	{%  endfor %}
+</ul>
+
 --- 
 
-Please note that Les is also an editorial photographer. Some of his Limited Edition Print images may be used in magazines or newspapers, which only serves to increase their value for the discriminating collector. 
+*Please note that Les is also an editorial photographer. Some of his Limited Edition Print images may appear in magazines or newspapers, which only serves to increase their value for the discriminating collector.* 

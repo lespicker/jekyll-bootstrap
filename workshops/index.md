@@ -26,9 +26,10 @@ At Les Picker Fine Art Photography, we offer two distinct varieties of workshops
 
 **Field Workshops**
 
-Les' field workshops last from two to nine days, depending on location. These intense workshops are structured to maximize field time.  Each evening there is a critique or instructional session designed to impart new skills, gain new perspectives and share participants' knowledge of and enthusiasm for photography. 
+Les' field workshops last from two to nine days, depending on location. These intense workshops are structured to maximize field time.  Some are offered through the [Nikonians Academy](http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7), where Les is on the faculty, while others are offered exclusively through Les Picker Fine Art Photography. Each evening there is a critique or instructional session designed to impart new skills, gain new perspectives and share participants' knowledge of and enthusiasm for photography. 
 
-Click here to view sample workshop itineraries.
+Locations include Acadia National Park (Maine, USA), New Mexico (USA), Yukon Territory (Canada), Sri Lanka, and other idyllic locations.
+
 
 **Field-Print Workshops**
 

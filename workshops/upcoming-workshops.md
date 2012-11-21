@@ -4,7 +4,8 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-### Sri Lanka: Culture & Wildlife, September 14-22, 2013
+### Sri Lanka: Culture & Wildlife 
+#### September 14-22, 2013
 
 {% img /images/2012/11/DSC_1881.jpg %}
 
@@ -14,9 +15,10 @@ This is a 9-day (8-night) exploration of the unparalleled photographic possibili
 
 Each morning we will embark on an adventure taking us from fog-shrouded tea plantations to cascading waterfalls, en route to photographing mountain sunsets. We will visit the country’s most picturesque temples and historical structures for architectural photos and opportunities to interact with Sri Lanka’s wonderful indigenous people. One of the highlights of the tour will be spending two days in famed Yalla National Park, which boasts the densest wild leopard population on earth, along with bull elephants, crocodiles, water buffalo, monkeys and an incredible variety of colorful birds. For more information and to register, [click here](). 
 
+---
 
-
-### [Acadia National Park, Maine: Fall Foliage (October 10-14, 2013)](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1057)
+### [Acadia National Park, Maine: Fall Foliage](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1057)
+#### October 10-14, 2013
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
@@ -26,5 +28,7 @@ Join me for a 4-day exploration of the exciting photographic possibilities in Ac
 
 Each morning we will embark on an adventure taking us to the fog-shrouded rocky coast or to photograph sunrise atop a mountain. We might hike a wooded path to capture sunlight streaking through mature pine forests, or photograph along one of Acadia’s picturesque fresh-water ponds.
 
+---
 
-### Acadia National Park, Maine: A Photography-Printing Workshop (October 18-20, 2013)
+### Acadia National Park, Maine: A Photography-Printing Workshop 
+#### October 18-20, 2013

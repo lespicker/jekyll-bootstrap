@@ -4357,85 +4357,89 @@ blockquote cite {
 #content cite {
   font-size: 23px;
 }
+/* line 166, ../sass/app.scss */
+#content li {
+  font-size: 17px;
+}
 
-/* line 168, ../sass/app.scss */
+/* line 171, ../sass/app.scss */
 #sidebar {
   right: 66.66667%;
   width: 25%;
 }
-/* line 171, ../sass/app.scss */
+/* line 174, ../sass/app.scss */
 #sidebar img {
   margin-top: 0.3em;
   margin-bottom: 1em;
 }
-/* line 175, ../sass/app.scss */
+/* line 178, ../sass/app.scss */
 #sidebar p {
   font-weight: 400;
 }
-/* line 178, ../sass/app.scss */
+/* line 181, ../sass/app.scss */
 #sidebar h3 {
   font-size: 17px;
   font-family: "anivers-sc";
   margin-bottom: 0;
 }
-/* line 183, ../sass/app.scss */
+/* line 186, ../sass/app.scss */
 #sidebar ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 189, ../sass/app.scss */
+/* line 192, ../sass/app.scss */
 #sidebar a {
   font-family: "chaparral-pro-web";
 }
 
-/* line 194, ../sass/app.scss */
+/* line 197, ../sass/app.scss */
 #bott-row {
   margin: 0 -15px;
 }
 
-/* line 198, ../sass/app.scss */
+/* line 201, ../sass/app.scss */
 #bott-1 {
   width: 33.33333%;
 }
 
-/* line 202, ../sass/app.scss */
+/* line 205, ../sass/app.scss */
 #bott-2 {
   width: 33.33333%;
 }
 
-/* line 206, ../sass/app.scss */
+/* line 209, ../sass/app.scss */
 #bott-3 {
   width: 33.33333%;
 }
 
-/* line 211, ../sass/app.scss */
+/* line 214, ../sass/app.scss */
 #archive ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 215, ../sass/app.scss */
+/* line 218, ../sass/app.scss */
 #archive li {
   font-size: 17px;
 }
 
-/* line 220, ../sass/app.scss */
+/* line 223, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 225, ../sass/app.scss */
+/* line 228, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
   margin: 0 !important;
 }
-/* line 228, ../sass/app.scss */
+/* line 231, ../sass/app.scss */
 .slider-wrapper.theme-light img {
   padding: 0 !important;
   margin: 0 !important;
 }
 
-/* line 234, ../sass/app.scss */
+/* line 237, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;
