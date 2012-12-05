@@ -16,6 +16,8 @@ We offer a wide variety of display options, including traditional framed prints,
 
 ### Museum-quality Traditional Prints
 
+{% img /images/2012/11/DSCF4757.jpg %}
+
 We print each of our images individually in our studio, using the finest printers, archival inks and museum-quality, archival papers. We work with a custom shop to frame the images, double-matted and covered with UV protective glass or plexiglass. The finished product adds even more depth to our fine art images.
 
 ### Limited Edition Prints
