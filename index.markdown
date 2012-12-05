@@ -40,3 +40,11 @@ On the anniversary of her husband's sudden and unexpected death, Rose hikes the 
 Unable to deal with this betrayal, Rose becomes obsessed with 'the other woman' and investigates. What she finds shocks her and rattles the foundation of her stable life. 
 
 **Sargent Mountain** explores the wounds of betrayal, the painful process of healing, and the many meanings of love. 
+
+---
+
+### The Underground
+
+[![The Underground](images/thumb/underground.jpg)](/the-underground/)Lisa is a New York Times reporter who was raised by her doting, if somewhat unusual, father in New York City. On his deathbed he reveals to Lisa that her mother was brutally murdered, sending Lisa off on a quest to uncover her roots.
+
+What Lisa finds challenges everything she thought she knew about her father, including his role in her mother's murder. Lisa traces her roots to a rural county far removed from her city home. What she learns during her journey are the true meanings of love, sacrifice and family. 

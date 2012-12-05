@@ -41,9 +41,7 @@ comments: false
 
 17. Was John ultimately a good man or were his weaknesses too strong for redemption? 
 
-18. In her final communication with Rose, Ellen wrote:
+18. In her final communication with Rose, Ellen wrote:<br><blockquote> personally I do not believe in accidents. I think things happen for a reason, for a higher purpose, even though we may not understand what they are at the moment. I’d like to believe that the sweatshirt is another symbol of how we are connected, how John provided comfort for us both.</blockquote>
 
->… personally I do not believe in accidents. I think things happen for a reason, for a higher purpose, even though we may not understand what they are at the moment. I’d like to believe that the sweatshirt is another symbol of how we are connected, how John provided comfort for us both.
-
-19. Was Ellen correct in her assessment of how she and Rose were connected? Did John, indeed, provide comfort for them both?
+Was Ellen correct in her assessment of how she and Rose were connected? Did John, indeed, provide comfort for them both?
 
