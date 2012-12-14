@@ -17,7 +17,7 @@ Folio Collection prints are then packaged in a heavy-duty art stock folio, with 
 
 Folios are an excellent way to begin investing in the art market and to experience Les Picker Fine Art print quality in a more intimate size. They are also a unique gift for valued clients, employees and advisors. Best of all, art-sensitive family members and friends will love a gift of Les' fine art photography. 
 
-Les also produces custom folios for corporate clients. Please contact us to discuss your individual needs. 
+Les also produces custom folios for corporate clients. Please contact us at (410) 942-0500 or via [email](mailto:lespicker@gmail.com) to discuss your individual needs. 
 
 Our current Folio Collections include:
 

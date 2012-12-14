@@ -1,5 +1,5 @@
 /* line 51, ../../../.rvm/gems/ruby-1.9.2-p290@compass/gems/zurb-foundation-3.0.9/scss/foundation/mixins/_semantic-grid.scss */
-.c-1, .c-2, .c-3, .c-4, .c-5, .c-6, .c-7, .c-8, .c-9, .c-10, .c-11, .c-12, #header, #content, #sidebar, #bott-1, #bott-2, #bott-3 {
+.c-1, .c-2, .c-3, .c-4, .c-5, .c-6, .c-7, .c-8, .c-9, .c-10, .c-11, .c-12, #header, #footer, #email, #phone, #addr, #content, #sidebar, #bott-1, #bott-2, #bott-3 {
   float: left;
 }
 
@@ -25,7 +25,7 @@
 }
 
 /* line 62, ../../../.rvm/gems/ruby-1.9.2-p290@compass/gems/zurb-foundation-3.0.9/scss/foundation/mixins/_semantic-grid.scss */
-.c-1, .c-2, .c-3, .c-4, .c-5, .c-6, .c-7, .c-8, .c-9, .c-10, .c-11, .c-12, #header, #content, #sidebar, #bott-1, #bott-2, #bott-3 {
+.c-1, .c-2, .c-3, .c-4, .c-5, .c-6, .c-7, .c-8, .c-9, .c-10, .c-11, .c-12, #header, #footer, #email, #phone, #addr, #content, #sidebar, #bott-1, #bott-2, #bott-3 {
   position: relative;
   min-height: 1px;
   padding: 0 15px;
@@ -4214,12 +4214,18 @@ p.vevent abbr {
 }
 
 /* line 49, ../sass/app.scss */
+figcaption {
+  text-align: right;
+  margin-top: -1em;
+}
+
+/* line 54, ../sass/app.scss */
 img {
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 54, ../sass/app.scss */
+/* line 59, ../sass/app.scss */
 a {
   color: #b90303;
   -webkit-transition: color 0.5s;
@@ -4227,12 +4233,12 @@ a {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 56, ../sass/app.scss */
+/* line 61, ../sass/app.scss */
 a:hover {
   color: #970000;
 }
 
-/* line 62, ../sass/app.scss */
+/* line 67, ../sass/app.scss */
 .orbit-caption a {
   color: #999999;
   -webkit-transition: color 0.5s;
@@ -4240,17 +4246,17 @@ a:hover {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 64, ../sass/app.scss */
+/* line 69, ../sass/app.scss */
 .orbit-caption a:hover {
   color: #b90303;
 }
 
-/* line 70, ../sass/app.scss */
+/* line 75, ../sass/app.scss */
 blockquote cite {
   font-size: 23px;
 }
 
-/* line 74, ../sass/app.scss */
+/* line 79, ../sass/app.scss */
 #container {
   width: 1000px;
   max-width: 100%;
@@ -4258,13 +4264,13 @@ blockquote cite {
   margin: 0 auto;
 }
 
-/* line 78, ../sass/app.scss */
+/* line 83, ../sass/app.scss */
 #top-row {
   margin: 0 -15px;
   margin-top: 8em;
 }
 
-/* line 83, ../sass/app.scss */
+/* line 88, ../sass/app.scss */
 #header {
   padding: 0;
   width: 100%;
@@ -4272,22 +4278,57 @@ blockquote cite {
   position: fixed;
   z-index: 999;
 }
-/* line 89, ../sass/app.scss */
+/* line 94, ../sass/app.scss */
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
   display: inline;
 }
-/* line 92, ../sass/app.scss */
+/* line 97, ../sass/app.scss */
 #header h1 {
   color: #b90303;
 }
-/* line 95, ../sass/app.scss */
+/* line 100, ../sass/app.scss */
 #header img {
   display: inline;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 102, ../sass/app.scss */
+/* line 107, ../sass/app.scss */
+#footer {
+  padding: 0;
+  width: 100%;
+  margin-top: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  border-top: 1px dashed #ddd;
+}
+/* line 113, ../sass/app.scss */
+#footer p {
+  font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+/* line 119, ../sass/app.scss */
+#email {
+  padding: 0;
+  width: 33.33333%;
+}
+
+/* line 123, ../sass/app.scss */
+#phone {
+  padding: 0;
+  width: 33.33333%;
+  text-align: center;
+}
+
+/* line 128, ../sass/app.scss */
+#addr {
+  padding: 0;
+  width: 33.33333%;
+  text-align: right;
+}
+
+/* line 133, ../sass/app.scss */
 #nav-block {
   display: inline-block;
   padding-left: 2em;
@@ -4295,15 +4336,15 @@ blockquote cite {
   vertical-align: top;
 }
 
-/* line 110, ../sass/app.scss */
+/* line 141, ../sass/app.scss */
 #nav {
   display: inline-block;
 }
-/* line 112, ../sass/app.scss */
+/* line 143, ../sass/app.scss */
 #nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
   font-size: 17px;
 }
-/* line 115, ../sass/app.scss */
+/* line 146, ../sass/app.scss */
 #nav a, #nav li {
   display: inline;
   text-align: center;
@@ -4313,133 +4354,133 @@ blockquote cite {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 119, ../sass/app.scss */
+/* line 150, ../sass/app.scss */
 #nav a:hover, #nav li:hover {
   color: #b90303;
 }
-/* line 124, ../sass/app.scss */
+/* line 155, ../sass/app.scss */
 #nav li {
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
   font-size: 17px;
   padding-left: 1em;
 }
-/* line 129, ../sass/app.scss */
+/* line 160, ../sass/app.scss */
 #nav li a {
   color: #222222;
 }
-/* line 131, ../sass/app.scss */
+/* line 162, ../sass/app.scss */
 #nav li a:hover {
   color: #b90303;
 }
 
-/* line 148, ../sass/app.scss */
+/* line 179, ../sass/app.scss */
 #content {
   left: 33.33333%;
   width: 66.66667%;
 }
-/* line 151, ../sass/app.scss */
+/* line 182, ../sass/app.scss */
 #content p, #content blockquote {
   font-size: 17px;
 }
-/* line 154, ../sass/app.scss */
+/* line 185, ../sass/app.scss */
 #content p.ms-zero {
   font-size: 14px;
 }
-/* line 157, ../sass/app.scss */
+/* line 188, ../sass/app.scss */
 #content p.ms-one {
   font-size: 17px;
 }
-/* line 160, ../sass/app.scss */
+/* line 191, ../sass/app.scss */
 #content p.ms-two {
   font-size: 23px;
 }
-/* line 163, ../sass/app.scss */
+/* line 194, ../sass/app.scss */
 #content cite {
   font-size: 23px;
 }
-/* line 166, ../sass/app.scss */
+/* line 197, ../sass/app.scss */
 #content li {
   font-size: 17px;
 }
 
-/* line 171, ../sass/app.scss */
+/* line 202, ../sass/app.scss */
 #sidebar {
   right: 66.66667%;
   width: 25%;
 }
-/* line 174, ../sass/app.scss */
+/* line 205, ../sass/app.scss */
 #sidebar img {
   margin-top: 0.3em;
   margin-bottom: 1em;
 }
-/* line 178, ../sass/app.scss */
+/* line 209, ../sass/app.scss */
 #sidebar p {
   font-weight: 400;
 }
-/* line 181, ../sass/app.scss */
+/* line 212, ../sass/app.scss */
 #sidebar h3 {
   font-size: 17px;
   font-family: "anivers-sc";
   margin-bottom: 0;
 }
-/* line 186, ../sass/app.scss */
+/* line 217, ../sass/app.scss */
 #sidebar ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 192, ../sass/app.scss */
+/* line 223, ../sass/app.scss */
 #sidebar a {
   font-family: "chaparral-pro-web";
 }
 
-/* line 197, ../sass/app.scss */
+/* line 228, ../sass/app.scss */
 #bott-row {
   margin: 0 -15px;
 }
 
-/* line 201, ../sass/app.scss */
+/* line 232, ../sass/app.scss */
 #bott-1 {
   width: 33.33333%;
 }
 
-/* line 205, ../sass/app.scss */
+/* line 236, ../sass/app.scss */
 #bott-2 {
   width: 33.33333%;
 }
 
-/* line 209, ../sass/app.scss */
+/* line 240, ../sass/app.scss */
 #bott-3 {
   width: 33.33333%;
 }
 
-/* line 214, ../sass/app.scss */
+/* line 245, ../sass/app.scss */
 #archive ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 218, ../sass/app.scss */
+/* line 249, ../sass/app.scss */
 #archive li {
   font-size: 17px;
 }
 
-/* line 223, ../sass/app.scss */
+/* line 254, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 228, ../sass/app.scss */
+/* line 259, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
   margin: 0 !important;
 }
-/* line 231, ../sass/app.scss */
+/* line 262, ../sass/app.scss */
 .slider-wrapper.theme-light img {
   padding: 0 !important;
   margin: 0 !important;
 }
 
-/* line 237, ../sass/app.scss */
+/* line 268, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;

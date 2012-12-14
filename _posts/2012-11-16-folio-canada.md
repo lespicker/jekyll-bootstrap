@@ -25,8 +25,8 @@ But I have come to know that there is a secret, magical land sitting on top of u
 
 One of the things I love about Canada is that, as a landscape artist, I don’t have to battle crowds to record the images I visualize. I can take my time surveying the area for the best vantage points, set up my tripod, and shoot, reposition and shoot again. Some of the images, in fact, took multiple visits before I was happy with the results.
 
-Each image in this Folio Collection was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please handle prints with the cotton gloves supplied and store them in the Folio at room temperatures. 
+Each image in this *Folio Collection* was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please store them in the Folio at room temperatures. 
 
-Periodically I issue other hand-printed Folio Collections. Please check back periodically for new releases. 
+The landscapes in this *Folio Collection* were recorded between 2007 and 2011 using digital capture on Nikon and Hasselblad professional equipment. 
 
-The landscapes in this folio were recorded between 2007 and 2011 using digital capture on Nikon professional equipment. 
+Periodically I issue other hand-printed *Folio Collections*. Please check back from time to time for new releases. If you are interested in purchasing this *Folio Collection* please click [here](http://shop.lesterpickerphoto.com/page/201).

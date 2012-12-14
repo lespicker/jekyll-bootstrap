@@ -47,3 +47,5 @@ We print our images on the highest quality backlit fabrics and synthetic materia
 <iframe src="http://player.vimeo.com/video/53699025?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/53699025">Wall Covering Installation</a> from <a href="http://vimeo.com/user4796650">Lester Picker</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 Are you looking for exceptional visual pizzazz for large wall coverage? Then our specialized wall coverings are perfect. We print in our studio on the best quality wall covering vinyl from Intelicoat Technologies, the finest manufacturer in the United States. We then double coat each strip to achieve utmost durability. We can install images as long as your wall runs. The video (above) shows a recent thirty-foot wall that we covered with one of Les' purpose-shot images of Baltimore Harbor. 
+
+To discuss your requirements, please contact us (410) 942-0500 or by [email](mailto:lespicker@gmail.com). 

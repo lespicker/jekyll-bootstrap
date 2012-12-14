@@ -5,7 +5,7 @@ categories:
 - print
 comments: false
 ---
-{% img /images/LAP3823.jpg %}
+{% img /images/LAP3823.jpg $1500. %}
 
 ---
 
@@ -14,3 +14,5 @@ I was alone in the Canadian Rockies, spending two glorious weeks photographing i
 The clouds hung low and were moving fast, sure signs of an approaching storm. As I looked north down the lake, what caught my eye was the contrast between the crystal clear water, rocks and the impending storm. Yet, and here is where I was taken in, the sun was able to tinge the distant clouds with a touch of pink. 
 
 I ran back to my car to retrieve my waders and kneeled in the water to get the rocks in the foreground the way I wanted. 
+
+To purchase this Limited Edition Print, please [click here](http://shop.lesterpickerphoto.com/page/504).

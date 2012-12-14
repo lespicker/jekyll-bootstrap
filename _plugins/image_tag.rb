@@ -39,10 +39,15 @@ module Jekyll
 
     def render(context)
       if @img
-        "<a href=\"#{@img['src']}\" class=\"lightview\" data-lightview-options=\"skin: \'mac\'\">\n" +
+        src = "<a href=\"#{@img['src']}\" class=\"lightview\" data-lightview-options=\"skin: \'mac\'\">\n" 
         #"<a href=\"#{@img['src']}\" class=\"lightview\">\n" +
-        "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>\n" +
-        "</a>"
+        src += "<figure>"
+        src += "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>\n"
+        src += "<figcaption>#{@img['title']}</figcaption>" if @img['title']
+        src += "</figure>"
+        src += "</a>"
+        
+        src
       else
         "Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | \"title text\" [\"alt text\"]] %}"
       end

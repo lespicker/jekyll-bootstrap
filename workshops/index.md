@@ -10,6 +10,8 @@ Les offers customized photo workshops for small groups of photographers. What di
 
 In Les' workshops there are never more than 10 participants and some workshops are limited to fewer. This allows him to devote quality time to each participant. 
 
+{% img /images/img5.jpg %}
+
 Les has won several honors for his teaching, first when he was chosen by his peers as one of Maine's Science Teachers of the Year. While teaching at the University of Delaware, he was named Best Undergraduate Teacher in his college. 
 
 Les' photography has been featured in many publications and shows. He was named Best Travel Photographer for 2011 by the prestigious Canada Northern Lights Award. His work decorates hospitals, offices and private homes. 
@@ -17,6 +19,8 @@ Les' photography has been featured in many publications and shows. He was named 
 Les believes in the learning-by-doing model. As much time as possible is spent in the field actually capturing images. Evening critiques and instruction are considered the highlight of Les' workshops by many participants. Les also photographs when his participants are not in direct need of his help. At times like those, participants are invited to watch, ask questions, and learn how Les solves photographic challenges in the field.  
 
 And, as Les' workshop participants have found, their association with Les lasts far beyond the workshop. Les follows the development of his participants, answering their photo questions, even meeting with them or inviting them on an unstructured shoot when he is in their area, long after the workshop ends. 
+
+{% img /images/LAP3080.jpg %}
 
 The places Les chooses for his workshops are as unique as is Les' instructional techniques. Acadia National Park? Not as most people know it! Les did his doctoral research here and knows places that only he can get to! The Yukon Territory? Les has been there many times and knows it so well his participants get to photograph places not available to tourists. Sri Lanka? Les' contacts make for a smooth tour that integrates wildlife, historic sites, landscapes and people into a travel package that will be the envy of your friends. And so it goes with workshops that Les elects to teach. 
 

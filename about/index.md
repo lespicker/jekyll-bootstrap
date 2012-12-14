@@ -1,10 +1,18 @@
 ---
 layout: page
-title: About Les
+title: About Les Picker Fine Art Photography
 ---
-## About Les Picker 
+## About Les Picker Fine Art Photography (LPFA)
 
-{% img images/les.jpg %}
+At LPFA our mission is to bring the beauty of nature to discriminating fine art collectors, corporations, institutions and private homes. We are committed to excellence in everything we do. We are equally committed to excellence in customer relations. As a small company we guarantee everything we sell with a simple promise: if you do not like your purchase for any reason, we will refund your money without question. All we ask is that you return the purchase (at your expense) in the condition in which it was received.
+
+We thank you for taking the time to peruse our site and we look forward to serving you as a client. 
+
+---
+
+### Les Picker
+
+{% img /images/les.jpg %}
 
 Les Picker has been photographing since the age of 11, when his father, an accomplished amateur photographer, bought him his first 35mm SLR film camera (a Minolta, btw). Les has since photographed for National Geographic Society publications and many other consumer and corporate magazines and newspapers. He has had more than 600 published articles in major national publications. He was a monthly columnist and features contributor to Oceans Magazine and a weekly columnist, Op-Ed contributor and features travel writer and photographer for The Baltimore Sun. Les shoots Hasselblad and Nikon equipment and is a member of Nikon Professional Services, Hasselblad Professionals, as well as the American Society of Journalists and Authors. 
 
@@ -15,3 +23,15 @@ Les has cruised on a nuclear attack submarine deep in the Pacific Ocean and has 
 Les was awarded the top prize in the prestigious Canada Northern Lights Award for 2011. 
 
 “I feel blessed to be able to write and photograph for a living,” Les says. “If my photographs help people better appreciate our natural world – and its fragility – then I feel I have accomplished a worthy life goal.”
+
+---
+
+### Robert Boyer
+
+{% img /images/LAP8645.jpg %}
+
+Bob is our in-house Master Printer and tech guru. Bob's extensive background in both commercial photography and technology is put to good use every day. For example, Bob developed this website, along with Les' [writing website](http://www.lesterpicker.com). 
+
+Bob handles all post-processing through printing. He produces our museum-quality prints, as well as wall coverings and other display options for clients. He is the interface between Les' artwork and commercial labs for specialty displays. 
+
+Finally, Bob manages all our computer operations, from techno purchases to equipment maintenance, systems design and programming. 

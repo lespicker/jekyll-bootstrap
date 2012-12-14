@@ -12,7 +12,7 @@ Portfolio boxes are an ideal and innovative way for discriminating collectors to
 
 ---
 
-Portfolio boxes consist of twelve, 8.5 by 11-inch images and are priced accordingly. Each image is printed on the finest museum-quality archival paper, using an Epson 9900 large format printer using Epson UltraChrome HDR archival inks. Both ink and paper are guaranteed to last a minimum of 100 years when the print is properly displayed. All printing is done in house by Master Printmaker Robert Boyer. 
+Portfolio boxes consist of twelve, 8.5 by 11-inch images. Each image is printed on the finest museum-quality archival paper, using an Epson 9900 large format printer using Epson UltraChrome HDR archival inks. Both ink and paper are guaranteed to last a minimum of 100 years when the print is properly displayed. All printing is done in house by Master Printmaker Robert Boyer. 
 
 {% img /images/2012/11/DSC9768.jpg %}
 

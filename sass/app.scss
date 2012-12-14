@@ -46,6 +46,11 @@
 
 $highlightcolor: #b90303;
 
+figcaption{
+	text-align: right;
+	margin-top: -1em;
+}
+
 img{
 	margin-top: 1em;
 	margin-bottom: 1em;
@@ -97,6 +102,32 @@ blockquote cite{
 		margin-top: 1em;
 		margin-bottom: 1em;
 	}
+}
+
+#footer{
+	@include column(12,collapse);
+	margin-top: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	border-top: 1px dashed #ddd;
+	p{
+		font-family: $headerFontFamily;
+		font-size: ms(0);
+	}
+}
+
+#email{
+	@include column(4,collapse);
+}
+
+#phone{
+	@include column(4,collapse);
+	text-align: center;
+}
+
+#addr{
+	@include column(4,collapse);
+	text-align: right;
 }
 
 #nav-block{

@@ -24,7 +24,7 @@ We print each of our images individually in our studio, using the finest printer
 
 For those special areas of your home, we offer the opportunity to incorporate Les' [Limited Edition Prints](/limited-edition-prints-d1.html) as part of the visual solution. 
 
-### Front-Mounted Plexiglass
+### Face-Mounted Plexiglass
 
 We creatively mount our images on single- or double-framed plexiglass for a clean, modern look that makes Les' images pop off the wall. Plexiglass adds exceptional depth to images. As well, the plexiglass frames are mounted so they stand away from the wall for a three-dimensional effect. 
 
@@ -44,4 +44,4 @@ We print our images on the highest quality backlit fabrics and synthetic materia
 
 Are you looking for exceptional visual pizzazz for large wall coverage? Then our specialized wall coverings are perfect. We print in our studio on the best quality wall covering vinyl from Intelicoat Technologies, the finest manufacturer in the United States. We then double coat each strip to achieve utmost durability and protection from spills and bumps. We can install images as long as your wall runs. Check this video to see a recent thirty-foot wall that we covered with one of Les' purpose-shot images of Baltimore Harbor. 
 
-
+To discuss your home decorating requirements, please contact us (410) 942-0500 or by [email](mailto:lespicker@gmail.com). 

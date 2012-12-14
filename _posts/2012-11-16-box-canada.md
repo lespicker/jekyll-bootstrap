@@ -31,8 +31,8 @@ One of the things I love about Canada is that, as a landscape artist, I don’t 
 
 {% img /images/2012/11/DSC9916.jpg %}
 
-Each image in this Folio Collection was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please handle prints with the cotton gloves supplied and store them in the Portfolio box at room temperatures. 
+Each image in this *Portfolio Edition* was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please handle prints with the cotton gloves supplied and store them in the hand-made box at room temperatures. 
 
-The landscapes in this Portfolio box were recorded between 2007 and 2011 using digital capture on Nikon professional equipment. 
+The landscapes in this *Portfolio Edition* were digitally recorded using Nikon and Hasselblad professional equipment. 
 
-Periodically I issue other hand-made Portfolio Editions, always in limited quantities. We hope you will visit here periodically if you are interested in adding new ones to your collection. 
+Periodically I issue other hand-made *Portfolio Editions*, always in limited quantities. We hope you will visit here periodically if you are interested in adding new ones to your collection. To purchase this *Portfolio Edition* please click [here](http://shop.lesterpickerphoto.com/page/301).
