@@ -1,10 +1,11 @@
 ---
 layout: page-side
-title: Sargent Mountain
+title: The Underground
 comments: false
-thumb: /images/thumb/sargentmountain.png
-guide: /sargent-mountain/reader-guide.html
-faq: /sargent-mountain/faq.html
+thumb: /images/thumb/The Underground_Ebook.jpg
+guide: /the-underground/reader-guide.html
+faq: /the-underground/underground-faq.html
+amazon: http://www.amazon.com/Lester-Picker/e/B009E6U9R0/ref=sr_tc_2_0?qid=1355508212&sr=1-2-ent
 ---
 ### The Backstory
 

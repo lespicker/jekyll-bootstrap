@@ -5,6 +5,7 @@ comments: false
 thumb: /images/thumb/underground.jpg
 guide: /the-underground/reader-guide.html
 faq: /the-underground/underground-faq.html
+amazon: http://www.amazon.com/Lester-Picker/e/B009E6U9R0/ref=sr_tc_2_0?qid=1355508212&sr=1-2-ent
 ---
 
 ### A Dream Book
