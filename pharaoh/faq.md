@@ -72,7 +72,10 @@ Chronicles of the Pharaohs by Peter A. Clayton (Thames & Hudson, 1994).
 
 Bedouin Life in the Egyptian Wilderness by Joseph J. Hobbs (University of Texas Press, 1989).
 
-Egyptian Women of the Old Kingdom by Henry George Fischer (The Metropolitan museum of Art, 1989).
+Egyptian Women of the Old Kingdom by Henry George Fischer (The Metropolitan Museum of Art, 1989).
+
+Egypt: The World of the Pharaohs, Edited by Regine Schulz and Matthias Seidel (Konemann Publishers, 2011)
+
 
 I welcome your suggestions of other books to add to this list. Please write to me with the full citation. Please indicate if you wish me to use your name as the referring source. 
 

@@ -9,6 +9,8 @@ I attended a writer's panel recently to hear my wife talk about her writing expe
 
 "How do you manage to get it perfect? I'm always discouraged by my first efforts and I end up putting it aside for months." 
 
+<!--more-->
+
 I felt like jumping up on my chair and screaming, while at the same time pulling at my beard. "Perfect? You expect perfect the first time? You judge yourself by that impossible standard? Aaaagh!!"
 
 The truth is that first drafts are **never** perfect. Far from it. I have been writing professionally for more than four decades now. I have written more than 650 published pieces in newspapers, major national magazines, corporate publications and online. I have now completed four full-length novels. I have taught writing and served as an editor for a national journal. And I have never, ever seen a first draft that has passed muster, whether my own, a student's or a top pro. 

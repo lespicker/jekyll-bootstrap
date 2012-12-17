@@ -8,6 +8,8 @@ I recently overheard a question that a newbie writer asked a published writer at
 
 The woman described was her habit of sabotaging her own writing efforts. Her initial drafts were never good enough, so she sulked and put her writing on the shelf for long periods of time. She completed a short story but kept in in a drawer for fear of others' reactions. She got a good reaction from her husband for an essay she wrote but convinced herself that he was only being kind and that the story wasn't really worthy. Sound familiar?
 
+<!--more-->
+
 #### The Inner Voice
 
 Whenever I speak with new writers I find this internal lack of confidence one of the most common challenges they face. I see one of my jobs is to help them overcome its destructive effects. I'm not saying that I would tell someone that their writing is good when it isn't. I'm afraid I'm too passionate about the art of writing to cheapen it. 
