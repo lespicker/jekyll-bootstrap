@@ -23,6 +23,10 @@ Then, in 1898, what is known as the Narmer Palette (see image) was found buried 
 
 In recent years, Dr. Gunther Dryer of the German  Archaeological Institute, has excavated Narmer's tomb and has found wine jugs with tax stamps on them that refer definitively to Narmer's War of Unification. 
 
+**Why does the word "Pharaoh" never appear in the book?**
+
+The word Pharaoh as applied to the ruler of Egypt was not used until much later, around the 18th Dynasty, more than a thousand years after Narmer. The word Pharaoh means "Great House" and refers to the immense palaces built by the rulers by that time. However, nearly all Westerners know Ancient Egyptian rulers by the term Pharaoh, no matter what Dynasty they were from. In **The First Pharaoh**, as well as the sequel, **The Dagger of Isis**, I chose to use the correct term used at that time, King. 
+
 **Can you tell us more about the Narmer Palette?**
 
 Finding the palette buried in the desert sands close to where Narmer ruled was a pivotal find in sorting out Egyptian Dynastic rule. Before the find most Egyptologists felt that Narmer was a mythical figure. Combined with Dr. Gunther Dryer's find of Narmer's tomb a half-century later, the palette proved Narmer's existence. 
