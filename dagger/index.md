@@ -14,6 +14,12 @@ As I researched [**The First Pharaoh**](/pharaoh/), the opening novel in The Fir
 
 When I finished writing **The First Pharaoh**, I was exhausted. But, after a couple of weeks, something kept nagging at me. Reluctantly, I began to look into this first woman Pharaoh and in short order I was hooked… again! Truthfully, I had wanted to work on a different, contemporary novel, but I simply could not pull away from the remarkable story of Meryt-Neith. 
 
+---
+
+> [I *LOVED* this book](http://www.goodreads.com/review/show/559527698)! The Dagger of Isis got me hook, line, and sinker from the very first page. It's a great book, and could be read as a standalone novel as well- I haven't read The First Pharaoh, the first book in the trilogy- but I immediately wanted to purchase it because this one is just THAT GOOD. <br><br>I'm looking forward to the third book immensely, and would recommend The Dagger of Isis to anyone who is a fan of historical fiction and Ancient Egypt. <cite>Jessa Nastasi</cite>
+
+---
+
 In **The Dagger of Isis**, Book II of the The First Dynasty Series, I trace the life of Meryt-Neith, the first female ruler of a united Egypt (although there are indications that matriarchs may have ruled small tribal villages in Egypt even in the more remote past). The story takes place around 3,100 BC. 
 
 From her marriage to King Wadjet to her eventual coronation after his death, The Dagger of Isis is a tale woven of intrigue and betrayal. From her carefree youth, the book follows Meryt-Neith's unlikely ascension to the throne, the wars she fought to defend the Two Lands, and the loves that gave meaning to her life. This saga takes us on a journey throughout ancient Egypt and into nearby lands, as Meryt-Neith struggles against her evil cousin, Nubiti, the Head Priestess of the Temple of Isis, to bring honor to her family's dynasty.

@@ -86,7 +86,7 @@ h1{
 }
 
 blockquote cite{
-	font-size: ms(2);
+	font-size: ms(3);
 }
 
 #container{
@@ -190,8 +190,11 @@ blockquote cite{
 #content-side{
 	@include offsetBy(1);
 	@include column(8);
-	p, blockquote, li{
+	p, li{
 		font-size: ms(1);
+	}
+	blockquote p{
+		font-size: ms(2)
 	}
 	p.ms-zero{
 		font-size: ms(0);
@@ -203,7 +206,8 @@ blockquote cite{
 		font-size: ms(2);
 	}
 	cite {
-		font-size: ms(2);
+		margin-top: 1em;
+		font-size: ms(1);
 	}
 	ul{
 		list-style-type: square;

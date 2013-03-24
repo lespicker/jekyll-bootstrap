@@ -4267,7 +4267,7 @@ h1 {
 
 /* line 88, ../sass/app.scss */
 blockquote cite {
-  font-size: 23px;
+  font-size: 27px;
 }
 
 /* line 92, ../sass/app.scss */
@@ -4387,45 +4387,50 @@ blockquote cite {
   width: 66.66667%;
 }
 /* line 193, ../sass/app.scss */
-#content-side p, #content-side blockquote, #content-side li {
+#content-side p, #content-side li {
   font-size: 17px;
 }
 /* line 196, ../sass/app.scss */
+#content-side blockquote p {
+  font-size: 23px;
+}
+/* line 199, ../sass/app.scss */
 #content-side p.ms-zero {
   font-size: 14px;
 }
-/* line 199, ../sass/app.scss */
+/* line 202, ../sass/app.scss */
 #content-side p.ms-one {
   font-size: 17px;
 }
-/* line 202, ../sass/app.scss */
+/* line 205, ../sass/app.scss */
 #content-side p.ms-two {
   font-size: 23px;
 }
-/* line 205, ../sass/app.scss */
-#content-side cite {
-  font-size: 23px;
-}
 /* line 208, ../sass/app.scss */
+#content-side cite {
+  margin-top: 1em;
+  font-size: 17px;
+}
+/* line 212, ../sass/app.scss */
 #content-side ul {
   list-style-type: square;
 }
 
-/* line 213, ../sass/app.scss */
+/* line 217, ../sass/app.scss */
 #sidebar {
   width: 16.66667%;
 }
-/* line 215, ../sass/app.scss */
+/* line 219, ../sass/app.scss */
 #sidebar img {
   max-width: 100%;
   margin-top: 0.3em;
   margin-bottom: 1em;
 }
-/* line 220, ../sass/app.scss */
+/* line 224, ../sass/app.scss */
 #sidebar h3 {
   font-size: 17px;
 }
-/* line 223, ../sass/app.scss */
+/* line 227, ../sass/app.scss */
 #sidebar ul {
   list-style: none;
   list-style-type: none;
@@ -4448,28 +4453,28 @@ blockquote cite {
 	@include column(4);
 }
 */
-/* line 250, ../sass/app.scss */
+/* line 254, ../sass/app.scss */
 #archive ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 254, ../sass/app.scss */
+/* line 258, ../sass/app.scss */
 #archive li {
   font-size: 17px;
 }
 
-/* line 259, ../sass/app.scss */
+/* line 263, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 264, ../sass/app.scss */
+/* line 268, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
 }
 
-/* line 268, ../sass/app.scss */
+/* line 272, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "trajan-sans-pro", "trajan-sans-pro", Helvetica, Arial, sans-serif !important;

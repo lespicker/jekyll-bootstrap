@@ -14,6 +14,12 @@ Writing **The First Pharaoh** fulfilled a lifelong dream of mine. As a child, my
 
 Segue now a whole bunch of years into the future. I had been a science teacher, earned a doctorate in ecology from the University of Maine and then landed a faculty position at the University of Delaware. Suddenly, I was asked to interview Anwar Sadat for a publication and to consult to the Egyptian government on ecological affairs. Off I went on the first of many trips to Egypt.
 
+---
+
+> 5 out of 5 stars <br><br>[Dazzling Historical Fiction](http://www.amazon.com/review/R21FOOIIIXJOC3/ref=cm_cr_dp_title?ie=UTF8&ASIN=1479202304&nodeID=283155&store=books). This is superb writing - not only skillful but passionate. Highly recommended. <cite>Grady Harp (Amazon HALL OF FAME TOP 50 REVIEWER)</cite>
+
+---
+
 As luck would have it, Sadat was assassinated just ten days before my first visit. I went anyway, arrived at midnight and on my first morning awoke up to a bright sun rising over the Nile River, with the Pyramids of Giza in the distance. It was a humbling and emotional experience. I immediately thought of my father, who had died a few years before. 
 
 Over the next few weeks, as I toured the various historical sites, one thing began to nag at me. Yes, there were hundreds of books written about nearly every Pharaoh and period of dynastic history, but none seemed to answer the very question that was bugging me: How did this all start? Who were the people who had the vision to begin what became one of the most incredible civilizations on Earth, lasting more than 3,000 years? 
