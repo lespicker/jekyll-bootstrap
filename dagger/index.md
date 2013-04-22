@@ -6,7 +6,6 @@ thumb: /images/thumb/dagger.jpg
 guide: /dagger/reader-guide.html
 faq: /dagger/faq.html
 amazon: http://www.amazon.com/Lester-Picker/e/B009E6U9R0/ref=sr_tc_2_0?qid=1355508212&sr=1-2-ent
-smash: http://www.smashwords.com/profile/view/LesPicker
 ---
 ### The Backstory
 
