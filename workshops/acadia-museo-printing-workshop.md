@@ -76,8 +76,10 @@ Discussion and wrap-up by 1:00 PM
 
 ### Logistics
 
-Workshop fee: $995 (hotel, transportation to and from the workshop, meals are extra). We have reserved discounted hotel accommodations. 
+Workshop fee: $995 (hotel, transportation to and from the workshop, meals are extra). We have reserved discounted hotel accommodations.
 
 Special instructions regarding clothing, equipment and other information will be provided for participants when they register. 
 
 Participants will have unlimited access to printers and paper during the workshop, up until midnight each night. 
+
+[Click Here For Registration and Payment via PayPal](http://shop.lesterpickerphoto.com/page/701)
