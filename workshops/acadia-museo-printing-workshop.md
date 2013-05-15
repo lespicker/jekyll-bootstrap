@@ -8,7 +8,7 @@ title: Museo Capture To Print Workshop
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
-## Workshop Description
+## Capture-To-Print Workshop Description
 
 Some call it the most beautiful National Park in the country, a tiny gem compared to its larger siblings. Whether or not you agree, Maine’s Acadia National Park is most definitely a sparkling jewel for its combination of geology, flora, fauna… and weather. 
 
