@@ -18,9 +18,13 @@ Below you will find a brief description of some of our display options.
 
 ### Museum-quality Traditional Prints
 
-We print each of our images individually in our studio, using the finest printers, archival inks and museum-quality, archival papers. We work with a custom shop to frame the images, double-matted and covered with UV protective glass or plexiglass. The finished product adds even more depth to our fine art images.
+{% img /images/image34-canvas.jpg %}
+
+We print each of our images individually in our studio, using the finest printers, archival inks and museum-quality, archival papers and canvas. We work with a custom shop to frame the images, double-matted and covered with UV protective glass or plexiglass. The finished product adds even more depth to our fine art images.
 
 ### Limited Edition Prints
+
+{% img /images/image05-framed.jpg %}
 
 For those special areas of your home, we offer the opportunity to incorporate Les' [Limited Edition Prints](/limited-edition-prints-d1.html) as part of the visual solution. 
 
@@ -42,6 +46,12 @@ We print our images on the highest quality backlit fabrics and synthetic materia
 
 ### Wall Coverings
 
-Are you looking for exceptional visual pizzazz for large wall coverage? Then our specialized wall coverings are perfect. We print in our studio on the best quality wall covering vinyl from Intelicoat Technologies, the finest manufacturer in the United States. We then double coat each strip to achieve utmost durability and protection from spills and bumps. We can install images as long as your wall runs. Check this video to see a recent thirty-foot wall that we covered with one of Les' purpose-shot images of Baltimore Harbor. 
+{% img /images/image57-wall.jpg %}
+
+Are you looking for exceptional visual pizzazz for large wall coverage? Then our specialized wall coverings are perfect. We print in our studio on the best quality wall covering vinyl from Intelicoat Technologies, the finest manufacturer in the United States. We then double coat each strip to achieve utmost durability and protection from spills and bumps. We can install images as long as your wall runs. Check this video to see a recent thirty-foot wall that we covered with one of Les' purpose-shot images of Baltimore Harbor.
+
+### Custom Designed Art Pieces
+
+At Les Picker Fine Art Photography, we can custom-design artwork  for those special areas of your home. In those cases, our ability and experience using unique materials and specialized mounting solutions will enable you to make your vision a beautiful reality. Whether you are looking for a modern plexiglas triptych, a sleek aluminum print or a wall covering for an odd-shaped room, we would be honored to work with you to custom design a solution that will beautify those spaces.  
 
 To discuss your home decorating requirements, please contact us (410) 942-0500 or by [email](mailto:lespicker@gmail.com). 
