@@ -6,9 +6,12 @@ comments: true
 
 Here's an exciting opportunity! This week, the [Historical Novel Review website](http://historicalnovelreview.blogspot.com/) is featuring my two Ancient Egypt novels. I wrote a guest blog for the site, and was interviewed by them. Both are online right now. 
 
+{% img /images/Picker_Banner.png %}
+
 If you simply post a comment on my guest blog, you are eligible for one of five signed, soft-cover copies of each novel… **FREE!** My guest blog is a candid and revealing look at why I write. 
 
 <!--more-->
+
 
 My first novel in the three-book series is **The First Pharaoh**, about the life, loves, battles and court intrigue surrounding King Narmer, the man who first united Upper and Lower Egypt under one rule in 3,100 B.C. The book is getting mostly 5-star reviews on Amazon and Goodreads. 
 
