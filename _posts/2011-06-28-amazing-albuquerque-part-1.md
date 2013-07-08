@@ -39,7 +39,7 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 <h2>HIGH ADVENTURE</h2>
 <strong>The ABQ Trolley</strong>: This is one delightful, sit-back-and-enjoy experience as the two friends (and former tourism officials) who started it continue to run it. The running narration is very funny, as well as informative. By time you disembark, you’ll have a real sense of the city. The tour includes travel along historic Route 66, Old Town, Nob Hill and Downtown. <a href="http://www.abqtrolley.com">http://www.abqtrolley.com</a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9810.jpg"><img class="aligncenter size-medium wp-image-1252" title="_LAP9810" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9810-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9810.jpg"><img class="aligncenter size-medium wp-image-1252" title="_LAP9810" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9810-300x199.jpg" alt="" width="300" height="199"></a>
 <a href="http://www.abqtrolley.com"></a>
 
 <strong>Sandia Peak Tramway</strong>: this is the world’s longest tramway and is a must-experience venue that soars over the Cibola National Forest. Terminating at 10,378 feet, the peak boasts a restaurant and commanding views. It also brings riders to the ski lodge during the winter season. The ride to the top is enjoyable, with expansive views of the landscape. At twilight, if the sun is right, the Sandia mountains blaze with their namesake watermelon color. <a href="http://www.sandiapeak.com">www.sandiapeak.com </a>
@@ -50,7 +50,7 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <a href="http://www.rainbowryders.com"></a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0152.jpg"><img class="aligncenter size-medium wp-image-1253" title="_LAP0152" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0152-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0152.jpg"><img class="aligncenter size-medium wp-image-1253" title="_LAP0152" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0152-200x300.jpg" alt="" width="200" height="300"></a>
 
 <strong>Jeep Tours</strong>: Try <em>New Mexico Jeep Tours</em>. Run by former Albuquerque police detective Roch Hart, be prepared for a jeep tour like no other. This is not about high-speed buggy rides. This is a thoughtful exploration of the high desert environment, including its wildlife, geology and native culture, run by a passionate professional. <a href="http://www.nmjeeptours.com">www.nmjeeptours.com </a>
 
@@ -58,7 +58,7 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <a href="http://www.nmjeeptours.com"></a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1017.jpg"><img class="size-medium wp-image-1254" title="_LAP1017" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1017-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1017.jpg"><img class="size-medium wp-image-1254" title="_LAP1017" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1017-200x300.jpg" alt="" width="200" height="300"></a>
 
 <strong> </strong>
 
@@ -66,7 +66,7 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <a href="http://www.albuquerqueoldtown.com"></a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817.jpg"><img class="size-medium wp-image-1256" title="San Felipe de Neri" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817.jpg"><img class="size-medium wp-image-1256" title="San Felipe de Neri" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817-200x300.jpg" alt="" width="200" height="300"></a>
 
 <strong>Canoeing/Kayaking</strong>: Although I didn’t personally kayak or canoe on my recent visit, I do know that several tour operators run guided tours in and around Albuquerque. The Albuquerque Convention and Visitors Bureau is a great resource: <a href="http://www.itsatrip.org">www.itsatrip.org</a>
 
@@ -92,7 +92,7 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <a href="http://www.nps.gov/petr"></a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9704.jpg"><img class="size-medium wp-image-1255" title="_LAP9704" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9704-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9704.jpg"><img class="size-medium wp-image-1255" title="_LAP9704" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9704-300x200.jpg" alt="" width="300" height="200"></a>
 
 <strong>Sandia Mountain Trails</strong>: Albuquerque is an outdoor town, with mild year-round temperatures that encourage its residents to stay active. The trail system through and surrounding ABQ is second to none and offers easy to difficult trekking levels. Hike, bike, horseback ride, run, photograph. <a href="http://www.sandiahiking.com">www.sandiahiking.com</a>
 

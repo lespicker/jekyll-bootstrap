@@ -13,7 +13,7 @@ tags:
 ---
 If you wonder what the state of photography is and where it is headed, PhotoPlus was the place to be last week. The annual show was held at the Jacob Javits convention center in New York City. It was not just huge, it was mammoth. Vendors of every major camera brand had large, walk-through display booths. Accessory makers had tables or even, in some cases, display booths themselves. Thousands of people streamed through the show.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Unknown.jpeg"><img class="alignnone size-full wp-image-1744" title="Unknown" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Unknown.jpeg" alt="" width="160" height="64" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Unknown.jpeg"><img class="alignnone size-full wp-image-1744" title="Unknown" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Unknown.jpeg" alt="" width="160" height="64"></a>
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Unknown.jpeg"></a>There were several developments that impressed me. Of course, digital photography will continue to evolve, much to the consternation of pros, myself included, who see these cameras as supplanting some (but thankfully not all) of our work. What has happened is that our experience, with matters like controlling dynamic range, focus control and others, are now being reduced to masterful algorithms that are handled by the camera’s onboard computers. When people complain to me about the cost of these new engineering marvels I have to smile.
 

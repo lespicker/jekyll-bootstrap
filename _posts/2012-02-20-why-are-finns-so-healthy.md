@@ -24,7 +24,7 @@ Visit Finland in winter and you'll get an idea of why Finns are rated amongst th
 
 <strong>Fish</strong>. Finns eat fish. Lots of fish. I had steamed salmon, grilled salmon, smoked salmon, broiled salmon, salmon salad, even poached salmon. Having gills must take a load off one's lungs.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/photo.jpg"><img class="size-medium wp-image-1982" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/photo-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/photo.jpg"><img class="size-medium wp-image-1982" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/photo-300x225.jpg" alt="" width="300" height="225"></a>
 
 <strong>Reindeer</strong>. Finns also eat a lot of reindeer, so there must be something healthy about it, too. I wonder if they abstain around Christmas time?
 

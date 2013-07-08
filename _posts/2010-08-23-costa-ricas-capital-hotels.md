@@ -22,7 +22,7 @@ I recently traveled to Costa Rica, that anomaly of a country where 25% of the la
 
 Two hotels in the capital city of San Jose that I stayed in serve as metaphors for the old versus new way of thinking. The Gran Hotel de Costa Rica is a magnificent structure, built in the heyday of the capital city. It is huge, ornate and, sadly, run down. The marble and wood entryway are impressive, as is the classic restaurant sitting area as one enters.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/images-1.jpeg"><img class="size-full wp-image-521" title="images-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/images-1.jpeg" alt="" width="276" height="182" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/images-1.jpeg"><img class="size-full wp-image-521" title="images-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/images-1.jpeg" alt="" width="276" height="182"></a>
 
 But, initial impressions are deceiving. Look behind the lobby and you have tiny, claustrophobic rooms with no air conditioning and poor ventilation. The rooms have that tired, worn look and the bathrooms are tiny. It reminded me of the old, long-gone days of the South American renaissance.
 
@@ -32,11 +32,11 @@ One thing about San Jose that tourists eager to travel to Costa Rica should know
 
 So, after three nights in the Gran, I decided to try something completely different. I booked into the Parque del Lago Hotel Vivo, where I had visited earlier for a business presentation and was impressed by the catering and attentive staff.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/foto-fachada-vaca-creencias.jpg"><img class="size-medium wp-image-528" title="foto fachada vaca, creencias" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/foto-fachada-vaca-creencias-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/foto-fachada-vaca-creencias.jpg"><img class="size-medium wp-image-528" title="foto fachada vaca, creencias" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/foto-fachada-vaca-creencias-225x300.jpg" alt="" width="225" height="300"></a>
 
 The Parque is a boutique hotel, a smartly executed concept by Ana Alfaro, whose vision of an intimate guest experience for the world traveler is reflected in every aspect of the hotel’s operation. Walk in the door and you know you are entering the future of hospitality in CR. There is nothing pretentious here. The hotel has a fresh look and is immaculately clean. The rooms are, well… roomy. Mine had a windowed, airy, separate seating area that allowed me to do my work in comfort on the couch or at the small desk. The bathroom was freshly scrubbed. And the prices are quite reasonable.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/P5090364.jpg"><img class="size-medium wp-image-525 " title="P5090364" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/P5090364-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/P5090364.jpg"><img class="size-medium wp-image-525 " title="P5090364" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/P5090364-225x300.jpg" alt="" width="225" height="300"></a>
 
 Each floor carries a separate motif reflecting forest, water and fire, the elemental forces that shaped and are Costa Rica today. The ground floor has engaging informational panels painted onto the walls, explaining the culture and history of CR. A small gift shop reflects the canteenas of old. But, it is in the small and tastefully designed restaurant that the Parque truly shines.
 

@@ -12,4 +12,4 @@ We’re sitting on the aft deck of the Northern Expedition, a BC Ferry en route 
 
 So, my question for you, dear reader’s, is this: Is she right? (Please be kind!)
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-les-hands-2010-08-17.jpg"><img class="aligncenter size-medium wp-image-508" title="CanadianRockiesLoop2010-les hands 2010-08-17" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-les-hands-2010-08-17-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-les-hands-2010-08-17.jpg"><img class="aligncenter size-medium wp-image-508" title="CanadianRockiesLoop2010-les hands 2010-08-17" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-les-hands-2010-08-17-199x300.jpg" alt="" width="199" height="300"></a>

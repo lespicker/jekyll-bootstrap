@@ -32,7 +32,7 @@ Getting back to my latest Yukon visit, I’ll try here to recall some of the hig
 
 First, there’s the infamous bear spray issue. I had two occasions to use my can of bear spray this visit, once on a too curious bear and once on… well that’s a story for another blog. All I can tell you is that bear spray works. I gave only the tiniest spritz to a large grizzly only 7 or 8 feet from me and he took one sniff and backed up.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_5576.jpg"><img class="size-medium wp-image-1579" title="LAP_5576" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_5576-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_5576.jpg"><img class="size-medium wp-image-1579" title="LAP_5576" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_5576-200x300.jpg" alt="" width="200" height="300"></a>
 
 The next highlight is a small wildlife moment, but one that makes nature photography so interesting. We saw lots of ptarmigans on our travels up the Dempster Highway. Ptarmigans are small chicken-sized birds that are endemic to the polar regions. In the southern part of the Yukon they were their typical gray and brown colors. Once we were up near the Arctic Circle they were beginning to turn into their winter color of pure white, an amazing transformation.
 
@@ -40,8 +40,8 @@ Another thing I recall is the waiting. As photographers we tend to forget all th
 
 Then there was the day we waited 45 minutes in a cold wind for a cloud to move so the sun would light up a hill properly for the image we envisioned. And the time we waited an hour for the wind to die down so we could capture reflections in a pond. Best of all was the three-day wait in cold and rain for a few decent images of <a href="http://blog.lesterpickerphoto.com/2011/08/28/the-bear-truth-and-other-musings/">grizzlies fishing for salmon</a> in Haines, Alaska. These are just some of the waits that photographers endure. But, how could I complain about waiting in some of the most pristine environments on the planet?
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2336.jpg"><img class="size-medium wp-image-1580" title="_LAP2336" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2336-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2336.jpg"><img class="size-medium wp-image-1580" title="_LAP2336" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2336-300x200.jpg" alt="" width="300" height="200"></a>
 
 At one point I stood on a rise, photographing the awesome Tombstone Valley. The weather was overcast, cold and windy, but there were breaks in the clouds that gave us hope the sun would punch through and light the far mountains. They never did, but no matter. Instead the clouds moved over us, temporarily obscuring our view. We took refuge in the truck. When the clouds blew away the mountains were coated with a cap of white. What a thrill!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP1559-Panorama-Tombstone-1.jpg"><img class="size-medium wp-image-1581" title="_LAP1559 Panorama-Tombstone-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP1559-Panorama-Tombstone-1-300x283.jpg" alt="" width="300" height="283" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP1559-Panorama-Tombstone-1.jpg"><img class="size-medium wp-image-1581" title="_LAP1559 Panorama-Tombstone-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP1559-Panorama-Tombstone-1-300x283.jpg" alt="" width="300" height="283"></a>

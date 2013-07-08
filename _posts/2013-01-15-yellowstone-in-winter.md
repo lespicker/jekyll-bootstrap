@@ -17,10 +17,10 @@ In winter there is only one road open to cars and that is the north entrance to 
 
 The most fun was photographing the coyote, despite his distance. He was at the far range of how I like to shoot my Nikkor 200-400mm lens, which is not to say I didn't try. What attracted me in the first place  was the fact that he was hunting meadow voles and burying his face deep in the snow to sniff them out. Here's a quick capture of him. Not a quality image, but it was late in the afternoon and I had a touch of altitude sickness all day, meaning I was shooting through a throbbing headache. But, then again, you've heard me say many times before that I never judge an outing solely by the images I bring back. For me, just being out there in this beautiful, natural world is reward enough.
 
-&nbsp;
+ 
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_4746-Edit.jpg"><img class="alignnone size-medium wp-image-2535" title="DSC_4746-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_4746-Edit-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_4746-Edit.jpg"><img class="alignnone size-medium wp-image-2535" title="DSC_4746-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_4746-Edit-300x200.jpg" alt="" width="300" height="200"></a>
 
 Tomorrow I'm looking at the potential for better weather, although things shift fast up here at 6,200-8,500 feet. I'd like to get a few good bison images, as well as some landscapes. I'll keep you posted. In the meantime, stay warm... for me.
 
-&nbsp;
+ 

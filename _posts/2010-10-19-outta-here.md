@@ -24,7 +24,7 @@ Right now I’m doing my photo organizing and cleaning. I like to start a trip w
 
 Since this trip is so long and will involve hiking to some remote locations, I have to limit my equipment. You can see from the photo some of what I’ve decided to take along. Most of that equipment will have to fit tightly into my ThinkTank photo backpack (see my previous blog on the backpack I’ll be taking: <a href="http://blog.lesterpickerphoto.com/2009/05/25/transporting-your-gear/">http://blog.lesterpickerphoto.com/2009/05/25/transporting-your-gear/</a>).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Aust-trip-eqpt-1-of-1.jpg"><img class="size-medium wp-image-650" title="Aust trip eqpt 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Aust-trip-eqpt-1-of-1-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Aust-trip-eqpt-1-of-1.jpg"><img class="size-medium wp-image-650" title="Aust trip eqpt 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Aust-trip-eqpt-1-of-1-225x300.jpg" alt="" width="225" height="300"></a>
 
 My equipment includes:
 

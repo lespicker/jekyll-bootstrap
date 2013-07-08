@@ -25,7 +25,7 @@ Speaking of Vermont’s roads, the Northern Kingdom (what locals call the far no
 <h3>Barr Hill Natural Area</h3>
 So a few days ago I came across a tiny jewel of a park in northern Vermont, tucked away in a remote area, that is absolutely perfect for photography. It’s called Barr Hill Natural Area. Covering a tad more than 250 acres, the 7/10-mile nature trail loops through the property with a few side spurs and is smartly laid out for a small park. Barr Hill is run by The Nature Conservancy (thank you!). Despite very little change in elevation this highlands trail weaves in and out of beautiful scenics as you hike into and out of the woods.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1063-Panorama.jpg"><img class="size-medium wp-image-1233" title="_LAP1063 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1063-Panorama-300x296.jpg" alt="" width="300" height="296" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1063-Panorama.jpg"><img class="size-medium wp-image-1233" title="_LAP1063 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1063-Panorama-300x296.jpg" alt="" width="300" height="296"></a>
 
 At the entrance to the trail, there is a sign-in book and free brochures that include a map of the loop. Along the way you encounter numbered posts that correspond to interpretive information in the brochure about what you are seeing. The guide is informative without being overwhelming especially if, like me, you’ll be putting down your tripod and camera each time you read the information.
 
@@ -33,7 +33,7 @@ Few people come to this remote preserve. On a Friday, I only met one couple hiki
 
 The park is situated at 2,100 feet elevation, so when there are clearings in the woods, you can see for miles. The area around Barr Hill is home to moose, white-tailed deer, and black bear, as well as many small mammals and birds. All forest growth is relatively recent, as the mountain was extensively logged in the 19<sup>th</sup> century.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1068-Panorama.jpg"><img class="aligncenter size-medium wp-image-1234" title="_LAP1068 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1068-Panorama-266x300.jpg" alt="" width="266" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1068-Panorama.jpg"><img class="aligncenter size-medium wp-image-1234" title="_LAP1068 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1068-Panorama-266x300.jpg" alt="" width="266" height="300"></a>
 <h3>Getting There</h3>
 Getting to the park is part of the charm of the outing. I drove down gravel roads, along small dairy farms with stone fences, and finally up a long, rutted road to the preserve’s tiny entrance. Here are the directions, taken straight from The Nature Conservancy brochure (with a few modifications by me):
 

@@ -29,7 +29,7 @@ Anyway, what is a serious photographer to do? First a deep, dark secret. I proba
 
 I very regularly use the following:
 <ul>
-	<li><em><strong>Think Tank Airport International V2.0 Rolling Bag
+<li><em><strong>Think Tank Airport International V2.0 Rolling Bag
 </strong> </em></li>
 	<li><em><strong>Think Tank Rotation 360 backpack</strong></em></li>
 	<li><em><strong>Think Tank Speed Demon
@@ -39,8 +39,7 @@ I very regularly use the following:
 	<li><em><strong>Think Tank Airport Check-In
 </strong> </em></li>
 	<li><em><strong>Lowe Pro Nature Trekker</strong></em></li>
-</ul>
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/rotation-360-1.jpg"><img class="size-medium wp-image-334" title="rotation-360--1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/rotation-360-1-300x192.jpg" alt="" width="300" height="192" /></a>
+</ul><a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/rotation-360-1.jpg"><img class="size-medium wp-image-334" title="rotation-360--1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/rotation-360-1-300x192.jpg" alt="" width="300" height="192"></a>
 
 Along with these basics, I have an assortment of dedicated side packs, pouches and lens cases that fasten to the sides of the bags.
 

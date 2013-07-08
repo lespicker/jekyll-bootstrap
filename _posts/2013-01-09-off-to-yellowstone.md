@@ -27,6 +27,6 @@ On this trip I'll be taking my two trusty camera systems; Hasselblad and Nikon. 
 
 My plan is to shoot early morning and dusk landscapes and animals, but also night shots, so sleep will have to wait until I get back. My hope is that I'll also be able to grab an aurora image or two.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/northernlights1.jpg"><img class="size-medium wp-image-2523" title="northernlights1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/northernlights1-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/northernlights1.jpg"><img class="size-medium wp-image-2523" title="northernlights1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/northernlights1-199x300.jpg" alt="" width="199" height="300"></a>
 
 Anyway, please stay tuned as I will try to post a blog or two during my stay. And, if you've already visited Yellowstone in winter, I would love to get your recommendations on places to shoot.

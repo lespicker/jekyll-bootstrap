@@ -34,13 +34,13 @@ ISO is equivalent to what we called ASA during film days. ISO is a measure of ho
 
 Take this example here.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/sandhillcranes2.jpg"><img class="aligncenter size-medium wp-image-1328" title="sandhillcranes2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/sandhillcranes2-300x201.jpg" alt="" width="300" height="201" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/sandhillcranes2.jpg"><img class="aligncenter size-medium wp-image-1328" title="sandhillcranes2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/sandhillcranes2-300x201.jpg" alt="" width="300" height="201"></a>
 
 This image is one that many of my clients enjoy. Its overall effect is pleasing. The image, taken hand-held in the northern Yukon, is of Lesser Sandhill Cranes migrating south from their summer feeding grounds in the Arctic. I took this as the sun was barely rising. That meant that there wasn’t much light, especially near ground level. Plus the birds were moving, so I had to use a fast shutter speed. The only way I could do this was to ratchet up the ISO on my digital camera to 800, some four times the recommended (baseline) ISO of 200.
 
 When you magnify the image, as I’ve done below, you can see just how much grain there is in the shadow areas of the image.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Screen-shot-2011-07-27-at-6.04.58-PM.jpg"><img class="aligncenter size-medium wp-image-1329" title="Screen shot 2011-07-27 at 6.04.58 PM" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Screen-shot-2011-07-27-at-6.04.58-PM-300x224.jpg" alt="" width="300" height="224" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Screen-shot-2011-07-27-at-6.04.58-PM.jpg"><img class="aligncenter size-medium wp-image-1329" title="Screen shot 2011-07-27 at 6.04.58 PM" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Screen-shot-2011-07-27-at-6.04.58-PM-300x224.jpg" alt="" width="300" height="224"></a>
 <h3>Manipulating ISO</h3>
 The take-away is to try to keep your ISO at 200 or below when doing landscape photography, where you want everything to be sharp with no noise. Many cameras can handle up to ISO 400 or even 800 with minimal noise, but don’t count on it. Personally, I try to keep my ISO at 100-200. However, to effectively use ISO 200 or below you will almost always have to use a tripod. The lower the ISO, the lower the light sensitivity of the sensor. In other words, all other variables being equal, as you lower the ISO you must keep open the shutter for a longer period of time to allow in enough light or else open the aperture of the lens more. To prevent hand shake during exposures a tripod and cable release are critical.
 
@@ -52,6 +52,6 @@ You’ve probably already figured out that there are times you’ll want to use 
 
 I did the same in this image taken in Capetown, South Africa. I came across this scene as I walked the waterfront at sunrise. There was dense fog, as there often is in Capetown. From a few hundred yards away I did not even see the ship. Suddenly, it loomed large in the fog. I set up the shot and intentionally cranked up the ISO to give the image a gritty feel.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/untitled-154-of-170.jpg"><img class="aligncenter size-medium wp-image-1330" title="&lt;untitled&gt; 154 of 170" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/untitled-154-of-170-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/untitled-154-of-170.jpg"><img class="aligncenter size-medium wp-image-1330" title="&lt;untitled&gt; 154 of 170" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/untitled-154-of-170-200x300.jpg" alt="" width="200" height="300"></a>
 <h3>A Final Thought</h3>
 One final thought on high ISO settings. Some newer cameras, like my Nikon D700, can shoot at ISO 800 with virtually no noise at all. That day in the Yukon I shot with an older Nikon camera. Improvements in sensor technology has meant great leaps in quality images. Now if I can only get back to the Yukon at the right time of year and get the sun, clouds and birds to cooperate…

@@ -13,7 +13,7 @@ tags:
 ---
 I’m very excited to announce that the newest eBook in my <strong><em>The Photographer’s Eye</em></strong> series is now available. Titled <strong><em><a href="http://shop.lesterpickerphoto.com/page/102">People 1</a></em></strong>, the eBook takes you behind the scenes as I explain the how, why and technical challenges I faced for ten selected images I have taken of people over the years.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/2007-Otaval.jpg"><img class="alignnone size-medium wp-image-1723" title="2007-Otaval" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/2007-Otaval-300x205.jpg" alt="" width="300" height="205" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/2007-Otaval.jpg"><img class="alignnone size-medium wp-image-1723" title="2007-Otaval" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/2007-Otaval-300x205.jpg" alt="" width="300" height="205"></a>
 
 Following on the heels of my first eBook, <strong><em><a href="http://shop.lesterpickerphoto.com/page/101">Landscapes 1</a></em></strong>, the newest addition describes in detail the process I went through to take images of people that my editors and clients have loved. You’ll learn the dos and don’ts of great environmental and cultural portrait photography as I describe what I did right and what went wrong as I captured these images.
 

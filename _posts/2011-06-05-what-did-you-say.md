@@ -40,8 +40,8 @@ In a few minutes, I felt the hair on my neck crawling. I turned slowly to see th
 <h3>Your Call</h3>
 So here are the images. The first is “coyote,” maybe okay for a textbook. The second is… well… what does the second image say to you or do for <strong><em>you</em></strong>?
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05.jpg"><img class="size-medium wp-image-1192" title="CanadianRockies2009 1462009-10-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05.jpg"><img class="size-medium wp-image-1192" title="CanadianRockies2009 1462009-10-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05-200x300.jpg" alt="" width="200" height="300"></a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166.jpg"><img class="size-medium wp-image-1193" title="CaRockies2009-Route 742-Peter Lougheed Park, Kananaskis country 117 of 166" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166-198x300.jpg" alt="" width="198" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166.jpg"><img class="size-medium wp-image-1193" title="CaRockies2009-Route 742-Peter Lougheed Park, Kananaskis country 117 of 166" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166-198x300.jpg" alt="" width="198" height="300"></a>
 
 <!--EndFragment-->

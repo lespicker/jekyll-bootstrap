@@ -27,7 +27,7 @@ This year we will be upgrading my gallery website and adding very exciting new p
 
 I have a <a href="http://www.nikoniansacademy.com/all/viewWorkshop.html?workshop_id=107">terrific photography workshop</a> scheduled for October in Maine’s Acadia National Park under the auspices of Nikonians, where I am a member of their Academy faculty. This 4-day event promises to be full of spectacular fall photo opps in my very favorite National Park.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/LAP2300.jpg"><img class="size-full wp-image-1903" title="_LAP2300" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/LAP2300.jpg" alt="" width="1024" height="680" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/LAP2300.jpg"><img class="size-full wp-image-1903" title="_LAP2300" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/LAP2300.jpg" alt="" width="1024" height="680"></a>
 
 However, what I’m most excited about for 2012 is having been chosen the creative artist for a major teaching hospital’s newest wing. Opening in September, this will mean choosing, post-processing and mounting nearly 100 of my images, most of them at 36 x 30 and some much larger. One image, in particular, will run 28 feet in length!
 

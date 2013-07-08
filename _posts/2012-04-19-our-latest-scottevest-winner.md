@@ -15,7 +15,7 @@ First, my apologies. I was supposed to announce the winner of our ScotteVest con
 
 Meet Cate Crandell, who calls Kansas home. I'll let her tell her own story:
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/photo1.jpg"><img class="size-full wp-image-2107" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/photo1.jpg" alt="" width="180" height="270" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/photo1.jpg"><img class="size-full wp-image-2107" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/photo1.jpg" alt="" width="180" height="270"></a>
 
 "<em>My love for photography started when I was in high school, and it, coupled with my curiosity about teaching and experiencing cultures, eventually brought me to my current location in Moldova as a volunteer with the Peace Corps. This experience is soon coming to an end, and when it does I will be heading to India and Thailand for a month of photography. By August I hope to be in Austin or back in my hometown of Kansas City, beginning a new career in social marketing and community engagement, while of course always having my camera at my side and   jet setting as much as possible. While researching the best travel clothing for photographers, I was led to Les and his review of the ScotteVest. I cannot wait to try my own, and will of course review it on my blog (<a href="http://www.wherescate.blogspot.com/">www.wherescate.blogspot.com</a>)</em>."
 

@@ -20,7 +20,7 @@ To my blog readers:
 
 I'm excited to announce that I was just chosen to be the new photography columnist for ScotteVest.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/pro_photographers_01_page1.jpg"><img class="aligncenter size-medium wp-image-642" title="pro_photographers_01_page" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/pro_photographers_01_page1-300x111.jpg" alt="" width="300" height="111" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/pro_photographers_01_page1.jpg"><img class="aligncenter size-medium wp-image-642" title="pro_photographers_01_page" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/pro_photographers_01_page1-300x111.jpg" alt="" width="300" height="111"></a>
 
 If you haven't seen their Internet presence yet, you probably are not an outdoorsy-type, since they advertise heavily online. ScotteVest manufactures some of the finest travel and outdoor clothing I have ever had the joy of owning. Their claim to fame is the number of pockets built into their clothing and their durable construction. In fact, it was my use of their product that drew us together (<a href="http://blog.lesterpickerphoto.com/2010/09/19/invest-in-evest-scottevest-that-is/">http://blog.lesterpickerphoto.com/2010/09/19/invest-in-evest-scottevest-that-is/</a>).
 

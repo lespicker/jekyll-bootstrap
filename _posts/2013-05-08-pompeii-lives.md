@@ -18,7 +18,7 @@ All I can say is that every superlative pales in comparison to the actual experi
 
 I had just arrived and was exploring another area of the park, when I turned around and saw an incredible sight. A cloud formation had formed over Mt. Vesuvius. I quickly took some images.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls.jpg"><img class="alignnone size-medium wp-image-2752" title="owls" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls.jpg"><img class="alignnone size-medium wp-image-2752" title="owls" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls-300x200.jpg" alt="" width="300" height="200"></a>
 
 However, when I ran to a spot closer to the mountain for a few snaps, the cloud had already passed and the effect lost. But I coud not help but wonder how the people felt when the eruption occurred in an ear-piercing blast and the rain of ash suffocated them. It gave me the chills.
 
@@ -26,8 +26,8 @@ The Pompeii preserve is huge. If you end up going, I strongly suggest you allot 
 
 One exhibit particularly affected me, and that was a display of the casts of several of the victims. The residents of Pompei died so quickly from suffocation in over ten feet of hot ash, they and their animals were literally frozen in place. I noted a German tourist who stood by one of the cases holding a casualty and I was struck by his emotional reaction.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls-22.jpg"><img class="alignnone size-medium wp-image-2756" title="owls-2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls-22-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls-22.jpg"><img class="alignnone size-medium wp-image-2756" title="owls-2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls-22-300x200.jpg" alt="" width="300" height="200"></a>
 
-&nbsp;
+ 
 
 The overwhelming impression one gets is that Pompei was an incredible place to live, at least if you had even moderate wealth. The artwork and artisan craftwork is sublime. The mosaics are awesome. One piece showing Alexander battling Darius is composed of over two million tiny tiles.  The buildings and homes are architectural marvels. If your plans include a visit to Italy, I'd advise you to be sure that you get to Pompei... for at least two days.

@@ -29,7 +29,7 @@ Fortunately, for anyone wanting to get into LF, I found a terrific resource in F
 <h3>A Simple Solution</h3>
 After fiddling around for two months near my home, I was ready to test my skills in the American southwest. One thing I was having trouble with was the focusing hood, which is the cloth that a LF photog throws over his head to focus the image on the glass screen. As it turns out, The View Camera Store offers the BTZS Focus Hood. I tried it out in several national parks around Albuquerque and I’ve got to say that hood is the best thing since sliced bread.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/hood.jpg"><img class="size-medium wp-image-1214" title="hood" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/hood-300x182.jpg" alt="" width="300" height="182" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/hood.jpg"><img class="size-medium wp-image-1214" title="hood" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/hood-300x182.jpg" alt="" width="300" height="182"></a>
 <p style="text-align: center;"></p>
 I had been frustrated by other well made, but cumbersome hoods. The BTZS is simple, very well made and dual function. When carrying my camera on my tripod, I use it as a protective cover. While focusing, its long Velcro closure allows me to manipulate it to shut out as much light as needed. It works even in the brightest southwest light.
 

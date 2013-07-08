@@ -26,7 +26,7 @@ tags:
 ---
 I was revisiting my images from my New Zealand assignment last Fall and I came across this one. I took this on the second day of a two-day visit to Lake Tekapo, on New Zealand’s South Island. This is the iconic Church of the Good Shepard, which has been photographed every possible which way over the years by tourists, large format photographers, 35mm shooters, probably even pinhole aficionados. And no wonder. The church is situated at the edge of the lake, surrounded by a ring of snow-capped mountains. If there is a prettier church anywhere, please let me know!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Tekapo-Church.jpg"><img class="aligncenter size-medium wp-image-1125" title="Tekapo Church" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Tekapo-Church-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Tekapo-Church.jpg"><img class="aligncenter size-medium wp-image-1125" title="Tekapo Church" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Tekapo-Church-300x199.jpg" alt="" width="300" height="199"></a>
 
 As I always do before a major assignment, I had developed a list of shots I wanted to take and in Lake Tekapo (pronounced <strong>Tee</strong>’-ka-po) I badly wanted a shot of the church at sunrise. But the weather did not cooperate. It had rained continuously on the first day and when I went out for sunrise, there was none. The day dawned gray, cold and miserable.
 

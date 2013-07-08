@@ -23,6 +23,6 @@ Just click on "Photos of the Month" in the black banner section in the upper lef
 
 Thanks for looking!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Galapagos-Sally-Lightfoot-crab_2007-12-14_1689©LesterPicker.jpg"><img class="size-medium wp-image-634" title="Galapagos-Sally Lightfoot crab_2007-12-14_1689©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Galapagos-Sally-Lightfoot-crab_2007-12-14_1689©LesterPicker-300x196.jpg" alt="" width="300" height="196" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Galapagos-Sally-Lightfoot-crab_2007-12-14_1689%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-634" title="Galapagos-Sally Lightfoot crab_2007-12-14_1689©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Galapagos-Sally-Lightfoot-crab_2007-12-14_1689%C2%A9LesterPicker-300x196.jpg" alt="" width="300" height="196"></a>
 
 Les

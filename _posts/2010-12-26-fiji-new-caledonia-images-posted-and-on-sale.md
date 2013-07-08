@@ -10,7 +10,7 @@ tags:
 ---
 I just posted selected  images on  my website from my recent trip to Fiji and New Caledonia. They join the images I recently posted from Australia and New Zealand. Please head over to my image website by clicking on the “Lester Picker Photography” black box at the top right of this page (or top left).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Colo-I-Suva-Forest-ParkSuva-Fiji-232010-11-01.jpg"><img class="aligncenter size-medium wp-image-838" title="Colo-I-Suva Forest Park,Suva, Fiji 232010-11-01" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Colo-I-Suva-Forest-ParkSuva-Fiji-232010-11-01-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Colo-I-Suva-Forest-ParkSuva-Fiji-232010-11-01.jpg"><img class="aligncenter size-medium wp-image-838" title="Colo-I-Suva Forest Park,Suva, Fiji 232010-11-01" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Colo-I-Suva-Forest-ParkSuva-Fiji-232010-11-01-200x300.jpg" alt="" width="200" height="300"></a>
 
 I hope you enjoy the images. As always I welcome your comments and critique.
 

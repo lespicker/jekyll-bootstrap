@@ -22,7 +22,7 @@ If you know of a good, tasteful art gallery that welcomes nature/landscape photo
 <h3>Buy a D3x (or other 20+ megapixel Nikon camera)</h3>
 I need a big megapixel count since I make very large prints. I’ve waited long enough. Nikon graciously sent me a D3x to test. I liked it… a lot, but not enough to shell out $7,500 for a heavy monster with quirks. I may buy one when the price drops, or continue to wait until spring to see what new releases Nikon has in store for 2011.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/nikon-d3x.jpg"><img class="aligncenter size-medium wp-image-847" title="nikon-d3x" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/nikon-d3x-300x145.jpg" alt="" width="300" height="145" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/nikon-d3x.jpg"><img class="aligncenter size-medium wp-image-847" title="nikon-d3x" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/nikon-d3x-300x145.jpg" alt="" width="300" height="145"></a>
 <h3>Complete an e-Book</h3>
 I’m working hard on developing an exciting e-Book for photographers. Once I get some shots that I need, I’ll go into the final stretch. My goal is to have it ready in May. We’ll see.
 

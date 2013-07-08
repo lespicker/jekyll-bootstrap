@@ -23,7 +23,7 @@ tags:
 - Vancouver Island
 ---
 My travel feature on my trip last summer to Vancouver-Jasper-Banff-Prince Rupert-Port Hardy-Nanaimo-Vancouver appeared in yesterday's Baltimore Sun.
-<div><a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/images.jpeg"><img class="aligncenter size-full wp-image-1202" title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/images.jpeg" alt="" width="278" height="182" /></a></div>
+<div><a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/images.jpeg"><img class="aligncenter size-full wp-image-1202" title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/images.jpeg" alt="" width="278" height="182"></a></div>
 If you are interested in reading it, here is the link:
 
 <a href="http://www.baltimoresun.com/travel/bs-tr-vancouver-loop-20110602,0,684101.story">http://www.baltimoresun.com/travel/bs-tr-vancouver-loop-20110602,0,684101.story</a>

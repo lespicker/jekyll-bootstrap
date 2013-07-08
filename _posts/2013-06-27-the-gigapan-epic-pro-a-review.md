@@ -24,19 +24,19 @@ As a professional landscape, wildlife and travel photographer, I eagerly awaited
 
 I should also mention that here at <a href="http://www.lesterpickerphoto.com">Les Picker Fine Art Photography</a> we produce some very large images for my clients. Nowadays a 30”x40” print is average size for us. We have done murals for clients that range from 17-feet wide and ten feet tall to <a href="http://blog.lesterpickerphoto.com/2012/09/17/wallpaper-mural/">30-feet x 10-feet</a> and <a href="http://blog.lesterpickerphoto.com/2012/11/16/a-les-picker-fine-art-installation/">I’ve blogged about those installations before</a>. To create eye-popping oversized prints pixel density is critical. Blowing up a 12-megapixel image just can’t cut it. Even my 36-megapixel Nikon D800 would be taxed when creating an 8-foot print. Enter Gigapan.
 
-&nbsp;
+ 
 <h3>Gigapan</h3>
 Gigapan was initially created by scientists at NASA and Carnegie Mellon University in Pittsburgh to take ultra-high resolution images for applications such as the lunar and Mars rovers. The theory behind it is that you photograph a scene in pieces, each with a telephoto lens, you then piece the image together and thereby get absolutely huge pixel counts with tons of definition in the resulting image. Once the photo system was deployed, they commercialized it and created the Gigapan system for our non-robotic arms.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_1125.jpg"><img class="size-medium wp-image-2811" title="DSC_1125" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_1125-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_1125.jpg"><img class="size-medium wp-image-2811" title="DSC_1125" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_1125-200x300.jpg" alt="" width="200" height="300"></a>
 
-&nbsp;
+ 
 
 So when my test unit arrived from Gigapan, I unboxed it, quickly tested it on my deck and immediately loaded it into a separate backpack to take with me to Colorado’s most wondrous Garden of the Gods to put it through its paces. The adventure had begun.
 
-&nbsp;
+ 
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_7575-Panorama.jpg"><img class="size-medium wp-image-2810" title="DSC_7575 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_7575-Panorama-300x94.jpg" alt="" width="300" height="94" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_7575-Panorama.jpg"><img class="size-medium wp-image-2810" title="DSC_7575 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_7575-Panorama-300x94.jpg" alt="" width="300" height="94"></a>
 <h3></h3>
 <h3>Off, But Not Running</h3>
 The first thing I have to report is that the Gigapan is a beast to carry. I am a “senior” photographer, but I still hike all day in mountainous terrain with 30 pounds of gear on my back. I simply could not imagine hauling a Gigapan in addition. It is both bulky and heavy, especially since you will need to carry at least two batteries. Gigapan even sells a tailored backpack to house the unit, but I tried to make do with a single, large LowePro Trekker AW400 (<a href="http://blog.lesterpickerphoto.com/2011/12/07/the-lowepro-trekker-aw400%E2%80%A6-a-backpack-on-steroids/">click here</a> for my review of that pack).
@@ -52,9 +52,9 @@ There are even ways to tweak your setup. For example, if you want to minimize ca
 
 The results of a Gigapan session can be amazing, showing detail you can hardly imagine. Witness this image I took at Garden of the Gods using 63 separate exposures. I imported the images into Lightroom 4, exported them as TIFFs to PTGUI which stitched them together easily, then imported the resulting TIFF back into LR4. A couple of adjustment tweaks later and here it is.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/pano.jpg"><img class="size-medium wp-image-2812" title="pano" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/pano-300x88.jpg" alt="" width="300" height="88" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/pano.jpg"><img class="size-medium wp-image-2812" title="pano" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/pano-300x88.jpg" alt="" width="300" height="88"></a>
 
-&nbsp;
+ 
 <h3>The Rest of the Story</h3>
 So why is it that I returned the unit to Gigpan after the trial and won’t be purchasing one, at least not now? The simple answer is that I simply cannot incorporate it into my fieldwork. It is that bulky and heavy. I work alone and sometimes hike for 10 hours a day in rugged terrain. Even on my recent trip to Italy I would not consider schlepping it along. However, if you are the type of photographer who plans to drive to your destinations, the bulk and weight objection may not be pertinent.
 
@@ -66,19 +66,19 @@ Further complicating this scenario is that the Gigapan is virtually useless in e
 
 Finally, the battery, while quite big and heavy, does not last long with the setup I had. In Gigapan’s defense it takes a lot of power to manipulate a Nikon D800 and monster 200-400 lens. But I had to carry two very heavy batteries to get through even half a day’s shoot.
 
-&nbsp;
+ 
 <h3>Final Thoughts</h3>
 In the final analysis, I feel as if I can do as good a job using mechanical tools for my panos, like the Really Right Stuff pano equipment, even for multi-row captures. I would surely capture the pano far faster so as not to miss a once-in-a-lifetime lighting opportunity.  In fact I shot the following panos on the Gigapan and then did the same with my RRS setup in ¼ the time. The images here are the ones I took with my RRS setup or my 24mm tilt-shift.
 
-&nbsp;
+ 
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_8219-Panorama.jpg"><img class="size-medium wp-image-2813" title="DSC_8219 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_8219-Panorama-300x65.jpg" alt="" width="300" height="65" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_8219-Panorama.jpg"><img class="size-medium wp-image-2813" title="DSC_8219 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_8219-Panorama-300x65.jpg" alt="" width="300" height="65"></a>
 
-&nbsp;
+ 
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/Panorama-vertical-tree-rock.jpg"><img class="size-medium wp-image-2814" title="Panorama-vertical-tree-rock" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/Panorama-vertical-tree-rock-186x300.jpg" alt="" width="186" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/Panorama-vertical-tree-rock.jpg"><img class="size-medium wp-image-2814" title="Panorama-vertical-tree-rock" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/Panorama-vertical-tree-rock-186x300.jpg" alt="" width="186" height="300"></a>
 
-&nbsp;
+ 
 
 Despite my misgivings- and I remind you that this review is only one person’s opinion-  the Gigapan Epic Pro is a lot of fun to operate and it certainly draws a crowd. For me that’s the kiss of death, since one of the prime reasons I do landscape/nature photography is for the solitude that allows me to appreciate the beauty that surrounds me and focus on the tasks at hand. But I can see that Gigapan has wide appeal (they’ve sold a bunch of these babies) to those who can appreciate its merits and can deal with the issues I raised in this review.
 

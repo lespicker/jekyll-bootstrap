@@ -20,9 +20,9 @@ Going one step further is the long-revered concept in photography known as minim
 
 His name is Lew Rothman, and he is a retired radiologist from the Big Apple. Lew is in some respects from the old school of photography. He is deliberate in his approach to a shot. He does not lean on the shutter release button to record 25 images and hope one is right. On this particular day, we had just completed a sunrise shoot at Sand Beach. As we traveled the famed Ocean Drive, we stopped here and there for photo shoots. On one of our stops, Lew managed this image:
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/O6C6835_HDR.jpg"><img class="alignnone size-medium wp-image-2464" title="_O6C6835_HDR" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/O6C6835_HDR-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/O6C6835_HDR.jpg"><img class="alignnone size-medium wp-image-2464" title="_O6C6835_HDR" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/O6C6835_HDR-300x199.jpg" alt="" width="300" height="199"></a>
 
-&nbsp;
+ 
 
 I'll let Lew take over from here with his explanation:
 
@@ -30,12 +30,12 @@ I'll let Lew take over from here with his explanation:
 
 In my opinion, the lightbulb came on when Lew felt that the shot rendered better in B&amp;W.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/O6C6835_HDR-Edit.jpg"><img class="alignnone size-medium wp-image-2465" title="_O6C6835_HDR-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/O6C6835_HDR-Edit-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/O6C6835_HDR-Edit.jpg"><img class="alignnone size-medium wp-image-2465" title="_O6C6835_HDR-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/O6C6835_HDR-Edit-300x199.jpg" alt="" width="300" height="199"></a>
 
-&nbsp;
+ 
 
 I fully agree with his decision, and I think that is true because of the 'essence' and minimalism concepts. Here we have the four basic elements of nature: sky, water, tree and earth. Lew was able to focus the reader's attention on that and that alone. It is what I might call elemental. That minimalism helps the image. I think that the way he placed the tree using the Rule of Thirds helps, as does the way he rendered the clouds. Despite unfavorable weather conditions, Lew was able to extract a wonderful image from the outing. His use of HDR is restrained, which I feel also helps make the image.
 
 Thanks to Lew for allowing me to share his work with my readers.
 
-&nbsp;
+ 

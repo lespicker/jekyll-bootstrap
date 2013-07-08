@@ -14,6 +14,6 @@ The bad news is that I ran into some viral bug on Monday and by Tuesday it had m
 
 This week I will post my first review of my Hasselblad H4D-50, so any of you medium format folks may want to check in for that.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/671884.jpg"><img class="size-full wp-image-1767" title="671884" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/671884.jpg" alt="" width="345" height="345" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/671884.jpg"><img class="size-full wp-image-1767" title="671884" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/671884.jpg" alt="" width="345" height="345"></a>
 
 Les

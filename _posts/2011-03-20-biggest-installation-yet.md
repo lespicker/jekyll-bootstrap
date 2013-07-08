@@ -41,16 +41,16 @@ Finally, the images began to be delivered to us, in the case of ColorPlak, freig
 <h3>The Installation Starts</h3>
 Here I am installing one array of images on a dining room wall (just click on each image to enlarge). We do all the installations ourselves so as to get the exact look we want. Sure it takes me away from photographing, but it’s all part of artistic expression, so I enjoy that hands-on part of my artwork.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/P1010178.jpg"><img class="size-medium wp-image-1031" title="P1010178" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/P1010178-300x168.jpg" alt="" width="300" height="168" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/P1010178.jpg"><img class="size-medium wp-image-1031" title="P1010178" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/P1010178-300x168.jpg" alt="" width="300" height="168"></a>
 
 The biggest challenge we faced was choosing and mounting one iconic image that would serve as the visual focal point for those entering the main dining room. After many visits to the unfinished space and some rousing debates, we finally took a big gamble and settled on an image I took while in the Yukon Territory and Northwest Territory of Canada two years ago. One day a storm approached us as I was photographing. My wife wanted to leave as the wind began to blow fiercely and the temperatures dropped precipitously. I persuaded her to stay for a few minutes more. I weighted down my tripod and took this image, one of my favorites.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/Yukon2009-Dempster-Highway-1782009-09-05.jpg"><img class="size-medium wp-image-1034" title="Yukon2009-Dempster Highway 1782009-09-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/Yukon2009-Dempster-Highway-1782009-09-05-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/Yukon2009-Dempster-Highway-1782009-09-05.jpg"><img class="size-medium wp-image-1034" title="Yukon2009-Dempster Highway 1782009-09-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/Yukon2009-Dempster-Highway-1782009-09-05-300x199.jpg" alt="" width="300" height="199"></a>
 
 The challenge for Bob was to blow that 12-megapixel image up to 5 feet by 9 feet!!! That he was able to do so is a testament to his expertise. We decided to do it as a triptych, which we felt would add some dynamism to the look. We sent the file to ColorPlak (<a href="http://www.colorplak.com">www.colorplak.com</a>) and, as usual, they did a phenomenal job on it.
 
 Here is the image as it appears on the dining room wall.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/P1010185.jpg"><img class="size-medium wp-image-1032" title="P1010185" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/P1010185-300x168.jpg" alt="" width="300" height="168" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/P1010185.jpg"><img class="size-medium wp-image-1032" title="P1010185" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/P1010185-300x168.jpg" alt="" width="300" height="168"></a>
 
 Stay tuned as we complete the installation. At that point I’ll photograph the installation and post a tour of the restaurant decorated with my images and Bob’s painstaking print work. As always, please give us your opinions and suggestions for improvements.

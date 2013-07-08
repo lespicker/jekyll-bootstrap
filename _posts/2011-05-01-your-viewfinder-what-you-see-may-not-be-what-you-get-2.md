@@ -19,11 +19,11 @@ The issue here is that many viewfinders, that is the scene you see when you look
 
 In this first image, we noticed the white photo ID placard to the left of my wall-mounted images, good for marketing my work to patrons, but bad for a PR brochure shot.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP8976.jpg"><img class="aligncenter size-medium wp-image-1079" title="_LAP8976" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP8976-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP8976.jpg"><img class="aligncenter size-medium wp-image-1079" title="_LAP8976" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP8976-300x199.jpg" alt="" width="300" height="199"></a>
 
 In this next shot I cropped in-camera to remove that distraction.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP8982.jpg"><img class="aligncenter size-medium wp-image-1080" title="_LAP8982" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP8982-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP8982.jpg"><img class="aligncenter size-medium wp-image-1080" title="_LAP8982" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP8982-300x199.jpg" alt="" width="300" height="199"></a>
 
 However, this viewfinder issue can be a real problem in some situations, as unwanted distractions pop up in the final image. Okay, you may say, that’s no big deal, I can just crop the image and remove the distractions if you do your own post-processing. That’s often true. But don’t forget that most digital SLRs have a 2:3 format or perhaps a 4:3 format, known as the aspect ratio, meaning that the image size is longer than wide. That means that you can’t crop equally on all sides, which may affect your composition.
 

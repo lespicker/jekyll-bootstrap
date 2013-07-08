@@ -30,7 +30,7 @@ With more than 300 miles of coastline, the Outer Banks has stretches of sand tha
 
 The Outer Banks is just a 6- or 7-hour drive from Baltimore. The sense of place can change markedly from one milepost to another. For a family with school-age children, the beaches from Duck to Nag’s Head pulse with activity. The hubbub comes with choices of restaurants, amusement rides, museums, events and water activities galore.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2007-10-06_2©LesterPicker.jpg"><img class="size-medium wp-image-280" title="outerbanks_2007-10-06_2©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2007-10-06_2©LesterPicker-234x300.jpg" alt="" width="234" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2007-10-06_2%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-280" title="outerbanks_2007-10-06_2©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2007-10-06_2%C2%A9LesterPicker-234x300.jpg" alt="" width="234" height="300"></a>
 
 Those who crave a quieter time could hardly do better than to spend time along Cape Hatteras National Seashore, where contemplative walks are measured in miles of undeveloped seashore. Nature lovers, especially birders, have much to indulge their passion. The National Seashore offers shelter to millions of migratory and endemic birds. Shell collectors can spend days sifting through the treasures that the oceans deposit at their feet.
 
@@ -72,7 +72,7 @@ There are more family-friendly attractions on the Outer Banks than one would exp
 
 <strong>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2009-08-13_3©LesterPicker.jpg"><img class="size-medium wp-image-282" title="outerbanks_2009-08-13_3©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2009-08-13_3©LesterPicker-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2009-08-13_3%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-282" title="outerbanks_2009-08-13_3©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2009-08-13_3%C2%A9LesterPicker-300x199.jpg" alt="" width="300" height="199"></a>
 
 </strong>
 
@@ -92,4 +92,4 @@ There are more family-friendly attractions on the Outer Banks than one would exp
 
 <strong>Hit the Beach</strong>. Anywhere along the Outer Banks. Swim, duck waves, look for seashells, walk, jog, sunbath (slather on the sunscreen!), surf, kiteboard, bellyboard, skimboard, watch dolphins and whales, read, photograph, nap.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2006-10-05_1©LesterPicker.jpg"><img class="size-medium wp-image-283" title="Roanoke Sound, North Carolina" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2006-10-05_1©LesterPicker-205x300.jpg" alt="" width="205" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2006-10-05_1%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-283" title="Roanoke Sound, North Carolina" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2006-10-05_1%C2%A9LesterPicker-205x300.jpg" alt="" width="205" height="300"></a>

@@ -12,7 +12,7 @@ tags:
 ---
 My plane landed in Reykjavik, Iceland, just as the sun was rising, warming the wingtip of my plane and bluing up the skies for which Iceland is famous. I figured it was a wonderful omen for my upcoming 16 days of glorious Icelandic photography.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/photo.jpg"><img class="size-medium wp-image-2145" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/photo-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/photo.jpg"><img class="size-medium wp-image-2145" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/photo-300x225.jpg" alt="" width="300" height="225"></a>
 
 WRONG!
 

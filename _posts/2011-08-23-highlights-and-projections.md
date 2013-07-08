@@ -26,11 +26,11 @@ It seems like this particular man was bitten by the fishing bug while we were on
 
 Now, the thing about bear repellent is that it is made of the highest concentration of pepper spray imaginable, enough to stop a full-grown grizzly in its tracks. The... ummm... part of this man's anatomy immediately adjacent to his pocket was thusly affected greatly by the pepper spray. In the pandemonium that followed, this guy dropped his trousers, bear spray and all, faster than Superman and ran full speed into the nearest stream, bears be damned. It might have taken the annual flow of the mighty Yukon River to quiet the burning and there were unconfirmed reports of massive fish kills downstream. But, all's well that ends well, although we won't know until he arrives home to his wife what the final outcome will be, poor guy. And, needless to say, I cannot mention in this blog what this man's new nickname is now.
 <h3>Once Is Not Enough</h3>
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1701.jpg"><img class="size-medium wp-image-1454" title="_LAP1701" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1701-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1701.jpg"><img class="size-medium wp-image-1454" title="_LAP1701" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1701-300x199.jpg" alt="" width="300" height="199"></a>
 
 Okay, segue now to about five days later, as we paddled down the Yukon River in our canoes. With this man and his fishing buddy in the rear canoe, we all heard a cry and a whoosh and soon they both were experiencing the famed river's hypothermic embrace. Of course, once rescued we had to get these men to a warm, comfortable place. Funny thing about that.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1731.jpg"><img class="size-medium wp-image-1455" title="_LAP1731" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1731-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1731.jpg"><img class="size-medium wp-image-1455" title="_LAP1731" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1731-199x300.jpg" alt="" width="199" height="300"></a>
 
 Memorable highlights, agreed? By time you read this my friends will all have left Yukon Territory for the Sta
 <h3>Lowlights</h3>

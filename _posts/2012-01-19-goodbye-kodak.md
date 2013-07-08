@@ -18,7 +18,7 @@ I'll try to explain what this means to me. I was brought up on Kodak film. My fa
 
 I remember my first assignments for National Geographic Society publications were shot on K25 and that newfangled film called Kodachrome 64 (good, but never as good as the legendary K25). Once in a while maybe an Ektachrome here and there, although I never liked its bluish cast and grain.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/4204587687_69578f4798.jpg"><img class="alignnone size-full wp-image-1907" title="4204587687_69578f4798" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/4204587687_69578f4798.jpg" alt="" width="500" height="366" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/4204587687_69578f4798.jpg"><img class="alignnone size-full wp-image-1907" title="4204587687_69578f4798" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/4204587687_69578f4798.jpg" alt="" width="500" height="366"></a>
 
 Once, when I was shooting an assignment on sea turtles, the National Park Service called me while I was at a conference and told me that a Loggerhead Turtle nest had washed out on the Shackleford Banks off the coast of North Carolina. If the eggs were not reburied within hours, the amnion might separate from the shell, killing the young. If I didn't get there within two hours, I'd lose the opportunity to shoot the scene. The problem was that I was on the mainland and would never reach the site in time by boat.
 

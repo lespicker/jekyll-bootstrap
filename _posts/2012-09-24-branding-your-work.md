@@ -30,7 +30,7 @@ Most COAs- and I have to be blunt here- look like they were created by 5th grade
 
 We went into design mode and over a period of two weeks we fidgeted and fussed until we had achieved what we were looking for. Our COA is not only "smart-looking" (a client's words), but functional. It has three different security features that truly guarantee authenticity and would be very hard to forge (although no one in his right mind would attempt to forge my crappy signature!).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/DSC_3582.jpeg"><img class="size-medium wp-image-2370" title="DSC_3582" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/DSC_3582-300x200.jpeg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/DSC_3582.jpeg"><img class="size-medium wp-image-2370" title="DSC_3582" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/DSC_3582-300x200.jpeg" alt="" width="300" height="200"></a>
 
 Our COA is printed on top-end vellum paper. It includes a matching image, a description of the image and a brief on the paper and ink. The number of prints in the series is lightly screened across the bottom of the page. Our company logo is printed in two colors, and on the reverse side is a black security stripe that indicates the number of the print in the series. The final touch is a security holographic stamp over which I sign my name.
 

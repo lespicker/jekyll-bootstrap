@@ -13,7 +13,7 @@ tags:
 ---
 Tomorrow Bob (my assistant) and I are off to NYC for PhotoPlus, a 2-day photography convention. The Jacob Javits Conference Center will feature camera and equipment exhibitors from around the world.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/logo.jpg"><img class="alignnone size-medium wp-image-1741" title="logo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/logo-300x75.jpg" alt="" width="300" height="75" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/logo.jpg"><img class="alignnone size-medium wp-image-1741" title="logo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/logo-300x75.jpg" alt="" width="300" height="75"></a>
 
 Our main purpose for going is to spend time interacting with the Hasselblad people, since I'm still on the learning curve with my new H4D-50 camera and lenses. I have so far found the technicians and the sales people to be incredibly helpful and highly knowledgeable. I'm looking forward to some workshops and discussions with staff and hope to learn a few tips and techniques myself. I'll also soon be highlighting some images I have taken with my new Hassy. All I can say is that I'm loving its capabilities and results.
 

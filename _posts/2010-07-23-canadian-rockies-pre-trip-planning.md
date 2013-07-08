@@ -8,7 +8,7 @@ tags:
 ---
 In two weeks time I set off for another adventure, this time back to the Canadian Rockies, a landscape that I dearly love. This time I’ll take my wife and 16-year old granddaughter (God help me!).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/CanadianRockies2009-3032009-10-05.jpg"><img class="size-medium wp-image-205" title="CanadianRockies2009 3032009-10-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/CanadianRockies2009-3032009-10-05-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/CanadianRockies2009-3032009-10-05.jpg"><img class="size-medium wp-image-205" title="CanadianRockies2009 3032009-10-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/CanadianRockies2009-3032009-10-05-300x199.jpg" alt="" width="300" height="199"></a>
 
 Right now I’m up to my eyeballs in prepping for the trip. I have to keep reminding myself that it’s about the journey, not the destination. Whoever thought that one up was definitely not a photojournalist.
 

@@ -22,7 +22,7 @@ As it turns out we made it through the cold night still dry, but a light rain st
 
 At milepost 229 (369-km), we stop for water and gas at Eagle Plains Hotel (and restaurant, gas station and small store), the only stop on the entire 450-mile highway. It’s still a long way to Inuvik, which is the end of the highway in summer. During the winter, the road continues as an ice road all the way to Tuktoyaktuk on the Beaufort Sea (part if the Arctic Ocean). Our plan is to reach Inuvik and take a puddle jumper to Tuk, as the locals call it. There- you guessed it- our troupe will take a celebratory dip into the frigid ocean! (For those of you women reading this, it’s a guy thing).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP13002.jpg"><img class="size-medium wp-image-1414" title="_LAP1300" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP13002-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP13002.jpg"><img class="size-medium wp-image-1414" title="_LAP1300" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP13002-300x199.jpg" alt="" width="300" height="199"></a>
 
 Once our guy-cation is done, I’ll spend another 10 days in Yukon intensely photographing. On the agenda are grizzlies feeding on salmon, Northern lights and some pristine landscape images.
 

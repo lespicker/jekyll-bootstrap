@@ -12,7 +12,7 @@ By Lester Picker
 
 [This article originally appeared in <em>The Baltimore Sun</em>. I updated it for use in 2010.]
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11.jpg"><img class="size-medium wp-image-396" title="lighthouse, Havre de Grace, MD, USA" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11.jpg"><img class="size-medium wp-image-396" title="lighthouse, Havre de Grace, MD, USA" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11-200x300.jpg" alt="" width="200" height="300"></a>
 
 Walking the tree-lined streets of historic Havre de Grace, Maryland is like stepping back in time. Leave the hustle and bustle of the city behind, skip the mad rush of suburban shopping malls, and spend an enjoyable weekend in this quaint town, tucked into the northeastern-most corner of Harford County.
 
@@ -52,7 +52,7 @@ In and around Havre de Grace are myriad activities for a family, ranging from mi
 
 There are two bicycle shops in town. Chesapeake Cycle and Sport is located on the corner of Washington and Congress streets. Biller’s Bikes is located on the corner of Lodge Lane, Franklin and St. John streets. Havre de Grace is bicycle friendly. Spend a pleasant few hours peddling around the many coves and quiet streets of Havre de Grace. If you’re a fishing enthusiast, nothing beats the flats, where the Susquehanna River meets the Bay, for freshwater and striped bass.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1.jpg"><img class="size-medium wp-image-395" title="susqstpk 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1.jpg"><img class="size-medium wp-image-395" title="susqstpk 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1-199x300.jpg" alt="" width="199" height="300"></a>
 
 Hikers and bikers would also do well to visit Susquehanna State Park (410-557-7994), due west on Route 155, a few miles outside of Havre de Grace. There you can stroll or bicycle along river paths, view historic sites, fish and birdwatch. Bald eagles have staged an incredible comeback in this area, and draw nature enthusiasts all year long, especially in winter, where they congregate just below the Conowingo Dam. A large nature viewing area is open all year.
 

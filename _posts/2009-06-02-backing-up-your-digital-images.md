@@ -23,13 +23,13 @@ Here are the methods I use to back up in the field and at home.
 
 <strong><em> In the Field</em></strong>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/pixelpocketrocket.jpg"><img class="size-full wp-image-337 " title="pixelpocketrocket" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/pixelpocketrocket.jpg" alt="" width="192" height="156" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/pixelpocketrocket.jpg"><img class="size-full wp-image-337 " title="pixelpocketrocket" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/pixelpocketrocket.jpg" alt="" width="192" height="156"></a>
 
 First, I carry at least 12 Compact Flash cards for my Nikon cameras, ranging from 8 GB to 16GB each. Rarely do I shoot through all the cards on an assignment, even if I’m gone for two or three weeks (and I shoot RAW only). As I use each card I put it in a nifty case called a Pixel Pocket Rocket (<a href="http://www.thinktankphoto.com">www.thinktankphoto.com</a>), facing backward, so I know it has been used. From that point on, my used cards are either on my person or nestled comfortable in a hotel safe.
 
 Each night, I back up my flash cards to my Aperture software on my 15” MacBook Pro laptop <em><strong>and</strong></em> to a Western Digital (WD) 500GB portable drive. I usually carry two of these drives with me. They are incredibly small, lightweight, durable and inexpensive. Every few days, I also back up my Aperture library to the second WD drive. Backing up to my laptop also gives me an opportunity to review my images on a large screen and to gauge how the assignment is proceeding.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/wdfMP_Essential.jpg"><img class="size-full wp-image-338" title="wdfMP_Essential" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/wdfMP_Essential.jpg" alt="" width="300" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/wdfMP_Essential.jpg"><img class="size-full wp-image-338" title="wdfMP_Essential" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/wdfMP_Essential.jpg" alt="" width="300" height="300"></a>
 
 Paranoid, right? Well, if you’re not convinced yet, listen to this. On the way home, I make sure to carry every backup with me onto the plane (well I sure as hell am not going to trust my livelihood to airport baggage handlers!). However I divvy them up so that if my carry-on rolling camera bag is stolen, I still have one of the WD drives in my pocket and I haven’t lost the entire shoot. If my wife is traveling with me, I might give her another one of the drives to carry on board in her purse. My laptop is in its carrying case. All the original flash cards are in the Pixel Pocket Rocket, safely tucked into the camera bag. Four-way protection, ahh!
 

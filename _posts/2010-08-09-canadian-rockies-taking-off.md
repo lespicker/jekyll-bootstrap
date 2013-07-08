@@ -22,13 +22,13 @@ I love travel, but I hate traveling. Travel has become such a hassle in the past
 
 “Hey, that’s a lot of camera equipment you have,” the TSA agent asks, suspiciously  (what, they’ve never seen cameras and lenses before?). Open the bag, remove the cameras and lenses, disassemble, show them to the officer, repack them, re-dress and you’re on your way. Have a pleasant flight!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-BWI-42010-08-09.jpg"><img class="size-medium wp-image-459" title="CanadianRockiesLoop2010-BWI 42010-08-09" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-BWI-42010-08-09-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-BWI-42010-08-09.jpg"><img class="size-medium wp-image-459" title="CanadianRockiesLoop2010-BWI 42010-08-09" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-BWI-42010-08-09-300x199.jpg" alt="" width="300" height="199"></a>
 
 For those of you who haven’t yet sampled Baltimore Washington International Thurgood Marshall Airport’s international terminal, well, consider keeping it that way. It’s tiny and the amenities, if that’s what they call them, are sparse. We arrived at 7:45 A.M. for a 9:30 flight. There are 3 commercial properties in the entire terminal: a duty-free shop that mainly peddles alcohol, a Hudson News magazine stand and Formaggio, essentially a bar with some tables. Fortunately, the bar also sells microwave egg and cheese sandwiches, choice of bagel, English muffin or croissant and your salt loading for the day.
 
 Actually, the flight itself was pleasant. Air Canada has its act together and runs smoothly out of BWI. Its flight attendants are actually attendant. All in all, a very pleasant flight. I travel to Canada a lot and I always find friendlier skies over Canada.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-Vancouver-662010-08-09.jpg"><img class="size-medium wp-image-460" title="CanadianRockiesLoop2010-Vancouver 662010-08-09" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-Vancouver-662010-08-09-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-Vancouver-662010-08-09.jpg"><img class="size-medium wp-image-460" title="CanadianRockiesLoop2010-Vancouver 662010-08-09" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-Vancouver-662010-08-09-199x300.jpg" alt="" width="199" height="300"></a>
 
 BWI to Toronto, then on to Vancouver. I love Vancouver. Great city, great sites, terrific parks and ethnic restaurants up the wazoo, befitting the international city it is. I love seeing the Pacific and mountains in the same view. We stayed at the Sheraton Wall Centre, a perfect downtown location.
 

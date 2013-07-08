@@ -22,7 +22,7 @@ One of the results of the desire for larger and larger prints is that I have jus
 <h3>How We Work</h3>
 I thought I’d describe here how we handled some work for a recent client, a financial advisement firm in the town where I live. My client’s office is in a first-floor wing of a large Victorian home. When I first saw the client reception area, I knew it needed a major makeover. The walls were a very nice, but … how can I say this politely?.. challenging color and were plastered with an assortment of artwork, awards and plaques that gave a very disjointed appearance. Certainly the initial impression was not the elegant appearance worthy of my client’s reputation and his upscale clientele.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/client-installation-walls_2011-01-19_1243©LesterPicker.jpg"><img class="size-medium wp-image-1183" title="client installation walls_2011-01-19_1243©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/client-installation-walls_2011-01-19_1243©LesterPicker-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/client-installation-walls_2011-01-19_1243%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-1183" title="client installation walls_2011-01-19_1243©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/client-installation-walls_2011-01-19_1243%C2%A9LesterPicker-300x200.jpg" alt="" width="300" height="200"></a>
 
 So, we rolled up our sleeves and analyzed the space, as well as the client’s perceived needs. We then suggested a design arrangement that we thought would meet his goals while offering a quality experience for clients. We also convinced him to have the walls painted a neutral and more soothing color.
 
@@ -44,23 +44,23 @@ Tom is a pioneer in digital photography and I challenge anyone to come up with a
 
 Here I am at Rieger’s massive facility with the print run for this installation, which Bob and I drove down to inspect before going to finals (I live about 90 minutes from Rieger’s lab and workshops).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010267-Ap3-5200-1.jpg"><img class="size-medium wp-image-1184" title="P1010267-Ap3-5200-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010267-Ap3-5200-1-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010267-Ap3-5200-1.jpg"><img class="size-medium wp-image-1184" title="P1010267-Ap3-5200-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010267-Ap3-5200-1-300x200.jpg" alt="" width="300" height="200"></a>
 
 Every print is precisely color managed by Tom and his graphics staff. The next image shows the print run that we examine before mounting.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010263-Ap3-5200-1.jpg"><img class="size-medium wp-image-1185 " title="P1010263-Ap3-5200-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010263-Ap3-5200-1-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010263-Ap3-5200-1.jpg"><img class="size-medium wp-image-1185 " title="P1010263-Ap3-5200-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010263-Ap3-5200-1-300x200.jpg" alt="" width="300" height="200"></a>
 
 Tom's shop has the ability to run exacting prints up to an astounding 100 inches wide!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010268-Ap3-5200-1.jpg"><img class="size-medium wp-image-1186 " title="P1010268-Ap3-5200-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010268-Ap3-5200-1-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010268-Ap3-5200-1.jpg"><img class="size-medium wp-image-1186 " title="P1010268-Ap3-5200-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/P1010268-Ap3-5200-1-300x200.jpg" alt="" width="300" height="200"></a>
 <h3>Show and Tell</h3>
 A week later the plexi-mounted prints were ready for installation. Here are some shots of my images hanging in the client’s office.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9280.jpg"><img class="size-medium wp-image-1187" title="_LAP9280" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9280-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9280.jpg"><img class="size-medium wp-image-1187" title="_LAP9280" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9280-300x199.jpg" alt="" width="300" height="199"></a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9324.jpg"><img class="size-medium wp-image-1188" title="_LAP9324" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9324-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9324.jpg"><img class="size-medium wp-image-1188" title="_LAP9324" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9324-199x300.jpg" alt="" width="199" height="300"></a>
 
-Blog readers are often curious about the process and I hope this has answered your logistical questions. But there is one other issue I’ll address up front, and that’s how this process feels to <span style="text-decoration: underline;">me</span>.
+Blog readers are often curious about the process and I hope this has answered your logistical questions. But there is one other issue I’ll address up front, and that’s how this process feels to me.
 
 It’s hard to describe how great my satisfaction is in seeing my work mounted in someone’s office or home and knowing they are enjoying it. Once every image is mounted on a wall or hanging in a space, I step back and recall every nuance of the shot. I think back on the preparation for the shoot, the weather conditions that day, the smells and sounds and visuals of the moment. I remember the discussions with my associate, Bob Boyer, as we prepped the image for printing and planned the design for the installation. Finally, after hours doing the installation we can step back and review the entire process. And, it feels great.
 

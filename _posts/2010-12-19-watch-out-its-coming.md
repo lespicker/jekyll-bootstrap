@@ -18,7 +18,7 @@ Even my tiny iPod offers an HDR (High Dynamic Range) app. Admittedly, I have one
 <h3>Here It Comes!</h3>
 Are you ready for cameras that can realio, trulio take a picture around a corner and into a darkened room? Well, believe it, because researchers at M.I.T. are using lasers mounted inside a camera to fire pulses at one-trillionth of a second. The laser light bounces off walls and doors to illuminate what’s in another room. Creepy! It’s a ways off before we’ll see it in the marketplace, thank heavens.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/images.jpeg"><img class="size-full wp-image-819" title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/images.jpeg" alt="" width="99" height="127" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/images.jpeg"><img class="size-full wp-image-819" title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/images.jpeg" alt="" width="99" height="127"></a>
 
 I can’t imagine that innovation would be useful for my photography, but the CIA is probably foaming at the mouth waiting for it. However, another app that researchers are working on would be ideal for landscape photographers. It mathematically calculates the exact spot from which a photo was taken so you can re-shoot the scene precisely. That bests even GPS technology, which can get us to a scene, but not help us place the camera exactly. I can imagine using it to follow a scene through the seasons, for example, or perhaps to record environmental changes over time.
 <h3>Closed Code Stifles Innovation</h3>

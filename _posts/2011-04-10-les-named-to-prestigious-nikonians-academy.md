@@ -20,7 +20,7 @@ tags:
 ---
 I am incredibly honored to have been named to the faculty of the prestigious Nikonians Academy (<a href="http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7">http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7</a>). Nikonians is the world's largest organization of Nikon devotees. It is a wealth of information on anything Nikon... and more. Their forums are chock full of useful information about photography in general and I often contribute to them as my schedule permits. It's also my go-to resource when I have a technical question.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/04/LesPicker_284px.jpg"><img class="aligncenter size-medium wp-image-1065" title="LesPicker_284px" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/04/LesPicker_284px-217x300.jpg" alt="" width="217" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/04/LesPicker_284px.jpg"><img class="aligncenter size-medium wp-image-1065" title="LesPicker_284px" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/04/LesPicker_284px-217x300.jpg" alt="" width="217" height="300"></a>
 
 As a faculty-member, I will be offering workshops in the field for accomplished and aspiring photographers. The wonderful thing about Nikonians workshops is that we accommodate all skill levels and all cameras. You do not have to own a Nikon to come along. Each workshop is designed with the photographer in mind. We do all the planning and preliminary work; you show up and enjoy the best photo locations, good food, and excellent instruction. There's simply no better way to learn new skills and improve existing ones than with the one-on-one a small group workshop provides.
 

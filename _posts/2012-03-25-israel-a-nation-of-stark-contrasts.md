@@ -24,7 +24,7 @@ My point is that Israel is much smaller than I ever imagined, a view shared by m
 <h3>Be Prepared to be Amazed</h3>
 Israel is at the crossroads of cultures. and civilizations. The Jewish people, who have been here for thousands of years, have seen Greeks and Romans, Babylonians and Turks, Macedonians and British conquer and then lose their hold on this land. As each new master came and went, they left their mark in the form of buildings, ideas, culture and people. You’re constantly sampling from a historical smorgasbord as you visit sites here.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018222.jpg"><img class="size-medium wp-image-2035" title="A0018222" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018222-223x300.jpg" alt="" width="223" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018222.jpg"><img class="size-medium wp-image-2035" title="A0018222" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018222-223x300.jpg" alt="" width="223" height="300"></a>
 <h3>Contrast Central</h3>
 If there is any nation on earth that has more contrasts than Israel, I dare you to show it to me. Nowhere else that I have been has such massive amounts of antiquity been situated next door to such modernity. Doubt it? Just visit Caesarea where the ancient Roman fortress sits next door to a power plant, or Safed, where modern shops are seamlessly woven through ancient Roman aqueducts and restored architecture. Or Jerusalem, where it’s hard to take a decent picture in the Old City without including a satellite dish, electrical wires or a sign.
 
@@ -38,7 +38,7 @@ I’m amazed at how my biblical references were turned upside down during my vis
 <h3>A Vibrant Economy</h3>
 During my visit you’d hardly know that the world is in recession. Building is going on everywhere, with huge cranes dominating the city skylines. High tech is huge in Israel, with many of the patents for the gadgets we love originating in this tiny country. As a result, Microsoft, Intel, Apple and other high-tech giants maintain research campuses in Israel. Their highly educated workforce propels their economy.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018139-Edit.jpg"><img class="size-medium wp-image-2034" title="A0018139-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018139-Edit-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018139-Edit.jpg"><img class="size-medium wp-image-2034" title="A0018139-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018139-Edit-300x225.jpg" alt="" width="300" height="225"></a>
 <h3>Diversity Rules</h3>
 Israel appears to my eyes to be as diverse a democracy as I could imagine. First, of course, is the diversity within the Jewish community. The Ultra-Orthodox live side by side with secular Jews who embrace their culture but do not put a lot of emphasis on their faith. On  the Jewish Sabbath I saw every sect racing past each other on the way to their respective houses of worship.
 
@@ -46,7 +46,7 @@ Then, on Sunday, Old Jerusalem was packed with Christian worshippers of every pe
 
 Every day, five times a day, the city’s minarets blare out their call to prayer over ramped-up loudspeakers. Here, Israeli Arabs enjoy freedoms unimagined in the rest of the Arab world. Of course there are still issues of equity, as there are in every democracy on earth, but in Israel there are forums in which to address them.
 <h3>A Half-Dozen Tips for visiting Israel</h3>
-<span style="font-weight: normal;">1.Hire a good guide. Get recommendations. Search the web. Do your due diligence. Whether on a tour or one-on-one, a good guide will make a world of difference. Plus, there is so much history, only a good guide will be able to tie it all together.</span>
+1.Hire a good guide. Get recommendations. Search the web. Do your due diligence. Whether on a tour or one-on-one, a good guide will make a world of difference. Plus, there is so much history, only a good guide will be able to tie it all together.
 
 2. Try the falafel. Even if you have tried falafel and hated it in the U.S., try it again here. Falafel reigns supreme in Israel and it is very, very good; fresh ingredients, deeply fried, and nestled in a pita covered with sauce and salad.
 

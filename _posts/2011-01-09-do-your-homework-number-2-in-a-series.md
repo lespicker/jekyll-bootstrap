@@ -34,7 +34,7 @@ Here’s a trick you can use. Simply increase the exposure anywhere from ⅓ sto
 
 Also, experiment with your white balance (even many point-and-shoots nowadays allow you to do this). Did you know that simply switching your white balance from Automatic to Cloudy will  warm up the snow?
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/falling-branch-winter-1-of-11.jpg"><img class="size-medium wp-image-861" title="falling branch winter 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/falling-branch-winter-1-of-11-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/falling-branch-winter-1-of-11.jpg"><img class="size-medium wp-image-861" title="falling branch winter 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/falling-branch-winter-1-of-11-300x199.jpg" alt="" width="300" height="199"></a>
 <h3>Now For the Homework</h3>
 So, in the midst of winter now, our assignment is to dress warmly, go outdoors and take our time making various exposures until we get the effect we want. Please submit some of your images here for constructive critique or bragging rights. I promise to do the same on my Yukon trip in February and I’ll post the images shortly after.
 

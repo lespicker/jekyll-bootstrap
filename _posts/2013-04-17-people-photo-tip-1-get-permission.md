@@ -22,7 +22,7 @@ I firmly believe that it is a matter of civility, pure and simple, to ask someon
 
 Permission does not have to be a signed release form. It can be a gesture- holding up your camera, pointing to it and to the subject and shrugging your shoulders as if to ask the question. Or, if you speak the language, just ask.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/2006-11-ecuador1746.jpg"><img class="size-medium wp-image-2711" title="Winning Smile" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/2006-11-ecuador1746-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/2006-11-ecuador1746.jpg"><img class="size-medium wp-image-2711" title="Winning Smile" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/2006-11-ecuador1746-200x300.jpg" alt="" width="200" height="300"></a>
 
 In some countries, I’m thinking of Muslim countries in particular, photographing women without permission can get you in serious trouble. At the very least you owe it to your subject to give her a chance to cover her face.
 
@@ -30,8 +30,8 @@ Sometimes I admit to having photographed a subject surreptitiously, to catch a s
 
 In <a href="http://shop.lesterpickerphoto.com/page/102">The Photographer's Eye: People</a>, I have selected ten dramatic people images, explain how I captured them and offer suggestions for improving your people travel photography. I also have a section of ten tips that will bring your people photography to  the next level.
 
-&nbsp;
+ 
 
 Enjoy!
 
-&nbsp;
+ 

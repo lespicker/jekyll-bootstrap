@@ -24,7 +24,7 @@ I love First Fridays. There is music (and dancing) in the street by many bands a
 
 This is the very first time my work will be featured in La Banque, a unique and impressive event and meeting venue in the heart of downtown. La Banque, as its name implies, is a historic granite bank and the immense, walk-in vault is still on display and functions as a wine-tasting room.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0017443-Edit-Upres.jpg"><img class="size-medium wp-image-2250" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0017443-Edit-Upres-300x150.jpg" alt="" width="300" height="150" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0017443-Edit-Upres.jpg"><img class="size-medium wp-image-2250" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0017443-Edit-Upres-300x150.jpg" alt="" width="300" height="150"></a>
 
 If you are looking for a memorable time, please visit Havre de Grace on Friday evening, July 6. If you print out this blog or its notice on Facebook or Twitter, I’ll extend 10% off the purchase of any of my images, framed or unframed. I'll have framed Limited Edition prints for sale, as well as unframed works, and sale items. So, if you're looking to decorate a home or office, or just searching for that perfect piece of art, please stop by. Browsers are also most welcome.
 

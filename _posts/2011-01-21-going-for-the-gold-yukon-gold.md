@@ -23,13 +23,13 @@ It’s showtime again. In ten days I leave for a photo assignment in Yukon, Cana
 
 First some perspective. Yukon is in the northwestern corner of Canada, bordered by Alaska to its west and the Arctic Ocean to its north, British Columbia to the south and Northwest Territory to the east. It has approximately 33,000 residents, 24,000 of whom live in its capital city, Whitehorse. That leaves about 9,000 people spread over an area 20% larger than California! [BTW, California has 37 million residents. Even if you remove Los Angeles, that leaves 33 million. Hmmm!]
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly.jpg"><img class="size-medium wp-image-867" title="Grizzly" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly.jpg"><img class="size-medium wp-image-867" title="Grizzly" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly-300x225.jpg" alt="" width="300" height="225"></a>
 
 There are two moose for every person in the Yukon, and nearly one bear. That’s aside from caribou herds, wolves, fox, mountain goats, mountain sheep and wood bison.
 
 The scenery of the Yukon defies description. Mountains tower above lush valleys, pristine lakes mirror snow-capped mountains and the immense tundra in the north boggles the mind. But, to me, it’s the ever-present Yu-kun-ah, the mighty Yukon River that winds its way through this magnificent land, that is its icon, bringing its life-giving waters to all.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05.jpg"><img class="size-medium wp-image-868" title="Yukon2009-Dempster Highway 1782009-09-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05.jpg"><img class="size-medium wp-image-868" title="Yukon2009-Dempster Highway 1782009-09-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05-300x199.jpg" alt="" width="300" height="199"></a>
 
 Twenty-five percent of Yukoners are aboriginal people, representing 14 First Nations, speaking eight different languages. Is it any wonder, then, that Yukon is a photographer’s dream?
 

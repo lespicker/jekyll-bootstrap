@@ -15,7 +15,7 @@ tags:
 - restaurants
 - United States
 ---
-<span style="text-decoration: underline;">The Inns of Boulder and Colorado Springs</span>
+The Inns of Boulder and Colorado Springs
 
 by Lester Picker
 
@@ -37,7 +37,7 @@ The Alps Boulder Canyon Inn, 38619 Boulder Canyon Drive, Boulder, CO 80302; 800/
 <h2>Earl House</h2>
 Two miles down Canyon Drive, in downtown Boulder, the streets that radiate from the town center quickly turn into valleys, gorges and peaks of incredible beauty. From nearly any point in town you can see the Flatiron Mountains dominating the scenery with their imposing presence. And, in the midst of the art, culture and beauty that is Boulder sits the majestic <em>Earl House Historic Inn</em>.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/earlext.jpg"><img class="size-full wp-image-295" title="earlext" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/earlext.jpg" alt="" width="244" height="243" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/earlext.jpg"><img class="size-full wp-image-295" title="earlext" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/earlext.jpg" alt="" width="244" height="243"></a>
 
 Built in 1882 by wealthy New Yorkers who eventually settled in Boulder, Earl House radiates the warmth of its Victorian heritage. “I keep hearing from guests that it’s the nicest and most elegant inn they’ve ever stayed at,” reports Kathryn Ode, Manager, beaming with pride. From the oak, cherry and mahogany woodwork that greet you in the marvelous foyer, to the Thomas Hatfield sofas that invite you to relax for a while, Ode might just be right.
 
@@ -65,7 +65,7 @@ As if the setting and décor aren’t enough, guests can indulge themselves in a
 
 Gold Lake Mountain Resort &amp; Spa, 3371 Gold Lake Road, Ward, CO 80481, 800/450-3544. Seventeen units, all w/private baths. Swiss-style continental buffet breakfasts. Cancellation policy. No smoking, no pets. Visa, Discover and MasterCard only.
 
-<span style="text-decoration: underline;"><strong>Colorado Springs</strong></span>
+<strong>Colorado Springs</strong>
 <h2>Room at the Inn</h2>
 Ninety minutes due south of Boulder is Colorado Springs, the second largest city in the state. As a cultural and scenic hub, visitors are enamoured with historic names that are indelibly etched into our American consciousness. Names like Pike’s Peak, Cripple Creek, and the enchanting Garden of the Gods, revered by our Native American brothers and sisters, come to mind. As you approach the city, the modernistic spires of the Air Force Academy greet you in all their spiritual splendor, securely nestled against their mountainous backdrop.
 
@@ -83,7 +83,7 @@ Afternoon tea includes an astounding seventy different varieties from around the
 
 Room at the Inn, 618 North Nevada Avenue, Colorado Springs, CO 80903; 719/442-1896. Five units in Main House, and two units in Cottage, all w/private baths. Full gourmet breakfast, afternoon tea and evening desserts included. Cancellation policy. No smoking. All major credit cards.
 <h2>Cheyenne Canyon Inn</h2>
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images.jpeg"><img class="size-full wp-image-297 " title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images.jpeg" alt="" width="240" height="192" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images.jpeg"><img class="size-full wp-image-297 " title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images.jpeg" alt="" width="240" height="192"></a>
 
 Just blocks away from downtown, one approaches the majesty of South Cheyenne Canyon and its natural wonder, Seven Falls, both of which are visible from the eclectic <em>Cheyenne Canyon Inn</em>. The huge 13,000 square foot house, built in the 1920’s, was formerly a bordello and gambling casino in its shadier days. There are even secret tunnels radiating from the basement, where patrons could disappear into the night woods in case of a police raid. Today, innkeepers Barbara, John and Josh Starr have turned the inn into a bed and breakfast showcase.
 

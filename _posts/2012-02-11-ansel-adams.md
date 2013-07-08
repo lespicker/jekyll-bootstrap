@@ -17,7 +17,7 @@ How to take that comment? I was flattered beyond words, hoping that he did not m
 
 After he left, I went back to my photography, unaware that Bob took a photo of me taking photos. Well, Bob wrote to me today and here's what he said:
 
-<em><span style="font-family: Times; line-height: normal; font-size: small;">"I met you at the Nevada Valley of Fire state park in mid November.  I saw </span><span style="font-family: Helvetica; line-height: normal; font-size: x-small;">you patiently waiting to take a picture through a circular hole in the </span><span style="font-family: Helvetica; line-height: normal; font-size: x-small;">sandstone.  I thought at a distance you looked remarkably like Ansel Adams </span><span style="font-family: Helvetica; line-height: normal; font-size: x-small;">resurrected, to which you replied that you well might be! I have a picture </span><span style="font-family: Helvetica; line-height: normal; font-size: x-small;">of you that I would like to share with you."</span></em>
+<em>"I met you at the Nevada Valley of Fire state park in mid November.  I saw you patiently waiting to take a picture through a circular hole in the sandstone.  I thought at a distance you looked remarkably like Ansel Adams resurrected, to which you replied that you well might be! I have a picture of you that I would like to share with you."</em>
 
 Bob, I'd like to publicly thank you. What a nice thing to do!
 
@@ -25,6 +25,6 @@ Now, even nice gestures sometimes create conundrums. and this one created a B-I-
 
 The third image Bob processed in sepia tone, conveying the old-timey feel of Ansel Adam's time. This, Bob confided in me, was his wife's favorite rendition. Ah, and now I'm supposed to pick one, eh Bob? So, in the interests of marital harmony and the higher purposes of life, I decided on... the sepia one, naturally (click on the image to enlarge).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2.jpg"><img class="size-medium wp-image-1950" title="LesterAnselAdamsSepia-2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2.jpg"><img class="size-medium wp-image-1950" title="LesterAnselAdamsSepia-2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2-300x200.jpg" alt="" width="300" height="200"></a>
 
 Teasing aside, thanks to Bob (and Ruth) for the gift. Have a great week!

@@ -15,7 +15,7 @@ Admittedly I have arthritis in a fairly big way, mostly in my back and neck. I l
 
 Here you can see the REAL reason for my back woes.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11522.jpg"><img class="alignnone size-medium wp-image-2647" title="IMG_1152" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11522-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11522.jpg"><img class="alignnone size-medium wp-image-2647" title="IMG_1152" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11522-225x300.jpg" alt="" width="225" height="300"></a>
 
 We were hiking in Kipahulu, Maui when she snapped this photo. Thank God for LowePro's terrific backpack, which serves to distribute the weight as best it can. But I'm packing 30-35 pounds of gear, PLUS my Gitzo 3541 tripod and RRS BH-55 ballhead which together weigh an additional 8 pounds. We hiked four very rugged miles that morning, before doing another strenuous hike later that day.
 
@@ -23,7 +23,7 @@ Here I am going down a trail, so you can get a better view of the pack.
 
 In it I have two camera systems, each with a body and 2-3 lenses, plus filters, cleaning gear, storage cards, and assorted gizmos. Plus critically important snacks. The LowePro Trekker AW400 has a water bladder right inside the pack, making it ideal for trekking, although once in the Yukon in winter it ended up being an ice bladder.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11371.jpg"><img class="alignnone size-medium wp-image-2648" title="IMG_1137" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11371-225x300.jpg" alt="" width="225" height="300" />http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11522.jpg</a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11371.jpg"><img class="alignnone size-medium wp-image-2648" title="IMG_1137" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11371-225x300.jpg" alt="" width="225" height="300">http://blog.lesterpickerphoto.com/wp-content/uploads/2013/03/IMG_11522.jpg</a>
 
 My point here is that nature photography is much more than a camera and lens, especially at my age. I probably own more backpacks and cases than Imelda Marcus had shoes. But I consider them a critical investment in myself. After hours of hiking my back may be a little sore, but it's still functional, so long as I have a solid pack that is distributed well. I am also a bug on strap adjustments and regularly empty my pack when I arrive home, clean it out and remount it on my back empty so I can check the straps and adjust them for even placement.
 

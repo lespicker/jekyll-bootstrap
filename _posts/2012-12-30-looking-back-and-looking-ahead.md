@@ -8,9 +8,9 @@ tags:
 ---
 2012 was quite a year for us at <a href="http://www.lesterpickerphoto.com">Les Picker Fine Art Photography</a>. One of my favorite things was dialoging with you, my loyal readers, over a range of issues. You had questions for me, but also took the time to respond to questions I asked. For that I thank you.
 <h3>Making a Living</h3>
-This past year my travels took me to some interesting places, including Canada, <a href="http://blog.lesterpickerphoto.com/2012/05/09/iceland-saga-snaefellsnes/">Iceland</a>, <a href="http://blog.lesterpickerphoto.com/2012/04/14/sri-lanka’s-incredible-yala-national-park/">Sri Lanka</a>, <a href="http://blog.lesterpickerphoto.com/2012/03/25/israel-a-nation-of-stark-contrasts/">Israel</a>, and <a href="http://blog.lesterpickerphoto.com/2012/02/17/a-cold-night-in/">Finland</a>. In the States, I taught a workshop for the Nikonians Academy in Acadia National Park, a location I know and love, having done graduate school research in that gorgeous park. Yes, I feel fortunate to travel to some iconic places as a landscape and travel photographer, but oddly enough it is the wonderful people that I get to meet that makes my trips so special.
+This past year my travels took me to some interesting places, including Canada, <a href="http://blog.lesterpickerphoto.com/2012/05/09/iceland-saga-snaefellsnes/">Iceland</a>, <a href="http://blog.lesterpickerphoto.com/2012/04/14/sri-lanka%E2%80%99s-incredible-yala-national-park/">Sri Lanka</a>, <a href="http://blog.lesterpickerphoto.com/2012/03/25/israel-a-nation-of-stark-contrasts/">Israel</a>, and <a href="http://blog.lesterpickerphoto.com/2012/02/17/a-cold-night-in/">Finland</a>. In the States, I taught a workshop for the Nikonians Academy in Acadia National Park, a location I know and love, having done graduate school research in that gorgeous park. Yes, I feel fortunate to travel to some iconic places as a landscape and travel photographer, but oddly enough it is the wonderful people that I get to meet that makes my trips so special.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/People-2-of-7.jpg"><img class="size-medium wp-image-2511" title="People 2 of 7" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/People-2-of-7-240x300.jpg" alt="" width="240" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/People-2-of-7.jpg"><img class="size-medium wp-image-2511" title="People 2 of 7" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/People-2-of-7-240x300.jpg" alt="" width="240" height="300"></a>
 
 We also revamped <a href="http://www.lesterpickerphoto.com">our website</a> last month. There is still work to be done on it, but I'd love to get your feedback at this point to better inform our efforts. Please take a gander at the site and then leave your comments.
 
@@ -22,9 +22,9 @@ Finally, I was incredibly honored to be given the prestigious<a href="http://blo
 <h3>Looking Ahead to 2013</h3>
 This year's travel promises to be the most rigorous in several years. I start in Yellowstone in January, hoping to get some quality winter landscapes and wildlife. Then it's off to Hawaii, which includes a 2-day hike down Haleakala crater with an Aussie couple that I met entirely by chance as I photographed a sunrise in Acadia last Fall. These nice folks have visited every National Park in the continental U.S. and I'll lead then down the crater during their visit to that Park.
 
-&nbsp;
+ 
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/PICKER-AAR-sample-20-of-20.jpg"><img class="size-medium wp-image-2513" title="PICKER-AAR sample 20 of 20" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/PICKER-AAR-sample-20-of-20-300x184.jpg" alt="" width="300" height="184" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/PICKER-AAR-sample-20-of-20.jpg"><img class="size-medium wp-image-2513" title="PICKER-AAR sample 20 of 20" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/PICKER-AAR-sample-20-of-20-300x184.jpg" alt="" width="300" height="184"></a>
 
 After Hawaii they'll only have Alaska's National Parks to go. What a great accomplishment!
 
@@ -32,7 +32,7 @@ In May I'll be in Italy and Malta. In June I'll spend a couple of weeks RV-ing a
 
 In August I return to Canada, this time to Banff and Jasper in the Canadian Rockies. This year I'll try to avoid a bear encounter. In the past two years I've had two uncomfortable "meetings" with a black bear and a Grizzly. What beautiful animals!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/LAP_55761.jpg"><img class="alignnone size-medium wp-image-2510" title="LAP_5576" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/LAP_55761-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/LAP_55761.jpg"><img class="alignnone size-medium wp-image-2510" title="LAP_5576" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/LAP_55761-200x300.jpg" alt="" width="200" height="300"></a>
 
 Then it's on to Sri Lanka in September, where I lead a <a href="http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1062">workshop for Nikonians</a> and then two more <a href="http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1057">workshops in Maine</a> in October. Last year's workshop sold out, so if you're interested, book early. November and December are not yet set, but I'm hoping for a trip to Africa.
 

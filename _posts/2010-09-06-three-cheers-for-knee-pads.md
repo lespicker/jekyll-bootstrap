@@ -15,11 +15,11 @@ I have found that kneepads can make the difference between a mediocre shot and a
 
 I tend to use the simplest kneepads, only because I find they work best. Here’s what mine look like:
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-1-of-31.jpg"><img class="size-medium wp-image-566" title="knee pads 1 of 3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-1-of-31-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-1-of-31.jpg"><img class="size-medium wp-image-566" title="knee pads 1 of 3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-1-of-31-300x199.jpg" alt="" width="300" height="199"></a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-2-of-31.jpg"><img class="aligncenter size-medium wp-image-567" title="knee pads 2 of 3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-2-of-31-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-2-of-31.jpg"><img class="aligncenter size-medium wp-image-567" title="knee pads 2 of 3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-2-of-31-199x300.jpg" alt="" width="199" height="300"></a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-3-of-31.jpg"><img class="size-medium wp-image-568" title="knee pads 3 of 3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-3-of-31-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-3-of-31.jpg"><img class="size-medium wp-image-568" title="knee pads 3 of 3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-3-of-31-199x300.jpg" alt="" width="199" height="300"></a>
 
 The good thing about these pads is that they are very lightweight and flexible. I typically put them on at the beginning of my hike and leave them on all day. If I do take them off, I wrap the Velcro straps around the handle of my backpack and off I go.
 

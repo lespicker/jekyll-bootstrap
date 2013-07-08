@@ -18,15 +18,15 @@ Well, after two or three nights of stargazing, Richard Hartmier and I finally go
 
 We were at Fish Lake, perhaps 15 minutes outside the city of Whitehorse (pop: 24,000). There were clouds in the sky, not aparticularly good thing when photographing the Aurora. Normally you would want a large expanse of clear, black sky, with the stars bright.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis.jpg"><img class="size-medium wp-image-914" title="Whitehorse aurora borealis" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis.jpg"><img class="size-medium wp-image-914" title="Whitehorse aurora borealis" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-199x300.jpg" alt="" width="199" height="300"></a>
 
 In fact, the lights, as they are known up here, were not very energized that night. It took a long exposure to get this image (look for a future blog with tips on photographing the Aurora).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-1.jpg"><img class="size-medium wp-image-915" title="Whitehorse aurora borealis 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-1-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-1.jpg"><img class="size-medium wp-image-915" title="Whitehorse aurora borealis 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-1-199x300.jpg" alt="" width="199" height="300"></a>
 
 In the image above, I was looking in the same general direction, but in this instance the lights from  the city of Whitehorse lit up a band of clouds, flaming them orange.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-3.jpg"><img class="size-medium wp-image-916" title="Whitehorse aurora borealis 3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-3-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-3.jpg"><img class="size-medium wp-image-916" title="Whitehorse aurora borealis 3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Whitehorse-aurora-borealis-3-300x199.jpg" alt="" width="300" height="199"></a>
 
 In the image above, taken about an hour later, the aurora is diffuse over a massive area of sky. Again, the lights from Whitehorse are reflected by the clouds.
 

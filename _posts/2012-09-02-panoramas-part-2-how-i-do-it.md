@@ -19,9 +19,9 @@ In <a href="http://blog.lesterpickerphoto.com/2012/08/21/panoramas-nail-your-nod
 
 So, with my nodal points now set and printed on a card that I laminate and take with me, I'm off to the races.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/nodalcard.jpg"><img class="size-medium wp-image-2340" title="nodalcard" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/nodalcard-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/nodalcard.jpg"><img class="size-medium wp-image-2340" title="nodalcard" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/nodalcard-300x225.jpg" alt="" width="300" height="225"></a>
 
-&nbsp;
+ 
 <h3>The Setup</h3>
 When I'm on site I get out all my gear and set up. If I'm shooting a horizontal scene, I put my camera in vertical orientation. Vice versa if I plan to shoot a tall waterfall or vertical cityscape.
 
@@ -37,7 +37,7 @@ Next I figure out how much overlap I want in the images. Typically I like a 30% 
 <h3>Shooting Panos At Night</h3>
 There is one thing I want to mention about that panning process. If you are panning a night scene, you would do better to use the gradations etched into your ballhead mount, since eyeballing it in the dark may not be accurate.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/BH55LR.png"><img class="size-medium wp-image-2347" title="BH55LR" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/BH55LR-300x300.png" alt="" width="300" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/BH55LR.png"><img class="size-medium wp-image-2347" title="BH55LR" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/BH55LR-300x300.png" alt="" width="300" height="300"></a>
 
 Of course using tiny gradation marks presents its own problem, since you don't want to be accidentally shining a light from your headlamp into your lens at a critical moment. I use a headlamp with a red light just for security sake. At night I have a routine that goes something like this: focus and fiddle until right, close the back eyepiece window, flip up the mirror (to minimize camera shake), and I'm ready for the pano sequence. Press the cable release, switch on red headlamp, unlock ballhead rotation clamp, rotate ballhead x notches, turn off light, screw down ballhead rotation clamp, press cable release and repeat until the pano sequence is complete.
 <h3>Man on a Mission</h3>
@@ -47,13 +47,13 @@ I always shoot the pano again, maybe varying the exposure by 1/3 or 1/2 stop. Th
 <h3>What is a Pano Anyway?</h3>
 There is also the issue of what constitutes a pano. I'm not one to shoot huge panos, although the one of the Baltimore Harbor shown here is a collection of 14 vertical images, the most I have ever done.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/harbor-flat-small.jpg"><img class="size-medium wp-image-2341" title="harbor-flat-small" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/harbor-flat-small-300x89.jpg" alt="" width="300" height="89" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/harbor-flat-small.jpg"><img class="size-medium wp-image-2341" title="harbor-flat-small" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/harbor-flat-small-300x89.jpg" alt="" width="300" height="89"></a>
 
 In that case I needed it for a wall covering installation that spans 29 feet! I needed every pixel I was able to lasso to get a printed image that looks good. Some folks I know use the GigaPan device, which can shoot hundreds of images in a panorama. Since I shoot a Hasselblad in RAW and I have a 6-year old Mac computer, I'll skip that technology for right now.
 
 Most of the time I will take 3 images to build a pano. But, I'm also thinking of how I will use them. Sometimes, as with the Baltimore Harbor wall covering, I need something long and narrow. Other times I will need something nearly square for a client's wall space (a 2-shot pano?). So, while I'm in a particular location, I'll try various combos to afford me some flexibility.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/LAP0869-Panorama.jpg"><img class="size-medium wp-image-2342" title="_LAP0869 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/LAP0869-Panorama-300x123.jpg" alt="" width="300" height="123" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/LAP0869-Panorama.jpg"><img class="size-medium wp-image-2342" title="_LAP0869 Panorama" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/LAP0869-Panorama-300x123.jpg" alt="" width="300" height="123"></a>
 
 I'm sure I've left some things out. As always, if you have any questions or wish to make a comment, feel free to do so here.
 

@@ -26,7 +26,7 @@ Most people know the route as the Road to Hana. But what about the return trip, 
 
 But there is another way to return from a visit to glorious Hana. Just keep driving clockwise, following the shore road. At first your journey is familiar, passing through deep foliage and waterfalls. But then the vistas open up as you pass farmland and eventually open terrain that give you unobstructed views of mighty, cloud shrouded Haleakala.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024292-Edit.jpg"><img class="size-medium wp-image-2594  " title="A0024292-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024292-Edit-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024292-Edit.jpg"><img class="size-medium wp-image-2594  " title="A0024292-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024292-Edit-300x225.jpg" alt="" width="300" height="225"></a>
 
 Make no mistake about it, the road is rough, with a 5-mile stretch that is mostly gravel. The road immediately after Hana narrows to 1-1/2 lanes and if a car is coming from the opposite direction, one of you will have to pull over into a turnout to allow the other to get by. The road is twisty, too, but the views are utterly jaw-dropping.
 <h3>Iconic Stops</h3>
@@ -36,7 +36,7 @@ The hike to Waimoku Falls is one of the premier hikes on Maui (my favorite is th
 
 Is it worth it? How does a 400-foot tall straight drop waterfall sound? A waterfall so voluminous it creates its own wind!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024256.jpg"><img class="size-medium wp-image-2597" title="A0024256" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024256-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024256.jpg"><img class="size-medium wp-image-2597" title="A0024256" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024256-225x300.jpg" alt="" width="225" height="300"></a>
 
 On this 2-mile uphill hike you will also encounter a majestic banyan tree (.5 mile mark) that begs to be photographed. Then you enter a magical bamboo forest (1 mile mark) that demands reverential attention. Then you ford two streams and finally you have earned the right to capture Waimoku on film or card.
 
@@ -54,11 +54,11 @@ A couple of hints for this hike:
 
 6. Celebrate every moment of this hike.
 
-&nbsp;
+ 
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024303-Edit.jpg"><img class="size-medium wp-image-2595" title="A0024303-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024303-Edit-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024303-Edit.jpg"><img class="size-medium wp-image-2595" title="A0024303-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024303-Edit-300x225.jpg" alt="" width="300" height="225"></a>
 
-&nbsp;
+ 
 
 The final stretch along the Pi'ilani Highway offers radically different views of Maui, from fields of cattle to sweeping views of the coast on one side and Haleakala on the other. Enough eye candy to cause an extreme high!
 

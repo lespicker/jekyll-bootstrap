@@ -23,19 +23,19 @@ The scoop is that every November, here in Finalnd’s north which is known as La
 
 For example, they build a large, domed “chapel” with a ceiling that is at least 25 feet high. They do this by blowing up a huge balloon, then spraying a chemical-free, secret mixture of snow and water over the balloon. It’s so cold in Lapland in November, the structure freezes solid in three hours. They deflate the balloon and continue adding ice until the walls are 18-32 inches thick.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45252.jpg"><img class="size-medium wp-image-1963" title="_LAP4525" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45252-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45252.jpg"><img class="size-medium wp-image-1963" title="_LAP4525" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45252-199x300.jpg" alt="" width="199" height="300"></a>
 
 Using prefabbed molds they then build the arched walkways of the hotel, from which radiate the 25 individual guest rooms. When the walls are thickened and hardened, they bring in the folks who work long days and nights to carve the various ice statues and wall carvings that are unique to each room.
 
 Amazingly, they do all this within four weeks. This past year it was slightly above zero well into November. Delayed to the last minute, the owners brought in carvers from China to finish the hotel in record time- 2-1/2 weeks!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201.jpg"><img class="size-medium wp-image-1964" title="_LAP4520" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201.jpg"><img class="size-medium wp-image-1964" title="_LAP4520" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201-300x199.jpg" alt="" width="300" height="199"></a>
 <h3>Settling In</h3>
 Guests are given an orientation to the Village, which is an active tourist’s paradise. The Hotel runs snowmobile tours, dogsledding tours, reindeer tours, snowshoeing and cross-country skiing tours. It does have heated cabins on the property, but I wouldn’t be writing this if that’s all they had.
 
 The hotel offers an ice bar and restaurant. Seriously folks, you can order drinks or an entire meal, served to you by waitresses wearing down jackets, woolen caps and mittens. At least I think they were waitresses. Could’ve been waiters, now that I think of it.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871.jpg"><img class="size-medium wp-image-1965" title="B0017887" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871.jpg"><img class="size-medium wp-image-1965" title="B0017887" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871-300x225.jpg" alt="" width="300" height="225"></a>
 
 There is also a normal, heated restaurant on the property.  But, you’re probably wondering what it’s like sleeping in a room naturally at -5 Celsius (that’s about 23F), on a bed made of a solid block of ice. Well, it’s…
 <h3>The Big Prep</h3>
@@ -49,7 +49,7 @@ Oh, and it might not be a good idea to drink before going to bed - actually anyt
 
 Oh, and your shoes. I forgot about those. Obviously you’ll leave them next to your “bed,” so on the odd chance that you do get up during the night to pee, you’ll find them a tad bit cold.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861.jpg"><img class="size-medium wp-image-1969" title="B0017886" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861.jpg"><img class="size-medium wp-image-1969" title="B0017886" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861-300x225.jpg" alt="" width="300" height="225"></a>
 <h3>The Verdict</h3>
 So, how was it, you ask? Before the penultimate answer, I’ll quickly describe the process of going to sleep... in an ice hotel, that is.
 
@@ -63,7 +63,7 @@ The Snow Hotel is fortunate to have Ella Kurtakko in the kitchen. Each summer sh
 
 The Snow Hotel is not luxurious by any means, but it is up to European expectations. For example, it has but one tiny bathroom serving the entire reception, restaurant and bar area. The entranceway to the hotel is so unadorned, it looks like a Soviet-era clinic. There is no Internet service but, really, why would you want it in such exquisite surroundings?
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661.jpg"><img class="size-medium wp-image-1966" title="B0017866" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661.jpg"><img class="size-medium wp-image-1966" title="B0017866" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661-225x300.jpg" alt="" width="225" height="300"></a>
 
 So, if you’re in Finland, you might want to try The Snow Village. Once.
 

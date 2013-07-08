@@ -17,7 +17,7 @@ I recovered enough in late afternoon to venture out for some sunset images, but 
 
 Since I’ve not been to Zion National Park before, I was really looking forward to this visit. I’m using this visit to field test my new Hasselblad H4D-50. In fact, I left all my Nikon equipment at home so this was a cold turkey test. No alternate reality option available.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Job_0142-1.jpg"><img class="size-full wp-image-1758" title="Job_0142 (1)" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Job_0142-1.jpg" alt="" width="480" height="640" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Job_0142-1.jpg"><img class="size-full wp-image-1758" title="Job_0142 (1)" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/Job_0142-1.jpg" alt="" width="480" height="640"></a>
 
 I also bought a new backpack for the trip, a LowePro Trekker 400 AW, as my Hassy equipment is bulkier than my Nikon gear. I’ll review the backpack and explain more about this Hassy test in a coming blog, where I’ll summarize what I see as strengths and weaknesses of the Hassy system for landscape and nature photographers. Very briefly, the files the Hassy system produces seem incredible to my eyes, but there are definite “issues” with using it in the field. Some of them are undoubtedly due to my stubbornness and to my intricate knowledge of Nikon products. It’s hard to teach an old dog new tricks.
 

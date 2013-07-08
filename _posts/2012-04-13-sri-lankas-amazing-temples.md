@@ -18,7 +18,7 @@ Seventy-five percent of its people are Buddhist, with Hindus making up 15% and M
 
 Both Buddhists and Hindus have, over the centuries, built exquisite temples and monasteries, worthy of extensive photography, if only I had enough time this visit. I do intend to return, though.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018543.jpg"><img class="alignnone size-medium wp-image-2080" title="A0018543" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018543-300x229.jpg" alt="" width="300" height="229" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018543.jpg"><img class="alignnone size-medium wp-image-2080" title="A0018543" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018543-300x229.jpg" alt="" width="300" height="229"></a>
 
 This is one example, a monastery built into a cliff overhang and known as the Dambulla Cave Temple. In many temple enclaves, you will find both Buddhist and Hindu places of worship, although not in Dambulla. Over the centuries the two religions have intertwined so that they share a few of the same deities.
 

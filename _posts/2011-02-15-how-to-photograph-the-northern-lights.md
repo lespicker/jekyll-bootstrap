@@ -71,7 +71,7 @@ There are tons of articles and technical publications related to photographing t
 Rather than get into a technical discourse, here is some basic information and some personal tips if you are thinking of capturing the Northern (or Southern) lights with your camera. Please note that most of this information is based on personal experience and discussions with my friend Richard Hartmier (<a href="http://www.hartmier.com/flash/light/light.html">http://www.hartmier.com/flash/light/light.html</a> ), an experienced Northern lights photographer who lives in Whitehorse, Yukon. I’m sure I left some things out, so feel free to suggest your own tips so our readers may benefit from your experience.
 <div>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Auroragate.jpeg"><img class="size-medium wp-image-976" title="Auroragate" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Auroragate-300x202.jpg" alt="" width="300" height="202" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Auroragate.jpeg"><img class="size-medium wp-image-976" title="Auroragate" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Auroragate-300x202.jpg" alt="" width="300" height="202"></a>
 
 </div>
 <h2 style="text-align: center;">Preparation</h2>
@@ -117,7 +117,7 @@ Many cameras have a setting that minimizes noise. However, that usually doubles 
 <h3>Don’t Use Filters</h3>
 Whatever you do, be sure to remove all filters from in front of your lens. Filters can cause interference patterns that will ruin the images (in the sample, below, note the bulls-eye rings in the aurora, just above the  river).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/2008-Yukon-Dawson-City-332008-09-191.jpg"><img class="size-medium wp-image-975" title="Northen lights over Yukon River, Dawson City, Yukon, Canada" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/2008-Yukon-Dawson-City-332008-09-191-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/2008-Yukon-Dawson-City-332008-09-191.jpg"><img class="size-medium wp-image-975" title="Northen lights over Yukon River, Dawson City, Yukon, Canada" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/2008-Yukon-Dawson-City-332008-09-191-300x199.jpg" alt="" width="300" height="199"></a>
 <h3>Start at 20 Seconds</h3>
 With your camera on manual focus and set on infinity, trip your shutter and time it to stay open for 20 seconds as a starting point. In some cameras, you will need to set your camera to “Bulb” to accomplish this. Other cameras have pre-set long time intervals to make the job easier.
 

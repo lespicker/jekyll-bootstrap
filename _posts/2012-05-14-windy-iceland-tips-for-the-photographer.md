@@ -19,7 +19,7 @@ For the past few days, I've been battling severe windy conditions here in Icelan
 
 The following image was taken, believe it or not, on a freezing cold beach on Iceland's south coast, with the winds blowing at hurricane force (that's 70+ miles per hour)! Click on the image to enlarge it.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A00201851.jpg"><img class="alignnone size-medium wp-image-2192" title="A0020185" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A00201851-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A00201851.jpg"><img class="alignnone size-medium wp-image-2192" title="A0020185" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A00201851-300x225.jpg" alt="" width="300" height="225"></a>
 
 My colleague and I sat in our vehicle for ten minutes, looking over the spectacular black sand beach, the icebergs in the water being buffeted by giant waves, and nature's fury lashing at the waves head on. Should we chance it or not. We discussed the pros and cons and for a second or two I had the 4-wheel in reverse, ready to leave. But the failing light of day convinced us to at least give it a try.
 
@@ -31,7 +31,7 @@ This is only one of a series of images I took. It is not processed at all (I am 
 
 This next image I took on a stop the very next day, with the winds still at gale force. This small waterfall beckoned from the road as I passed and so I put on my wool hat, wind parka and hood and gloves and set up next to the falls. Again, I stayed low, spread out my tripod legs, hung my pack from the center hook and shot away. I also took a panorama of this falls, which I hope to share with you in the next month or so in a blog I'll do on panorama shooting. The equipment was the same as above, but I shot it at ISO 50, f11, 1/3 second to show water flow.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020289.jpg"><img class="alignnone size-medium wp-image-2193" title="A0020289" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020289-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020289.jpg"><img class="alignnone size-medium wp-image-2193" title="A0020289" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020289-300x225.jpg" alt="" width="300" height="225"></a>
 
 Normally, in winds you want to shoot at as fast a shutter speed as possible in order to minimize shake and blurring. But I was faced with the conundrum of wanting to shoot slow to soften the water. My point here is that even this can be done if you pay attention to basics; a sturdy tripod with cable release, good technique and, most importantly, perseverance.
 

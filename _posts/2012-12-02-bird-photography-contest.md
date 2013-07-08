@@ -22,11 +22,11 @@ I'll start off by saying that I tip my hat to all bird photographers. You folks 
 
 It's odd that I never got into bird photography in any major way, especially due to the influence that Roger Peterson had on my life. When I was doing my ecology graduate work at the University of Maine, I approached Roger, arguably the preeminent popular ornithologist of his time, author and artist, for help. I had met Roger when I interviewed him for a biology publication and afterwards he graciously took on this young, eager ecologist as a student of sorts. I remember sitting in his windowed Connecticut studio, surrounded by his lovely artwork, pestering him with questions and listening to his suggestions for my research.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/DSC4098-1.jpg"><img class="alignnone size-medium wp-image-2482" title="_DSC4098 (1)" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/DSC4098-1-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/DSC4098-1.jpg"><img class="alignnone size-medium wp-image-2482" title="_DSC4098 (1)" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/DSC4098-1-200x300.jpg" alt="" width="200" height="300"></a>
 
 But, while I marveled at Roger's deep knowledge and his love of nature, I have never been drawn to bird photography in any serious way. Sure, I've captured some decent photos of my feathered friends from time to time, but I've never mastered its art. I do, however, acknowledge those photographers who have.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/LAP67771.jpg"><img class="alignnone size-medium wp-image-2485" title="_LAP6777" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/LAP67771-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/LAP67771.jpg"><img class="alignnone size-medium wp-image-2485" title="_LAP6777" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/LAP67771-300x225.jpg" alt="" width="300" height="225"></a>
 <h3></h3>
 <h3>Contest</h3>
 In honor of the upcoming annual Christmas Bird Count, I'm announcing an impromptu photo contest for my readers. If you have a really fantastic image of a bird that you'd be willing to share in my blog, please send it  to me (<strong>les@lesterpickerphoto.com</strong>), along with a brief description of how you captured the image and the name of the bird. Just one entry per person, please.
@@ -37,4 +37,4 @@ Judging will be done by my assistant, Bob Boyer, and me. The deadline is midnigh
 
 Good luck!
 
-&nbsp;
+ 

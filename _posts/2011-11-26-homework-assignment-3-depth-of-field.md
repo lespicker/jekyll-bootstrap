@@ -26,6 +26,6 @@ This is also the perfect time of year to conduct this experiment outdoors, since
 
 In the following image, I was attracted to this tree that somehow managed to flourish in such a precarious environment, growing from cracks in the rock poised near the edge of the Grand Canyon. I pre-visualized the image I wanted and knew that if I shot wide open, meaning at f/2.8, 4 or 5.6, the background would render blurry and unrecognizable. So I shot at f/11 and 16, as shown here. I like the effect of placing the gnarled tree in the context of its magnificent setting.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/grand-canyon-tree.jpg"><img class="size-full wp-image-1769" title="grand canyon tree" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/grand-canyon-tree.jpg" alt="" width="682" height="1024" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/grand-canyon-tree.jpg"><img class="size-full wp-image-1769" title="grand canyon tree" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/grand-canyon-tree.jpg" alt="" width="682" height="1024"></a>
 
 In order to see the practical applications of this, go to my blog post on shooting in aperture priority: <a href="http://blog.lesterpickerphoto.com/2009/11/02/best-way-to-improve-your-images-try-shooting-in-aperture-priority/">http://blog.lesterpickerphoto.com/2009/11/02/best-way-to-improve-your-images-try-shooting-in-aperture-priority/</a>.

@@ -22,12 +22,12 @@ The first rule of wildlife photography is to stay safe. It sounds simple, but I 
 
 Always be acutely aware of your surroundings when photographing wildlife. Have an escape route mapped out in your mind. Never come between a mother and her babies (forget bears, I was almost pecked to death by an irate Arctic tern protecting its nest!).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP_5261-Edit.jpg"><img class="size-medium wp-image-2697" title="Gone Fishing" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP_5261-Edit-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP_5261-Edit.jpg"><img class="size-medium wp-image-2697" title="Gone Fishing" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP_5261-Edit-300x199.jpg" alt="" width="300" height="199"></a>
 
-If you do plan to photograph bears, a North American wildlife favorite, I strongly suggest having a trained guide with you, at least the first few times. <span style="text-decoration: underline;">Always</span> keep a can of bear spray on your person. Practice and know how to use it so that if the occasion arises (let's hope it never does!) you'll know its limitations. Stay upwind when possible while photographing bears, so you can use the spray without it drifting back to you. That's a very painful experience, let me tell you. Stay far away from bear cubs. An angered sow can accelerate to 30 miles per hour in seconds!
+If you do plan to photograph bears, a North American wildlife favorite, I strongly suggest having a trained guide with you, at least the first few times. Always keep a can of bear spray on your person. Practice and know how to use it so that if the occasion arises (let's hope it never does!) you'll know its limitations. Stay upwind when possible while photographing bears, so you can use the spray without it drifting back to you. That's a very painful experience, let me tell you. Stay far away from bear cubs. An angered sow can accelerate to 30 miles per hour in seconds!
 
 In the photograph here, I used a long lens to stay a safe distance from this bear. Even so, it got too close for comfort and I ended up grabbing my setup and walking away slowly, leaving all the the salmon just for him. If you click on the image and look at the claws, you'll see why discretion is the better part of a good nature photograph.
 
 Stay tuned for more tips this spring. I'll be peppering my blogs with tips from my e-books on <a href="http://shop.lesterpickerphoto.com/">People, Landscapes and Wildlife</a>.
 
-&nbsp;
+ 

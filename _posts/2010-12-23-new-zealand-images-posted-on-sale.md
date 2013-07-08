@@ -10,7 +10,7 @@ tags:
 ---
 I just posted selected  images on  my website from my recent trip to New Zealand. They join the images I recently posted from Australia. Please head over to my image website by clicking on the "Lester Picker Photography" black box at the top right of this page (or top left).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Milford-Sound-South-Island-New-Zealand-442010-11-151.jpg"><img class="size-medium wp-image-833" title="Milford Sound, South Island, New Zealand 442010-11-15" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Milford-Sound-South-Island-New-Zealand-442010-11-151-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Milford-Sound-South-Island-New-Zealand-442010-11-151.jpg"><img class="size-medium wp-image-833" title="Milford Sound, South Island, New Zealand 442010-11-15" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Milford-Sound-South-Island-New-Zealand-442010-11-151-300x199.jpg" alt="" width="300" height="199"></a>
 
 You'll notice that I rendered many of the new images in B&amp;W. I love B&amp;W photography, but my hand was forced in this case by the horrible weather we encountered. It either rained or the skies were gray much of the time. While that is disappointing on the color side, it is a gift for B&amp;W enthusiasts.
 

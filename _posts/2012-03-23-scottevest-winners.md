@@ -10,7 +10,7 @@ tags:
 ---
 To all of you who submitted images to the ScotteVest contest, I apologize for taking so long to connect you to their site for the announcement of winners. I have been out of the country (Israel) and now leave in a day for Sri Lanka for 3 weeks. For good measure, I got sick in Israel and am still fighting a nasty cold and cough
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/pro_photographers_14_page.jpg"><img class="alignnone size-medium wp-image-2027" title="pro_photographers_14_page" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/pro_photographers_14_page-300x143.jpg" alt="" width="300" height="143" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/pro_photographers_14_page.jpg"><img class="alignnone size-medium wp-image-2027" title="pro_photographers_14_page" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/pro_photographers_14_page-300x143.jpg" alt="" width="300" height="143"></a>
 
 In any event, here is the link to the ScotteVest winners:
 

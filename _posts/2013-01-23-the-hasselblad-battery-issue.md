@@ -17,7 +17,7 @@ tags:
 ---
 Before I left for Yellowstone a couple of weeks ago, I was anxious about only one photographic issue. How would my Hasselblad H4D batteries perform in the cold weather?
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/imgres-1.jpeg"><img class="size-medium wp-image-2555" title="imgres-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/imgres-1-300x165.jpeg" alt="" width="300" height="165" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/imgres-1.jpeg"><img class="size-medium wp-image-2555" title="imgres-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/imgres-1-300x165.jpeg" alt="" width="300" height="165"></a>
 
 Of course Hasselblad is a superb camera system, second to none and I love its luscious, film-like images and incredible dynamic range. Those of you who follow my blog know that I shoot Nikon and Hasselblad. But ever since I started using Hassy, I have been disappointed in its battery capacity. My Nikon D200, D300, D700 and now the D800 keep going and going, like the Energizer bunny. I can get 1,000 clicks and more from a single charge. But with my Hassy, if I got 100 shots outdoors I considered myself fortunate. So I was apprehensive prior to leaving for the north.
 
@@ -33,4 +33,4 @@ On a side note new batteries will have a low initial capacity, cycle them throug
 
 Many thanks to HLArt from me and any Hassy users who may benefit from my reposting his advice. It sure worked for me!
 
-&nbsp;
+ 

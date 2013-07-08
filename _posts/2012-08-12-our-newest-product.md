@@ -24,20 +24,20 @@ We found a small American business that creates hand-crafted, cloth-covered boxe
 
 Bob and I worked for weeks to develop the styling, color and design of the box. In the end we came up with a respectable mockup.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9543-as-Smart-Object-1.jpg"><img class="alignnone size-medium wp-image-2350" title="_DSC9543 as Smart Object-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9543-as-Smart-Object-1-300x198.jpg" alt="" width="300" height="198" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9543-as-Smart-Object-1.jpg"><img class="alignnone size-medium wp-image-2350" title="_DSC9543 as Smart Object-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9543-as-Smart-Object-1-300x198.jpg" alt="" width="300" height="198"></a>
 
 But we were faced with both the functional, as well as aesthetic issue of how to separate the individual prints within the box to prevent scratching. I also do not like my images to be cluttered with a descriptive title or location information right on the print. So Bob and I came up with what we think is an innovative solution.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9554-as-Smart-Object-1.jpg"><img class="alignnone size-medium wp-image-2314" title="_DSC9554 as Smart Object-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9554-as-Smart-Object-1-300x198.jpg" alt="" width="300" height="198" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9554-as-Smart-Object-1.jpg"><img class="alignnone size-medium wp-image-2314" title="_DSC9554 as Smart Object-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9554-as-Smart-Object-1-300x198.jpg" alt="" width="300" height="198"></a>
 
-&nbsp;
+ 
 
 We are using sheets of translucent vellum to separate the prints.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9563-as-Smart-Object-1.jpg"><img class="alignnone size-medium wp-image-2315" title="_DSC9563 as Smart Object-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9563-as-Smart-Object-1-300x198.jpg" alt="" width="300" height="198" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9563-as-Smart-Object-1.jpg"><img class="alignnone size-medium wp-image-2315" title="_DSC9563 as Smart Object-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/DSC9563-as-Smart-Object-1-300x198.jpg" alt="" width="300" height="198"></a>
 
-&nbsp;
+ 
 
 Bob masterfully printed the descriptive information on the vellum with a gorgeous screen, so that the information can always be associated with the correct image. We can’t wait to see the reactions of the donors this fall. When the actual final product is ready, we’ll do a separate shoot and share it with you. In the meantime, I’d love to get your feedback.
 
-&nbsp;
+ 

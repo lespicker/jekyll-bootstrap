@@ -17,7 +17,7 @@ tags:
 ---
 I was in the midst of writing a blog when I learned of the death of Steve Jobs just a few minutes ago. I am truly saddened by the loss of this icon of our generation.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/images.jpeg"><img class="aligncenter size-full wp-image-1711" title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/images.jpeg" alt="" width="194" height="259" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/images.jpeg"><img class="aligncenter size-full wp-image-1711" title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/10/images.jpeg" alt="" width="194" height="259"></a>
 
 As a disclaimer, our business is a wholly Apple technology enterprise. We have Apple desktop computers, laptops, iPods, iPads and soon to be the newest iPhone 4S. My incredibly talented associate, Bob, is nothing short of an Apple expert and I know he will particularly mourn the passing of this man.
 

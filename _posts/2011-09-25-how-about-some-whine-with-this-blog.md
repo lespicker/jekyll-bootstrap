@@ -14,7 +14,7 @@ tags:
 ---
 As you can see, I had a bit of surgery two days ago.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/photo.jpg"><img class="aligncenter size-medium wp-image-1614" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/photo-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/photo.jpg"><img class="aligncenter size-medium wp-image-1614" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/photo-300x225.jpg" alt="" width="300" height="225"></a>
 
 This is the second time I had to undergo this repair of the arthritic base of my left thumb. The first time, about 5 years ago, the repair did not work and it's been getting steadily more painful as I balance my camera in my left hand. So I felt I had little choice. So I'm typing this with one finger, just to let you know that my communications this week will be a bit sparse.
 

@@ -17,7 +17,7 @@ Me, I was dressed appropriately, being a landscape/wildlife photographer. We wer
 
 We walked down the embankment on a well-worn path. I stepped out onto a slippery rock in the stream and Bob was one step behind me when I heard a whoosh, thud, bone crunching on rock and a moan. Bob had slipped on the muddy rock and was down for the count.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/HdG-Fall_2007-11-21_211©LesterPicker.jpg"><img class="size-medium wp-image-1087 " title="HdG Fall_2007-11-21_211©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/HdG-Fall_2007-11-21_211©LesterPicker-212x300.jpg" alt="" width="212" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/HdG-Fall_2007-11-21_211%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-1087 " title="HdG Fall_2007-11-21_211©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/HdG-Fall_2007-11-21_211%C2%A9LesterPicker-212x300.jpg" alt="" width="212" height="300"></a>
 
 White shirt no more, pants the color of muck, bloody hand and a big hurt all over his body. Can’t wait to hear how he feels when he gets up in the morning. We have a photo shoot of our most recent photo installation scheduled for tomorrow. We’ll see. I just hope he's okay.
 

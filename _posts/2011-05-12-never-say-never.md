@@ -24,8 +24,9 @@ tags:
 ---
 I was reviewing some images this week in preparation for a presentation on my photography, when I came across this image. It sparked a memory that I’d like to share with you.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CanadianRockies2009-1482009-09-29-1.jpg"><img class="size-medium wp-image-1108" title="CanadianRockies2009 1482009-09-29 (1)" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CanadianRockies2009-1482009-09-29-1-300x198.jpg" alt="" width="300" height="198" /></a>
-<div class="mceTemp mceIEcenter"><dl id="attachment_1108" class="wp-caption aligncenter" style="width: 310px;"> <dd class="wp-caption-dd">Banff National Park</dd> </dl></div>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CanadianRockies2009-1482009-09-29-1.jpg"><img class="size-medium wp-image-1108" title="CanadianRockies2009 1482009-09-29 (1)" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CanadianRockies2009-1482009-09-29-1-300x198.jpg" alt="" width="300" height="198"></a>
+<div class="mceTemp mceIEcenter"><dl id="attachment_1108" class="wp-caption aligncenter" style="width: 310px;">
+<dd class="wp-caption-dd">Banff National Park</dd> </dl></div>
 I took this image at approximately an hour after sunset at the end of September in Banff National Park in Canada. (Please click on the image to enlarge it).
 
 The other photographers I was with had packed up their gear at or shortly after sunset. Since it had just snowed and the meadow was so magically covered, I decided to linger and milk the scene for what it was worth. With digital, what did I have to lose?

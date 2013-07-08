@@ -21,6 +21,6 @@ I’m also going to do something corny that I’ve wanted to try for at least 20
 
 My guess is that I won’t get to sleep in it much, though, because my intention is to be out every night trying to photograph the Northern Lights, which are reported to be putting on quite a show this year.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP1127.jpg"><img class="size-medium wp-image-1946" title="_LAP1127" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP1127-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP1127.jpg"><img class="size-medium wp-image-1946" title="_LAP1127" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP1127-300x199.jpg" alt="" width="300" height="199"></a>
 
 In any event, you’ll be able to follow me again in real time on my travels. I’ll have my SPOT GPS with me and, as usual, I’ll blog from the frozen northlands. While I’m gone, please do me a favor. Stay warm!

@@ -19,7 +19,7 @@ tags:
 ---
 Pssst! Here’s one of the best-kept secrets in America. It’s called the America the Beautiful – National Parks and Federal Recreational Lands – Senior Pass.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/SeniorFRT.jpg"><img class="aligncenter size-full wp-image-1229" title="SeniorFRT" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/SeniorFRT.jpg" alt="" width="285" height="180" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/SeniorFRT.jpg"><img class="aligncenter size-full wp-image-1229" title="SeniorFRT" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/SeniorFRT.jpg" alt="" width="285" height="180"></a>
 
 The Senior Pass is available to any citizen (or permanent resident) over age 62 and can only be obtained in person at any National Park, Bureau of Land Management (BLM), Fish and Wildlife Service and many Department of Agriculture offices. I got mine while in New Mexico photographing at a BLM site. If you are a senior photographer, this has got to be the best deal around.
 

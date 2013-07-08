@@ -16,8 +16,8 @@ No matter where I am the same thing happens. Last year I was in a remote locatio
 
 In Hawaii last week I stopped at a lookout that barely fit two cars on a narrow, winding road overlooking a 500-foot drop. Still, several other cars stopped - one of them on the road!- and people got out to take a picture. Aha!! This time my wife caught them in the act!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/IMG_1337.jpeg"><img class="size-medium wp-image-2631" title="IMG_1337" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/IMG_1337-300x225.jpeg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/IMG_1337.jpeg"><img class="size-medium wp-image-2631" title="IMG_1337" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/IMG_1337-300x225.jpeg" alt="" width="300" height="225"></a>
 
-&nbsp;
+ 
 
 So, there, proof of my Magnetetron theory. But, beware ladies. My Magnetetron also makes highly detailed images of your naked torsos. You have been warned!

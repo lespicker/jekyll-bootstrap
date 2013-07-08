@@ -25,9 +25,9 @@ But, as you blow up that image that noise becomes apparent. And few things ruin 
 
 The answer? Simply lower your ISO when capturing landscape images.
 
-Many newer cameras have their "native" ISO set at or around 200. If that's the case with your camera, then by all means try to keep your ISO at 200 (or below). Many cameras can handle up to ISO 400 or even 800 with minimal noise, but don’t count on it. However, to effectively use ISO 200 or below you will almost always have to use tripod. All other variables being equal, as you lower the ISO you must keep open the shutter for a longer period of time to allow in enough light. To prevent hand shake during exposures a tripod <span style="text-decoration: underline;">and</span> cable release are critical.
+Many newer cameras have their "native" ISO set at or around 200. If that's the case with your camera, then by all means try to keep your ISO at 200 (or below). Many cameras can handle up to ISO 400 or even 800 with minimal noise, but don’t count on it. However, to effectively use ISO 200 or below you will almost always have to use tripod. All other variables being equal, as you lower the ISO you must keep open the shutter for a longer period of time to allow in enough light. To prevent hand shake during exposures a tripod and cable release are critical.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP3080-2-Edit-2.jpg"><img class="alignnone size-medium wp-image-2701" title="Ramparts" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP3080-2-Edit-2-300x199.jpg" alt="" width="300" height="199" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP3080-2-Edit-2.jpg"><img class="alignnone size-medium wp-image-2701" title="Ramparts" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP3080-2-Edit-2-300x199.jpg" alt="" width="300" height="199"></a>
 
 Many landscape images require times of 1/15 second or slower.; for silky, flowing water, many seconds. In my twenties I could hand-hold a SLR with a wide angle lens and nail it at 1/15. Nowadays, not so much. I need a tripod for probably 80-90% of my landscapes. But the trade-off of carrying one around is that you can keep your ISO low. The result? You'll have crisper landscapes with no "noise" at all.
 

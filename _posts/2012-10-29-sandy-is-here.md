@@ -15,14 +15,14 @@ My main concern at the moment is high tide, when the waters of the mighty, wind-
 
 This is an iPhone image taken from my deck a couple of hours before we left and it doesn't look too terribly bad.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/storm.jpg"><img class="alignnone size-medium wp-image-2419" title="storm" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/storm-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/storm.jpg"><img class="alignnone size-medium wp-image-2419" title="storm" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/storm-300x225.jpg" alt="" width="300" height="225"></a>
 
 By now we envision roof tiles ripped off and the waters rising. Oh, well.
 
 I'll get some images when we return, hopefully to a nice, dry home! Stay posted.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 

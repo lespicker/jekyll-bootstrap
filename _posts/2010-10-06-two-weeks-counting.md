@@ -25,6 +25,6 @@ I’ve also got to consider how I’ll transport my gear, both while traveling a
 
 A couple of weeks ago I started training at my gym for my excursion. Most people don’t think of this when they think ‘photojournalist,’ but the work can be physically demanding. I carry 30-40 pounds of equipment with me to remote locations, so I have to stay in shape. Typically, beginning a month prior to a major trip I’ll go to my gym three or four times a week dressed in my hiking clothes, and walk the treadmill for an hour or two, varying the up and down hill inclines throughout. I carry my full photo backpack. I’m sure I look like a total dork but, hey, someone’s got to play the role. (In the accompanying photo I'm using the ThinkTank Rotation 360)
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/lesontreadmill-1-of-1.jpg"><img class="size-medium wp-image-616" title="lesontreadmill 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/lesontreadmill-1-of-1-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/lesontreadmill-1-of-1.jpg"><img class="size-medium wp-image-616" title="lesontreadmill 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/lesontreadmill-1-of-1-225x300.jpg" alt="" width="225" height="300"></a>
 
 P.S.: As of yesterday an arrangement in New Zealand I was counting on fell through, so I’ve got to start that segment again from scratch!

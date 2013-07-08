@@ -18,7 +18,7 @@ Tomorrow I leave again for Canada's Yukon Territory, my second trip up there thi
 
 Those of you who read my blog know that I have a love affair with the Yukon, with its abundance of wildlife, mind-blowing scenics and friendly people. With a land mass 20% larger than California's, the Yukon has 30,000 residents, compared to California's 33,000,000. Since 24,000 of Yukon's residents live in the capital city of Whitehorse, that leaves 6,000 people to share the land with 30,000 bear, 60,000 moose and hundreds of thousands of caribou and elk. 
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/northernlights1.jpg"><img src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/northernlights1-199x300.jpg" alt="" title="northernlights1" width="199" height="300" class="size-medium wp-image-1395" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/northernlights1.jpg"><img src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/northernlights1-199x300.jpg" alt="" title="northernlights1" width="199" height="300" class="size-medium wp-image-1395"></a>
 
 On this trip I'll be trying a new high-tech solution. If you want to follow my travels on a map, I will be  sending my "tracks" to a SPOT GPS device. On my first blog from the Yukon on Saturday, Aug 13, I'll leave a direct link embedded in the blog. You simply click on that and a map will open up showing you where I am in real time. Pretty nifty, eh? Plus, on the upper right hand side of the map, you can change the view from road, to terrain to satellite, allowing you to see the contours of the land. 
 

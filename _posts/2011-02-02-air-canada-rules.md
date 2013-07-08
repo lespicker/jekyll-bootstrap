@@ -24,7 +24,7 @@ I've started using my SPOT GPS system, so you'll be able to follow me in real ti
 
 Our photo day was a bust in terms of images, but still a fun experience. It actually rained most of the afternoon! Now, we're talking Yukon, folks. It should have been snowing. The temperature was a balmy 5C (41F), highly unusual this far north.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/south-of-Whitehorse.jpg"><img class="size-medium wp-image-905" title="south of Whitehorse" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/south-of-Whitehorse-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/south-of-Whitehorse.jpg"><img class="size-medium wp-image-905" title="south of Whitehorse" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/south-of-Whitehorse-199x300.jpg" alt="" width="199" height="300"></a>
 
 After a short nap, Richard picked me up again at 11:30 PM for a try at photographing the Northern Lights. Predictions at <a href="http://www.spaceweather.com">www.spaceweather.com</a> and the University of Alaska's Northern Lights tracking site were for the start of a few days of good displays, but after two hours of standing around, waiting, a heavy layer of clouds moved in and we drove back to town.
 

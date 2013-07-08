@@ -14,7 +14,7 @@ tags:
 ---
 I have to run this one by you all. I recently tried to make reservations at a pricey B&amp;B in Brookline, Massachusetts. It seems like a very nice, comfortable B&amp;B, judging by their website. I’ll be visiting my stepson, daughter-in-law and newest grandson and the B&amp;B looked pretty convenient. After giving the very pleasant woman my credit card info, I was ready to hang up, when she asked if I knew their cancellation policy. Well, no, I guess I didn’t.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Dylan1.jpg"><img class="size-medium wp-image-1312" title="Dylan1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Dylan1-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Dylan1.jpg"><img class="size-medium wp-image-1312" title="Dylan1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Dylan1-199x300.jpg" alt="" width="199" height="300"></a>
 
 “We have a 14-day cancellation policy, for any reason,” she tells me. Silence on both ends.
 

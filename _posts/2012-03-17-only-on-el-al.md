@@ -17,7 +17,7 @@ We had been on the flight for nearly eight hours, and the sun was just peeking o
 
 Here is an iPhone image I took of one of the men, who apparently had overslept and was praying alone. It was extraordinary to see how easily the flight attendants accommodated the gathering, staying out of their way for the 15 minutes they required. They then quietly returned to their seats as if nothing unusual had happened.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/photo1.jpg"><img class="alignnone size-medium wp-image-2023" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/photo1-e1332009191540-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/photo1.jpg"><img class="alignnone size-medium wp-image-2023" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/photo1-e1332009191540-225x300.jpg" alt="" width="225" height="300"></a>
 
 Earlier in the flight, some of those same Ultra-Orthodox men walked around the plane asking male passengers if they were Jewish and, if they were, would they like to join them in putting on the Tfillin. Tfillin are a pair of ritualistic leather straps, known in English as phylacteries, that have a box attached to each set. The boxes contain hand inscribed prayers. One set is placed on the head and one on the left arm, next to the heart. These phylacteries are described in the Old Testament and are a way that pious Jews “bind” themselves to God, by wrapping the leather straps around their arm and placing the second box on their forehead, held in place by the straps. With the heart and brain now connected, the person is supposed to feel a personal connection with their Supreme Being.
 

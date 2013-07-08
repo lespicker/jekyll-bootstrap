@@ -28,4 +28,4 @@ Finally, I had had it. I was tired and hungry since it was 7:00 PM and I had bee
 
 Then, I grinned. Unconsciously, I had remembered to leave my gift for the mountain spirits. I smiled all the way back to the car.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/image293.jpg"><img class="size-medium wp-image-1163" title="image293" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/image293-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/image293.jpg"><img class="size-medium wp-image-1163" title="image293" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/image293-200x300.jpg" alt="" width="200" height="300"></a>

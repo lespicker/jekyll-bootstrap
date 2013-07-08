@@ -31,7 +31,7 @@ In fact, I did not like the results I was getting. I wanted to slow the water do
 
 I got my slowed down water movement all right. But when I got home and examined my images, I saw that they had a very pronounced color cast. They all had a yucky (that’s a technical term, btw) pink-magenta cast.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0019604.jpg"><img class="size-medium wp-image-2246" title="A0019604" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0019604-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0019604.jpg"><img class="size-medium wp-image-2246" title="A0019604" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0019604-300x225.jpg" alt="" width="300" height="225"></a>
 
 We picked up the phone to talk to the incredible Bob Singh, the maker of Singh-Ray filters. Bob is one of the most knowledgeable people in the industry and while his products are costly, they are high quality all the way and backed by Bob’s technical genius.
 
@@ -39,4 +39,4 @@ Without getting too technical, it turns out that the ND filter I was using block
 
 But, what to do with the images I already had? In this case Bob (my assistant) worked his magic in PhotoShop CS6. It took quite a bit of doing, messing with color channels and temperatures and such, but in the end he was able to render the scene pretty near what I had experienced, which is the image that follows. That pretty well reinforces my belief that in some situations post-processing work is an effective and necessary tool.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0019604-Edit.jpg"><img class="size-medium wp-image-2247" title="A0019604-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0019604-Edit-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0019604-Edit.jpg"><img class="size-medium wp-image-2247" title="A0019604-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/A0019604-Edit-300x225.jpg" alt="" width="300" height="225"></a>

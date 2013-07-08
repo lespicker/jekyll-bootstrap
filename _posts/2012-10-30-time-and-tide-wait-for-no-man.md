@@ -18,6 +18,6 @@ But it is now morning high tide as I write this. The back side of Hurricane Sand
 
 This is a view directly across our tiny cove at two docks, or what used to be docks. Hard to say how they fared since they are both underwater. Time and tide will tell us at dawn tomorrow.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/hdg-flood.jpg"><img class="alignnone size-medium wp-image-2422" title="hdg-flood" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/hdg-flood-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/hdg-flood.jpg"><img class="alignnone size-medium wp-image-2422" title="hdg-flood" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/hdg-flood-300x200.jpg" alt="" width="300" height="200"></a>
 
-&nbsp;
+ 

@@ -17,7 +17,7 @@ tags:
 ---
 It took a while, but we finally purchased a brand spanking new large format printer, the Epson 9900. Here it is, after being installed in our office today:
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto1.jpg"><img class="size-medium wp-image-2131" title="CameraAwesomePhoto" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto1-300x224.jpg" alt="" width="300" height="224" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto1.jpg"><img class="size-medium wp-image-2131" title="CameraAwesomePhoto" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto1-300x224.jpg" alt="" width="300" height="224"></a>
 
 Bob Boyer, my very able assistant and master of all things tech, helped me over the past few months deciding on what printer to buy. We narrowed the choices to two excellent products, the Canon ipf8300 and the Epson 9900. Since the Epson was newer, with a tad more advanced technology, we went with it.
 
@@ -25,7 +25,7 @@ It took six men to carry it up the stairs to my office. The damn thing weighed 4
 
 The printer is extremely user-friendly, with a  display that is easy to read and understand. After we assembled the printer, inserted the 11 ink cartridges and revved it up, our first 8.5" x 11" print was right on the money. The second was a 40" x 30" monster that was spot on. Ah, love at first sight!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto2.jpg"><img class="size-medium wp-image-2142" title="CameraAwesomePhoto" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto2-300x224.jpg" alt="" width="300" height="224" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto2.jpg"><img class="size-medium wp-image-2142" title="CameraAwesomePhoto" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto2-300x224.jpg" alt="" width="300" height="224"></a>
 
 I took the picture of the print with my iPhone. The print was made on the el cheapo paper that comes with the printer for testing purposes. In the future I'll take pictures with a better camera of images we print on high quality paper so you can judge the quality of the 9900 for yourself.
 

@@ -61,7 +61,7 @@ The <strong>Butterfly Pavilion and Insect Center</strong> is located midway betw
 
 Boulder is also the home to <strong>Celestial Seasonings Tea company</strong>, where a pleasant morning or afternoon can be spent touring the factory, sampling dozens of different teas, and viewing art exhibits. But, don’t miss the Mint Room, where natural mints for teas are stored.  It’s guaranteed to be an unforgettable experience.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images-1.jpeg"><img class="size-full wp-image-331" title="images-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images-1.jpeg" alt="" width="168" height="212" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images-1.jpeg"><img class="size-full wp-image-331" title="images-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images-1.jpeg" alt="" width="168" height="212"></a>
 
 And, don’t forget the <strong>Boulder Public Library</strong> when planning the day’s events.  With a full slate of films, lectures, discussion groups, children’s storytime, concerts and young adult activities, the library is a family’s best friend.  Best of all, the main library hosts a gift shop and espresso bar in an inviting open architecture that soothes the soul.
 
@@ -74,8 +74,7 @@ In Boulder itself, try the Alps Boulder Canyon Inn, with its beautifully appoint
 The Boulderado Hotel is Boulder’s most famous resting place, having hosted the likes of Teddy Roosevelt, Douglas Fairbanks, Bat Masterson, Robert Frost and Helen Keller.  Its old West charm is complemented by a modern wing which blends comfortably into its architecture.
 
 <strong><em>Boulder, Colorado Fact File</em></strong>
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody>
+<table border="0" cellspacing="0" cellpadding="0"><tbody>
 <tr>
 <td width="235" valign="top">Elevation</td>
 <td width="41" valign="top"></td>
@@ -141,5 +140,4 @@ The Boulderado Hotel is Boulder’s most famous resting place, having hosted the
 <td width="41" valign="top"></td>
 <td width="167" valign="top"></td>
 </tr>
-</tbody>
-</table>
+</tbody></table>

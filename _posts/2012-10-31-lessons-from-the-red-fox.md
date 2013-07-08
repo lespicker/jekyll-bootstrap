@@ -15,9 +15,9 @@ If you have been following my blog the past few days, you know I live at the wat
 
 And then this morning we awoke to a cloudy day, but no rain, and with low-lyig clouds clearly matching the bands of wind we saw on our weather radar screen. The geese sauntered back into our cove, people were out cleaning up from the storm damage, and by mid-afternoon we were treated to something special.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/fox-on-rock.jpg"><img class="size-medium wp-image-2428" title="fox-on-rock" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/fox-on-rock-300x200.jpg" alt="" width="300" height="200" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/fox-on-rock.jpg"><img class="size-medium wp-image-2428" title="fox-on-rock" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/fox-on-rock-300x200.jpg" alt="" width="300" height="200"></a>
 
-&nbsp;
+ 
 
 Not 100 yards from my deck a red fox was asleep on a slab of cement (from a previous storm), obviously enjoying the break in the weather. We've seen this beauty on and off over the past few years. I figure his den was washed out and he relished his lustrous coat drying out. He slept for about 30 minutes and then awoke with a start and was gone.
 

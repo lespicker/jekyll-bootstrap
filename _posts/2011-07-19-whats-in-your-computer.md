@@ -32,11 +32,11 @@ I soon switched my entire system to Apple and now own a high-end Mac desktop, a 
 
 With the switch, I decided to try Apple’s Aperture and I’ve never looked back. Aperture, now in Version 3.1, is a high-end post-processing program by Apple which I always keep updated. Aperture, like its Adobe counterpart, Lightroom, does 80-90 percent of what I need in post-processing. What it cannot do to my satisfaction, I find I can accomplish using several very fine plug-ins that I use without ever exiting Aperture.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/aperture3-165.png"><img class="aligncenter size-full wp-image-1308" title="aperture3-165" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/aperture3-165.png" alt="" width="165" height="120" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/aperture3-165.png"><img class="aligncenter size-full wp-image-1308" title="aperture3-165" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/aperture3-165.png" alt="" width="165" height="120"></a>
 <h3>Nik Software</h3>
 All my plug-ins, with one exception, are made by Nik Software. I use Color Efex Pro for maybe five of its effects, and even then sparingly. Silver Efex Pro comes into play for my black &amp; white conversions and Viveza for fine local adjustments. They are all 64-bit and I never have to leave Aperture (also 64-bit) to use them.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/coco_linklist_banner_small.jpg"><img class="aligncenter size-full wp-image-1307" title="coco_linklist_banner_small" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/coco_linklist_banner_small.jpg" alt="" width="190" height="180" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/coco_linklist_banner_small.jpg"><img class="aligncenter size-full wp-image-1307" title="coco_linklist_banner_small" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/coco_linklist_banner_small.jpg" alt="" width="190" height="180"></a>
 
 I will also use Define, Nik’s de-noise program, although not very frequently since most of my images are shot at ISO 100 or 200, so I don’t have to deal much with noise.
 

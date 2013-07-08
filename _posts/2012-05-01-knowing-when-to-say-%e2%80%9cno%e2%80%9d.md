@@ -20,7 +20,7 @@ First of all, she had her camera with her at all times, even placing it on the t
 
 The other thing she did was constantly take pictures from the moving bus, no matter how rutted the road and how much we shook. At times she was nearly toppling over, but still firing away. When we were stopped, with the bus idling, she would brace the camera on the seat in front of her and shoot away.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto.jpg"><img class="size-medium wp-image-2125" title="CameraAwesomePhoto" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto-300x224.jpg" alt="" width="300" height="224" /></a>
+<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto.jpg"><img class="size-medium wp-image-2125" title="CameraAwesomePhoto" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto-300x224.jpg" alt="" width="300" height="224"></a>
 
 The point I’d like to make here is that a photographer should know the limits of his or her equipment. If you are shooting 100 images to get one decent one, then something is wrong. Doing more of the exact same thing and expecting different results is not rational.
 
