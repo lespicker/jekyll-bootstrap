@@ -5,7 +5,7 @@ permalink: /:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "sass", "config.rb"]
 pygments: false
-pagination_dir: /blog
+paginate_path: /blog/page:num
 paginate: 10
 recent_posts: 5
 
