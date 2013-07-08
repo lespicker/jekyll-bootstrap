@@ -16,6 +16,8 @@ tags:
 ---
 I just returned from a 30-day photo excursion to Italy, Sicily, the Egadi Islands and Malta, a trip that caused me not a small amount of angst before we left. That’s because I usually lug around some 30-40 pounds (14-18 kg) of equipment with me on my landscape adventures, including a Gitzo 3541 tripod with a Really Right Stuff ballhead that alone clocks in at 8 pounds! I needed some real neck and back relief!
 
+<!--more-->
+
 Enter the 4-pound (1.8 kg) <a href="http://www.mefoto.com/">MeFoto tripod</a>, complete with ballhead, that I had come across while doing some research. Europe is not exactly the best place to lug around a bulky tripod, due to the incessant crowds and narrow spaces. I needed something light and very portable.
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_1088.jpg"><img class="alignnone size-medium wp-image-2802" title="DSC_1088" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/DSC_1088-300x200.jpg" alt="" width="300" height="200"></a>

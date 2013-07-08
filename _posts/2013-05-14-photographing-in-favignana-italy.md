@@ -12,9 +12,9 @@ Off the coast of Trapani, Sicily, right at the point of the boot, sit the three 
 
 Atop the highest point of the island there is an old fortress, which some locals prefer to call a castle.  My guess is that those who call it a castle have never done the strenuous hike up there.
 
- 
-
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9395.jpg"><img class="size-medium wp-image-2761" title="DSC_9395" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9395-300x200.jpg" alt="" width="300" height="200"></a>
+
+<!--more-->
 
 The fortress sits about 1,000 feet above the historic town (in Europe everything is historic, at least by American standards). We climbed it today and spent a glorious couple of hours exploring the land immediately around it and then poking through the abandoned ruins.
 

@@ -16,6 +16,8 @@ tags:
 ---
 Well, we arrived in Rome in the rain, got in a rental car and hightailed it out of town to a marvelous B&amp;B (more on that in a minute). We had taken a red-eye from Baltimore to London and I could not get more than a hour of very disturbed sleep (how can anyone sleep in Economy Plus, let alone Economy!?). Then our next flight to Rome was delayed, so by the time I arrived I was bleary-eyed and bushed. Knowing this would be a possibility, I had booked our first night at a B&amp;B in Civitella San Paolo, about an hour out of Rome. Turns out that was a smart decision.
 
+<!--more-->
+
 Our hosts at Le Tre Querce B&amp;B, Louisa and Riccardo, were simply awesome. One look at us and Louisa insisted on making us dinner.In 30 minutes she put on the table a dinner better than many an Italian restaurant in the States. Firm spaghetti with a delicate sauce (homemade, of course), fresh salad, hearty bread, black olives from their property, and the absolute best Romano-Parmesan cheese my wife and I have ever tasted. It was creamy, not crumbly, and oh so flavorful. The meal was topped with a bowl of fresh cut strawberries. And red wine, naturally. Bellisimo!!
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/photo-copy.jpg"><img class="size-medium wp-image-2742" title="photo copy" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/photo-copy-300x225.jpg" alt="" width="300" height="225"></a>

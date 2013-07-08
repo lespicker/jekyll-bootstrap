@@ -19,6 +19,8 @@ tags:
 ---
 I have owned an <a href="http://www.thinktankphoto.com/products/urban-disguise-50-v2.aspx">Urban Disguise 50 (Version 2.0)</a> camera bag for two years now and have never done a review of it. Frankly, I own far too many camera bags, particularly from <a href="http://www.thinktankphoto.com/">Think Tank</a> Photo, so much so that I’m afraid my camera friends will begin to call me Imelda. But as I’ve gotten older I find that the right bag can prevent many of the aches and pains that we older photographers are prone to get.
 
+<!--more-->
+
 Those who follow my reviews know that I do not cover the technical details such as measurements, materials and speed ratings, unless those items directly pertain to how the item works in the field. Those stats are commonly available online at lab review sites or at the manufacturer’s site. What I do is review items I buy and use as a pro out in the field.
 
  

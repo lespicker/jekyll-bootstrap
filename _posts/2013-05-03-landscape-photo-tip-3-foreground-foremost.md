@@ -16,6 +16,8 @@ tags:
 ---
 In celebration of spring, I'm sharing with my blog readers some tips from my e-book series: <a href="http://shop.lesterpickerphoto.com/"><em><strong>The Photographer's Eye</strong></em></a>. There are three books on shooting landscapes, wildlife and people. Each book includes ten images that serve as examples of various techniques  along with extensive shooting information. Each book ends with ten tips to make your shooting more effective.
 
+<!--more-->
+
 If you’re shooting landscapes, one of the most effective means of adding interest and impact is to include a foreground element. A strong foreground helps bring scale and perspective to a scene. It can functionally help by drawing the viewer’s eye into a scene. It can create visual interest by adding texture, an interesting form, or a looming presence. It can even add cognitive dissonance by forcing the viewer to confront paradoxes in perception.
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/CanadianRockies2009-driftwood-in-lake-1-2.jpg"><img class="size-medium wp-image-2737" title="Impending Storm" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/CanadianRockies2009-driftwood-in-lake-1-2-300x199.jpg" alt="" width="300" height="199"></a>

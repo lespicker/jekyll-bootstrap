@@ -4,8 +4,10 @@ markdown: rdiscount
 permalink: /:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "sass", "config.rb"]
-auto: true
 pygments: false
+pagination_dir: /blog
+paginate: 10
+recent_posts: 5
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.

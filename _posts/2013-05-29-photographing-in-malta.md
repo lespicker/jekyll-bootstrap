@@ -18,6 +18,9 @@ tags:
 - Valetta
 ---
 If you are a photographer who has not visited Malta, book that trip now. If you do not have Malta on your bucket list, add it now.  I’ve just wound up a 5-day trip to this wonderful, exciting and visually dynamic island nation and I am already planning a second, more extensive two- or three-week return visit.
+
+<!--more-->
+
 <h3> Some Background</h3>
 The three main islands that constitute Malta are the island of Malta itself and the adjoining Gozo and the tiny Comino, situated between the two. Malta has perhaps the most fascinating history of any place I have ever visited, having been variously invaded and populated by Phoenicians, Greeks, Romans, Normans, Arabs, and finally Roman Catholics. In fact, the island today is heavily Roman Catholic and the influence of the church is evident everywhere. Gozo alone, an island you can drive completely around in a couple of hours, has more than 50 churches, some dating back to the 15<sup style="line-height: 19px;">th</sup> century. Malta itself has so many churches, basilicas, monasteries and convents, you’d be hard pressed to visit them all in a year.
 

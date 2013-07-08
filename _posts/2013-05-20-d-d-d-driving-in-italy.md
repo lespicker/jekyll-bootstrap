@@ -10,6 +10,8 @@ tags:
 ---
 This is a photography blog, and today I’m going to address a critical concern for all photographers visiting Italy- driving.  That’s right. It’s one thing to know your camera, but what good is that if you don’t arrive alive? So, if you want to live to photograph in Italy, you might want to read this.
 
+<!--more-->
+
 I’ve just spent over two weeks driving in Italy, along its Autostradas as well as along its winding, narrow streets, in large, grand cities like Florence, as well as tiny towns so small their names did not appear on my GPS system. I’m no expert, but then again that’s the point. If you’re not an expert and just want to drive in Italy, you need to know these things. I wish someone had told me these before I rented a car.
 
 First some observations. Not all Italian drivers are nuts, at least not more than Boston drivers would be if streets in Beantown were far narrower and laid out even zanier than they are now. But in the spirit of cars-don’t-kill-people, people-kill-people stupid sayings, it is about that minority of Italian drivers who might kill you that I will focus on.

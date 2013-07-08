@@ -22,6 +22,8 @@ tags:
 ---
 As a professional landscape, wildlife and travel photographer, I eagerly awaited the arrival of my <a href="http://www.gigapan.com">Gigapan Epic Pro</a> test unit. I had been reading a lot of press about this techno-marvel, and was especially impressed by George Lepp’s experience. George is a veteran photographer who I admire.
 
+<!--more-->
+
 I should also mention that here at <a href="http://www.lesterpickerphoto.com">Les Picker Fine Art Photography</a> we produce some very large images for my clients. Nowadays a 30”x40” print is average size for us. We have done murals for clients that range from 17-feet wide and ten feet tall to <a href="http://blog.lesterpickerphoto.com/2012/09/17/wallpaper-mural/">30-feet x 10-feet</a> and <a href="http://blog.lesterpickerphoto.com/2012/11/16/a-les-picker-fine-art-installation/">I’ve blogged about those installations before</a>. To create eye-popping oversized prints pixel density is critical. Blowing up a 12-megapixel image just can’t cut it. Even my 36-megapixel Nikon D800 would be taxed when creating an 8-foot print. Enter Gigapan.
 
  

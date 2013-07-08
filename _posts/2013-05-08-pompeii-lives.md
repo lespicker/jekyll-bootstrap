@@ -14,6 +14,8 @@ tags:
 ---
 This was my first visit to Pompei and every preconception I had of the site was dashed within minutes. I had a schedule to keep and I alloted two hours to visiting Pompei. Instead, we ended up spending five very active hours and when the park closed we were one of the last to leave. I could easily have spent another day or two exploring these ancient ruins- and in fact I expect I will because my photography was rushed and I was not allowed to bring in my tripod without permission, which I will try to get next time in advance.
 
+<!--more-->
+
 All I can say is that every superlative pales in comparison to the actual experience of being there. To think that 20,000 people lived, worked and played there and then were wiped out within a day is nearly impossible to grok. To be honest, if I had to pick a time and place to have lived other than now, it Pompeii goes to the top of my list. Of course I'd rather not have it be in 79 A.D. when Mt. Vesuvius blew mightily, sending ash more than 20,000 feet high. I'd also like to have been one of the lucky wealthy few, who lived in luxury beyond imagining.
 
 I had just arrived and was exploring another area of the park, when I turned around and saw an incredible sight. A cloud formation had formed over Mt. Vesuvius. I quickly took some images.
