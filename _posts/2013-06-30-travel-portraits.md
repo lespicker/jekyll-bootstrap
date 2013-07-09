@@ -4,7 +4,6 @@ title: "Travel Portraits"
 comments: true
 categories:
 - Featured
-- crap
 tags:
 - people
 - photograp[hy
