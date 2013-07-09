@@ -14,7 +14,7 @@ module Jekyll
 		end
 		
 		def atomize(site, type, posts)
-		  path = "/#{type}/#{posts[0]}"
+		  path = (("/#{type}/#{posts[0]}".to_s).downcase).tr(' :', '-')
 		  atom = AtomPage.new(site, site.source, path, type, posts[0], posts[1])
 		  site.pages << atom
 		end
