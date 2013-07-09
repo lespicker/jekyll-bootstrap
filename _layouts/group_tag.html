@@ -1,0 +1,15 @@
+---
+layout: page
+---
+{% include JB/setup %}
+
+<div class="blog-index">
+  {% assign index = true %}
+  {% for post in page.posts %}
+  {% assign content = post.excerpt %}
+    <article>
+      {% include themes/lpfa/article.html %}
+    </article>
+    <hr>
+  {% endfor %}
+</div>
