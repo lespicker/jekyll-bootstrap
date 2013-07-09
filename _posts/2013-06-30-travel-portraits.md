@@ -4,6 +4,7 @@ title: "Travel Portraits"
 comments: true
 categories:
 - Featured
+- general photography
 tags:
 - people
 - photograp[hy
