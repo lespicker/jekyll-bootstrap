@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consider An Investment in Fine Art Photography
-categories: - 
+categories: 
 - news
 comments: false
 ---

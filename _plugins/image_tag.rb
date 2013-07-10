@@ -39,10 +39,10 @@ module Jekyll
 
     def render(context)
       if @img
-        src = "<a href=\"#{@img['src']}\" class=\"lightview\" data-lightview-options=\"skin: \'mac\'\">\n" 
+        src = "<a href=\"#{@img['src']}\" class=\"lightview\" data-lightview-options=\"skin: \'mac\'\">" 
         #"<a href=\"#{@img['src']}\" class=\"lightview\">\n" +
         src += "<figure>"
-        src += "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>\n"
+        src += "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"
         src += "<figcaption>#{@img['title']}</figcaption>" if @img['title']
         src += "</figure>"
         src += "</a>"

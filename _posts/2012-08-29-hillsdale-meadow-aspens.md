@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hillsdale Meadow Aspens
-categories: - 
+categories: 
 - print
 comments: false
 ---
