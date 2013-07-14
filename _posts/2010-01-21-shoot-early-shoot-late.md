@@ -6,7 +6,6 @@ categories:
 - Headline
 - Photo Tips
 tags:
-- crap
 - equipment
 - Hawaii
 - image
