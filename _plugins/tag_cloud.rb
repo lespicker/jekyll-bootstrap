@@ -57,7 +57,7 @@ module Jekyll
     def render(context)
       # get category directory of category page
       config = context.registers[:site].config
-      dir = 'tag' #why doesn't this work config['root'] + config['tag_dir'].to_s
+      dir = './' #why doesn't this work config['root'] + config['tag_dir'].to_s
 
       # get an Array of [tag name, tag count] pairs
       count = context.registers[:site].tags.map do |name, posts|
