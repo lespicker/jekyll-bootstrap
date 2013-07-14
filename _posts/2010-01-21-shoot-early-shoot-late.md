@@ -5,8 +5,8 @@ comments: true
 categories:
 - Headline
 - Photo Tips
-- crap
 tags:
+- crap
 - equipment
 - Hawaii
 - image
