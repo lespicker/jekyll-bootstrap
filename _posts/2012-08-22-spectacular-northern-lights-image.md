@@ -6,7 +6,6 @@ categories:
 - Featured
 tags:
 - Northern Lights
-- Richard Hartmier
 - Yukon
 ---
 Damn that <a href="http://www.hartmier.com">Richard Hartmier</a>! Those of you who read my blog know how much I like and admire Richard, a friend and very capable pro photographer from the Yukon (you've got to be capable to make a living as a photographer in the Yukon). But, damn him all the same!
