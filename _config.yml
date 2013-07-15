@@ -3,7 +3,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "sass", "config.rb"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "sass", "config.rb", "s3_website.yml"]
 pygments: false
 tag_dir: /tag
 paginate_path: /blog/page:num
