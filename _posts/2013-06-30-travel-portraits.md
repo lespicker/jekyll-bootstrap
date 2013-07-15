@@ -10,6 +10,7 @@ tags:
 - portraits
 - subject
 - travel
+featured:/images/2013/07/travel-port.jpg
 ---
 Bob, my associate and I were taking a lunch break from testing print profiles for [Museo Fine Art papers](http://www.museofineart.com) for our <a href="http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html">upcoming workshop this fall in Maine</a>. We got into a discussion about capturing images of local and indigenous people when traveling. It's one of those infrequent times that Bob and I completely agreed about an issue that has many times gotten us into a rage, as it turns out.
 
