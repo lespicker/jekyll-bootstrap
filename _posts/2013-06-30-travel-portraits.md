@@ -21,7 +21,7 @@ The conversation started out innocently enough, as we discussed what lenses we p
 
  
 <h3>Tools of Ignorance</h3>
-That conversation led us into the methods that photographers use to capture travel portraits. The behavior that drives us up a wall are those photographers who try to sneakily capture people serruptitiously, using telephoto lenses. Then there are the drive-by-shooting artists who stick a camera into an unsuspecting local's face and snap away, sometimes over their objections.
+That conversation led us into the methods that photographers use to capture travel portraits. The behavior that drives us up a wall are those photographers who try to sneakily capture people surreptitiously, using telephoto lenses. Then there are the drive-by-shooting artists who stick a camera into an unsuspecting local's face and snap away, sometimes over their objections.
 
 Do these people realize how crude they are being? Do they understand how their selfish behavior ruins the opportunity for photographers who follow in their wake? Is snagging the image so important they are obviously willing to throw ethical and humane considerations out the window? In their hands, photographic equipment becomes tools of ignorance.
 <h3>It's About Time… and Relationships</h3>
