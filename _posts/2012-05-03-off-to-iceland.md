@@ -7,7 +7,6 @@ categories:
 - News
 tags:
 - Iceland
-- Richard Hartmier
 - SPOT gps
 - travel
 ---
