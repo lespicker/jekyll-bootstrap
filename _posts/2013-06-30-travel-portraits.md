@@ -11,7 +11,7 @@ tags:
 - subject
 - travel
 ---
-Bob, my associate and I were taking a lunch break from testing print profiles for <a href="http://www.museofineart.com">Museo Fine Art papers</a> for our <a href="http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html">upcoming workshop this fall in Maine</a>. We got into a discussion about capturing images of local and indigenous people when traveling. It's one of those infrequent times that Bob and I completely agreed about an issue that has many times gotten us into a rage, as it turns out.
+Bob, my associate and I were taking a lunch break from testing print profiles for [Museo Fine Art papers](http://www.museofineart.com) for our <a href="http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html">upcoming workshop this fall in Maine</a>. We got into a discussion about capturing images of local and indigenous people when traveling. It's one of those infrequent times that Bob and I completely agreed about an issue that has many times gotten us into a rage, as it turns out.
 
 <!--more-->
 
@@ -20,7 +20,8 @@ The conversation started out innocently enough, as we discussed what lenses we p
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/LAP2568.jpg"><img class="size-medium wp-image-2824" title="_LAP2568" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/LAP2568-200x300.jpg" alt="" width="200" height="300"></a>
 
  
-<h3>Tools of Ignorance</h3>
+### Tools of Ignorance
+
 That conversation led us into the methods that photographers use to capture travel portraits. The behavior that drives us up a wall are those photographers who try to sneakily capture people surreptitiously, using telephoto lenses. Then there are the drive-by-shooting artists who stick a camera into an unsuspecting local's face and snap away, sometimes over their objections.
 
 Do these people realize how crude they are being? Do they understand how their selfish behavior ruins the opportunity for photographers who follow in their wake? Is snagging the image so important they are obviously willing to throw ethical and humane considerations out the window? In their hands, photographic equipment becomes tools of ignorance.
