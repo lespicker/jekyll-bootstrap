@@ -1,48 +1,61 @@
-// You custom settings file to override Foundation defaults
+// Global Foundation Settings
 @import "settings";
+
+// Comment out this import if you don't want to use normalize
+@import "normalize";
 
 // Comment out this import if you are customizing you imports below
 @import "foundation";
 
-// ----------------------------------------
 // Import specific parts of Foundation by commenting the import "foundation"
 // and uncommenting what you want below. You must uncomment the following if customizing
 
-// @import "compass/css3";
-// @import "foundation/settings";
-// @import "foundation/functions/all";
-// @import "foundation/common/globals";
-// @import "foundation/mixins/clearfix";
-// @import "modular-scale";
-
-// Control which mixins you have access too
-
-// @import "foundation/mixins/css-triangle";
-// @import "foundation/mixins/font-size";
-
-// Must include next two for semantic grid to work
-
-// @import "foundation/mixins/respond-to";
-// @import "foundation/mixins/semantic-grid";
-
-// Must include the grid for any responsiveness
-
+// @import "foundation/components/global"; // *always required
 // @import "foundation/components/grid";
+// @import "foundation/components/visibility";
+// @import "foundation/components/block-grid";
+// @import "foundation/components/type";
+// @import "foundation/components/buttons";
+// @import "foundation/components/forms"; // *requires components/buttons
+// @import "foundation/components/custom-forms"; // *requires components/buttons, components/forms
+// @import "foundation/components/button-groups"; // *requires components/buttons
+// @import "foundation/components/dropdown-buttons"; // *requires components/buttons
+// @import "foundation/components/split-buttons"; // *requires components/buttons
+// @import "foundation/components/flex-video";
+// @import "foundation/components/section";
+// @import "foundation/components/top-bar";  // *requires components/grid
+// @import "foundation/components/orbit";
+// @import "foundation/components/reveal";
+// @import "foundation/components/joyride";
+// @import "foundation/components/clearing";
+// @import "foundation/components/alert-boxes";
+// @import "foundation/components/breadcrumbs";
+// @import "foundation/components/keystrokes";
+// @import "foundation/components/labels";
+// @import "foundation/components/inline-lists";
+// @import "foundation/components/pagination";
+// @import "foundation/components/panels";
+// @import "foundation/components/pricing-tables";
+// @import "foundation/components/progress-bars";
+// @import "foundation/components/side-nav";
+// @import "foundation/components/sub-nav";
+// @import "foundation/components/switch";
+// @import "foundation/components/magellan";
+// @import "foundation/components/tables";
+// @import "foundation/components/thumbs";
+// @import "foundation/components/tooltips";
+// @import "foundation/components/dropdown";
 
-// Control which common styles get compiled
+// Compass mixins
+@import "compass/css3/transition";
 
-// @import "foundation/common/typography";
-// @import "foundation/common/forms";
+$headerFontFamily: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
+$headerFontWeight: 400;
+$headerFontColor: #222;
+$bodyFontFamily: "chaparral-pro-display", "chaparral-pro-display", Helvetica, Arial, sans-serif;
+$bodyFontWeight: 400;
+$bodyFontColor: #222;
 
-// Control which components you get if customizing
-
-// @import "foundation/components/modules/buttons";
-// @import "foundation/components/modules/tabs";
-// @import "foundation/components/modules/ui";
-// @import "foundation/components/modules/navbar";
-// @import "foundation/components/modules/orbit";
-// @import "foundation/components/modules/reveal";
-// @import "foundation/components/modules/offcanvas";
 
 $highlightcolor: #b90303;
 
@@ -73,21 +86,21 @@ a{
 }
 
 blockquote cite{
-	font-size: ms(2);
+/* 	font-size: ms(2); */
 }
 
 #container{
-	@include outerRow();
+	@include grid-row();
 }
 
 #top-row{
-	@include innerRow();
+	@include grid-row(nest);
 	margin-top: 8em;
 }
 
 #header{
 	//@include push(4);
-	@include column(12,collapse);
+	@include grid-column(12,collapse);
 	background-color: rgba(255,255,255, 0.6);
 	position: fixed;
 	z-index: 999;
@@ -99,35 +112,50 @@ blockquote cite{
 	}
 	img{
 		display: inline;
-		margin-top: 1em;
+		margin-top: 1.2em;
 		margin-bottom: 1em;
 	}
 }
 
 #footer{
-	@include column(12,collapse);
+  @include grid-row(nest);
+	@include grid-column(12,collapse);
 	margin-top: 2em;
 	padding-top: 2em;
 	padding-bottom: 2em;
 	border-top: 1px dashed #ddd;
 	p{
 		font-family: $headerFontFamily;
-		font-size: ms(0);
 	}
 }
 
 #email{
-	@include column(4,collapse);
+	@include grid-column(12,collapse);
+	text-align: center;
 }
 
 #phone{
-	@include column(4,collapse);
+	@include grid-column(12,collapse);
 	text-align: center;
 }
 
 #addr{
-	@include column(4,collapse);
-	text-align: right;
+	@include grid-column(12,collapse);
+	text-align: center;
+}
+
+@media screen and (min-width: 700px){
+  #email{
+    @include grid-column(4,collapse);
+    text-align: left;
+  }
+  #phone{
+    @include grid-column(4,collapse);
+  }
+  #addr{
+    @include grid-column(4,collapse);
+    text-align: right;
+  }
 }
 
 #nav-block{
@@ -141,7 +169,7 @@ blockquote cite{
 #nav{
 	display: inline-block;
 	h1, h2, h3, h4, h5, h6{
-		font-size: ms(1);
+/* 		font-size: ms(1); */
 	}
 	a, li{
 		display: inline;
@@ -154,7 +182,7 @@ blockquote cite{
 	}
 	li{
 		font-family: $headerFontFamily;
-		font-size: ms(1);
+/* 		font-size: ms(1); */
 		padding-left: 1em;
 //		text-transform: uppercase;
 		a{
@@ -176,32 +204,108 @@ blockquote cite{
 //	}
 //}
 
+.products-wrapper{
+  @include grid-column(12);
+  margin-top: 8em;
+  h6{
+    text-align: center;
+  }
+  fieldset{
+    legend{
+      font-family: $headerFontFamily;
+      font-weight: $headerFontWeight;
+  		font-size: 1em;
+  		span{
+    		font-weight: $headerFontWeight;
+    		font-size: .7em;
+  		}
+    }
+  }
+}
+
+.products-inside{
+  @include block-grid($per-row: 1, $spacing: 0);
+  form{
+    margin:0;
+  }
+  fieldset{
+    margin: 0;
+    h6{height: 2em;}
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (min-width: 700px){
+  .products-inside{
+    @include block-grid($per-row: 3, $spacing: 0);
+  }
+}
+
+.product-desc{
+  @include panel;
+  height: 10em;
+}
+
+.cart_item{
+  @include grid-row($behavior: nest);
+}
+
+.cart_picture{
+  @include grid-column(4);
+}
+
+.cart_desc{
+  @include grid-column(4);
+}
+
+.cart_price{
+  @include grid-column(2);
+}
+
+.cart_control{
+  @include grid-column(2);
+}
+
+.cart_quantity{
+  @include grid-column($columns: 8);
+}
+
+.cart_remove{
+  //@include prefix-postfix-base;
+  //@include postfix($is-button: true);
+  @include grid-column($columns: 4);
+}
+
 #content{
-	@include push(4);
-	@include column(8);
+	//@include push(4);
+	@include grid-column(12);
 	p, blockquote{
-		font-size: ms(1);
+/* 		font-size: ms(1); */
 	}
 	p.ms-zero{
-		font-size: ms(0);
+/* 		font-size: ms(0); */
 	}
 	p.ms-one{
-		font-size: ms(1);
+/* 		font-size: ms(1); */
 	}
 	p.ms-two{
-		font-size: ms(2);
+/* 		font-size: ms(2); */
 	}
 	cite {
-		font-size: ms(2);
+/* 		font-size: ms(2); */
 	}
 	li {
-		font-size: ms(1)
+/* 		font-size: ms(1) */
 	}
 }
 
 #sidebar{
-	@include pull(8);
-	@include column(3);
+	//@include pull(8);
+	@include grid-column(12);
 	img{
 		margin-top: 0.3em;
 		margin-bottom: 1em;
@@ -210,7 +314,7 @@ blockquote cite{
 		font-weight: 400;
 	}
 	h3{
-		font-size: ms(1);
+/* 		font-size: ms(1); */
 		font-family: "anivers-sc";
 		margin-bottom: 0;
 	}
@@ -225,21 +329,44 @@ blockquote cite{
 	}
 }
 
+@media screen and (min-width: 700px){
+  #content{
+  	@include grid-column(8,$push: 4);
+  }
+  #sidebar{
+  	@include grid-column(3,$pull: 8);
+  }
+}
+
+
 #bott-row{
-	@include innerRow();
+	@include grid-row(nest);
 }
 
 #bott-1{
-	@include column(4);
+	@include grid-column(12);
 }
 
 #bott-2{
-	@include column(4);
+	@include grid-column(12);
 }
 
 #bott-3{
-	@include column(4);
+	@include grid-column(12);
 }
+
+@media screen and (min-width: 700px){
+  #bott-1{
+    @include grid-column(4);
+  }
+  #bott-2{
+    @include grid-column(4);
+  }
+  #bott-3{
+    @include grid-column(4);
+  }
+}
+
 
 #archive{
 	ul{
@@ -247,7 +374,7 @@ blockquote cite{
 		list-style-type: none;
 	}
 	li{
-		font-size: ms(1);
+/* 		font-size: ms(1); */
 	}
 }
 
