@@ -7218,7 +7218,7 @@ blockquote cite {
 /* line 316, ../sass/app.scss */
 #sidebar h3 {
   /* 		font-size: ms(1); */
-  font-size: 1em;
+  font-size: 1.2em;
   font-family: "anivers-sc";
   margin-bottom: 0;
 }
@@ -7340,24 +7340,30 @@ blockquote cite {
   /* 		font-size: ms(1); */
 }
 
-/* line 382, ../sass/app.scss */
+/* line 383, ../sass/app.scss */
+#featured img {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 389, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 387, ../sass/app.scss */
+/* line 394, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
   margin: 0 !important;
 }
-/* line 390, ../sass/app.scss */
+/* line 397, ../sass/app.scss */
 .slider-wrapper.theme-light img {
   padding: 0 !important;
   margin: 0 !important;
 }
 
-/* line 396, ../sass/app.scss */
+/* line 403, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;

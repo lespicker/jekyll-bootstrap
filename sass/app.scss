@@ -315,7 +315,7 @@ blockquote cite{
 	}
 	h3{
 /* 		font-size: ms(1); */
-    font-size: 1em;
+    font-size: 1.2em;
 		font-family: "anivers-sc";
 		margin-bottom: 0;
 	}
@@ -377,6 +377,13 @@ blockquote cite{
 	li{
 /* 		font-size: ms(1); */
 	}
+}
+
+#featured{
+  img{
+    padding: 0;
+    margin: 0;
+  }
 }
 
 .nivoslider a{
