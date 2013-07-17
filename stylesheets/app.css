@@ -7218,21 +7218,22 @@ blockquote cite {
 /* line 316, ../sass/app.scss */
 #sidebar h3 {
   /* 		font-size: ms(1); */
+  font-size: 1em;
   font-family: "anivers-sc";
   margin-bottom: 0;
 }
-/* line 321, ../sass/app.scss */
+/* line 322, ../sass/app.scss */
 #sidebar ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 327, ../sass/app.scss */
+/* line 328, ../sass/app.scss */
 #sidebar a {
   font-family: "chaparral-pro-web";
 }
 
 @media screen and (min-width: 700px) {
-  /* line 333, ../sass/app.scss */
+  /* line 334, ../sass/app.scss */
   #content {
     position: relative;
     padding-left: 0.9375em;
@@ -7243,7 +7244,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 336, ../sass/app.scss */
+  /* line 337, ../sass/app.scss */
   #sidebar {
     position: relative;
     padding-left: 0.9375em;
@@ -7254,7 +7255,7 @@ blockquote cite {
     float: left;
   }
 }
-/* line 342, ../sass/app.scss */
+/* line 343, ../sass/app.scss */
 #bott-row {
   width: auto;
   margin-left: -0.9375em;
@@ -7274,7 +7275,7 @@ blockquote cite {
   clear: both;
 }
 
-/* line 346, ../sass/app.scss */
+/* line 347, ../sass/app.scss */
 #bott-1 {
   position: relative;
   padding-left: 0.9375em;
@@ -7283,7 +7284,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 350, ../sass/app.scss */
+/* line 351, ../sass/app.scss */
 #bott-2 {
   position: relative;
   padding-left: 0.9375em;
@@ -7292,7 +7293,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 354, ../sass/app.scss */
+/* line 355, ../sass/app.scss */
 #bott-3 {
   position: relative;
   padding-left: 0.9375em;
@@ -7302,7 +7303,7 @@ blockquote cite {
 }
 
 @media screen and (min-width: 700px) {
-  /* line 359, ../sass/app.scss */
+  /* line 360, ../sass/app.scss */
   #bott-1 {
     position: relative;
     padding-left: 0.9375em;
@@ -7311,7 +7312,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 362, ../sass/app.scss */
+  /* line 363, ../sass/app.scss */
   #bott-2 {
     position: relative;
     padding-left: 0.9375em;
@@ -7320,7 +7321,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 365, ../sass/app.scss */
+  /* line 366, ../sass/app.scss */
   #bott-3 {
     position: relative;
     padding-left: 0.9375em;
@@ -7329,34 +7330,34 @@ blockquote cite {
     float: left;
   }
 }
-/* line 372, ../sass/app.scss */
+/* line 373, ../sass/app.scss */
 #archive ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 376, ../sass/app.scss */
+/* line 377, ../sass/app.scss */
 #archive li {
   /* 		font-size: ms(1); */
 }
 
-/* line 381, ../sass/app.scss */
+/* line 382, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 386, ../sass/app.scss */
+/* line 387, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
   margin: 0 !important;
 }
-/* line 389, ../sass/app.scss */
+/* line 390, ../sass/app.scss */
 .slider-wrapper.theme-light img {
   padding: 0 !important;
   margin: 0 !important;
 }
 
-/* line 395, ../sass/app.scss */
+/* line 396, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;
