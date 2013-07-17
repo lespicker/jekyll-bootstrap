@@ -2,7 +2,7 @@ module Jekyll
 	class Tagpages < Generator
 		def generate(site)
 			site.tags.each do |tag|
-				build_subpages(site, "tag", tag) if(tag.count > 1)
+				build_subpages(site, "tag", tag) if(tag[1].count > 1)
 			end
 		end
 		
