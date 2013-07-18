@@ -49,15 +49,6 @@
 // Compass mixins
 @import "compass/css3/transition";
 
-$headerFontFamily: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
-$headerFontWeight: 400;
-$headerFontColor: #222;
-$bodyFontFamily: "chaparral-pro-display", "chaparral-pro-display", Helvetica, Arial, sans-serif;
-$bodyFontWeight: 400;
-$bodyFontColor: #222;
-
-
-$highlightcolor: #b90303;
 
 figcaption{
 	text-align: right;
@@ -125,7 +116,7 @@ blockquote cite{
 	padding-bottom: 2em;
 	border-top: 1px dashed #ddd;
 	p{
-		font-family: $headerFontFamily;
+		font-family: $header-font-family;
 	}
 }
 
@@ -181,12 +172,12 @@ blockquote cite{
 		@include transition(color .5s);
 	}
 	li{
-		font-family: $headerFontFamily;
+		font-family: $header-font-family;
 /* 		font-size: ms(1); */
 		padding-left: 1em;
 //		text-transform: uppercase;
 		a{
-			color: $headerFontColor;
+			color: $header-font-color;
 			&:hover{
 					color: $highlightcolor;
 					//text-decoration: underline;
@@ -212,11 +203,11 @@ blockquote cite{
   }
   fieldset{
     legend{
-      font-family: $headerFontFamily;
-      font-weight: $headerFontWeight;
+      font-family: $header-font-family;
+      font-weight: $header-font-weight;
   		font-size: 1em;
   		span{
-    		font-weight: $headerFontWeight;
+    		font-weight: $header-font-weight;
     		font-size: .7em;
   		}
     }
@@ -280,7 +271,7 @@ blockquote cite{
   @include grid-column($columns: 4);
 }
 
-#content{
+#container{
 	//@include push(4);
 	@include grid-column(12);
 	p, blockquote{
@@ -296,6 +287,7 @@ blockquote cite{
 /* 		font-size: ms(2); */
 	}
 	cite {
+	  font-weight: $body-font-weight;
 /* 		font-size: ms(2); */
 	}
 	li {
@@ -402,5 +394,5 @@ blockquote cite{
 
 .theme-light .nivo-caption{
 	background: rgba(0,0,0,0.3) !important;
-	font-family: $headerFontFamily !important;
+	font-family: $header-font-family !important;
 }
