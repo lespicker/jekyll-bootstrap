@@ -80,10 +80,6 @@ blockquote cite{
 /* 	font-size: ms(2); */
 }
 
-#container{
-	@include grid-row();
-}
-
 #top-row{
 	@include grid-row(nest);
 	margin-top: 8em;
@@ -273,7 +269,7 @@ blockquote cite{
 
 #container{
 	//@include push(4);
-	@include grid-column(12);
+	@include grid-row();
 	p, blockquote{
 /* 		font-size: ms(1); */
 	}
