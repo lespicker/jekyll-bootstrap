@@ -5,7 +5,7 @@ layout: page
 <div class="blog-index">
   {% assign index = true %}
   {% for post in paginator.posts %}
-  {% assign content = post.excerpt %}
+  {% assign content = post.content %}
     <article>
       {% include themes/lpfa/article.html %}
     </article>
