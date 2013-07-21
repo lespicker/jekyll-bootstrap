@@ -106,7 +106,6 @@ blockquote cite{
 
 #footer{
   @include grid-row(nest);
-	@include grid-column(12,collapse);
 	margin-top: 2em;
 	padding-top: 2em;
 	padding-bottom: 2em;
@@ -292,7 +291,7 @@ blockquote cite{
 }
 
 #content{
-  grid-column(12);
+  @include grid-column(12);
 }
 
 #sidebar{
