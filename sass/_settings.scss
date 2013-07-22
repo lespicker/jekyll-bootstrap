@@ -28,10 +28,6 @@ $em-base: 16px !default;
 
 $default-float: left;
 
- $body-font-family: "chaparral-pro-display", "chaparral-pro-display", Helvetica, Arial, sans-serif;
- $body-font-weight: 400;
- $body-font-color: #222;
-
 // $body-bg: #fff;
 // $body-font-color: #222;
 // $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
@@ -142,9 +138,6 @@ $primary-color: #b90303;
 //
 
 // Heading font styles
- $header-font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
- $header-font-weight: 400;
- $header-font-color: #222;
 
 // $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $header-font-weight: bold;
@@ -1279,13 +1272,34 @@ $primary-color: #b90303;
 
 // $topbar-sticky-class: ".sticky";
 
-// Old stuff from last Foundation
+// should really be next to default settings - move later
 
-// Typography Settings
+// $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+// $header-font-weight: bold;
+// $header-font-style: normal;
+// $header-font-color: #222;
+// $header-line-height: 1.4;
+// $header-top-margin: .2em;
+// $header-bottom-margin: .5em;
+// $header-text-rendering: optimizeLegibility;
 
- $headerFontFamily: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
- $headerFontWeight: 400;
- $headerFontColor: #222;
- $bodyFontFamily: "chaparral-pro-display", "chaparral-pro-display", Helvetica, Arial, sans-serif;
- $bodyFontWeight: 400;
- $bodyFontColor: #222;
+$header-font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
+$header-font-weight: 400;
+$header-font-color: #222;
+
+// $body-bg: #fff;
+// $body-font-color: #222;
+// $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+// $body-font-weight: normal;
+// $body-font-style: normal;
+
+
+$body-font-family: "chaparral-pro", "chaparral-pro", Helvetica, Arial, sans-serif;
+$body-font-weight: 300;
+$body-font-color: #222;
+
+
+$highlightcolor: #b90303;
+
+
+
