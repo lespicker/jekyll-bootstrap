@@ -27,7 +27,8 @@ If you’re photo travel plans include Sicily, you will not want to miss the sma
 ### A Photographic Jewel
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9824-2.jpg"><img class="alignnone size-medium wp-image-2769" title="DSC_9824-2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9824-2-200x300.jpg" alt="" width="200" height="300"></a>
-This little town in a jewel for photographers. Every street, every corner you turn, offers exciting opportunities for photography, from architectural to travel to people. 
+
+This little town is a jewel for photographers. Every street, every corner you turn, offers exciting opportunities for photography, from architectural to travel to people. 
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9844-2.jpg"><img class="alignnone size-medium wp-image-2770" title="DSC_9844-2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9844-2-300x200.jpg" alt="" width="300" height="200"></a>
 
