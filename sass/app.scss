@@ -390,7 +390,7 @@ blockquote cite{
 .folio-grid{
   @include block-grid($per-row: 2);
   @media screen and (min-width: 700px){
-      @include block-grid($per-row: 4);
+      @include block-grid($per-row: 3);
   }
 }
 

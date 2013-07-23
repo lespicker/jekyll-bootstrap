@@ -7463,7 +7463,7 @@ blockquote cite {
   }
   /* line 36, ../../../../.rvm/gems/ruby-2.0.0-p247/gems/zurb-foundation-4.2.3/scss/foundation/components/_block-grid.scss */
   .folio-grid > li {
-    width: 25%;
+    width: 33.33333%;
     padding: 0 0.625em 1.25em;
   }
   /* line 40, ../../../../.rvm/gems/ruby-2.0.0-p247/gems/zurb-foundation-4.2.3/scss/foundation/components/_block-grid.scss */
@@ -7471,7 +7471,7 @@ blockquote cite {
     clear: none;
   }
   /* line 41, ../../../../.rvm/gems/ruby-2.0.0-p247/gems/zurb-foundation-4.2.3/scss/foundation/components/_block-grid.scss */
-  .folio-grid > li:nth-of-type(4n+1) {
+  .folio-grid > li:nth-of-type(3n+1) {
     clear: both;
   }
 }
