@@ -3,11 +3,18 @@ layout: post
 title: "D-d-d-driving in Italy"
 comments: true
 categories:
-- Featured
-- Headline
 - Travelogue
 tags:
+Italy
+driving
+Amalfi coast
+hazards
+drivers
+Italian
 ---
+
+{% img /images/bli/2013/07/DSC_9197.jpg %}
+
 This is a photography blog, and today I’m going to address a critical concern for all photographers visiting Italy- driving.  That’s right. It’s one thing to know your camera, but what good is that if you don’t arrive alive? So, if you want to live to photograph in Italy, you might want to read this.
 
 <!--more-->
@@ -29,7 +36,8 @@ That’s not the worst of it. When they merge back to the right, they literally 
 <strong style="font-size: 13px; line-height: 19px;">The Pluses</strong>. On the plus side, the Autostradas are a pleasure to drive; well-paved, modern and convenient. In more than two weeks of driving I never once saw a police presence on Autostradas. Toll booths are mostly automatic and you pay with cash or credit card, although none of the directions are in English and sometimes their Internet was down so you had to deal with a toll taker. Rest areas are well spaced and, interestingly, offer wine and beer. Best of all, Italians drive on the same side of the road as we do in North America. 
 
  
-<h3>Suggestions</h3>
+### Suggestions
+
 Here are some suggestions for driving in Italy:
 
 <strong style="font-size: 13px; line-height: 19px;">Reserve an Automatic</strong>. Reserve an automatic car in advance if you possibly can. Dealing with the traffic in cities (more on that later) is difficult enough, but doing so while shifting gears is taxing, to say the least. I rented a 6-gear Alfa Romeo, which was a terrific car, but I stalled twice in city traffic while drivers gave me imaginative lessons in how best to use one’s middle finger.
