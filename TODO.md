@@ -12,6 +12,7 @@
 - Speed testing/tuning
 - Modular Scale vs. Em Scale look-see
 - New testimonials
+- Investigate spacing on right side of block-grid
 
 ## Done
 
