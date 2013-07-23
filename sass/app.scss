@@ -49,6 +49,16 @@
 // Compass mixins
 @import "compass/css3/transition";
 
+@for $index from 1 through 6 {
+  .wf-loading h#{$index}{
+    visibility: hidden;
+  }
+  .wf-active h#{$index}{
+    visibility: visible;
+  }
+
+}
+
 
 figcaption{
 	text-align: right;

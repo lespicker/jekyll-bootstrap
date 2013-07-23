@@ -4,7 +4,6 @@
 
 - Integrate new top bar from Foundation 4
 - Take a look at markup div structure and HTML 5 elements
-- Hide fonts until loaded (Typekit.Com)
 - Verify media queries for retina iPhone/iPad
 - Tag cloud for sidebar
 - News/Breaking News sidebar change
@@ -17,3 +16,4 @@
 ## Done
 
 - Foundation 3 block grid fix for folios
+- Hide fonts until loaded (Typekit.Com)
