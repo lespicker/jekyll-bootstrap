@@ -3,11 +3,16 @@ layout: post
 title: "Photographing in Favignana, Italy"
 comments: true
 categories:
-- Featured
-- Headline
 - Travelogue
 tags:
+Favignana
+Italy
+Sicily
+Egadi Islands
 ---
+
+{% img /images/bli/2013/07/DSC_9453-Edit.jpg %}
+
 Off the coast of Trapani, Sicily, right at the point of the boot, sit the three tiny Egadi Islands. The largest is Favignana and I’m here right now photographing. I thought I’d share with you today’s adventure as an illustration of creative choice in photography.
 
 Atop the highest point of the island there is an old fortress, which some locals prefer to call a castle.  My guess is that those who call it a castle have never done the strenuous hike up there.
@@ -22,11 +27,7 @@ As a landscape, travel and wildlife photographer, the overwhelming majority of m
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9452-Edit.jpg"><img class="alignnone size-medium wp-image-2762" title="DSC_9452-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9452-Edit-200x300.jpg" alt="" width="200" height="300"></a>
 
-In any case, here are a few images from that visit, quickly done this evening as I recovered from the hike.
-
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9453-Edit.jpg"><img class="alignnone size-medium wp-image-2763" title="DSC_9453-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9453-Edit-300x200.jpg" alt="" width="300" height="200"></a>
-
-The technical information is that all the images from today’s shoot were imported into Lightroom 4. I then selected several potentials for export into Nik software’s Silver Efex Pro, a wonderful, easy-to-use program. A few fast adjustments and here you are.
+In any case, here are a few images from that visit, quickly done this evening as I recovered from the hike. The technical information is that all the images from today’s shoot were imported into Lightroom 4. I then selected several potentials for export into Nik software’s Silver Efex Pro, a wonderful, easy-to-use program. A few fast adjustments and here you are.
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9470-Edit.jpg"><img class="alignnone size-medium wp-image-2764" title="DSC_9470-Edit" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9470-Edit-200x300.jpg" alt="" width="200" height="300"></a>
 
