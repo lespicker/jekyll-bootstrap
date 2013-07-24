@@ -73,7 +73,6 @@ a{
 }
 
 h1{
-	font-size: ms(4);
 	text-align: center;
 }
 
@@ -86,21 +85,19 @@ h1{
 }
 
 blockquote cite{
-	font-size: ms(3);
 }
 
 #container{
-	@include outerRow();
+	@include grid-row();
 }
 
 #top-row{
-	@include innerRow();
+	@include grid-row(nest);
 	margin-top: 8em;
 }
 
 #header{
-	@include offsetBy(1);
-	@include column(10,collapse);
+	@include grid-column($columns: 10, $offset: 1, $collapse: true);
 //	background-color: rgba(255,255,255, 0.6);
 //	position: fixed;
 //	z-index: 999;
@@ -129,7 +126,7 @@ blockquote cite{
 #nav{
 	display: inline-block;
 	h1, h2, h3, h4, h5, h6{
-		font-size: ms(1);
+		font-size: 1em;
 	}
 	a, li{
 		display: inline;
@@ -141,12 +138,12 @@ blockquote cite{
 		@include transition(color .5s);
 	}
 	li{
-		font-family: $headerFontFamily;
-		font-size: ms(1);
+		font-family: $header-font-family;
+		font-size:1em;
 		padding-left: 1em;
 //		text-transform: uppercase;
 		a{
-			color: $headerFontColor;
+			color: $header-font-color;
 			&:hover{
 					color: $highlightcolor;
 					//text-decoration: underline;
@@ -165,22 +162,12 @@ blockquote cite{
 //}
 
 #content{
-	@include offsetBy(1);
-	@include column(10);
+	@include grid-column($columns: 10, $offset: 1);
 	p, blockquote, li{
-		font-size: ms(1);
-	}
-	p.ms-zero{
-		font-size: ms(0);
-	}
-	p.ms-one{
-		font-size: ms(1);
-	}
-	p.ms-two{
-		font-size: ms(2);
+		font-size: 1em;
 	}
 	cite {
-		font-size: ms(2);
+		font-size: 2em;
 	}
 	ul{
 		list-style-type: square;
@@ -188,26 +175,16 @@ blockquote cite{
 }
 
 #content-side{
-	@include offsetBy(1);
-	@include column(8);
+	@include grid-column($columns: 8, $offset: 1);
 	p, li{
-		font-size: ms(1);
+		font-size: 1em;
 	}
 	blockquote p{
-		font-size: ms(2)
-	}
-	p.ms-zero{
-		font-size: ms(0);
-	}
-	p.ms-one{
-		font-size: ms(1);
-	}
-	p.ms-two{
-		font-size: ms(2);
+		font-size: 2em;
 	}
 	cite {
 		margin-top: 1em;
-		font-size: ms(1);
+		font-size: 1em;
 	}
 	ul{
 		list-style-type: square;
@@ -215,14 +192,14 @@ blockquote cite{
 }
 
 #sidebar{
-	@include column(2);
+	@include grid-column($columns: 2);
 	img{
 		max-width: 100%;
 		margin-top: 0.3em;
 		margin-bottom: 1em;
 	}
 	h3{
-		font-size: ms(1);
+		font-size: 1em;
 	}
 	ul{
 		list-style: none;
@@ -256,7 +233,7 @@ blockquote cite{
 		list-style-type: none;
 	}
 	li{
-		font-size: ms(1);
+		font-size: 1em;
 	}
 }
 
@@ -271,5 +248,5 @@ blockquote cite{
 
 .theme-light .nivo-caption{
 	background: rgba(0,0,0,0.3) !important;
-	font-family: $headerFontFamily !important;
+	font-family: $header-font-family !important;
 }
