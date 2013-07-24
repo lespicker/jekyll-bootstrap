@@ -5,12 +5,12 @@ comments: true
 categories:
 - Travelogue
 tags:
-Italy
-driving
-Amalfi coast
-hazards
-drivers
-Italian
+- Italy
+- driving
+- Amalfi coast
+- hazards
+- drivers
+- Italian
 ---
 
 {% img /images/bli/2013/07/DSC_9197.jpg %}

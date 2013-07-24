@@ -5,10 +5,10 @@ comments: true
 categories:
 - Travelogue
 tags:
-Favignana
-Italy
-Sicily
-Egadi Islands
+- Favignana
+- Italy
+- Sicily
+- Egadi Islands
 ---
 
 {% img /images/bli/2013/07/DSC_9453-Edit.jpg %}
