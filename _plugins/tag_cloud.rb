@@ -57,10 +57,10 @@ module Jekyll
     def render(context)
       # get category directory of category page
       config = context.registers[:site].config
-      dir = config['root'] + config['category_dir']
+      dir = './' #why doesn't this work config['root'] + config['tag_dir'].to_s
 
       # get an Array of [tag name, tag count] pairs
-      count = context.registers[:site].categories.map do |name, posts|
+      count = context.registers[:site].tags.map do |name, posts|
         [name, posts.count] if posts.count >= threshold
       end
 
