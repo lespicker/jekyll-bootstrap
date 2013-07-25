@@ -10,11 +10,14 @@
 - Image options for Portrait images or small landscape images. Retro compatable?
 - Related posts.
 - Speed testing/tuning
-- Modular Scale vs. Em Scale look-see
-- New testimonials
 - Investigate spacing on right side of block-grid
+- Pull font changes from writer site
+- Typkit.com support - font flash issue.
+- New gallery style
 
 ## Done
 
+- New testimonials
+- Modular Scale vs. Em Scale look-see
 - Foundation 3 block grid fix for folios
 - Hide fonts until loaded (Typekit.Com)
