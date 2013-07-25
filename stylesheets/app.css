@@ -6745,19 +6745,19 @@ a.th {
   visibility: visible;
 }
 
-/* line 63, ../sass/app.scss */
+/* line 62, ../sass/app.scss */
 figcaption {
   text-align: right;
   margin-top: -1em;
 }
 
-/* line 68, ../sass/app.scss */
+/* line 67, ../sass/app.scss */
 img {
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 73, ../sass/app.scss */
+/* line 72, ../sass/app.scss */
 a {
   color: #b90303;
   -webkit-transition: color 0.5s;
@@ -6765,12 +6765,12 @@ a {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 75, ../sass/app.scss */
+/* line 74, ../sass/app.scss */
 a:hover {
   color: #970000;
 }
 
-/* line 81, ../sass/app.scss */
+/* line 80, ../sass/app.scss */
 .orbit-caption a {
   color: #999999;
   -webkit-transition: color 0.5s;
@@ -6778,17 +6778,17 @@ a:hover {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 83, ../sass/app.scss */
+/* line 82, ../sass/app.scss */
 .orbit-caption a:hover {
   color: #b90303;
 }
 
-/* line 89, ../sass/app.scss */
+/* line 88, ../sass/app.scss */
 blockquote cite {
   /* 	font-size: ms(2); */
 }
 
-/* line 93, ../sass/app.scss */
+/* line 92, ../sass/app.scss */
 #top-row {
   width: auto;
   margin-left: -0.9375em;
@@ -6809,7 +6809,7 @@ blockquote cite {
   clear: both;
 }
 
-/* line 98, ../sass/app.scss */
+/* line 97, ../sass/app.scss */
 #header {
   position: relative;
   padding-left: 0.9375em;
@@ -6821,22 +6821,22 @@ blockquote cite {
   position: fixed;
   z-index: 999;
 }
-/* line 104, ../sass/app.scss */
+/* line 103, ../sass/app.scss */
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
   display: inline;
 }
-/* line 107, ../sass/app.scss */
+/* line 106, ../sass/app.scss */
 #header h1 {
   color: #b90303;
 }
-/* line 110, ../sass/app.scss */
+/* line 109, ../sass/app.scss */
 #header img {
   display: inline;
   margin-top: 1.2em;
   margin-bottom: 1em;
 }
 
-/* line 117, ../sass/app.scss */
+/* line 116, ../sass/app.scss */
 #footer {
   width: auto;
   margin-left: -0.9375em;
@@ -6859,12 +6859,12 @@ blockquote cite {
 #footer:after {
   clear: both;
 }
-/* line 123, ../sass/app.scss */
+/* line 122, ../sass/app.scss */
 #footer p {
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
 }
 
-/* line 128, ../sass/app.scss */
+/* line 127, ../sass/app.scss */
 #email {
   position: relative;
   padding-left: 0.9375em;
@@ -6875,7 +6875,7 @@ blockquote cite {
   text-align: center;
 }
 
-/* line 133, ../sass/app.scss */
+/* line 132, ../sass/app.scss */
 #phone {
   position: relative;
   padding-left: 0.9375em;
@@ -6886,7 +6886,7 @@ blockquote cite {
   text-align: center;
 }
 
-/* line 138, ../sass/app.scss */
+/* line 137, ../sass/app.scss */
 #addr {
   position: relative;
   padding-left: 0.9375em;
@@ -6898,7 +6898,7 @@ blockquote cite {
 }
 
 @media screen and (min-width: 700px) {
-  /* line 144, ../sass/app.scss */
+  /* line 143, ../sass/app.scss */
   #email {
     position: relative;
     padding-left: 0.9375em;
@@ -6909,7 +6909,7 @@ blockquote cite {
     text-align: left;
   }
 
-  /* line 148, ../sass/app.scss */
+  /* line 147, ../sass/app.scss */
   #phone {
     position: relative;
     padding-left: 0.9375em;
@@ -6919,7 +6919,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 151, ../sass/app.scss */
+  /* line 150, ../sass/app.scss */
   #addr {
     position: relative;
     padding-left: 0.9375em;
@@ -6930,7 +6930,7 @@ blockquote cite {
     text-align: right;
   }
 }
-/* line 157, ../sass/app.scss */
+/* line 156, ../sass/app.scss */
 #nav-block {
   display: inline-block;
   padding-left: 2em;
@@ -6938,15 +6938,15 @@ blockquote cite {
   vertical-align: top;
 }
 
-/* line 165, ../sass/app.scss */
+/* line 164, ../sass/app.scss */
 #nav {
   display: inline-block;
 }
-/* line 167, ../sass/app.scss */
+/* line 166, ../sass/app.scss */
 #nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
   /* 		font-size: ms(1); */
 }
-/* line 170, ../sass/app.scss */
+/* line 169, ../sass/app.scss */
 #nav a, #nav li {
   display: inline;
   text-align: center;
@@ -6956,26 +6956,26 @@ blockquote cite {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 174, ../sass/app.scss */
+/* line 173, ../sass/app.scss */
 #nav a:hover, #nav li:hover {
   color: #b90303;
 }
-/* line 179, ../sass/app.scss */
+/* line 178, ../sass/app.scss */
 #nav li {
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
   /* 		font-size: ms(1); */
   padding-left: 1em;
 }
-/* line 184, ../sass/app.scss */
+/* line 183, ../sass/app.scss */
 #nav li a {
   color: #222222;
 }
-/* line 186, ../sass/app.scss */
+/* line 185, ../sass/app.scss */
 #nav li a:hover {
   color: #b90303;
 }
 
-/* line 203, ../sass/app.scss */
+/* line 202, ../sass/app.scss */
 .products-wrapper {
   position: relative;
   padding-left: 0.9375em;
@@ -6984,23 +6984,23 @@ blockquote cite {
   float: left;
   margin-top: 8em;
 }
-/* line 206, ../sass/app.scss */
+/* line 205, ../sass/app.scss */
 .products-wrapper h6 {
   text-align: center;
 }
-/* line 210, ../sass/app.scss */
+/* line 209, ../sass/app.scss */
 .products-wrapper fieldset legend {
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 1em;
 }
-/* line 214, ../sass/app.scss */
+/* line 213, ../sass/app.scss */
 .products-wrapper fieldset legend span {
   font-weight: 400;
   font-size: .7em;
 }
 
-/* line 222, ../sass/app.scss */
+/* line 221, ../sass/app.scss */
 .products-inside {
   display: block;
   padding: 0;
@@ -7036,19 +7036,19 @@ blockquote cite {
 .products-inside > li:nth-of-type(1n+1) {
   clear: both;
 }
-/* line 224, ../sass/app.scss */
+/* line 223, ../sass/app.scss */
 .products-inside form {
   margin: 0;
 }
-/* line 227, ../sass/app.scss */
+/* line 226, ../sass/app.scss */
 .products-inside fieldset {
   margin: 0;
 }
-/* line 229, ../sass/app.scss */
+/* line 228, ../sass/app.scss */
 .products-inside fieldset h6 {
   height: 2em;
 }
-/* line 231, ../sass/app.scss */
+/* line 230, ../sass/app.scss */
 .products-inside img {
   display: block;
   margin-left: auto;
@@ -7056,7 +7056,7 @@ blockquote cite {
 }
 
 @media screen and (min-width: 700px) {
-  /* line 239, ../sass/app.scss */
+  /* line 238, ../sass/app.scss */
   .products-inside {
     display: block;
     padding: 0;
@@ -7093,7 +7093,7 @@ blockquote cite {
     clear: both;
   }
 }
-/* line 244, ../sass/app.scss */
+/* line 243, ../sass/app.scss */
 .product-desc {
   border-style: solid;
   border-width: 1px;
@@ -7125,7 +7125,7 @@ blockquote cite {
   line-height: 1.4;
 }
 
-/* line 249, ../sass/app.scss */
+/* line 248, ../sass/app.scss */
 .cart_item {
   width: auto;
   margin-left: -0.9375em;
@@ -7145,7 +7145,7 @@ blockquote cite {
   clear: both;
 }
 
-/* line 253, ../sass/app.scss */
+/* line 252, ../sass/app.scss */
 .cart_picture {
   position: relative;
   padding-left: 0.9375em;
@@ -7154,7 +7154,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 257, ../sass/app.scss */
+/* line 256, ../sass/app.scss */
 .cart_desc {
   position: relative;
   padding-left: 0.9375em;
@@ -7163,7 +7163,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 261, ../sass/app.scss */
+/* line 260, ../sass/app.scss */
 .cart_price {
   position: relative;
   padding-left: 0.9375em;
@@ -7172,7 +7172,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 265, ../sass/app.scss */
+/* line 264, ../sass/app.scss */
 .cart_control {
   position: relative;
   padding-left: 0.9375em;
@@ -7181,7 +7181,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 269, ../sass/app.scss */
+/* line 268, ../sass/app.scss */
 .cart_quantity {
   position: relative;
   padding-left: 0.9375em;
@@ -7190,7 +7190,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 273, ../sass/app.scss */
+/* line 272, ../sass/app.scss */
 .cart_remove {
   position: relative;
   padding-left: 0.9375em;
@@ -7199,7 +7199,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 279, ../sass/app.scss */
+/* line 278, ../sass/app.scss */
 #container {
   width: 100%;
   margin-left: auto;
@@ -7218,33 +7218,33 @@ blockquote cite {
 #container:after {
   clear: both;
 }
-/* line 282, ../sass/app.scss */
+/* line 281, ../sass/app.scss */
 #container p, #container blockquote {
   /* 		font-size: ms(1); */
 }
-/* line 285, ../sass/app.scss */
+/* line 284, ../sass/app.scss */
 #container p.ms-zero {
   /* 		font-size: ms(0); */
 }
-/* line 288, ../sass/app.scss */
+/* line 287, ../sass/app.scss */
 #container p.ms-one {
   /* 		font-size: ms(1); */
 }
-/* line 291, ../sass/app.scss */
+/* line 290, ../sass/app.scss */
 #container p.ms-two {
   /* 		font-size: ms(2); */
 }
-/* line 294, ../sass/app.scss */
+/* line 293, ../sass/app.scss */
 #container cite {
   font-weight: 300;
   /* 		font-size: ms(2); */
 }
-/* line 298, ../sass/app.scss */
+/* line 297, ../sass/app.scss */
 #container li {
   /* 		font-size: ms(1) */
 }
 
-/* line 303, ../sass/app.scss */
+/* line 302, ../sass/app.scss */
 #content {
   position: relative;
   padding-left: 0.9375em;
@@ -7253,7 +7253,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 307, ../sass/app.scss */
+/* line 306, ../sass/app.scss */
 #sidebar {
   position: relative;
   padding-left: 0.9375em;
@@ -7261,34 +7261,34 @@ blockquote cite {
   width: 100%;
   float: left;
 }
-/* line 310, ../sass/app.scss */
+/* line 309, ../sass/app.scss */
 #sidebar img {
   margin-top: 0.3em;
   margin-bottom: 1em;
 }
-/* line 314, ../sass/app.scss */
+/* line 313, ../sass/app.scss */
 #sidebar p {
   font-weight: 400;
 }
-/* line 317, ../sass/app.scss */
+/* line 316, ../sass/app.scss */
 #sidebar h3 {
   /* 		font-size: ms(1); */
   font-size: 1.2em;
   font-family: "anivers-sc";
   margin-bottom: 0;
 }
-/* line 323, ../sass/app.scss */
+/* line 322, ../sass/app.scss */
 #sidebar ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 329, ../sass/app.scss */
+/* line 328, ../sass/app.scss */
 #sidebar a {
   font-family: "chaparral-pro-web";
 }
 
 @media screen and (min-width: 700px) {
-  /* line 335, ../sass/app.scss */
+  /* line 334, ../sass/app.scss */
   #content {
     position: relative;
     padding-left: 0.9375em;
@@ -7299,7 +7299,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 338, ../sass/app.scss */
+  /* line 337, ../sass/app.scss */
   #sidebar {
     position: relative;
     padding-left: 0.9375em;
@@ -7310,7 +7310,7 @@ blockquote cite {
     float: left;
   }
 }
-/* line 344, ../sass/app.scss */
+/* line 343, ../sass/app.scss */
 #bott-row {
   width: auto;
   margin-left: -0.9375em;
@@ -7330,7 +7330,7 @@ blockquote cite {
   clear: both;
 }
 
-/* line 348, ../sass/app.scss */
+/* line 347, ../sass/app.scss */
 #bott-1 {
   position: relative;
   padding-left: 0.9375em;
@@ -7339,7 +7339,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 352, ../sass/app.scss */
+/* line 351, ../sass/app.scss */
 #bott-2 {
   position: relative;
   padding-left: 0.9375em;
@@ -7348,7 +7348,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 356, ../sass/app.scss */
+/* line 355, ../sass/app.scss */
 #bott-3 {
   position: relative;
   padding-left: 0.9375em;
@@ -7358,7 +7358,7 @@ blockquote cite {
 }
 
 @media screen and (min-width: 700px) {
-  /* line 361, ../sass/app.scss */
+  /* line 360, ../sass/app.scss */
   #bott-1 {
     position: relative;
     padding-left: 0.9375em;
@@ -7367,7 +7367,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 364, ../sass/app.scss */
+  /* line 363, ../sass/app.scss */
   #bott-2 {
     position: relative;
     padding-left: 0.9375em;
@@ -7376,7 +7376,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 367, ../sass/app.scss */
+  /* line 366, ../sass/app.scss */
   #bott-3 {
     position: relative;
     padding-left: 0.9375em;
@@ -7385,23 +7385,23 @@ blockquote cite {
     float: left;
   }
 }
-/* line 374, ../sass/app.scss */
+/* line 373, ../sass/app.scss */
 #archive ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 378, ../sass/app.scss */
+/* line 377, ../sass/app.scss */
 #archive li {
   /* 		font-size: ms(1); */
 }
 
-/* line 384, ../sass/app.scss */
+/* line 383, ../sass/app.scss */
 #featured img {
   padding: 0;
   margin: 0;
 }
 
-/* line 390, ../sass/app.scss */
+/* line 389, ../sass/app.scss */
 .folio-grid {
   display: block;
   padding: 0;
@@ -7438,7 +7438,7 @@ blockquote cite {
   clear: both;
 }
 @media screen and (min-width: 700px) {
-  /* line 390, ../sass/app.scss */
+  /* line 389, ../sass/app.scss */
   .folio-grid {
     display: block;
     padding: 0;
@@ -7476,24 +7476,24 @@ blockquote cite {
   }
 }
 
-/* line 397, ../sass/app.scss */
+/* line 396, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 402, ../sass/app.scss */
+/* line 401, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
   margin: 0 !important;
 }
-/* line 405, ../sass/app.scss */
+/* line 404, ../sass/app.scss */
 .slider-wrapper.theme-light img {
   padding: 0 !important;
   margin: 0 !important;
 }
 
-/* line 411, ../sass/app.scss */
+/* line 410, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;
