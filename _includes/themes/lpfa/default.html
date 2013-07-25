@@ -13,62 +13,59 @@
   
     <title>{{ page.title }}</title>
   
-	{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  	{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
+   
     
     <!-- Included CSS Files -->
+    <link rel="stylesheet" href="/stylesheets/app.css">
+  	<link rel="stylesheet" type="text/css" href="/javascripts/lightview3/css/lightview/lightview.css"/>
+
     <script type="text/javascript" src="//use.typekit.net/wpt4icx.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <link rel="stylesheet" href="/stylesheets/app.css">
-  
-    <script src="/javascripts/foundation/custom.modernizr.js"></script>
-    <script src="/javascripts/foundation/jquery.js"></script>
-    <script src="/javascripts/foundation/foundation.min.js"></script>
-    <script src="/javascripts/foundation/foundation.orbit.js"></script>
     
-  <!--Nivo Slider
-  <link rel="stylesheet" href="/javascripts/nivo-slider/nivo-slider.css">
-	<link rel="stylesheet" href="/javascripts/nivo-slider/themes/light/light.css" type="text/css" media="screen" />
-	<script src="/javascripts/nivo-slider/jquery.nivo.slider.pack.js"></script>
-	-->
-	
-	<!--Lightview 3-->
-	<!--[if lt IE 9]>
-	  <script type="text/javascript" src="/javascripts/lightview3/excanvas/excanvas.js"></script>
-	<![endif]-->
-	<script type="text/javascript" src="/javascripts/lightview3/js/spinners/spinners.min.js"></script>
-	<script type="text/javascript" src="/javascripts/lightview3/js/lightview/lightview.js"></script>
-	<link rel="stylesheet" type="text/css" href="/javascripts/lightview3/css/lightview/lightview.css"/>
+    <script src="/javascripts/foundation/custom.modernizr.js"></script>
+      
+    <!--Nivo Slider
+    <link rel="stylesheet" href="/javascripts/nivo-slider/nivo-slider.css">
+  	<link rel="stylesheet" href="/javascripts/nivo-slider/themes/light/light.css" type="text/css" media="screen" />
+  	<script src="/javascripts/nivo-slider/jquery.nivo.slider.pack.js"></script>
+  	-->
+  	
+  	<!--Lightview 3-->
+  	<!--[if lt IE 9]>
+  	  <script type="text/javascript" src="/javascripts/lightview3/excanvas/excanvas.js"></script>
+  	<![endif]-->
+  	    
+    <!-- should prolly go in image pages? 
+  	<script type="text/javascript">
+  	   $(window).load(function() {
+  		   $('#featured').orbit({
+  		   		animation: 'fade',
+  		   		timer: true,
+  		   		captions: true,
+  		   		pauseOnHover: false,
+  		   		captionAnimation: 'fade'});
+  	   });
+  	</script>
+  	-->
+  	
+  	<!--
+  	<script type="text/javascript">
+  		$(window).load(function(){
+  			$('#slider').nivoSlider({
+  				effect: 'fade',
+  				directionNav: 'true',
+  				manualAdvance: 'true'
+  			});
+  		});	
+  	</script>
+  	-->
   
-  <!-- should prolly go in image pages? 
-	<script type="text/javascript">
-	   $(window).load(function() {
-		   $('#featured').orbit({
-		   		animation: 'fade',
-		   		timer: true,
-		   		captions: true,
-		   		pauseOnHover: false,
-		   		captionAnimation: 'fade'});
-	   });
-	</script>
-	-->
-	
-	<!--
-	<script type="text/javascript">
-		$(window).load(function(){
-			$('#slider').nivoSlider({
-				effect: 'fade',
-				directionNav: 'true',
-				manualAdvance: 'true'
-			});
-		});	
-	</script>
-	-->
-
-    <!-- IE Fix for HTML5 Tags -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+      <!-- IE Fix for HTML5 Tags -->
+      <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <![endif]-->
 	
   </head>
 
@@ -102,6 +99,15 @@
 			</div>
 		</div>
 		{% include JB/analytics %}
-    <script type="text/javascript">$(document).foundation();</script>    
+		
+    <script src="/javascripts/foundation/jquery.js"></script>
+    <script src="/javascripts/foundation/foundation.min.js"></script>
+    <script src="/javascripts/foundation/foundation.orbit.js"></script>
+
+    <script type="text/javascript">$(document).foundation();</script>
+    
+  	<script type="text/javascript" src="/javascripts/lightview3/js/spinners/spinners.min.js"></script>
+  	<script type="text/javascript" src="/javascripts/lightview3/js/lightview/lightview.js"></script>
+    
 	</body>
 </html>
