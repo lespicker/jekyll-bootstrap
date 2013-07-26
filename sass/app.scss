@@ -3,6 +3,7 @@
 
 // Comment out this import if you are customizing you imports below
 @import "foundation";
+@import "foundation/components/global";
 
 // ----------------------------------------
 // Import specific parts of Foundation by commenting the import "foundation"
@@ -97,6 +98,19 @@ h1{
 		color: $highlightcolor;
 	}
 	@include transition(color .5s);
+}
+
+.orbit-next, .orbit-prev, .orbit-timer{
+  visibility: hidden;
+}
+
+#featured{
+  blockquote.frontpage{
+    font-size: 2em;
+  }
+  blockquote.frontpage cite{
+    font-size: 1em;
+  }
 }
 
 blockquote cite{
@@ -223,21 +237,36 @@ blockquote cite{
 	}
 }
 
-/*
-#bott-row{
-	@include innerRow();
+#book-covers{
+  @include grid-row(nest-collapse);
 }
 
+#book-wrap{
+  @include grid-column(12, $collapse: true);
+}
+
+#books{
+  @include block-grid($per-row: 4, $base-style: true);
+  //Why negative margins??? maybe just use the regular grid instead?
+}
+
+
+#bott-row{
+	@include grid-row(nest);
+}
+
+
 #bott-1{
-	@include column(4);
+	@include grid-column(8);
 }
 
 #bott-2{
-	@include column(4);
+	@include grid-column(4);
 }
 
+/*
 #bott-3{
-	@include column(4);
+	@include grid-column(4);
 }
 */
 
@@ -251,16 +280,3 @@ blockquote cite{
 	}
 }
 
-.nivoslider a{
-	border: 0px;
-	display: block;
-}
-
-.slider-wrapper.theme-light{
-	padding: 0 !important;
-}
-
-.theme-light .nivo-caption{
-	background: rgba(0,0,0,0.3) !important;
-	font-family: $header-font-family !important;
-}
