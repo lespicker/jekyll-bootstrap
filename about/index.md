@@ -20,7 +20,7 @@ Two characteristics shape Les’ photography; passion and inquisitiveness. Since
 
 Les has cruised on a nuclear attack submarine deep in the Pacific Ocean and has climbed the highest peak in the Pyrenes. He has withstood -50F in the Arctic and tolerated 120F living with a Bedouin tribe in the Eastern desert of Egypt. He was nearly bitten by a sea lion in the Galapagos (never stand between a mother and her pup!) and was chased by a 16-foot alligator in South Africa. 
 
-Les was awarded the top prize in the prestigious Canada Northern Lights Award for 2011. 
+Les was named Best Travel Photographer for the prestigious Canada Northern Lights Award in 2011. 
 
 “I feel blessed to be able to write and photograph for a living,” Les says. “If my photographs help people better appreciate our natural world – and its fragility – then I feel I have accomplished a worthy life goal.”
 
