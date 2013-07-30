@@ -7,8 +7,8 @@ categories:
 - News
 tags:
 - photo tip
-gift
-giveaway
+- gift
+- giveaway
 ---
 
 {% img /images/bli/2013/07/LAP_5366.jpg %}
