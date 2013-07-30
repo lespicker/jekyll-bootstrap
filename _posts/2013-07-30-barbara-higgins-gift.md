@@ -16,7 +16,7 @@ giveaway
 
 Here is a novel idea! How about you sharing with my readers a photo tip and I will send you a valuable gift -- FREE! -- that I am confident you will cherish for a lifetime? Are you hooked?
 
-{!-- more --}
+<!-- more -->
 
 I have ten copies of "Carmen Remembers," one of the most magical CDs you will ever hear. The stories are told by one of my dearest friends, Barbara Higgins (Xwu'p'a'lich), one of the matriarchs of the Coastal Salish indigenous people of the Pacific coast of Canada. Barbara's First Nation people live in Sechelt, west of Vancouver, in an area aptly named The Sunshine Coast. 
 
