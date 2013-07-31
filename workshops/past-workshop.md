@@ -2,7 +2,7 @@
 layout: page
 title: Past Workshops
 ---
-## Latest Workshop
+## Past Workshops
 
 ### Acadia National Park, Mt. Desert Island, Maine
 
