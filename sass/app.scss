@@ -57,6 +57,121 @@
 
 $highlightcolor: rgba(147,37,23,1);
 
+// Slider Styles
+
+//General
+
+blockquote.frontpage{
+  font-size: 2em;
+  margin-bottom: 0;
+  cite{
+    font-size: 1em;
+  }
+}
+
+blockquote.one{
+  font-size: 1.3em;
+  margin-right: 20em;
+}
+
+blockquote.two{
+  float: right;
+  margin-left: 20em;  
+}
+
+blockquote.three{
+  margin-top: 10em;
+  margin-left: 5em;
+  margin-right: 15em;
+}
+
+blockquote.four{
+  font-size: .7em;
+  float: left;
+  margin-top: 10em;
+  margin-right: 30em;
+}
+
+blockquote.five{
+  font-size: .7em;
+  margin-top: 22em;
+}
+
+blockquote.six{
+  font-size: .7em;
+  float: right;
+  margin-top: 13em;
+  margin-left: 50em;
+}
+
+// Foundation Orbit
+
+.orbit-caption a{
+	color: #999999;
+	&:hover{
+		color: $highlightcolor;
+	}
+	@include transition(color .5s);
+}
+
+.orbit-next, .orbit-prev, .orbit-timer{
+  visibility: hidden;
+}
+
+// Royal Slider
+
+.rsABlock {
+//  position: relative;
+  display: block;
+  left: auto;
+  top: auto;
+}
+
+.royalSlider{
+  width: 100%;
+}
+
+#slider-with-blocks-1{
+  background: #fff;
+}
+
+.rsOverflow, .rsSlide{
+  background: #fff !important;
+} 
+
+// General Global
+
+.stars{
+  background-image: url(/images/star.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+p, blockquote, li{
+	font-size: 1em;
+	color: $body-font-color;
+}
+
+span{
+  color: $body-font-color;
+}
+
+blockquote{
+  span{
+    font-weight: 700;
+    color: #f00;
+  }
+}
+
+cite {
+	font-size: 2em;
+}
+
+ul{
+	list-style-type: square;
+}
+
 img.alternate{
 	margin-top: 0;
 	margin-bottom: 0;
@@ -92,30 +207,6 @@ h1{
 	text-align: center;
 }
 
-.orbit-caption a{
-	color: #999999;
-	&:hover{
-		color: $highlightcolor;
-	}
-	@include transition(color .5s);
-}
-
-.orbit-next, .orbit-prev, .orbit-timer{
-  visibility: hidden;
-}
-
-#featured{
-  blockquote.frontpage{
-    font-size: 2em;
-  }
-  blockquote.frontpage cite{
-    font-size: 1em;
-  }
-}
-
-blockquote cite{
-}
-
 #container{
 	@include grid-row();
 }
@@ -142,6 +233,8 @@ blockquote cite{
 		margin-bottom: 1em;
 	}
 }
+
+//id and class
 
 #nav-block{
 	display: inline-block;
@@ -191,15 +284,6 @@ blockquote cite{
 
 #content{
 	@include grid-column($columns: 10, $offset: 1);
-	p, blockquote, li{
-		font-size: 1em;
-	}
-	cite {
-		font-size: 2em;
-	}
-	ul{
-		list-style-type: square;
-	}
 }
 
 #content-side{
@@ -253,6 +337,7 @@ blockquote cite{
 
 #bott-row{
 	@include grid-row(nest);
+	margin-top: 2em;
 }
 
 
