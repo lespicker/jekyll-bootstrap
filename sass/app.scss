@@ -47,6 +47,9 @@
 
 @import "compass/css3/transition";
 
+@import "webicons";
+
+
 @mixin font-smoothing($font-smoothing) { 
   // none | antialiased | subpixel-antialiased
   -webkit-font-smoothing: $font-smoothing;
@@ -435,6 +438,27 @@ h1{
 	@include grid-column(4);
 }
 */
+
+#footer{
+  @include grid-row(nest-collapse);
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#email{
+  @include grid-column(4);
+  text-align: left;
+}
+
+#phone{
+  @include grid-column(4);
+  text-align: center;
+}
+
+#social{
+  @include grid-column(4);
+  text-align: right;
+}
 
 #archive{
 	ul{
