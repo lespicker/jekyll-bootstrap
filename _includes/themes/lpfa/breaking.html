@@ -1,0 +1,10 @@
+<h4>Breaking News</h4>
+<ul>
+  {% assign index = true %}
+	{% for post in site.categories['breaking'] limit:1 %}
+    {% assign content = post.content %}
+    <article>
+      {% include themes/lpfa/article.html %}
+    </article>
+	{%  endfor %}
+</ul>

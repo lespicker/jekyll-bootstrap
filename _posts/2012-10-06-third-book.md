@@ -2,6 +2,7 @@
 layout: post
 title: It's Started
 comments: true
+categories:
 ---
 ### I've Started on Book 3
 

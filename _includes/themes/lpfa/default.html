@@ -17,8 +17,8 @@
     <meta name="author" content="{{ site.author.name }}">
     
     <!-- Included CSS Files -->
-    <script type="text/javascript" src="//use.typekit.net/fmn0cge.js"></script>
-  	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script data-cfasync="false" type="text/javascript" src="//use.typekit.net/fmn0cge.js"></script>
+  	<script data-cfasync="false" type="text/javascript">try{Typekit.load();}catch(e){}</script>
   	
     <!--RS-->
     <link class="rs-file" href="/assets/royalslider/royalslider.css" rel="stylesheet">
@@ -99,6 +99,7 @@
       jQuery.rsCSS3Easing.easeOutBack = 'cubic-bezier(0.175, 0.885, 0.320, 1.275)';
       $('#slider-with-blocks-1').royalSlider({
         autoScaleSlider: true,
+        autoScaleSliderHeight: 320,
         arrowsNav: false,
         arrowsNavAutoHide: false,
         fadeinLoadedSlide: false,
@@ -115,7 +116,7 @@
         autoPlay: {
           enabled: true,
           pauseOnHover: true,
-          delay: 2000
+          delay: 4000
         },
         block: {
           delay: 400

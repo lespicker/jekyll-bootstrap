@@ -6406,26 +6406,36 @@ blockquote.frontpage cite {
   font-size: 1em;
 }
 
-/* line 72, ../sass/app.scss */
+/* line 73, ../sass/app.scss */
+#slide-1 blockquote {
+  margin-top: 1.1em;
+}
+
+/* line 81, ../sass/app.scss */
+#slide-3 blockquote.frontpage {
+  font-size: 1.5em;
+}
+
+/* line 85, ../sass/app.scss */
 blockquote.one {
   font-size: 1.3em;
   margin-right: 20em;
 }
 
-/* line 77, ../sass/app.scss */
+/* line 90, ../sass/app.scss */
 blockquote.two {
   float: right;
   margin-left: 20em;
 }
 
-/* line 82, ../sass/app.scss */
+/* line 95, ../sass/app.scss */
 blockquote.three {
   margin-top: 10em;
   margin-left: 5em;
   margin-right: 15em;
 }
 
-/* line 88, ../sass/app.scss */
+/* line 101, ../sass/app.scss */
 blockquote.four {
   font-size: .7em;
   float: left;
@@ -6433,13 +6443,13 @@ blockquote.four {
   margin-right: 30em;
 }
 
-/* line 95, ../sass/app.scss */
+/* line 108, ../sass/app.scss */
 blockquote.five {
-  font-size: .7em;
-  margin-top: 22em;
+  font-size: 1em;
+  margin-top: 14em;
 }
 
-/* line 100, ../sass/app.scss */
+/* line 113, ../sass/app.scss */
 blockquote.six {
   font-size: .7em;
   float: right;
@@ -6447,7 +6457,66 @@ blockquote.six {
   margin-left: 50em;
 }
 
-/* line 109, ../sass/app.scss */
+/* line 121, ../sass/app.scss */
+#animate-2 blockquote.two {
+  font-size: 1.3em;
+}
+/* line 124, ../sass/app.scss */
+#animate-2 blockquote.four {
+  font-size: 1.5em;
+  float: left;
+  margin-top: 2.4em;
+  margin-right: 15em;
+}
+
+/* line 133, ../sass/app.scss */
+#animate-1 blockquote.four {
+  font-size: 1.5em;
+  float: left;
+  margin-top: 3.5em;
+  margin-left: .5em;
+  margin-right: 15em;
+}
+/* line 140, ../sass/app.scss */
+#animate-1 blockquote.six {
+  font-size: 1em;
+  margin-top: 8em;
+  margin-left: 35em;
+}
+
+/* line 148, ../sass/app.scss */
+#animate-3 blockquote.two {
+  margin-left: 30em;
+}
+/* line 151, ../sass/app.scss */
+#animate-3 blockquote.three {
+  margin-top: 14em;
+}
+/* line 154, ../sass/app.scss */
+#animate-3 blockquote.four {
+  font-size: 1.5em;
+  float: left;
+  margin-top: 6em;
+  margin-left: .5em;
+  margin-right: 0;
+}
+
+/* line 164, ../sass/app.scss */
+#animate-4 blockquote.two {
+  font-size: 1.3em;
+  margin-top: 4em;
+  margin-left: 20em;
+}
+/* line 169, ../sass/app.scss */
+#animate-4 blockquote.three {
+  font-size: 1.5em;
+  float: left;
+  margin-top: 8em;
+  margin-left: 2em;
+  margin-right: 0;
+}
+
+/* line 180, ../sass/app.scss */
 .orbit-caption a {
   color: #999999;
   -webkit-transition: color 0.5s;
@@ -6455,39 +6524,39 @@ blockquote.six {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 111, ../sass/app.scss */
+/* line 182, ../sass/app.scss */
 .orbit-caption a:hover {
   color: #932517;
 }
 
-/* line 117, ../sass/app.scss */
+/* line 188, ../sass/app.scss */
 .orbit-next, .orbit-prev, .orbit-timer {
   visibility: hidden;
 }
 
-/* line 123, ../sass/app.scss */
+/* line 194, ../sass/app.scss */
 .rsABlock {
   display: block;
   left: auto;
   top: auto;
 }
 
-/* line 130, ../sass/app.scss */
+/* line 201, ../sass/app.scss */
 .royalSlider {
   width: 100%;
 }
 
-/* line 134, ../sass/app.scss */
+/* line 205, ../sass/app.scss */
 #slider-with-blocks-1 {
   background: #fff;
 }
 
-/* line 138, ../sass/app.scss */
+/* line 209, ../sass/app.scss */
 .rsOverflow, .rsSlide {
   background: #fff !important;
 }
 
-/* line 144, ../sass/app.scss */
+/* line 215, ../sass/app.scss */
 .stars {
   background-image: url(/images/star.png);
   background-size: contain;
@@ -6495,34 +6564,34 @@ blockquote.six {
   background-position: center center;
 }
 
-/* line 151, ../sass/app.scss */
+/* line 222, ../sass/app.scss */
 p, blockquote, li {
   font-size: 1em;
   color: #333333;
 }
 
-/* line 156, ../sass/app.scss */
+/* line 227, ../sass/app.scss */
 span {
   color: #333333;
 }
 
-/* line 161, ../sass/app.scss */
+/* line 232, ../sass/app.scss */
 blockquote span {
   font-weight: 700;
   color: #f00;
 }
 
-/* line 167, ../sass/app.scss */
+/* line 238, ../sass/app.scss */
 cite {
   font-size: 2em;
 }
 
-/* line 171, ../sass/app.scss */
+/* line 242, ../sass/app.scss */
 ul {
   list-style-type: square;
 }
 
-/* line 175, ../sass/app.scss */
+/* line 246, ../sass/app.scss */
 img.alternate {
   margin-top: 0;
   margin-bottom: 0;
@@ -6532,7 +6601,7 @@ img.alternate {
   word-wrap: break-word;
 }
 
-/* line 184, ../sass/app.scss */
+/* line 255, ../sass/app.scss */
 img {
   margin-top: 0;
   margin-bottom: 0;
@@ -6542,7 +6611,7 @@ img {
   word-wrap: break-word;
 }
 
-/* line 193, ../sass/app.scss */
+/* line 264, ../sass/app.scss */
 p, a, li, h1, h2, h3, h4, h5, h6, cite, blockquote {
   text-rendering: geometricPrecision;
   -webkit-font-smoothing: antialiased;
@@ -6551,7 +6620,7 @@ p, a, li, h1, h2, h3, h4, h5, h6, cite, blockquote {
   font-smoothing: antialiased;
 }
 
-/* line 198, ../sass/app.scss */
+/* line 269, ../sass/app.scss */
 a {
   color: #932517;
   -webkit-transition: color 0.5s;
@@ -6559,17 +6628,17 @@ a {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 200, ../sass/app.scss */
+/* line 271, ../sass/app.scss */
 a:hover {
   color: #b54739;
 }
 
-/* line 206, ../sass/app.scss */
+/* line 277, ../sass/app.scss */
 h1 {
   text-align: center;
 }
 
-/* line 210, ../sass/app.scss */
+/* line 281, ../sass/app.scss */
 #container {
   width: 100%;
   margin-left: auto;
@@ -6589,7 +6658,7 @@ h1 {
   clear: both;
 }
 
-/* line 214, ../sass/app.scss */
+/* line 285, ../sass/app.scss */
 #top-row {
   width: auto;
   margin-left: -0.88235em;
@@ -6610,7 +6679,7 @@ h1 {
   clear: both;
 }
 
-/* line 219, ../sass/app.scss */
+/* line 290, ../sass/app.scss */
 #header {
   position: relative;
   padding-left: 0;
@@ -6620,19 +6689,19 @@ h1 {
   float: left;
   margin-top: 2em;
 }
-/* line 225, ../sass/app.scss */
+/* line 296, ../sass/app.scss */
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
   display: inline;
   color: #932517;
 }
-/* line 230, ../sass/app.scss */
+/* line 301, ../sass/app.scss */
 #header img {
   display: inline;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 239, ../sass/app.scss */
+/* line 310, ../sass/app.scss */
 #nav-block {
   display: inline-block;
   padding-left: 2em;
@@ -6640,15 +6709,15 @@ h1 {
   vertical-align: top;
 }
 
-/* line 247, ../sass/app.scss */
+/* line 318, ../sass/app.scss */
 #nav {
   display: inline-block;
 }
-/* line 249, ../sass/app.scss */
+/* line 320, ../sass/app.scss */
 #nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
   font-size: 1em;
 }
-/* line 252, ../sass/app.scss */
+/* line 323, ../sass/app.scss */
 #nav a, #nav li {
   display: inline;
   text-align: center;
@@ -6658,26 +6727,26 @@ h1 {
   -o-transition: color 0.5s;
   transition: color 0.5s;
 }
-/* line 256, ../sass/app.scss */
+/* line 327, ../sass/app.scss */
 #nav a:hover, #nav li:hover {
   color: #932517;
 }
-/* line 261, ../sass/app.scss */
+/* line 332, ../sass/app.scss */
 #nav li {
   font-family: "trajan-sans-pro", "trajan-sans-pro", Helvetica, Arial, sans-serif;
   font-size: 1em;
   padding-left: 1em;
 }
-/* line 266, ../sass/app.scss */
+/* line 337, ../sass/app.scss */
 #nav li a {
   color: #222222;
 }
-/* line 268, ../sass/app.scss */
+/* line 339, ../sass/app.scss */
 #nav li a:hover {
   color: #932517;
 }
 
-/* line 285, ../sass/app.scss */
+/* line 356, ../sass/app.scss */
 #content {
   position: relative;
   padding-left: 0.88235em;
@@ -6687,7 +6756,7 @@ h1 {
   float: left;
 }
 
-/* line 289, ../sass/app.scss */
+/* line 360, ../sass/app.scss */
 #content-side {
   position: relative;
   padding-left: 0.88235em;
@@ -6696,25 +6765,25 @@ h1 {
   margin-left: 8.33333%;
   float: left;
 }
-/* line 291, ../sass/app.scss */
+/* line 362, ../sass/app.scss */
 #content-side p, #content-side li {
   font-size: 1em;
 }
-/* line 294, ../sass/app.scss */
+/* line 365, ../sass/app.scss */
 #content-side blockquote p {
   font-size: 1.3em;
 }
-/* line 297, ../sass/app.scss */
+/* line 368, ../sass/app.scss */
 #content-side cite {
   margin-top: 1em;
   font-size: 1em;
 }
-/* line 301, ../sass/app.scss */
+/* line 372, ../sass/app.scss */
 #content-side ul {
   list-style-type: square;
 }
 
-/* line 306, ../sass/app.scss */
+/* line 377, ../sass/app.scss */
 #sidebar {
   position: relative;
   padding-left: 0.88235em;
@@ -6722,23 +6791,23 @@ h1 {
   width: 16.66667%;
   float: left;
 }
-/* line 308, ../sass/app.scss */
+/* line 379, ../sass/app.scss */
 #sidebar img {
   max-width: 100%;
   margin-top: 0.3em;
   margin-bottom: 1em;
 }
-/* line 313, ../sass/app.scss */
+/* line 384, ../sass/app.scss */
 #sidebar h3 {
   font-size: 1em;
 }
-/* line 316, ../sass/app.scss */
+/* line 387, ../sass/app.scss */
 #sidebar ul {
   list-style: none;
   list-style-type: none;
 }
 
-/* line 324, ../sass/app.scss */
+/* line 396, ../sass/app.scss */
 #book-covers {
   width: auto;
   margin: 0;
@@ -6755,7 +6824,7 @@ h1 {
   clear: both;
 }
 
-/* line 328, ../sass/app.scss */
+/* line 400, ../sass/app.scss */
 #book-wrap {
   position: relative;
   padding-left: 0;
@@ -6764,7 +6833,7 @@ h1 {
   float: left;
 }
 
-/* line 332, ../sass/app.scss */
+/* line 404, ../sass/app.scss */
 #books {
   display: block;
   padding: 0;
@@ -6801,7 +6870,7 @@ h1 {
   clear: both;
 }
 
-/* line 338, ../sass/app.scss */
+/* line 410, ../sass/app.scss */
 #bott-row {
   width: auto;
   margin-left: -0.88235em;
@@ -6822,7 +6891,7 @@ h1 {
   clear: both;
 }
 
-/* line 344, ../sass/app.scss */
+/* line 416, ../sass/app.scss */
 #bott-1 {
   position: relative;
   padding-left: 0.88235em;
@@ -6830,8 +6899,12 @@ h1 {
   width: 66.66667%;
   float: left;
 }
+/* line 418, ../sass/app.scss */
+#bott-1 .entry-title {
+  font-size: 1em;
+}
 
-/* line 348, ../sass/app.scss */
+/* line 423, ../sass/app.scss */
 #bott-2 {
   position: relative;
   padding-left: 0.88235em;
@@ -6839,18 +6912,23 @@ h1 {
   width: 33.33333%;
   float: left;
 }
+/* line 425, ../sass/app.scss */
+#bott-2 ul {
+  list-style: none;
+  list-style-type: none;
+}
 
 /*
 #bott-3{
 	@include grid-column(4);
 }
 */
-/* line 359, ../sass/app.scss */
+/* line 440, ../sass/app.scss */
 #archive ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 363, ../sass/app.scss */
+/* line 444, ../sass/app.scss */
 #archive li {
   font-size: 1em;
 }
