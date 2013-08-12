@@ -82,6 +82,7 @@ blockquote.frontpage{
 }
 
 #slide-3 blockquote.frontpage{
+  margin-top: 1em;
   font-size: 1.5em;
 }
 
@@ -450,7 +451,7 @@ h1{
   text-align: left;
 }
 
-#phone{
+#amazon{
   @include grid-column(4);
   text-align: center;
 }
