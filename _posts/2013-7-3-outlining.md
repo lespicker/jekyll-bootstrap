@@ -6,7 +6,7 @@ categories:
 - breaking
 ---
 
-I recently responded to an online post that asked whether writer's of historical fiction outline their work before actually sitting down to write. This was intriguing to me for several reasons. 
+I recently responded to an online post that asked whether writers of historical fiction outline their work before actually sitting down to write. This was intriguing to me for several reasons. 
 
 <!--more-->
 
