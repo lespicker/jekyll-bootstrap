@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	Novel 3 in Ancient Egypt Series: An Update
+title: 	'Novel 3 in Ancient Egypt Series: An Update'
 comments: true
 categories:
 - breaking
