@@ -16,6 +16,6 @@ The third book in the series is coming along well. I have outlined it and just t
 
 My outline tells me that I will need 25 chapters (maybe 28, given the above). Unfortunately, I can never be sure of that, since my characters often end up doing the damnedest things and by time I extricate them from their messes, the novel could be 30 or more chapters. 
 
-In a way that could be a win for you, my wonderful readers. On the other hand, if you're looking for a quick read that could be a bummer. But for those of you who liked Books I and II, and there are a whole bunch of you out there given my ratings on Amazon and Goodreads, get ready for a lot more intrigue, conflict and romance, all set in the historical setting of Ancient Egypt some 5,000 years ago!
+In a way that could be a win for you, my wonderful readers. On the other hand, if you're looking for a quick read that could be a bummer. But for those of you who liked Books I and II, and there are a whole bunch of you out there given my ratings on Amazon and Goodreads (Thank you!!), get ready for a lot more intrigue, conflict and romance, all set in the historical setting of Ancient Egypt some 5,000 years ago!
 
 I'll continue to keep you posted on my progress, so tune in from time to time. I'd love to hear your comments, suggestions for interesting plot developments, cover design ideas… whatever strikes your fancy. 
