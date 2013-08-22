@@ -14,7 +14,7 @@ tags:
 - luggage
 ---
 
-{% img /desktop/bli/2013/08/Canadian-Rockies-lake.jpg %}
+{% img /images/bli/2013/08/Canadian-Rockies-lake.jpg %}
 
 This weekend I leave for a two-week trek and photo shoot in the Canadian Rockies, one of the most wondrous places on Earth. As a photographer I can't say enough about it. My neighbors to the north are indeed blessed to have such staggeringly gorgeous scenery (of course we have places like the Grand Canyon and Yosemite, but that's petty bragging). 
 
