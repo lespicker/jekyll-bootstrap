@@ -32,7 +32,7 @@ I shoot both Hasselblad and Nikon digital, so I am going to go heavy (literally)
 
 I'll also take my Nikon D800, and 70-200 f2.8 zoom, with 1.4 teleconverter, in case I see wildlife. No, really, this time I mean it. A photographer has to protect himself, right? Besides, I like the 70-200 for panoramas. I'll also take my Nikkor 14-24 f2.8 zoom for Milky Way night photography and other scenics. 
 
-And, of course I'll take a tripod, actually two tripods; my Gitzo 3541 with Really Right Stuff BH-55 ballhead and leveler base, as well as my delightful new Me-Foto tripod for hiking, which is less than half the weight of my Gitzo setup (see my review of the MeFoto here). 
+And, of course I'll take a tripod, actually two tripods; my Gitzo 3541 with Really Right Stuff BH-55 ballhead and leveler base, as well as my delightful new Me-Foto tripod for hiking, which is less than half the weight of my Gitzo setup (see my review of the MeFoto [here](http://www.lesterpickerphoto.com/2013/06/12/the-me-foto-travel-tripod-a-review/)). 
 
 ### Accessorize!
 
@@ -42,7 +42,7 @@ I simply cannot be without my Hoodman loupe, which allows my decrepit eyes to se
 
 ### Be Safe
 
-I also carry a slew of safety equipment when I'll be hiking alone, especially in bear and cougar country. I recently switched from the SPOT system of satellite communicators to the DeLorme InReach SE, which allows two-way messaging. I carry on my belt a Gerber multi-tool, which to me is invaluable, since it contains a pliers in addition to typical knife, screwdrivers and critically important beer bottle opener. I also pack an iPhone, which mostly does not work for safety in back country (hence the DeLorme), but does me other app functionality. 
+I also carry a slew of safety equipment when I'll be hiking alone, especially in bear and cougar country. I recently switched from the SPOT system of satellite communicators to the DeLorme InReach SE, which allows two-way messaging. I carry on my belt a Gerber multi-tool, which to me is invaluable, since it contains a pliers in addition to typical knife, screwdrivers and critically important beer bottle opener. I also pack an iPhone, which mostly does not work for safety in back country (hence the DeLorme), but does offer me other app functionality. 
 
 I also carry bear spray, a whistle to announce myself so I hopefully don't have to use the bear spray, insect repellent and sunscreen. My first aid kit varies, depending on whether I'm hiking alone (minimal) or with others (minimal plus).  
 
