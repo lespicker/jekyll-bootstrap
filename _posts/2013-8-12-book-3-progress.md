@@ -6,7 +6,7 @@ categories:
 - breaking
 ---
 
-Well, for those of you who have read the first two novels in my *First Dynasty Series*- **The First Pharaoh** and **The Dagger of Isis**- I hope I have some good news for you. 
+Well, for those of you who have read the first two novels in my *First Dynasty Series* - **The First Pharaoh** and **The Dagger of Isis**- I hope I have some good news for you. 
 
 <!--more-->
 
