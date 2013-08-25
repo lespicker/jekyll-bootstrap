@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	'What's - Like - Happening With How Young People Talk?'
+title: "What's - Like - Happening With How Young People Talk?"
 comments: true
 categories:
 - breaking
@@ -14,7 +14,7 @@ Do young people today not realize how many times they use the word "like?" I can
 
 "It was… like… I went to the party and I… like… you know, like… Shawn was like there and it was not like I expected him. I'd never… like… have gone over to him. It's… like, something about…like…" 
 
-{% img /images/bli/2013/08/conversation.jpg %}
+{% img http://www.lesterpickerphoto.com/images/bli/2013/08/conversation.jpg %}
 
 This is not some made-up snippet of conversation. I was typing as quickly as I could and the paragraph above is verbatim what this one rising college senior actually said. Shawn, of course, was changed to protect the innocent. And, BTW, the word "like" usually precedes a quick stop, similar to a glottal stop in some languages. 
 
