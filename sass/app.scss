@@ -1,5 +1,6 @@
 // Global Foundation Settings
 @import "settings";
+@import "white-topbar-settings";
 
 // Comment out this import if you don't want to use normalize
 @import "normalize";
@@ -48,6 +49,7 @@
 
 // Compass mixins
 @import "compass/css3/transition";
+@import "white-topbar";
 
 @mixin font-smoothing($font-smoothing) { 
   // none | antialiased | subpixel-antialiased
@@ -173,30 +175,11 @@ blockquote cite{
 	//float: right;
 }
 
-#nav{
-	display: inline-block;
-	h1, h2, h3, h4, h5, h6{
-/* 		font-size: ms(1); */
-	}
-	a, li{
-		display: inline;
-		text-align: center;
-		color: #444444;
-		&:hover{
-			color: $highlightcolor;
-		}
-		@include transition(color .5s);
-	}
+.top-bar{
 	li{
 		font-family: $header-font-family;
-/* 		font-size: ms(1); */
-		padding-left: 1em;
-//		text-transform: uppercase;
 		a{
-			color: $header-font-color;
 			&:hover{
-					color: $highlightcolor;
-					//text-decoration: underline;
 			}	
 		}
 	}
