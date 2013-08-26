@@ -6871,7 +6871,7 @@ blockquote cite {
   margin-bottom: 0;
   max-width: none;
   *zoom: 1;
-  margin-top: 8em;
+  margin-top: 2em;
 }
 /* line 121, ../../../../.rvm/gems/ruby-2.0.0-p247/gems/zurb-foundation-4.2.3/scss/foundation/components/_global.scss */
 #top-row:before, #top-row:after {
