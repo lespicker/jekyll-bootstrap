@@ -49,6 +49,14 @@
 // Compass mixins
 @import "compass/css3/transition";
 
+@mixin font-smoothing($font-smoothing) { 
+  // none | antialiased | subpixel-antialiased
+  -webkit-font-smoothing: $font-smoothing;
+     -moz-font-smoothing: $font-smoothing;
+      -ms-font-smoothing: $font-smoothing;
+          font-smoothing: $font-smoothing;
+}
+
 @for $index from 1 through 6 {
   .wf-loading h#{$index}{
     visibility: hidden;
@@ -58,6 +66,10 @@
   }
 }
 
+p, a, li, h1, h2, h3, h4, h5, h6, cite, blockquote{
+  text-rendering: geometricPrecision;
+  @include font-smoothing(antialiased);
+}
 
 figcaption{
 	text-align: right;
