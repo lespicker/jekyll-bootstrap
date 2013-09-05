@@ -19,9 +19,7 @@ I have four openings available for my annual Fall workshop in the incomparable A
 
 <!-- more -->
 
-Field Workshop 
-
 The 4-day workshop is being offered through Nikonians, where I am a faculty member for the Nikonians Academy. This is a terrific, exciting and fun-filled experience. There are plenty of opportunities for individualized instruction, group discussions, exposure to new equipment and techniques that will take you to the proverbial "next level" in your photography, whatever level you bring with you. 
 
-For details and testimonials from other workshoppers, and to register, click here. 
+For details and testimonials from other workshoppers, and to register, [click here](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html) 
 
