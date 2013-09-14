@@ -39,4 +39,4 @@ Ditto for this scenic of the iconic Lake Louise in Banff. I decided to just walk
 
 Anyway, I'm all in. Stay tuned for some images that I'll post during my second trip to Iceland. On this jaunt, my trusty and capable assistant (spelled w-i-f-e) and I will circumnavigate the island on the Circle Road, scouting out sites for future photo opps and perhaps teaching a workshop or two. 
 
-As always, you'll be able to follow our progress by going to my DeLorme personal webpage. [Here is a link.](https://share.delorme.com/2f58e8e2aee4429697d785cf1d11b9c3)
+As always, you'll be able to follow our progress by going to my [DeLorme personal webpage.](https://share.delorme.com/2f58e8e2aee4429697d785cf1d11b9c3)
