@@ -29,11 +29,11 @@ There are tons of great photo apps out there that mimic the actions of 35mm came
 
 I took the image above at a rest stop just to try it out under extremely contrasty conditions (the difference between brights and darks is quite wide). Amazing how the iPhone handles those situations. 
 
-Next, just for fun, I added a filter to the scene and voila! 
+Next, just for fun, I added a funky filter to the scene and voila! 
 
 {% img /images/bli/2013/09/grunge-1.JPG %}
 
-Ditto for this scenic of the iconic Lake Louise in Banff. I decided to just walk up tot he lake front he parking lot with no gear other than my trusty iPhone. Once I captured this scene on a nasty day, I put it into [Snapseed](https://itunes.apple.com/us/app/snapseed/id439438619?mt=8) and made some minor adjustments. 
+Ditto for this scenic of the iconic Lake Louise in Banff. I decided to just walk up to the lake from the parking lot with no gear other than my trusty iPhone. Once I captured this scene on a nasty day, I put it into [Snapseed](https://itunes.apple.com/us/app/snapseed/id439438619?mt=8) and made some minor adjustments. 
 
 {% img /images/bli/2013/09/louise-1.JPG %}
 
