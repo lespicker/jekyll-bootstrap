@@ -14,11 +14,11 @@ tags:
 
 {% img /images/bli/2013/09/DSC_6874.jpg %}
 
-Travelers always mention Icelandic sheep, and with good reason. They are ubiquitous on farms and when they get out of their fences, a frequent occurence, they amble across major roads, or scurry away from passing cars on secondary gravel roads. True to form, I've taken more than my share of Icelandic sheep. But there is more to the livestock story here in Iceland, and that involves the hardy Icelandic horse.
+Travelers always mention Icelandic sheep, and with good reason. They are ubiquitous on farms and when they get out of their fences, a frequent occurrence, they amble across major roads, or scurry away from passing cars on secondary gravel roads. True to form, I've taken more than my share of Icelandic sheep photos. But there is more to the livestock story here in Iceland, and that involves the hardy Icelandic horse.
 
 <!--more-->
 
-These horses are nearly as common as sheep. They are a stocky, strong horse, bred and raised in the unforgiving environment of the north. They are also unusually friendly. A quick stop at any fence line will net you a friend or two for sure. 
+These beautiful horses with their flowing manes are nearly as common as sheep. They are a stocky, strong horse, bred and raised in the unforgiving environment of the north. They are also unusually friendly. A quick stop at any fence line will net you a friend or two for sure. 
 
 {% img /images/bli/2013/09/DSC_6831.jpg %}
 
