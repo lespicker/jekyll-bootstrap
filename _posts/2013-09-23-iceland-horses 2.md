@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Of Iceland and Horses"
@@ -11,7 +10,6 @@ tags:
 - east coast
 - horses
 - waterfall
-- Nikon 
 ---
 
 {% img /images/bli/2013/09/DSC_6874.jpg %}
