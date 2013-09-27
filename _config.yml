@@ -10,6 +10,8 @@ paginate_path: /blog/page:num
 paginate: 10
 recent_posts: 5
 simple_search: http://google.com/search
+excerpt_link : 'more&hellip;'
+
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
