@@ -1,22 +1,5 @@
-# Title: Simple Image tag for Jekyll
-# Authors: Brandon Mathis http://brandonmathis.com
-#          Felix Schäfer, Frederic Hemberger
-# Description: Easily output images with optional class names, width, height, title and alt attributes
-#
-# Syntax {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | "title text" ["alt text"]] %}
-#
-# Examples:
-# {% img /images/ninja.png Ninja Attack! %}
-# {% img left half http://site.com/images/ninja.png Ninja Attack! %}
-# {% img left half http://site.com/images/ninja.png 150 150 "Ninja Attack!" "Ninja in attack posture" %}
-#
-# Output:
-# <img src="/images/ninja.png">
-# <img class="left half" src="http://site.com/images/ninja.png" title="Ninja Attack!" alt="Ninja Attack!">
-# <img class="left half" src="http://site.com/images/ninja.png" width="150" height="150" title="Ninja Attack!" alt="Ninja in attack posture">
-#
 
-module Jekyll
+module IMGtag
 
   class ImageTag < Liquid::Tag
     @img = nil
@@ -38,16 +21,21 @@ module Jekyll
     end
 
     def render(context)
+      #page_url = context.environments.first["page"]["url"]
       if @img
-        src = "<a href=\"#{@img['src']}\" class=\"lightview\" data-lightview-options=\"skin: \'mac\'\">" 
-        #"<a href=\"#{@img['src']}\" class=\"lightview\">\n" +
-        src += "<figure>"
-        src += "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"
-        src += "<figcaption>#{@img['title']}</figcaption>" if @img['title']
-        src += "</figure>"
-        src += "</a>"
-        
-        src
+        tag = "<div class=\"box #{@img['class']}\">" +
+          "<a href=\"#{@img['src']}\" class=\"lightview\">\n" + 
+          #"<a href=\"#{@img['src']}\" class=\"lightview\">\n" +
+          #"<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>\n" +
+          "<img title=\"#{@img['title']}\" src=\"#{@img['src']}\">\n" +
+          "</a>"        
+        if @img['title']
+          tag = tag + "<span class=\"caption fade-caption\">" +
+            "<p>#{@img['title']}</p>" +
+            "</span>"
+        end
+        tag = tag + "</div>"
+        tag
       else
         "Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | \"title text\" [\"alt text\"]] %}"
       end
@@ -55,4 +43,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('img', Jekyll::ImageTag)
+Liquid::Template.register_tag('img', IMGtag::ImageTag)
