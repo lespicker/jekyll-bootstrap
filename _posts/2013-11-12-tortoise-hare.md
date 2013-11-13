@@ -10,11 +10,13 @@ tags:
 - fable
 ---
 
-{% img /images/bli/2013/11/tortoise-hare.jpg %}
+{% img img-left /images/bli/2013/11/tortoise-hare.jpg %}
 
 This is the story of Tortoise and Hare, both of them avid photographers (bet you didn't know that). Naturally, the names have been changed to protect the innocent.
 
 As the story opens, each photographer is preparing for a nature photo adventure that will, of course, cause their paths to cross (otherwise there would be no story... duh!). Thomas Tortoise very deliberately packs his gear, weighing the practical value of each piece. Henrietta Hare hurriedly hauls her hefty Hasselblad haversack to her hip (man I had to work on that one!) and is out the door, eager to shoot. 
+
+<!--more-->
 
 Next day, after shooting sunrise at a lookout, both photographers nod at each other and then hike in opposite directions to catch the glorious morning light. As we hover over the scene, watching these quite capable advanced amateurs at work, we note distinct differences in their approach to their subjects.
 
