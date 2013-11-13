@@ -10,7 +10,7 @@ tags:
 - fable
 ---
 
-{% img /images/bli/2013/11/tortoise-hare.jpeg %}
+{% img /images/bli/2013/11/tortoise-hare.jpg %}
 
 This is the story of Tortoise and Hare, both of them avid photographers (bet you didn't know that). Naturally, the names have been changed to protect the innocent.
 
