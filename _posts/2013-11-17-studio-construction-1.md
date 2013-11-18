@@ -23,10 +23,10 @@ Our new and larger studio will give us the ability to lay out large format print
 
 Here the workmen have sawed through a thick cement foundation wall to create an entrance and windows. 
 
-{% img /images/bli/2013/11/basement2.jpg %}
+{% img /images/bli/2013/11/basement2.JPG %}
 
 Our office space will be here.
 
-{% img /images/bli/2013/11/basement3.jpg %}
+{% img /images/bli/2013/11/basement3.JPG %}
 
 I'll keep you posted as the construction progresses. We do hope to be in by year's end. 
