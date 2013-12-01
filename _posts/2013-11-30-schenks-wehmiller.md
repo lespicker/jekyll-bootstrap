@@ -22,7 +22,7 @@ After the email introductions I met with the photographer, an advanced amateur n
 
 ### No Novice
 
-Hardly a novice, John was introduced to photography as a child by his father and he learned basic darkroom techniques from him during those early years. Traveling in the U.S. southwest starting when he was in high school perked his interest in Geology. Photography became an integral part of those travels, which he also employed in his teaching and field research.  
+Hardly a novice, John was introduced to photography as a child by his father, from whom he learned basic darkroom techniques  during those early years. Traveling in the U.S. southwest starting when he was in high school peaked his interest in Geology. Photography became an integral part of those travels, which he also employed in his teaching and field research.  
 
 "As much as I enjoy travel and documenting scenes from places such as the Southwest," John says, "I also believe in capturing images from the 'commonplace' scenes that are all around us. I always have a camera with me for this purpose.... one never knows!"
 
@@ -32,9 +32,9 @@ Along his life's path John and his wife, Paula, maintained a close friendship wi
 
 "I'd been photographing the trees every time we visited them," John reports, "usually late afternoon when we came for dinner. But this project became a systematic study to capture images during different seasons and in different lighting conditions."
 
-After talking with John and the Schencks, my assistant Bob Boyer and I got to work on John's images, rendering the contrast to match the Museo fine art canvas we were planning to use. We produced some test prints that we showed to the group for their approval and go-ahead. 
+After speaking with John and the Schencks, my assistant Bob Boyer and I got to work on John's images, rendering the contrast to match the Museo fine art canvas we were planning to use. We produced some test prints that we showed to the group for their approval and go-ahead. 
 
-We worked against a self-imposed deadline due to my upcoming photo travels to Iceland and Maine. All was going well.... until. In our rush to get the canvases to our frame shop, Severn Graphics outside Baltimore, we had not noticed that we printed one image two inches too short. Thanks heavens for the pros at Severn. They contacted me in Iceland and Bob handled the mess. By time I arrived back in the States, all was well and I picked up and delivered the framed canvasses. 
+We worked against a self-imposed deadline due to my upcoming photo travels to Iceland and Maine. All was going well.... until. In our rush to get the canvases to our frame shop, Severn Graphics outside Baltimore, we had not noticed that we printed one image two inches too short. Thank heavens for the pros at Severn. They contacted me in Iceland and Bob handled the mess. By time I arrived back in the States, all was well and I picked up and delivered the framed canvasses. 
 
 In the lead image you can see the quadtych hanging above a staircase at the Schenck's home. 
 
