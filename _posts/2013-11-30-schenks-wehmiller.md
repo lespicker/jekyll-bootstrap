@@ -14,6 +14,8 @@ tags:
 
 It all started with a phone call from a dear friend and former art gallery owner, Carol Balick, who asked if I'd be willing to print some large format images for a photographer friend of hers (thanks, Carol!). That started one of the most satisfying projects, despite its small size, that we have ever been involved with. 
 
+<!--more-->
+
 After the email introductions I met with the photographer, an advanced amateur named John Wehmiller. The name sounded familiar and after initial conversations we realized that we had both been on the faculty at the University of Delaware, although John's academic career as Professor of Geological Sciences was considerably more accomplished than mine. After 40 years John retired and is now more actively pursuing his passion in photography. 
 
 "My current 'workhorse' camera is a Canon 60D with a 15-85 zoom, a wonderful lens," John recently told me. He also uses his Nikon 35mm and 100mm lenses as needed. 
