@@ -102,3 +102,6 @@ For those unwilling to make the family car trek all the way to Bar Harbor, major
 <strong><em>For More Information</em></strong>
 
 Contact the Bar Harbor Chamber of Commerce, P.O. Box 158, Bar Harbor, ME 04609-0158: 207-288-5103.
+
+
+<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/3200/Maine/Downeast-and-Acadia/Bar-Harbor-and-Mount-Desert-Island/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/3200.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Bar Harbor and Mount Desert Island on Dwellable</a></div>
