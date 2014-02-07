@@ -50,6 +50,8 @@ After seeing his infectious enthusiasm for his toys, for life really, out in the
 
 Of course, I sent Barbablu’s image to his companion by Internet that evening. I will also mail him a photograph that I will print myself as soon as I get home. I feel that is our obligation as travel photographers.
 
+<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/10567/Italy/Sicily/Erice/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/10567.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Erice on Dwellable</a></div>
+
  
 
  

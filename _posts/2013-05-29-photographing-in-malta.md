@@ -66,3 +66,5 @@ Boat trips, tours and private charters are available in nearly every seaside tow
 Restaurants are plentiful and many of them are reportedly excellent. The ones I experienced were good to very good.
 
 I do plan to return to Malta, this time with a list of “must captures” and a whole lot more days. I suggest you check it out for a potential photography bucket listing. I guarantee you will not regret it.
+
+<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/11038/Malta/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/11038.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Malta on Dwellable</a></div>
