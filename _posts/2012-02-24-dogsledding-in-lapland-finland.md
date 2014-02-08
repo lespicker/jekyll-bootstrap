@@ -63,3 +63,5 @@ After a hearty breakfast, and dog care, we were off again.
 The route back covered 35 km (22 miles). Given that the group had gained experience, we made better time coming back. But, confidence sometimes breeds carelessness. On a steep downhill run, a slightly built, 61-year old woman in our group lost control of her sled and it crashed into a tree. She had the wind knocked out of her, but after 30 minutes she was back on her sled, a real trooper in our collective opinion.
 
 Our sledding ended back at Harriniva just as the sun was setting. What we did not know then is that <a href="http://blog.lesterpickerphoto.com/2012/02/19/northern-lights/">a real aurora light show would greet us</a> once we washed up and did the obligatory sauna.
+
+<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/8276/Finland/Lapland/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/8276.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Lapland on Dwellable</a></div>
