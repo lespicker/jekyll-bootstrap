@@ -39,4 +39,6 @@ Here are some pointers for those of you attempting the hike for the first time. 
 
 If you have specific questions about the hike, feel free to leave a comment and I'll respond.
 
+<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/1057/Kauai/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/1057.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Kauai on Dwellable</a></div>
+
  
