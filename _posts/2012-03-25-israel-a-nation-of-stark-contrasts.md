@@ -57,3 +57,5 @@ Every day, five times a day, the city’s minarets blare out their call to praye
 5. Bring adapters with you. I recommend 2-3 if you’re packing lots of electronic gear. As a photographer I carry battery chargers, iPhone, laptop, and more.
 
 6. Be open-minded. The mid-East, and Israel in particular, is in the news constantly. I saw with my own eyes that much of what we hear is distorted. Ask questions. Talk to ordinary citizens. Israel is a nation surrounded by enemies, which has served to frame its collective psyche. Try to understand their point of view. Substitute your own country for Israel, put it in Israel’s circumstances, and try to imagine what your country might do.
+
+<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/12649/Israel/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/12649.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Israel on Dwellable</a></div>
