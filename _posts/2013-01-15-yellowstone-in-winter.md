@@ -23,4 +23,6 @@ The most fun was photographing the coyote, despite his distance. He was at the f
 
 Tomorrow I'm looking at the potential for better weather, although things shift fast up here at 6,200-8,500 feet. I'd like to get a few good bison images, as well as some landscapes. I'll keep you posted. In the meantime, stay warm... for me.
 
+<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/3608/Montana/Yellowstone-Country/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/3608.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Yellowstone Country on Dwellable</a></div>
+
  
