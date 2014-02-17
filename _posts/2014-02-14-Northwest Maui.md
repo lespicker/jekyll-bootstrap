@@ -12,7 +12,6 @@ tags:
 - hike
 - Maui
 - photography
-- polarizer
 ---
 
 {% img /images/bli/2014/02/LAP4746.jpg %}
