@@ -6,6 +6,8 @@ Hiking the Pipiwai Trail
 
 Tourists who come to Hawaii's Maui island invariably drive the infamous/wondrous Road to Hana at some point during their stay. This 50-mile route winds, twists and hair-pin turns over dozens of narrow, one-car bridges as it treats visitors with drop-dead gorgeous ocean vistas, cascading waterfalls and lush jungles. The road is almost always listed as one of the top ten scenic drives in the world. 
 
+<!--more-->
+
 About 30 minutes past Hana (the speed limit here is 10-15 MPH), one arrives at the back side of Haleakala National Park, in what is known as the Oheo Gulch area. On the ocean side of the road, a series of cascading waterfalls creates lush pools of water that beckon waders, swimmers and photographers. 
 
 {% img /images/bli/2014/02/DSC_8920.jpg Oheo Gulch waterfalls %}
