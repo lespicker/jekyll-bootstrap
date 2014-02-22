@@ -39,11 +39,11 @@ Along the way you will encounter signs like these. Please do not tempt the fates
 
 {% img img-right /images/bli/2014/02/pipiwai-danger-2.JPG iPhone image %}
 
-Finally, more than half-way through your climb, you enter what could rightfully be called a fantasy land, a spiritual section known as The Bamboo Forest. 
+Finally, more than half-way through your climb, you enter what could rightfully be called a fantasy land, a spiritual section known as The Bamboo Forest. This magical part of the trail winds through and up a thick stand of trees that seems to go on and on. If you can hike this in the early morning, when almost no one is around, you will be stunned by its Zen-like, calming influence. 
 
-{% img /images/bli/2014/02/DSC_8920.jpg %}
+{% img /images/bli/2014/02/DSC_9052.jpg %}
 
-This magical part of the trail winds through and up a thick stand of trees that seems to go on and on. If you can hike this in the early morning, when almost no one is around, you will be stunned by its Zen-like, calming influence. 
+
 
 Once beyond the Bamboo Forest, the end of the trail is within reach... so long as it has not rained too much recently. If it has rained, be careful and be glad you brought along your water shoes. You may have a [strong stream to ford](http://youtu.be/q4nRc3Zz_0E) before you cross to Waimoku. 
 
