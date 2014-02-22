@@ -27,6 +27,15 @@ The lead photo here is the image I ended up with. However, I did this after an e
 
 [Here, then, is the video clip](http://youtu.be/p4x63FrejkA). 
 
+ADDENDUM (added 02/21/2014): here is the gear and settings I used:
+
+Shot on a Gitzo 3541 tripod with Really Right Stuff ballhead BH-55 and a RRS multi-row pano setup. 
+
+Nikon D800 with 24-70mm Nikkor f2.8, with Singh-Ray polarizing filter.
+
+Shot at 70mm, f16, ISO 100, at approx. 1.6 sec/image. 
+
+
 
 
 
