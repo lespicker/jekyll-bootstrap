@@ -15,15 +15,13 @@ tags:
 - Haleakala National Park
 ---
 
-{% img /images/bli/2014/02/DSC_8920.jpg %}
+{% img /images/bli/2014/02/DSC_8920.jpg Oheo Gulch waterfalls %}
 
 Tourists who come to Hawaii's Maui island invariably drive the infamous/wondrous Road to Hana at some point during their stay. This 50-mile route winds, twists and hair-pin turns over dozens of narrow, one-car bridges as it treats visitors with drop-dead gorgeous ocean vistas, cascading waterfalls and lush jungles. The road is almost always listed as one of the top ten scenic drives in the world. 
 
 <!--more-->
 
 About 30 minutes past Hana (the speed limit here is 10-15 MPH), one arrives at the back side of Haleakala National Park, in what is known as the Oheo Gulch area. On the ocean side of the road, a series of cascading waterfalls creates lush pools of water that beckon waders, swimmers and photographers. 
-
-{% img /images/bli/2014/02/DSC_8920.jpg Oheo Gulch waterfalls %}
 
 But on the mountain, or mauka, side of the road lies one of the most visited trails in the park system, and rightfully so. The Pipiwai Trail ascends two miles to the famed Waimoku waterfall, a 400-foot wonder that makes the arduous uphill trek more than worth it. Waimoku is the tallest waterfall on Maui. 
 
@@ -51,7 +49,7 @@ But, once you attain the [waterfall's peak experience](http://youtu.be/LCuyLtYRY
 
 If you intend to hike the trail, be sure to take the proper clothing. I see countless young people wearing flip-flops; not a good idea. Just ask a Park Ranger how many incidents happen with people wearing flip-flops. You'll want to wear hiking shoes (not boots) and pack a pair of water sandals in your day pack in case the streams are high and you have to ford them. I also find a pair of good Keen water sandals works well for the entire hike. 
 
-There are times when you will need insect repellent. You should always wear sunscreen at these altitudes. 
+There are times when you will need insect repellent. You should always wear sunscreen at these latitudes. 
 
 And while energy bars are an option, water is not. Take my word for it, pack more than you think you will need. 
 
@@ -61,12 +59,7 @@ Most of the shots you will take will be from close to medium distance, so you ca
 
 As far as photo gear goes, here is what I recommend:
 
-Sturdy tripod
-DSLR of your choice
-Wide-angle lens (at least 24mm)
-or
-A wide zoom (perhaps 24-70mm)
-The usual accessories (extra memory card, lens wipes, extra battery, cable release, etc)
+Sturdy tripod, DSLR of your choice, wide-angle lens (at least 24mm) or a wide zoom (perhaps 24-70mm), the usual accessories (extra memory card, lens wipes, extra battery, cable release, etc). If the falls is really full it may spew a lot of mist, so a microfiber cloth is a good idea.
 
 Whatever you do, relax and enjoy every delicious moment of this memorable hike. 
 
