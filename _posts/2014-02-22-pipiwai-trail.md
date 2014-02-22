@@ -24,11 +24,11 @@ As you begin you walk through a shrubby path, until you enter the [tree root-lin
 
 Along the way you will encounter signs like these. Please do not tempt the fates. Several fatalities have occurred over the years. I would also keep any children close at hand because the drop-offs happen suddenly. One second you might be hiking an inviting spur trail and the next instant you are on the edge of a 200-foot precipice. 
 
-{% img img-left /images/bli/2014/02/pipiwai-danger-2.JPG iPhone image %}
+{% img /images/bli/2014/02/pipiwai-danger-2.JPG iPhone image %}
 
 Finally, more than half-way through your climb, you enter what could rightfully be called a fantasy land, a spiritual section known as The Bamboo Forest. 
 
-{% img img-right /images/bli/2014/02/DSC_8920.jpg %}
+{% img /images/bli/2014/02/DSC_8920.jpg %}
 
 This magical part of the trail winds through and up a thick stand of trees that seems to go on and on. If you can hike this in the early morning, when almost no one is around, you will be stunned by its Zen-like, calming influence. 
 
