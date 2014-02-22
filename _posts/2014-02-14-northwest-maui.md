@@ -36,3 +36,5 @@ But there are ample photo opps all along the road and ample turnouts to accommod
 
 So enjoy the many faces of Maui, but if you are a photographer, make sure to take advantage of what the northwest tip offers. You'll either curse me as you negotiate the curves, or thank me when you review your images, or maybe a bit of both. 
 
+
+<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/49/Maui/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/49.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Maui on Dwellable</a></div>
