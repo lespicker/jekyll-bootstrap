@@ -1,6 +1,19 @@
-
-
-Hiking the Pipiwai Trail
+---
+layout: post
+title: "Hiking the Pipiwai Trail"
+comments: true
+categories:
+- travel
+- tips
+tags:
+- travel
+- equipment
+- Hawaii
+- Maui
+- waterfalls
+- Pipiwai Trail
+- Haleakala National Park
+---
 
 {% img /images/bli/2014/02/DSC_8920.jpg %}
 
@@ -18,13 +31,13 @@ But on the mountain, or mauka, side of the road lies one of the most visited tra
 
 The trail itself is a marvelous, varied and potentially dangerous experience. 
 
-{% img /images/bli/2014/02/Pipiwai-welcome-sign.JPG iPhone image %}
+{% img img-left /images/bli/2014/02/Pipiwai-welcome-sign.JPG iPhone image %}
 
 As you begin you walk through a shrubby path, until you enter the [tree root-lined section](http://youtu.be/f9CpmXJIeFQ) that climbs fairly quickly through rises and steps. Twice along the path you will [cross a small waterfall](http://youtu.be/3MyyAIH-y_o) and the rushing Pipiwai Stream. 
 
 Along the way you will encounter signs like these. Please do not tempt the fates. Several fatalities have occurred over the years. I would also keep any children close at hand because the drop-offs happen suddenly. One second you might be hiking an inviting spur trail and the next instant you are on the edge of a 200-foot precipice. 
 
-{% img /images/bli/2014/02/pipiwai-danger-2.JPG iPhone image %}
+{% img img-right /images/bli/2014/02/pipiwai-danger-2.JPG iPhone image %}
 
 Finally, more than half-way through your climb, you enter what could rightfully be called a fantasy land, a spiritual section known as The Bamboo Forest. 
 
