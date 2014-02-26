@@ -38,3 +38,5 @@ As the calves climbed the learning curve, one finally made it into a full-scale 
 But the final act was nothing short of hysterical. After babysitting the calves all this time, mom figured it was time to show them how it really is done. As I peeked through my viewfinder, suddenly the ocean exploded and mom breached gracefully through the air, executing a half-turn and landing with a resounding crash. Now, That's how it's done, kids! Got it?
 
 {% img /images/bli/2014/02/DSC_1624.jpg %}
+
+As a postscript, by now the calves were tired and the action abruptly stopped. We noticed mom roll to her side, probably nursing her hungry offspring. 
