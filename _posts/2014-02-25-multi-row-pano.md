@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Create a Multi-Row Pano"
+title: "How to Create a Multi Row Pano"
 comments: true
 categories:
 - Featured
@@ -17,7 +17,7 @@ tags:
 - Gitzo tripod
 ---
 
-{% img /images/bli/2014/02/DSC_0884 Panorama.jpg 2-row and 18-image pano %}
+{% img /images/bli/2014/02/DSC_0884 Panorama.jpg  %}
 
 My clients love wall murals and super-large prints with impact. Early on we learned that the only way to get large prints or wallpaper that covers an entire wall and looks wonderfully detailed, was to employ some advanced panorama creating techniques.
 
