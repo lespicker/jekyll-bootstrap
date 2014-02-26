@@ -31,7 +31,7 @@ First the babies starting out with fin slaps and tail slaps. Not to be anthropom
 
 Mom kept a close eye on the youngsters, as they were fairly close to shore and dangerous rocks. We noted that she kept her body between the calves and the shoreline, at one point bumping them back out to sea. 
 
-{% img img-left /images/bli/2014/02/LDSC_1612.jpg %}
+{% img img-left /images/bli/2014/02/DSC_1612.jpg %}
 
 As the calves climbed the learning curve, one finally made it into a full-scale breach. Yeah! We had to laugh.
 
