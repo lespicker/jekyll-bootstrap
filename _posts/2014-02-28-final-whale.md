@@ -45,7 +45,7 @@ In an unusual move, especially so close to humans, the mighty behemoth rolled ov
 
 {% img /images/bli/2014/02/DSC_2576.jpg%}
 
-And the, the coup. The big guy disappeared from sight. I kept my camera trained, scanning the immediate area where he had vanished. In seconds he reappeared, rocketing himself out of the ocean like a Trident missile, in a classic breach. As he climbed he did a graceful one-quarter roll that would have earned a 9.8 in Sochi. He landed on his back in a towering shower. After one more breach a minute later he was gone as quickly as he appeared. 
+And then, the coup. The big guy disappeared from sight. I kept my camera trained, scanning the immediate area where he had vanished. In seconds he reappeared, rocketing himself out of the ocean like a Trident missile, in a classic breach. As he climbed he did a graceful one-quarter roll that would have earned a 9.8 in Sochi. He landed on his back in a towering shower. After one more breach a minute later he was gone as quickly as he appeared. 
 
 {% img /images/bli/2014/02/DSC_2579.jpg%}
 
