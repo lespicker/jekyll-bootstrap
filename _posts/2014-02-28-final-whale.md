@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another Whale Tale"
+title: "And a Final Whale Tale"
 comments: true
 categories:
 - Featured
