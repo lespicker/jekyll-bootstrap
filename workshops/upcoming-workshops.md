@@ -4,7 +4,7 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-### [Acadia National Park, Maine: Fall Foliage](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1057)
+### [Acadia National Park, Maine: Fall Foliage](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1319)
 
 #### October 16-20, 2014
 
@@ -18,7 +18,7 @@ Each morning we will embark on an adventure taking us to the fog-shrouded rocky 
 
 ---
 
-### Sri Lanka: Culture & Wildlife 
+### [Sri Lanka: Culture & Wildlife](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1318) 
 #### September 13-24, 2014
 
 {% img /images/2012/11/DSC_1881.jpg %}
