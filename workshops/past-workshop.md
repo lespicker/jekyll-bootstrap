@@ -6,7 +6,7 @@ title: Past Workshops
 
 ### Acadia National Park, Mt. Desert Island, Maine
 
-This 4-day workshop took place in October, 2012 in Maine's iconic Acadia National Park. For landscape artists few places can beat it, with its rocky coast, evergreen forests, streams, lakes, waterfalls and moss-cushioned woods. (All images were taken by workshop participants). 
+This 4-day workshop took place in October, 2012 and 2013 in Maine's iconic Acadia National Park. For landscape artists few places can beat it, with its rocky coast, evergreen forests, streams, lakes, waterfalls and moss-cushioned woods. (All images were taken by workshop participants). 
 
 {% img /images/2012/11/water-reflection-c-soderlund.jpg %}
 
