@@ -42,7 +42,7 @@ I usually employ one of two solutions to the problem. First, I ignore it. Many t
 
 But what about situations where the sun is just to the left or right of the pano? In those cases as I pan the impact of the polarizer would be significant. My solution is to remove the polarizer and bracket my shots, then merge the images so that I can still have skies with the clouds popping. I'm not talking heavy-handed HDR here, which I am personally not into. I am just  talking about balancing the sky with foreground to achieve a natural look.
 
-The "Naturalist" Objection
+### The "Naturalist" Objection
 
 One final item before leaving the topic. I often get the perennial dumb-ass comment from some photographers that merging images is not "natural." Oh, really? Are you telling me that your eyes only saw the foreground in deep shadow with no detail?  Or perhaps the sky was so bright you couldn't see one cloud clearly? If that's so, then you'd better run, not walk, to your eye doctor. My point here is that the human eye is still far more sensitive and has a greater dynamic range than even the best sensors we have. When we look at a scene we see details in the shadows and in the sky. 
 
