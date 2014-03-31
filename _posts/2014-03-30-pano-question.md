@@ -21,10 +21,7 @@ I received an interesting question from a reader last week concerning [my blog](
 
 <!--more-->
 
-Hi Les,
-many thanks for this nice instructional video on how to shoot multi row panoramas! It was to the point and very nicely delivered! I'd like just to ask if it possible for you to share some tips on the use of polarizing filters when creating panoramas, since the different orientation of the camera throughout the series of shots would invariably introduce some inconsistencies on the final image, which would be especially visible on the sky. Many thanks again and I hope this request may be considered for one of your next tutorials on the subject!
-Best regards,
-Marco
+> Hi Les, many thanks for this nice instructional video on how to shoot multi row panoramas! It was to the point and very nicely delivered! I'd like just to ask if it possible for you to share some tips on the use of polarizing filters when creating panoramas, since the different orientation of the camera throughout the series of shots would invariably introduce some inconsistencies on the final image, which would be especially visible on the sky. Many thanks again and I hope this request may be considered for one of your next tutorials on the subject! Best regards <cite>Marco</cite>
 
 Excellent question, Marco, and one that I probably should have addressed in the video. The answer, like so many in photography, is that it depends. It depends on the experience and point of view of the photographer and it depends on the circumstances of the image you are recording. Here's the explanation:
 
