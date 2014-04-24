@@ -328,6 +328,7 @@ blockquote cite{
 #container{
 	//@include push(4);
 	@include grid-row();
+	margin-top: $topbar-height;
 	p, blockquote{
 /* 		font-size: ms(1); */
 	}
@@ -370,6 +371,8 @@ blockquote cite{
 		margin-bottom: 0;
 	}
 	ul{
+		margin-left: 0;
+		padding-left: 0;
 		list-style: none;
 		list-style-type: none;
 	}
@@ -382,10 +385,10 @@ blockquote cite{
 
 @media screen and (min-width: 700px){
   #content{
-  	@include grid-column(8,$push: 4);
+  	@include grid-column(8, $push: 4);
   }
   #sidebar{
-  	@include grid-column(3,$pull: 8);
+  	@include grid-column(4 ,$pull: 8);
   }
 }
 
