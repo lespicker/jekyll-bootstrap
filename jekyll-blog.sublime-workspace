@@ -31,14 +31,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "sass/app.scss",
-			"settings":
-			{
-				"buffer_size": 8273,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -172,8 +164,12 @@
 	},
 	"file_history":
 	[
-		"/Users/rwboyer/ruby/compass-play/les-zurb/_plugins/image_tag.rb",
+		"/Users/rwboyer/ruby/compass-play/les-zurb/index.html",
+		"/Users/rwboyer/ruby/compass-play/les-zurb/_includes/themes/lpfa/default.html",
+		"/Users/rwboyer/ruby/compass-play/les-zurb/_layouts/main.html",
 		"/Users/rwboyer/ruby/compass-play/les-zurb/sass/app.scss",
+		"/Users/rwboyer/ruby/compass-play/les-zurb/_site/index.html",
+		"/Users/rwboyer/ruby/compass-play/les-zurb/_plugins/image_tag.rb",
 		"/Users/rwboyer/ruby/compass-play/les-zurb/limited-edition/index.md",
 		"/Users/rwboyer/ruby/mm-test/source/blog/2013-10-24-site-layout-update.md.liquid",
 		"/Users/rwboyer/ruby/mm-test/source/layouts/layout.erb",
@@ -295,15 +291,11 @@
 		"/Users/rwboyer/ruby/mm-test/source/blog/2013-07-03-x-trans-forest-and-trees.md.liquid",
 		"/Users/rwboyer/ruby/mm-test/source/blog/2013-07-01-the-paul-pride-project.md.liquid",
 		"/Users/rwboyer/ruby/mm-test/source/blog/2013-06-30-film-lenses-etc-via-email.md.liquid",
-		"/Users/rwboyer/ruby/mm-test/source/blog/2013-06-29-film-film-film-blah-blah-blah.md.liquid",
-		"/Users/rwboyer/ruby/mm-test/source/blog/2013-06-26-context.md.liquid",
-		"/Users/rwboyer/ruby/mm-test/source/blog/2013-06-25-photography-goings-on.md.liquid",
-		"/Users/rwboyer/ruby/mm-test/source/blog/2013-06-24-fuji-x-series-color.md.liquid",
-		"/Users/rwboyer/ruby/mm-test/source/blog/2013-06-23-mixed-lighting.md.liquid"
+		"/Users/rwboyer/ruby/mm-test/source/blog/2013-06-29-film-film-film-blah-blah-blah.md.liquid"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -319,6 +311,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"stack",
+			"media",
+			"caption",
 			"activate",
 			"ignore",
 			"categories:",
@@ -347,36 +342,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "sass/app.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8273,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2337,
-								2337
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1284.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -414,6 +381,10 @@
 	"output.exec":
 	{
 		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
 	},
 	"output.git-commit":
 	{
