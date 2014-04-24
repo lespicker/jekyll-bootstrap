@@ -1,6 +1,5 @@
 // Global Foundation Settings
 @import "settings";
-@import "white-topbar-settings";
 
 // Comment out this import if you don't want to use normalize
 @import "normalize";
@@ -103,7 +102,7 @@ img{
 
 .box{
 	position: relative;
-//	overflow: auto;
+	overflow: auto;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	img{
