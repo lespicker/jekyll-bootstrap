@@ -385,10 +385,10 @@ blockquote cite{
 
 @media screen and (min-width: 700px){
   #content{
-  	@include grid-column(8, $push: 4);
+  	@include grid-column($columns:8, $push:4);
   }
   #sidebar{
-  	@include grid-column(3 ,$offset: 1,$pull: 8);
+  	@include grid-column($columns:3 ,$pull:8);
   }
 }
 
