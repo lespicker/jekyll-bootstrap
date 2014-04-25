@@ -160,6 +160,10 @@ a{
 	@include transition(color .5s);
 }
 
+.orbit-container {
+    // min-height: 400px;
+}
+
 .orbit-caption a{
 	color: #999999;
 	&:hover{

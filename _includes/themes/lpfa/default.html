@@ -92,8 +92,19 @@
 
     <script type="text/javascript">$(document).foundation();</script>
     
-  	<script type="text/javascript" src="/javascripts/lightview3/js/spinners/spinners.min.js"></script>
+
+  	
+    <script type="text/javascript" src="/javascripts/lightview3/js/spinners/spinners.min.js"></script>
   	<script type="text/javascript" src="/javascripts/lightview3/js/lightview/lightview.js"></script>
+
+    <script type="text/javascript">
+      window.onload = (function() {
+        $(document).foundation('orbit');
+        $(document).foundation('reflow');
+        $(document).resize();
+      });
+    </script>
     
 	</body>
+
 </html>
