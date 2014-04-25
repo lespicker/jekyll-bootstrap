@@ -68,6 +68,20 @@
   }
 }
 
+// Zurb 5 testing crap
+
+#outer-row{
+	@include grid-row();
+}
+
+#first-8{
+	@include grid-column($columns:8, $last-column:false, $center:false, $offset:0, $push:4, $pull:0, $collapse:false, $float:right);
+}
+
+#last-4{
+	@include grid-column($columns:3, $last-column:false, $center:false, $offset:0, $push:0, $pull:8, $collapse:false, $float:left);
+}
+
 p, a, li, h1, h2, h3, h4, h5, h6, cite, blockquote{
   text-rendering: geometricPrecision;
   @include font-smoothing(antialiased);
@@ -385,10 +399,10 @@ blockquote cite{
 
 @media screen and (min-width: 700px){
   #content{
-  	@include grid-column($columns:8, $push:4);
+  	@include grid-column($columns:8, $push:4, $float:right);
   }
   #sidebar{
-  	@include grid-column($columns:3 ,$pull:8);
+  	@include grid-column($columns:3 ,$pull:8, $float:left);
   }
 }
 
