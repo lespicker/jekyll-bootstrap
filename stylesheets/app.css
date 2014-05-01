@@ -8305,7 +8305,7 @@ img {
 /* line 117, ../sass/app.scss */
 .box {
   position: relative;
-  overflow: auto;
+  overflow: hidden;
   margin-top: 1em;
   margin-bottom: 1em;
 }
