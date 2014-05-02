@@ -18,7 +18,7 @@ Well, 2014 started out with a bang as far as Egyptian archaeology goes. Recent f
 
 Case in point is the recent discovery of a previously unknown tomb in the Valley of the Kings near Luxor that contains the mummified remains of several nobles, including infants, who were part of the Royal Court around the 14th century BC. The tomb has been significantly looted during antiquity, first for the gold and jewels they contained, and in more recent times by those seeking any antiquities of value to sell on the black market. 
 
-Archaeologists hope that the finds will provide some insights into life within the Royal Court. Even though the period in question is some 1,500 years after the period I write about in my First Dynasty trilogy, it's still exciting for me when these finds fill in gaps in our knowledge. If you want to read more on the find and see some pictures, [try here](http://www.livescience.com/45186-mummies-unearthed-egypts-valley-of-the-kings.html). 
+Archaeologists hope that the finds will provide some insights into life within the Royal Court. Even though the period in question is some 1,500 years after the period I write about in my [First Dynasty trilogy](http://www.amazon.com/Lester-Picker/e/B009E6U9R0/ref=sr_tc_2_0?qid=1357444582&sr=1-2-ent), it's still exciting for me when these finds fill in gaps in our knowledge. If you want to read more on the find and see some pictures, [try here](http://www.livescience.com/45186-mummies-unearthed-egypts-valley-of-the-kings.html). 
 
 
 ### The Pyramids...again!
