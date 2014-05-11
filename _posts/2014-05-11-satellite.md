@@ -1,8 +1,6 @@
-
-
 ---
 layout: post
-title: 	"Lost Cities Found!"
+title: 	"Lost Cities Found"
 comments: true
 categories:
 - breaking
