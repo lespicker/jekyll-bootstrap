@@ -97,6 +97,17 @@ img{
 	margin-bottom: 1em;
 }
 
+.lv_thumbnail_image{
+	img{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+}
+
+.lv_thumbnails{
+	padding: 0 !important;
+}
+
 .box.img-left{
 	max-width: 30%;
 	float: left;
