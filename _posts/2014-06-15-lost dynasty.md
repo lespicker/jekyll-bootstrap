@@ -8,7 +8,7 @@ categories:
 
 {% img /images/bli/2014/06/JA2014Cover.jpg %}
 
-If you are interested in Ancient Egypt, you may want to check out the July/August, 2014 issue of [Archaeology Magazine](www.archaeology.org). "Egypt's Forgotten Dynasty," written by Mary Beth Griggs, describes recent digs at Abydos	that have unearthed what some Egyptologists believe to be a short-lived dynasty that ruled between 1650 and 1600 B.C. 
+If you are interested in Ancient Egypt, you may want to check out the July/August, 2014 issue of [Archaeology Magazine](http://www.archaeology.org/issues). "Egypt's Forgotten Dynasty," written by Mary Beth Griggs, describes recent digs at Abydos	that have unearthed what some Egyptologists believe to be a short-lived dynasty that ruled between 1650 and 1600 B.C. 
 
 <!--more-->
 
