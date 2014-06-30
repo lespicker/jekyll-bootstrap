@@ -3,7 +3,7 @@ layout: page
 title: Canada Portfolio Edition
 categories:
 - gallery
-img_path: /images/bli/gallery/wildlife/
+img_path: /images/bli/gallery/wildlifec/
 gallery:
 - wild-0675.jpg
 - wild-0676.jpg
