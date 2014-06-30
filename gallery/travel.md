@@ -3,7 +3,7 @@ layout: page
 title: Canada Portfolio Edition
 categories:
 - gallery
-img_path: /images/bli/gallery/people/
+img_path: /images/bli/gallery/travel/
 gallery:
 - travel-0696.jpg
 - travel-0697.jpg

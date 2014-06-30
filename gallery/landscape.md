@@ -3,7 +3,7 @@ layout: page
 title: Canada Portfolio Edition
 categories:
 - gallery
-img_path: /images/bli/gallery/people/
+img_path: /images/bli/gallery/landscape/
 gallery:
 - land-0603.jpg
 - land-0604.jpg

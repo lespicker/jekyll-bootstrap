@@ -3,7 +3,7 @@ layout: page
 title: Canada Portfolio Edition
 categories:
 - gallery
-img_path: /images/bli/gallery/people/
+img_path: /images/bli/gallery/bw/
 gallery:
 - bw-0583.jpg
 - bw-0584.jpg
