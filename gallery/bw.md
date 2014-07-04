@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Canada Portfolio Edition
+title: Black And White Gallery
 categories:
 - gallery
 img_path: /images/bli/gallery/bw/
@@ -27,6 +27,8 @@ gallery:
 - bw-0602.jpg
 comments: false
 ---
+
+## Black And White
 
 {% include themes/lpfa/gallery.html %}
 
