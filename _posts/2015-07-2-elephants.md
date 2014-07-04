@@ -15,7 +15,6 @@ tags:
 img_path: /images/bli/2014/07/elephants
 gallery:
 - DSC_0275.jpg- DSC_0303.jpg- DSC_1963.jpg- DSC_2399.jpg- DSC_2859.jpg- DSC_2861.jpg- DSC_4783-Edit.jpg
-
 ---
 
 {% img /images/bli/2014/07/DSC_2887.jpg %}
