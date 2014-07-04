@@ -32,7 +32,7 @@ Be cautious when photographing elephants. I was once on a press trip when a jour
 
 ---
 
-{% include themes/lpfa-bli/gallery.html %}
+{% include themes/lpfa/gallery.html %}
 
 ---
 
