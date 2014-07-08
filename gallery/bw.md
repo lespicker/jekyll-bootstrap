@@ -30,20 +30,18 @@ comments: false
 
 ## Black And White
 
+---
+
 {% include themes/lpfa/gallery.html %}
 
 ---
 
-As an American, I know just how fortunate we are to live in such variegated landscapes, rich in water and woods, mountains and prairies, and blessed with the mineral wealth we need for life and commerce. I have spent the better part of my life documenting its majesty both in writing and images.
+There is no doubt in my mind that black and white photography is the most difficult of all. Sound stupid, counter-intuitive? It sure is, except for those of us who do photography professionally. 
 
-But I have come to know that there is a secret, magical land sitting on top of us. Well, north of us anyway. With a far greater land mass than we enjoy here in the United States and with one-tenth the number of people, much of Canada appears to us landscape photographers exactly as it did to First Nation people, Canadian trappers and pioneers hundreds of years ago. Take Canada’s Yukon Territory, for example. With a land area some 20% larger than California, it has only 30,000 residents, compared to California’s 33 million. With about 30,000 bears, 60,000 moose and 250,000 caribou, plus elk, fox and eagles, it is also a wildlife photographer’s paradise. 
+I often wonder about this. Is it because we are bound to our past, to the roots of our art? Even into the early part of the 20th century, photography was only black and white. I look at the images created by Ansel Adams, Edward Westin and their peers and marvel at their artwork. Even with our far more sophisticated tools we cannot surpass what they did. 
 
-One of the things I love about Canada is that, as a landscape artist, I don’t have to battle crowds to record the images I visualize. I can take my time to survey the area for the best vantage points, set up my tripod (all the images in this folio were taken tripod-mounted), and shoot, reposition and shoot again. Some of the images, in fact, took multiple visits before I was happy with the results.
+What we can do, however, is experiment more readily. People often ask me if I shoot the scene as a black and white image or interpret it in post-processing? The answer is "yes." At times I know from the get-go that I want this as a black and white image and I shoot it accordingly. At other times I don't realize until I view the image on my computer screen that it just does not work as  color image and that I must reinterpret it in black and white. 
 
-{% img /images/2012/11/DSC9916.jpg %}
+For me, black and white is all about emotions. Stripped of the distractions of color, that raw black and white image must have drama, emotion, texture, or wonderful tonality to be effective. 
 
-Each image in this *Portfolio Edition* was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please handle prints with the cotton gloves supplied and store them in the hand-made box at room temperatures. 
-
-The landscapes in this *Portfolio Edition* were digitally recorded using Nikon and Hasselblad professional equipment. 
-
-Periodically I issue other hand-made *Portfolio Editions*, always in limited quantities. We hope you will visit here periodically if you are interested in adding new ones to your collection. To purchase this *Portfolio Edition* please click [here](http://shop.lesterpickerphoto.com/page/301).
+One final word about black and white photography. To me, there is nothing equal to the visual and sensual pleasure of a classic black and white fine art print. Period.

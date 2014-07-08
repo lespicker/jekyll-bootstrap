@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Canada Portfolio Edition
+title: People Gallery
 categories:
 - gallery
 img_path: /images/bli/gallery/people/
@@ -18,20 +18,14 @@ gallery:
 comments: false
 ---
 
+## People
+
+---
+
 {% include themes/lpfa/gallery.html %}
 
 ---
 
-As an American, I know just how fortunate we are to live in such variegated landscapes, rich in water and woods, mountains and prairies, and blessed with the mineral wealth we need for life and commerce. I have spent the better part of my life documenting its majesty both in writing and images.
+I enjoy people. I am not a portrait photographer by any means. What I do enjoy is meeting diverse and wonderful people from all over the world, conversing with them (by gestures or using an interpreter), and photographing them in their own surroundings. 
 
-But I have come to know that there is a secret, magical land sitting on top of us. Well, north of us anyway. With a far greater land mass than we enjoy here in the United States and with one-tenth the number of people, much of Canada appears to us landscape photographers exactly as it did to First Nation people, Canadian trappers and pioneers hundreds of years ago. Take Canada’s Yukon Territory, for example. With a land area some 20% larger than California, it has only 30,000 residents, compared to California’s 33 million. With about 30,000 bears, 60,000 moose and 250,000 caribou, plus elk, fox and eagles, it is also a wildlife photographer’s paradise. 
-
-One of the things I love about Canada is that, as a landscape artist, I don’t have to battle crowds to record the images I visualize. I can take my time to survey the area for the best vantage points, set up my tripod (all the images in this folio were taken tripod-mounted), and shoot, reposition and shoot again. Some of the images, in fact, took multiple visits before I was happy with the results.
-
-{% img /images/2012/11/DSC9916.jpg %}
-
-Each image in this *Portfolio Edition* was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please handle prints with the cotton gloves supplied and store them in the hand-made box at room temperatures. 
-
-The landscapes in this *Portfolio Edition* were digitally recorded using Nikon and Hasselblad professional equipment. 
-
-Periodically I issue other hand-made *Portfolio Editions*, always in limited quantities. We hope you will visit here periodically if you are interested in adding new ones to your collection. To purchase this *Portfolio Edition* please click [here](http://shop.lesterpickerphoto.com/page/301).
+Photographers have their own methods for recording people images. I always ask permission first. I talk with my subjects as I photograph. I like wide angle-lenses that bring my subjects' surroundings into play. With especially interesting faces I will focus in on facial details. Maybe it's my own advanced age, but I love people with wrinkles, whose facial etchings reflect their life's lessons and, hopefully, wisdom. When I'm done with my session, I show my subject the images on my camera and if at all possible I will mail them an image when I return home or print out an image and give it to them on my next visit. I am always mindful of the teachings of native people of the Americas, that with each image I take away with me  a piece of the subject's soul. 

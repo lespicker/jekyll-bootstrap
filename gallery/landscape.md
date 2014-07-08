@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Canada Portfolio Edition
+title: Landscape Gallery
 categories:
 - gallery
 img_path: /images/bli/gallery/landscape/
@@ -26,11 +26,7 @@ gallery:
 comments: false
 ---
 
-## Les' Landscape-y Pictures
-
-As an American, I know just how fortunate we are to live in such variegated landscapes, rich in water and woods, mountains and prairies, and blessed with the mineral wealth we need for life and commerce. I have spent the better part of my life documenting its majesty both in writing and images.
-
-But I have come to know that there is a secret, magical land sitting on top of us. Well, north of us anyway. With a far greater land mass than we enjoy here in the United States and with one-tenth the number of people, much of Canada appears to us landscape photographers exactly as it did to First Nation people, Canadian trappers and pioneers hundreds of years ago. Take Canada’s Yukon Territory, for example. With a land area some 20% larger than California, it has only 30,000 residents, compared to California’s 33 million. With about 30,000 bears, 60,000 moose and 250,000 caribou, plus elk, fox and eagles, it is also a wildlife photographer’s paradise. 
+## Landscape
 
 ---
 
@@ -38,14 +34,8 @@ But I have come to know that there is a secret, magical land sitting on top of u
 
 ---
 
-One of the things I love about Canada is that, as a landscape artist, I don’t have to battle crowds to record the images I visualize. I can take my time to survey the area for the best vantage points, set up my tripod (all the images in this folio were taken tripod-mounted), and shoot, reposition and shoot again. Some of the images, in fact, took multiple visits before I was happy with the results.
+I started my career as an 11-year old boy when my father, an accomplished photographer himself, gave me my first camera. In those days it was cityscapes. What else was there to photograph in New York City? 
 
-### Buy One of These thing-us
+As I matured, left the city for the wilds of Maine, and earned an advanced degree in ecology, my career very naturally evolved into landscapes. Then came a stint with National Geographic publications and my commitment to nature photography in its broadest sense. 
 
-{% img /images/2012/11/DSC9916.jpg %}
-
-Each image in this *Portfolio Edition* was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please handle prints with the cotton gloves supplied and store them in the hand-made box at room temperatures. 
-
-The landscapes in this *Portfolio Edition* were digitally recorded using Nikon and Hasselblad professional equipment. 
-
-Periodically I issue other hand-made *Portfolio Editions*, always in limited quantities. We hope you will visit here periodically if you are interested in adding new ones to your collection. To purchase this *Portfolio Edition* please click [here](http://shop.lesterpickerphoto.com/page/301).
+I've never been sure which came first, my love for nature fostering a love for photography, or vice versa. No matter. When I'm out amidst a natural landscape I truly feel at home, embraced by nature's abundance. I breathe in the crisp, dry air of the Arctic or the musty wetness of the Amazon or the dust of the desert and I am transported. I marvel at the beauty before me. I fear for its fragility and know that I have to tell that story. I lose track of time and then I slip into The Zone. It is those fleeting moments of oneness with our natural world that are so addictive and keep me coming back for more.

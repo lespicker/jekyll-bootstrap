@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Canada Portfolio Edition
+title: Wildlife Gallery
 categories:
 - gallery
 img_path: /images/bli/gallery/wildlife/
@@ -29,20 +29,18 @@ gallery:
 comments: false
 ---
 
+## Wildlife
+
+---
+
 {% include themes/lpfa/gallery.html %}
 
 ---
 
-As an American, I know just how fortunate we are to live in such variegated landscapes, rich in water and woods, mountains and prairies, and blessed with the mineral wealth we need for life and commerce. I have spent the better part of my life documenting its majesty both in writing and images.
+There are few things as exciting, at least to me, as wildlife photography. As an ecologist by training, I love the thrill of watching animals in their natural environments. 
 
-But I have come to know that there is a secret, magical land sitting on top of us. Well, north of us anyway. With a far greater land mass than we enjoy here in the United States and with one-tenth the number of people, much of Canada appears to us landscape photographers exactly as it did to First Nation people, Canadian trappers and pioneers hundreds of years ago. Take Canada’s Yukon Territory, for example. With a land area some 20% larger than California, it has only 30,000 residents, compared to California’s 33 million. With about 30,000 bears, 60,000 moose and 250,000 caribou, plus elk, fox and eagles, it is also a wildlife photographer’s paradise. 
+I have not been to a zoo in more than forty years. My heart pains when I see animals confined, unable to engage their instincts, standing in corners, depressed, or anxiously, pathologically pacing back and forth. 
 
-One of the things I love about Canada is that, as a landscape artist, I don’t have to battle crowds to record the images I visualize. I can take my time to survey the area for the best vantage points, set up my tripod (all the images in this folio were taken tripod-mounted), and shoot, reposition and shoot again. Some of the images, in fact, took multiple visits before I was happy with the results.
+Part of the allure of wildlife photography is the holistic experience; the preliminary research about the animal's behavior, discussions with experts, and tapping the wisdom of elders. I always start my wildlife photography just observing. What is it I want to capture about the animal? What is the story I am trying to tell? 
 
-{% img /images/2012/11/DSC9916.jpg %}
-
-Each image in this *Portfolio Edition* was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please handle prints with the cotton gloves supplied and store them in the hand-made box at room temperatures. 
-
-The landscapes in this *Portfolio Edition* were digitally recorded using Nikon and Hasselblad professional equipment. 
-
-Periodically I issue other hand-made *Portfolio Editions*, always in limited quantities. We hope you will visit here periodically if you are interested in adding new ones to your collection. To purchase this *Portfolio Edition* please click [here](http://shop.lesterpickerphoto.com/page/301).
+I remember one cold Fall morning photographing in a stream in Canada. When I stood up to relieve my aching knees, there was a black bear not ten feet from me on the other side of a small bush that separated us. He had not noticed me, intent as he was fattening up on berries for winter. At times like that we are given a gift. The wide-angle equipment mounted on my tripod would not have worked, even if I had tried to capture an image or two. No. I made sure my bear spray was still attached to my vest and then I breathed in and just watched him. What a beautiful creature, his fur glimmering in the light, his satisfied groans so pleasing to my ear. He continued grazing as he moved away from me, then he looked up and saw me. He stared at me and for some reason I nodded. I can't say why I did that, but for an instant or two we had a connection. Those are the moments I live for, photograph or not. 
