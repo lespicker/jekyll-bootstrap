@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Wildlife Gallery
+title: Waterscape Gallery
 categories:
 - gallery
 img_path: /images/bli/gallery/waterscape/
 gallery:
-- water-0660.jpg- water-0661.jpg- water-0662.jpg- water-0663.jpg- water-0664.jpg- water-0665.jpg- water-0666.jpg- water-0667.jpg- water-0668.jpg- water-0669.jpg- water-0670.jpg- water-0671.jpg- water-0672.jpg- water-0673.jpg- water-0674.jpg
-comments: false
+- water-0661.jpg- water-0662.jpg- water-0663.jpg- water-0664.jpg- water-0665.jpg- water-0666.jpg- water-0667.jpg- water-0668.jpg- water-0669.jpg- water-0670.jpg- water-0671.jpg- water-0672.jpg- water-0673.jpg- water-0674.jpg
+- water-0660.jpgcomments: false
 ---
 
 ## Waterscape
