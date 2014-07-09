@@ -1151,12 +1151,12 @@ $topbar-title-weight: normal;
 $topbar-title-font-size: rem-calc(17);
 
 // Style the top bar dropdown elements
-$topbar-dropdown-bg: rgba(255, 255, 255, 0.0);
+$topbar-dropdown-bg: rgba(255, 255, 255, 1.0);
 $topbar-dropdown-link-color: #333;
-$topbar-dropdown-link-bg: rgba(255, 255, 255, 0.0);
+$topbar-dropdown-link-bg: rgba(255, 255, 255, 0.50);
 $topbar-dropdown-link-weight: normal;
 $topbar-dropdown-toggle-size: 5px;
-$topbar-dropdown-toggle-color: rgba(255, 255, 255, 0.0);
+$topbar-dropdown-toggle-color: rgba(255, 255, 255, 0.50);
 $topbar-dropdown-toggle-alpha: 0.0;
 
 // Set the link colors and styles for top-level nav
@@ -1178,7 +1178,7 @@ $topbar-dropdown-label-color: #777;
 $topbar-dropdown-label-text-transform: uppercase;
 $topbar-dropdown-label-font-weight: bold;
 $topbar-dropdown-label-font-size: rem-calc(10);
-$topbar-dropdown-label-bg: rgba(255, 255, 255, 0.0);
+$topbar-dropdown-label-bg: rgba(255, 255, 255, 0.50);
 
 // Top menu icon styles
 $topbar-menu-link-transform: uppercase;

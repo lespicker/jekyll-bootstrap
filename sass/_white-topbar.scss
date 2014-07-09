@@ -27,5 +27,11 @@
 //      }
 
     }
+    ul{
+      background: $topbar-bg-color;
+    }
+    ul.dropdown li{
+      background: $topbar-dropdown-bg;
+    }
   }
 }
