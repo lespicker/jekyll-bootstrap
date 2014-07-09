@@ -1,0 +1,24 @@
+---
+layout: page
+title: Wildlife Gallery
+categories:
+- gallery
+img_path: /images/bli/gallery/waterscape/
+gallery:
+- water-0660.jpg- water-0661.jpg- water-0662.jpg- water-0663.jpg- water-0664.jpg- water-0665.jpg- water-0666.jpg- water-0667.jpg- water-0668.jpg- water-0669.jpg- water-0670.jpg- water-0671.jpg- water-0672.jpg- water-0673.jpg- water-0674.jpg
+comments: false
+---
+
+## Waterscape
+
+---
+
+{% include themes/lpfa/gallery.html %}
+
+---
+
+I have a schizophrenic relationship with waterscapes. As you can see in this gallery, I love capturing images of water scenes. Yet there is always fear associated with those images. Will the next wave be a rogue wave that swamps my valuable gear, let alone me? Am I too close to the cliff's edge? Will I slip on a mossy rock in the stream that I'm crossing or standing in?
+
+What I do at times like that is take a few deep breaths, soak in the scenic possibilities, evaluate the risks, and create a plan of action. I normally start with wide scenics and then, as the beauty captivates me, I zoom deeper into my subject. By then I'm usually relaxed and in The Zone.
+
+Water is the most vital element on Earth. It covers 70% of our planet, yet only 2% is that essential fresh water that we depend on for life. Waterscapes are a photographer's friend in that they are never the same, so we can visit a spot over and over and capture its different moods. As a naturalist, I feel that I have an obligation to represent our aquatic world in a way that allows us to appreciate its myriad gifts.
