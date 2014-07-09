@@ -6,7 +6,6 @@ categories:
 img_path: /images/bli/gallery/wildlife/
 gallery:
 - wild-0675.jpg
-- wild-0676.jpg
 - wild-0677.jpg
 - wild-0678.jpg
 - wild-0679.jpg
@@ -26,6 +25,7 @@ gallery:
 - wild-0693.jpg
 - wild-0694.jpg
 - wild-0695.jpg
+wildlife-7000-1.jpgwildlife-7000-2.jpgwildlife-7000-3.jpgwildlife-7000-4.jpgwildlife-7000-5.jpgwildlife-7000-6.jpgwildlife-7000-7.jpgwildlife-7000-8.jpgwildlife-7000-9.jpgwildlife-7000-10.jpgwildlife-7000-11.jpgwildlife-7000-12.jpg
 comments: false
 ---
 
