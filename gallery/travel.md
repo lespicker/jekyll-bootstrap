@@ -5,20 +5,20 @@ categories:
 - gallery
 img_path: /images/bli/gallery/travel/
 gallery:
-- travel-0696.jpg
-- travel-0697.jpg
-- travel-0698.jpg
-- travel-0699.jpg
-- travel-0700.jpg
-- travel-0701.jpg
-- travel-0702.jpg
-- travel-0703.jpg
-- travel-0704.jpg
-- travel-0705.jpg
-- travel-0706.jpg
-- travel-0707.jpg
-- travel-0708.jpg
-- travel-0709.jpg
+- [travel-0696.jpg, ""]
+- [travel-0697.jpg, ""]
+- [travel-0698.jpg, ""]
+- [travel-0699.jpg, ""]
+- [travel-0700.jpg, ""]
+- [travel-0701.jpg, ""]
+- [travel-0702.jpg, ""]
+- [travel-0703.jpg, ""]
+- [travel-0704.jpg, ""]
+- [travel-0705.jpg, ""]
+- [travel-0706.jpg, ""]
+- [travel-0707.jpg, ""]
+- [travel-0708.jpg, ""]
+- [travel-0709.jpg, ""]
 comments: false
 ---
 

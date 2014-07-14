@@ -5,26 +5,26 @@ categories:
 - gallery
 img_path: /images/bli/gallery/bw/
 gallery:
-- bw-0583.jpg
-- bw-0584.jpg
-- bw-0585.jpg
-- bw-0586.jpg
-- bw-0587.jpg
-- bw-0588.jpg
-- bw-0589.jpg
-- bw-0590.jpg
-- bw-0591.jpg
-- bw-0592.jpg
-- bw-0593.jpg
-- bw-0594.jpg
-- bw-0595.jpg
-- bw-0596.jpg
-- bw-0597.jpg
-- bw-0598.jpg
-- bw-0599.jpg
-- bw-0600.jpg
-- bw-0601.jpg
-- bw-0602.jpg
+- [bw-0583.jpg, ""]
+- [bw-0584.jpg, ""]
+- [bw-0585.jpg, ""]
+- [bw-0586.jpg, ""]
+- [bw-0587.jpg, ""]
+- [bw-0588.jpg, ""]
+- [bw-0589.jpg, ""]
+- [bw-0590.jpg, ""]
+- [bw-0591.jpg, ""]
+- [bw-0592.jpg, ""]
+- [bw-0593.jpg, ""]
+- [bw-0594.jpg, ""]
+- [bw-0595.jpg, ""]
+- [bw-0596.jpg, ""]
+- [bw-0597.jpg, ""]
+- [bw-0598.jpg, ""]
+- [bw-0599.jpg, ""]
+- [bw-0600.jpg, ""]
+- [bw-0601.jpg, ""]
+- [bw-0602.jpg, ""]
 comments: false
 ---
 

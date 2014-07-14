@@ -5,16 +5,16 @@ categories:
 - gallery
 img_path: /images/bli/gallery/people/
 gallery:
-- people-0621.jpg
-- people-0622.jpg
-- people-0623.jpg
-- people-0624.jpg
-- people-0625.jpg
-- people-0626.jpg
-- people-0627.jpg
-- people-0628.jpg
-- people-0629.jpg
-- people-0630.jpg
+- [people-0621.jpg, ""]
+- [people-0622.jpg, ""]
+- [people-0623.jpg, ""]
+- [people-0624.jpg, ""]
+- [people-0625.jpg, ""]
+- [people-0626.jpg, ""]
+- [people-0627.jpg, ""]
+- [people-0628.jpg, ""]
+- [people-0629.jpg, ""]
+- [people-0630.jpg, ""]
 comments: false
 ---
 

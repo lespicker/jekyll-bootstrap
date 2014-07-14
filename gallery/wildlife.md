@@ -5,22 +5,32 @@ categories:
 - gallery
 img_path: /images/bli/gallery/wildlife/
 gallery:
-- wildlife-7000-11.jpg
-- wild-0675.jpg
-- wild-0677.jpg
-- wild-0678.jpg
-- wild-0680.jpg
-- wild-0681.jpg
-- wild-0683.jpg
-- wild-0684.jpg
-- wild-0685.jpg
-- wild-0686.jpg
-- wild-0687.jpg
-- wild-0688.jpg
-- wild-0689.jpg
-- wild-0690.jpg
-- wild-0691.jpg
-- wildlife-7000-1.jpg- wildlife-7000-2.jpg- wildlife-7000-3.jpg- wildlife-7000-4.jpg- wildlife-7000-5.jpg- wildlife-7000-6.jpg- wildlife-7000-7.jpg- wildlife-7000-8.jpg- wildlife-7000-9.jpg- wildlife-7000-10.jpg- wildlife-7000-12.jpg
+- [wildlife-7000-11.jpg, ""]
+- [wild-0675.jpg, ""]
+- [wild-0677.jpg, ""]
+- [wild-0678.jpg, ""]
+- [wild-0680.jpg, ""]
+- [wild-0681.jpg, ""]
+- [wild-0683.jpg, ""]
+- [wild-0684.jpg, ""]
+- [wild-0685.jpg, ""]
+- [wild-0686.jpg, ""]
+- [wild-0687.jpg, ""]
+- [wild-0688.jpg, ""]
+- [wild-0689.jpg, ""]
+- [wild-0690.jpg, ""]
+- [wild-0691.jpg, ""]
+- [wildlife-7000-1.jpg, ""]
+- [wildlife-7000-2.jpg, ""]
+- [wildlife-7000-3.jpg, ""]
+- [wildlife-7000-4.jpg, ""]
+- [wildlife-7000-5.jpg, ""]
+- [wildlife-7000-6.jpg, ""]
+- [wildlife-7000-7.jpg, ""]
+- [wildlife-7000-8.jpg, ""]
+- [wildlife-7000-9.jpg, ""]
+- [wildlife-7000-10.jpg, ""]
+- [wildlife-7000-12.jpg, ""]
 comments: false
 ---
 
