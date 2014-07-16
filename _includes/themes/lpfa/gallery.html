@@ -1,6 +1,6 @@
 <ul class="folio-grid">
 	{% for folio_img in page.gallery %}
-		<li><a href="{{ page.img_path }}{{ folio_img[0] }}" class="lightview" data-lightview-title="{{ folio_img[1] }}" data-lightview-group={{page.title}} data-lightview-options="skin:'mac'" data-lightview-group-options="controls: 'thumbnails'"><img src="{{ page.img_path }}thumb/{{ folio_img }}"></a></li>
+		<li><a href="{{ page.img_path }}{{ folio_img[0] }}" class="lightview" data-lightview-title="{{ folio_img[1] }}" data-lightview-group={{page.title}} data-lightview-options="skin:'mac'" data-lightview-group-options="controls: 'thumbnails'"><img src="{{ page.img_path }}thumb/{{ folio_img[0] }}"></a></li>
 	{% endfor %}
 </ul>
 	
