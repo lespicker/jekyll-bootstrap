@@ -6,9 +6,9 @@ categories:
 img_path: /images/bli/gallery/bw/
 gallery:
 - [bw-0583.jpg, "Elephantine Island, Egypt"]
-- [bw-0584.jpg, "Glen Canyon Dam, Arizona"]
-- [bw-0585.jpg, "Glen Canyon Dam, Arizona"]
-- [bw-0586.jpg, "Icebergs, Alaska"]
+- [bw-0584.jpg, "Glen Canyon Dam, Arizona, USA"]
+- [bw-0585.jpg, "Glen Canyon Dam, Arizona, USA"]
+- [bw-0586.jpg, "Icebergs, Alaska, USA"]
 - [bw-0587.jpg, "Pigeon Man, Puerto Rico"]
 - [bw-0588.jpg, "Abandoned Truck, Yukon Territory, Canada"]
 - [bw-0589.jpg, "Driftwood, Gibsons, British Columbia, Canada"]

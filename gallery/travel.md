@@ -5,20 +5,20 @@ categories:
 - gallery
 img_path: /images/bli/gallery/travel/
 gallery:
-- [travel-0696.jpg, ""]
-- [travel-0697.jpg, ""]
-- [travel-0698.jpg, ""]
-- [travel-0699.jpg, ""]
-- [travel-0700.jpg, ""]
-- [travel-0701.jpg, ""]
-- [travel-0702.jpg, ""]
-- [travel-0703.jpg, ""]
-- [travel-0704.jpg, ""]
-- [travel-0705.jpg, ""]
-- [travel-0706.jpg, ""]
-- [travel-0707.jpg, ""]
-- [travel-0708.jpg, ""]
-- [travel-0709.jpg, ""]
+- [travel-0696.jpg, "Helsinki Rock Church, Finland"]
+- [travel-0697.jpg, "To Market, Luxor, Egypt"]
+- [travel-0698.jpg, "Watching Over Us, Quito, Ecuador"]
+- [travel-0699.jpg, "Bananas?, Otavalo, Ecuador"]
+- [travel-0700.jpg, "Sante Fe, New Mexico, USA"]
+- [travel-0701.jpg, "The Barn, Yukon Territory, Canada"]
+- [travel-0702.jpg, "The Dempster, Yukon Territory, Canada"]
+- [travel-0703.jpg, "Jerusalem Bridge, Harford County, Maryland, USA"]
+- [travel-0704.jpg, "Busy Harbor, Sydney, Australia"]
+- [travel-0705.jpg, "Rock Solid, Lake Tekapo, New Zealand"]
+- [travel-0706.jpg, "Yours Truly, Valley of Fire, Nevada, USA"]
+- [travel-0707.jpg, "Olives, Anyone?, Jerusalem, Israel"]
+- [travel-0708.jpg, "Rushing to Sabbath, Jerusalem, Israel"]
+- [travel-0709.jpg, "May God Protect Us, Jerusalem, Israel"]
 comments: false
 ---
 
