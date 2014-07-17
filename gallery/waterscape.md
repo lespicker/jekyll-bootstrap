@@ -5,21 +5,21 @@ categories:
 - gallery
 img_path: /images/bli/gallery/waterscape/
 gallery:
-- [water-0661.jpg, ""]
-- [water-0662.jpg, ""]
-- [water-0663.jpg, ""]
-- [water-0664.jpg, ""]
-- [water-0665.jpg, ""]
-- [water-0666.jpg, ""]
-- [water-0667.jpg, ""]
-- [water-0668.jpg, ""]
-- [water-0669.jpg, ""]
-- [water-0670.jpg, ""]
-- [water-0671.jpg, ""]
-- [water-0672.jpg, ""]
-- [water-0673.jpg, ""]
-- [water-0674.jpg, ""]
-- [water-7000-1.jpg, ""]
+- [water-0661.jpg, "Maui Sunset, Hawaii, USA"]
+- [water-0662.jpg, "Sunburst, Maui, Hawaii, USA"]
+- [water-0663.jpg, "The Shallows, Kananaskis Regional Park, Canada"]
+- [water-0664.jpg, "Fall Falls, Harford County, Maryland, USA"]
+- [water-0665.jpg, "Frozen, Harford County, Maryland, USA"]
+- [water-0666.jpg, "Pyramid Falls, Canada"]
+- [water-0667.jpg, "Forest Creek, Banff, Canada"]
+- [water-0668.jpg, "Waterfall, Australia"]
+- [water-0669.jpg, "Restless, Gold Coast, Australia"]
+- [water-0670.jpg, "Timeless, Gold Coast, Australia"]
+- [water-0671.jpg, "Cascade, New Zealand"]
+- [water-0672.jpg, "Snaefellsnes, Iceland"]
+- [water-0673.jpg, "Insignificant, Iceland"]
+- [water-0674.jpg, "Icy Storm, Iceland"]
+- [water-7000-1.jpg, "Restless Ocean, Maui, Hawaii, USA"]
 comments: false
 ---
 
