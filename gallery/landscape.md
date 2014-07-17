@@ -5,7 +5,7 @@ categories:
 - gallery
 img_path: /images/bli/gallery/landscape/
 gallery:
-- [land-0603.jpg, ""]
+- [land-0603.jpg, "St. Johnsbury, Vermont, USA"]
 - [land-0604.jpg, ""]
 - [land-0605.jpg, ""]
 - [land-0606.jpg, ""]
