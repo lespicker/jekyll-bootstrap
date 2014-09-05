@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Death of a River Guide: A Review
+title: "Death of a River Guide: A Review"
 comments: true
 categories:
 ---
 
 {% img /images/bli/2014/09/imgres.jpg %}
-
----
 
 I just finished reading "Death of a River Guide" by Richard Flanagan, a Tasmanian author. At the risk of sounding a bit like an overzealous missionary, I have to stay that I was stunned, absolutely bowled over by the prose and the inventive story arc. In short, "Death of a River Guide" is one of the best novels I have ever read, over a period of nearly sixty years of reading novels. 
 
