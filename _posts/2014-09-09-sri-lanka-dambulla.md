@@ -49,4 +49,4 @@ From the temple one can clearly see the famed Sigiriya Rock Fortress in the dist
 
 Then we got to our hotel, and as we readied for dinner, there was this.
 
-{% img /images/bli/2014/09/DSC_6670.jpg The perfect end to the day %}
+{% img /images/bli/2014/09/DSC_6730.jpg The perfect end to the day %}
