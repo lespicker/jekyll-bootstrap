@@ -17,15 +17,15 @@ tags:
 - street
 img_path: /images/bli/2014/11/nepal-faces/
 gallery:
-- [DSC_8440.jpg, “”]
-- [DSC_8483.jpg, “”]
-- [DSC_8514.jpg, “”]
-- [DSC_8533.jpg, “”]
-- [DSC_8586.jpg, “”]
-- [DSC_8625.jpg, “”]
-- [DSC_9019.jpg, “”]
-- [DSC_9405.jpg, “”]
-- [DSC_9416.jpg, “”]
+- [DSC_8440.jpg, “street vendor, Kathmandu”]
+- [DSC_8483.jpg, “woman,Kirtapur”]
+- [DSC_8514.jpg, “woman, Kirtapur”]
+- [DSC_8533.jpg, “toddler, Kirtapur”]
+- [DSC_8586.jpg, “retiree, Kirtapur”]
+- [DSC_8625.jpg, “children playing card game”]
+- [DSC_9019.jpg, “sadhu holy man, Pushapatinath”]
+- [DSC_9405.jpg, “brothers, Chitin”]
+- [DSC_9416.jpg, “child, Chitin”]
 ---
 
 {% img /images/bli/2014/11/nepal-faces/DSC_9405.jpg %}
