@@ -24,8 +24,8 @@ gallery:
 - [DSC_8586.jpg, "retiree, Kirtapur"]
 - [DSC_8625.jpg, "children playing card game"]
 - [DSC_9019.jpg, "sadhu holy man, Pushapatinath"]
-- [DSC_9405.jpg, "brothers, Chitin"]
-- [DSC_9416.jpg, "child, Chitin"]
+- [DSC_9405.jpg, "brothers, Chitwan"]
+- [DSC_9416.jpg, "child, Chitwan"]
 ---
 
 {% img /images/bli/2014/11/nepal-faces/DSC_9405.jpg %}
