@@ -17,7 +17,7 @@ tags:
 - street
 img_path: /images/bli/2014/11/nepal-faces/
 gallery:
-- [DSC_8440.jpg, “street vendor, Kathmandu”]
+- [DSC_8440.jpg, ‘street vendor, Kathmandu’]
 - [DSC_8483.jpg, “woman,Kirtapur”]
 - [DSC_8514.jpg, “woman, Kirtapur”]
 - [DSC_8533.jpg, “toddler, Kirtapur”]
