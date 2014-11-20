@@ -34,6 +34,11 @@ My favorite part of travel is meeting, talking with, and photographing the local
 
 <!--more-->
 
+---
+
+{% include themes/lpfa/gallery.html %}
+
+---
 
 
 
