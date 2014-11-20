@@ -17,15 +17,15 @@ tags:
 - street
 img_path: /images/bli/2014/11/nepal-faces/
 gallery:
-- DSC_8440.jpg
-- DSC_8483.jpg
-- DSC_8514.jpg
-- DSC_8533.jpg
-- DSC_8586.jpg
-- DSC_8625.jpg
-- DSC_9019.jpg
-- DSC_9405.jpg
-- DSC_9416.jpg
+- [DSC_8440.jpg, “”]
+- [DSC_8483.jpg, “”]
+- [DSC_8514.jpg, “”]
+- [DSC_8533.jpg, “”]
+- [DSC_8586.jpg, “”]
+- [DSC_8625.jpg, “”]
+- [DSC_9019.jpg, “”]
+- [DSC_9405.jpg, “”]
+- [DSC_9416.jpg, “”]
 ---
 
 {% img /images/bli/2014/11/nepal-faces/DSC_9405.jpg %}
