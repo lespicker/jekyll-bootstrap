@@ -32,7 +32,7 @@ Here are some comments from participants:
 
 >  I spent the better part of four photography-packed days exploring Mt. Desert Island under Les Picker's guidance. His depth of knowledge of the landscape, history and biology of the island informed our photography and took us to places that most other workshops just don't see. Les provided itineraries that were well-balanced between iconic locations and out-of-the-way gems. He led stimulating, free-wheeling discussions in which all of the participants shared freely some of their favorite tools and photographic tricks. We even capitalized on rain with a hike to a waterfall in full flow! Each evening we capped the day's work with a review of the day's events and Les' insightful critiques of our images.
 
-> Les proved to be a great workshop instructor. He was attentive to the varied skill levels and needs and was readily available in the field to provide technical assistance and one-on-one teaching. As someone who probably has better technique than vision, I really appreciated his gentle challenges to try new things.
+> Les proved to be a great workshop instructor. He was attentive to the varied skill levels and needs and was readily available in the field to provide technical assistance and one-on-one teaching. I really appreciated his gentle challenges to try new things.
 
 > To sum up, this was a great experience! Mt. Desert Island and Acadia National Park in the fall are unbelievably beautiful, and I can recommend it without reservation.<cite>Dave Soderlund, Ithaca, New York</cite>
 
