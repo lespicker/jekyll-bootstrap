@@ -13,7 +13,6 @@ tags:
 - people
 - culture
 - Sri Lanka
-
 img_path: /images/bli/2014/11/Sr-Lanka-2014-group/
 gallery:
 - [chad-1.jpg, "Chad getting too close to a wave in Weligama"]
