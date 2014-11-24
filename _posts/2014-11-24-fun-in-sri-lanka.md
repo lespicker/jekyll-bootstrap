@@ -21,7 +21,6 @@ gallery:
 - [jim-1.jpg, "Jim at Baker’s Falls"]
 - [norm-1.jpg, "Norm setting up on a riverbank"]
 - [tea-time-1.jpg, "Our group (minus Norm) relaxing over tea time"]
-
 ---
 
 {% img /images/bli/2014/11/Sr-Lanka-2014-group/chad-1.jpg %}
