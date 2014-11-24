@@ -14,7 +14,7 @@ tags:
 - culture
 - Sri Lanka
 - 
-img_path: /images/bli/2014/11/Sri-Lanka-2014-group/
+img_path: /images/bli/2014/11/Sr-Lanka-2014-group/
 gallery:
 - [Chad & Weligama Crashing Waves adj 7x5_3597 copy.jpg "Chad getting too close to a wave in Weligama"]
 - [Forrest Stilt Fishing2 adj 7x5_3636 copy, "Forrest pole fishing"]
@@ -24,7 +24,7 @@ gallery:
 
 ---
 
-{% img /images/bli/2014/11/Sri-Lanka-2014-group/Chad & Weligama Crashing Waves adj 7x5_3597 copy.jpg %}
+{% img /images/bli/2014/11/Sr-Lanka-2014-group/Chad & Weligama Crashing Waves adj 7x5_3597 copy.jpg %}
 
 Many people, when they think of photography tours, imagine folks  driven by itchy trigger fingers from sunrise to sunset, led by a crazed zealot who talks nonstop photography jargon. I’m here to tell you that nothing could be further from the truth. Okay, the crazed leader part is partially true… alright, it’s mostly true. 
 
