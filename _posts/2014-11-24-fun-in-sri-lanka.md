@@ -16,7 +16,7 @@ tags:
 - 
 img_path: /images/bli/2014/11/Sr-Lanka-2014-group/
 gallery:
-- [chad-1.jpg "Chad getting too close to a wave in Weligama"]
+- [chad-1.jpg, "Chad getting too close to a wave in Weligama"]
 - [forrest-1.jpg, "Forrest pole fishing"]
 - [jim-1.jpg, "Jim at Baker’s Falls"]
 - [norm-1.jpg, "Norm setting up on a riverbank"]
