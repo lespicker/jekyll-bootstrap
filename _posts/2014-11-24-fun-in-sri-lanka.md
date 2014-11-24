@@ -14,7 +14,7 @@ tags:
 - culture
 - Sri Lanka
 - 
-img_path: /images/bli/2014/11/Sri0Lanka-2014-group/
+img_path: /images/bli/2014/11/Sri-Lanka-2014-group/
 gallery:
 - [Chad & Weligama Crashing Waves adj 7x5_3597 copy.jpg "Chad getting too close to a wave in Weligama"]
 - [Forrest Stilt Fishing2 adj 7x5_3636 copy, "Forrest pole fishing"]
