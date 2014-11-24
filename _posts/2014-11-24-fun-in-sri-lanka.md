@@ -35,16 +35,13 @@ But photo tours are also full of laughter, teasing, fun times and, yes, even qui
 
 The Sri Lanka tour was offered through the [Nikonians Academy](http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7), where I am proud to serve on the faculty. We offer workshops throughout the world, in some of the most photographically interesting spots on Earth. Have a look and while you are at it, consider signing up and advancing your skills in a congenial and information-packed way. 
 
-BTW, our next Sri Lanka trip will take place in March, 2016. 
-
 ---
 
 {% include themes/lpfa/gallery.html %}
 
 ---
 
-
-
+BTW, our next Sri Lanka trip will take place in March, 2016. 
 
 
 
