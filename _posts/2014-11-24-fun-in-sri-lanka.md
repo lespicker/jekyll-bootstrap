@@ -16,15 +16,15 @@ tags:
 - 
 img_path: /images/bli/2014/11/Sr-Lanka-2014-group/
 gallery:
-- [Chad & Weligama Crashing Waves adj 7x5_3597 copy.jpg "Chad getting too close to a wave in Weligama"]
-- [Forrest Stilt Fishing2 adj 7x5_3636 copy, "Forrest pole fishing"]
-- [Jim In PSU Shirt @ Baker's Falls adj 7x5_2323 copy.jpg, "Jim at Baker’s Falls"]
-- [Norm on River @ Mackwoods Tea Plantation adj 7x5_2650 copy.jpg, "Norm setting up on a riverbank"]
-- [Tea Time adj 7x5_2921 copy, "Our group (minus Norm) relaxing over tea time"]
+- [chad-1.jpg "Chad getting too close to a wave in Weligama"]
+- [forrest-1.jpg, "Forrest pole fishing"]
+- [jim-1.jpg, "Jim at Baker’s Falls"]
+- [norm-1.jpg, "Norm setting up on a riverbank"]
+- [tea-time-1.jpg, "Our group (minus Norm) relaxing over tea time"]
 
 ---
 
-{% img /images/bli/2014/11/Sr-Lanka-2014-group/Chad & Weligama Crashing Waves adj 7x5_3597 copy.jpg %}
+{% img /images/bli/2014/11/Sr-Lanka-2014-group/chad-1.jpg %}
 
 Many people, when they think of photography tours, imagine folks  driven by itchy trigger fingers from sunrise to sunset, led by a crazed zealot who talks nonstop photography jargon. I’m here to tell you that nothing could be further from the truth. Okay, the crazed leader part is partially true… alright, it’s mostly true. 
 
