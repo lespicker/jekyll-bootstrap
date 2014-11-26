@@ -3,8 +3,8 @@ layout: page
 title: Past Workshops
 img_path: /images/bli/2014/11/Maine-student-images/
 gallery:
-- [2TCRYS98zBVOo7uJWdeUfwxAtPIvnn4uaB9PGCQfg8w.jpg, "David Soderlund"}
-[94z--_imQwWBh2G30ryqW2OOqCwJaIdRoN5t0dOcicE.jpg, "Lewis Rothman"]
+- [soderlund-1.jpg, "David Soderlund"}
+[rothman-1.jpg, "Lewis Rothman"]
 [236401.jpg, "David Soderlund"]
 [DSC_0424.jpg, "Jim Leary"]
 [DSC_0665.jpg, "Jim Leary"]
@@ -14,7 +14,7 @@ gallery:
 [DSC_8181.jpg, "Michael Neff"]
 [DSC_8345.jpg, "group photo"]
 [HDR_Before_After.jpg, "Michael Neff"]
-[z1AYkyEceQnco3R1rWk-YdDgrPP42uOqUy9kNCBtC8I.jpg, "Lewis Rothman"]
+[rothman-2.jpg, "Lewis Rothman"]
 ---
 
 ## Past Workshops
