@@ -16,6 +16,7 @@ gallery:
 [HDR_Before_After.jpg, "Michael Neff"]
 [z1AYkyEceQnco3R1rWk-YdDgrPP42uOqUy9kNCBtC8I.jpg, "Lewis Rothman"]
 ---
+
 ## Past Workshops
 
 ### Acadia National Park, Mt. Desert Island, Maine
