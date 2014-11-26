@@ -8,7 +8,7 @@ gallery:
 [236401.jpg, "David Soderlund"]
 [DSC_0424.jpg, "Jim Leary"]
 [DSC_0665.jpg, "Jim Leary"]
-[DSC_7414_5_6-Edit, "Michael Neff"].jpg
+[DSC_7414_5_6-Edit.jpg, "Michael Neff"].jpg
 [DSC_7488_89_90.jpg, "Michael Neff"]
 [DSC_7547_8_9-Edit.jpg, "Michael Neff"]
 [DSC_8181.jpg, "Michael Neff"]
