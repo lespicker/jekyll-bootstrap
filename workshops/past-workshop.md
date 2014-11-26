@@ -23,7 +23,7 @@ gallery:
 
 These 4-day workshops take place every October in Maine's iconic Acadia National Park. For landscape artists few places can beat it, with its rocky coast, evergreen forests, streams, lakes, waterfalls and moss-cushioned woods. (All images here were taken by workshop participants). 
 
-{% img /images/2012/11/water-reflection-c-soderlund.jpg "Carol Soderlund" %}
+{% img /images/bli/2012/11/water-reflection-c-soderlund.jpg "Carol Soderlund" %}
 
 The Acadia National Park workshop is offered through [Nikonians Academy](http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7), where I am on the faculty. Registration is fast and simple. 
 
