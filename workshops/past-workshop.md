@@ -15,7 +15,6 @@ gallery:
 [DSC_8345.jpg, "group photo"]
 [HDR_Before_After.jpg, "Michael Neff"]
 [z1AYkyEceQnco3R1rWk-YdDgrPP42uOqUy9kNCBtC8I.jpg, "Lewis Rothman"]
-
 ---
 ## Past Workshops
 
