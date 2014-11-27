@@ -3,18 +3,18 @@ layout: page
 title: Past Workshops
 img_path: /images/bli/2014/11/Maine-student-images/
 gallery:
-- [soderlund-1.jpg, "David Soderlund"}
-[rothman-1.jpg, "Lewis Rothman"]
-[236401.jpg, "David Soderlund"]
-[DSC_0424.jpg, "Jim Leary"]
-[DSC_0665.jpg, "Jim Leary"]
-[DSC_7414_5_6-Edit.jpg, "Michael Neff"].jpg
-[DSC_7488_89_90.jpg, "Michael Neff"]
-[DSC_7547_8_9-Edit.jpg, "Michael Neff"]
-[DSC_8181.jpg, "Michael Neff"]
-[DSC_8345.jpg, "group photo"]
-[HDR_Before_After.jpg, "Michael Neff"]
-[rothman-2.jpg, "Lewis Rothman"]
+- [rothman-1.jpg, "Lewis Rothman"]
+- [236401.jpg, "David Soderlund"]
+- [DSC_0424.jpg, "Jim Leary"]
+- [DSC_0665.jpg, "Jim Leary"]
+- [DSC_7414_5_6-Edit.jpg, "Michael Neff"]
+- [DSC_7488_89_90.jpg, "Michael Neff"]
+- [DSC_7547_8_9-Edit.jpg, "Michael Neff"]
+- [DSC_8181.jpg, "Michael Neff"]
+- [DSC_8345.jpg, "group photo"]
+- [HDR_Before_After.jpg, "Michael Neff"]
+- [rothman-2.jpg, "Lewis Rothman"]
+- [soderlund-1.jpg, "David Soderlund"]
 ---
 
 ## Past Workshops
@@ -57,4 +57,4 @@ Here are some comments from participants:
 
 > This workshop was a special experience at multiple levels: image creation, learning, and in the case of this particular workshop, enjoying the camaraderie of a diverse group of people that quickly bonded sharing their passion for photography and enjoying each others company. Les' in-depth knowledge of Acadia enabled him to guide the group to a diverse set of sites on a off the beaten path, sunrise to sunset.  His gracious style in sharing his artistic and technical expertise set the tone for the group dynamics. Post shoot discussions were nicely balanced between a focus on developing an eye for the creative image and technical/practical tips and techniques. <cite>Thomas E. Wilson, North Sandwich, NH</cite>
 
->The Nikonians Workshop in Maine, specifically to Mt. Desert Island in Acadia, led by Dr Lester Picker is an enriching, rewarding experience.  I suppose one could use the Internet to research iconic and remote photographic locations, make a list, and then try and do this sort of outing by yourself. But what you would be missing is Lester’s considerable experience and knowledge of the environs, the biology, ecology and geology of this unique area. What Les adds to the experience is what you are paying for, and you do get your money’s worth. His photographic experience is vast and going with Les lets you capitalize on all the wonderful ways he captures nature. His portfolio, speaks to this experience.<cite>Michael Neff, Virginia</cite>
+> The Nikonians Workshop in Maine, specifically to Mt. Desert Island in Acadia, led by Dr Lester Picker is an enriching, rewarding experience.  I suppose one could use the Internet to research iconic and remote photographic locations, make a list, and then try and do this sort of outing by yourself. But what you would be missing is Lester’s considerable experience and knowledge of the environs, the biology, ecology and geology of this unique area. What Les adds to the experience is what you are paying for, and you do get your money’s worth. His photographic experience is vast and going with Les lets you capitalize on all the wonderful ways he captures nature. His portfolio, speaks to this experience.<cite>Michael Neff, Virginia</cite>
