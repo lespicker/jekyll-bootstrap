@@ -58,3 +58,18 @@ Here are some comments from participants:
 > This workshop was a special experience at multiple levels: image creation, learning, and in the case of this particular workshop, enjoying the camaraderie of a diverse group of people that quickly bonded sharing their passion for photography and enjoying each others company. Les' in-depth knowledge of Acadia enabled him to guide the group to a diverse set of sites on a off the beaten path, sunrise to sunset.  His gracious style in sharing his artistic and technical expertise set the tone for the group dynamics. Post shoot discussions were nicely balanced between a focus on developing an eye for the creative image and technical/practical tips and techniques. <cite>Thomas E. Wilson, North Sandwich, NH</cite>
 
 > The Nikonians Workshop in Maine, specifically to Mt. Desert Island in Acadia, led by Dr Lester Picker is an enriching, rewarding experience.  I suppose one could use the Internet to research iconic and remote photographic locations, make a list, and then try and do this sort of outing by yourself. But what you would be missing is Lester’s considerable experience and knowledge of the environs, the biology, ecology and geology of this unique area. What Les adds to the experience is what you are paying for, and you do get your money’s worth. His photographic experience is vast and going with Les lets you capitalize on all the wonderful ways he captures nature. His portfolio, speaks to this experience.<cite>Michael Neff, Virginia</cite>
+
+### Sri Lanka
+
+Participants call this 11-day photo tour of Sri Lanka the height of their photographic experiences. That’s no wonder to me. Sri Lanka is a mostly undiscovered, photographic jewel located off the southern coast of India. 
+
+Sri Lanka boasts a warm climate, spectacular beach scenes, friendly and photogenic people, historical sites, architectural wonders, tea plantations, village culture and some of the best wildlife photography in the world (think elephants, leopards, bears, exotic birds and more).  And, for 11 intense days, we cover it all!
+
+Here are some comments from previous participants, along with some of the images they captured during the tour. Looking for high photo adventure? Consider the Nikonians Sri Lanka photo tour, next slated for March, 2016. 
+
+{% img /images/bli/2014/11/sri-lanka-student-images/langur-monkeys.jpg %}
+
+> The Sri Lanka trip was the most bang for the buck of any photo tour I have taken. The tour guide, Lester Picker, was knowledgeable, and full of information. Unlike many guides, he was there to make sure that the photo opportunities were available to the participants. On many tours, I think the tour guide is their only for a free ride to take his own shots! If you want to learn Lester is a great teacher. I would love to travel with him again. <cite>Will Randall, Florida</cite>
+
+> The Nikonians workshop in Sri Lanka with Les Picker was my second Nikonians workshop with Les.  The experiences in Sri Lanka were outstanding.  Les worked with each student as much or as little as the student desired. He had planned to trip to optimize photo opportunities with a mixture of temples, nature, animals, landscape and people.  The tour company that handled the transportation, lodging and guides was excellent.  The lodging accommodations and dining were first class.  I look forward to my next tour with Les. <cite>James Harris, New Mexico</cite>
+
