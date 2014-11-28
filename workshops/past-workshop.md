@@ -3,7 +3,6 @@ layout: page
 title: Past Workshops
 img_path: /images/bli/2014/11/Maine-student-images/
 gallery:
-- [rothman-1.jpg, "Lewis Rothman"]
 - [236401.jpg, "David Soderlund"]
 - [DSC_0424.jpg, "Jim Leary"]
 - [DSC_0665.jpg, "Jim Leary"]
@@ -13,6 +12,7 @@ gallery:
 - [DSC_8181.jpg, "Michael Neff"]
 - [DSC_8345.jpg, "group photo"]
 - [HDR_Before_After.jpg, "Michael Neff"]
+- [rothman-1.jpg, "Lewis Rothman"]
 - [rothman-2.jpg, "Lewis Rothman"]
 - [soderlund-1.jpg, "David Soderlund"]
 ---
@@ -23,9 +23,7 @@ gallery:
 
 These 4-day workshops take place every October in Maine's iconic Acadia National Park. For landscape artists few places can beat it, with its rocky coast, evergreen forests, streams, lakes, waterfalls and moss-cushioned woods. (All images here were taken by workshop participants). 
 
-{% img /images/2012/11/water-reflection-c-soderlund.jpg, "Carol Soderlund" %}
-
-{% img /images/2012/11/water-reflection-c-soderlund.jpg, "Carol Soderlund" %}
+{% img /images/2012/11/water-reflection-c-soderlund.jpg %}
 
 The Acadia National Park workshop is offered through [Nikonians Academy](http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7), where I am on the faculty. Registration is fast and simple. 
 
