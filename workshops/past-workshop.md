@@ -25,6 +25,8 @@ These 4-day workshops take place every October in Maine's iconic Acadia National
 
 {% img /images/2012/11/water-reflection-c-soderlund.jpg, "Carol Soderlund" %}
 
+{% img /images/2012/11/water-reflection-c-soderlund.jpg %}
+
 The Acadia National Park workshop is offered through [Nikonians Academy](http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7), where I am on the faculty. Registration is fast and simple. 
 
 ___
