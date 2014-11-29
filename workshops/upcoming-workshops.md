@@ -6,7 +6,7 @@ title: Upcoming Workshops
 
 ### [Acadia National Park, Maine: Fall Foliage](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1319)
 
-#### October 16-20, 2014
+#### October 15-19, 2015
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
