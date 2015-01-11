@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unravel the Mystery of ***The Underground***
+title: Unravel the Mystery of The Underground
 comments: true
 categories:
 ---
