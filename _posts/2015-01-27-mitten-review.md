@@ -61,4 +61,4 @@ The thumbs have a flap on them that secures with Velcro and allowed my thumbs to
 
 In using the mittens I found a time and heat saving tip that turned out to be useful. The pocket on the back of the mitten that holds the warmer is quite roomy. I found that I could store a spare battery in there, saving me the inconvenience of digging through my snow pants to my inner pockets where I usually store my spare batteries. 
 
-The mittens come in many colors and sizes and sell for about $150USD. If you are an outdoors winter photographer you'll thank me for recommending them. 
+The mittens come in many colors and sizes and sell for about $200USD. If you are an outdoors winter photographer you'll thank me for recommending them. 
