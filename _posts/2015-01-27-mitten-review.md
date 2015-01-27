@@ -18,7 +18,7 @@ tags:
 - frostbite
 ---
 
-{% img /images/bli/2015/01/heat-1.JPG %}
+{% img /images/bli/2015/01/heat-1.jpg %}
 
 
 Most of my friends think I'm nuts. They're probably right. The fact is I love cold weather, at least in reasonable doses. And the colder the  better. Dogsledding, snowshoeing and cross-country skiing are my preferred sports activities. 
@@ -41,7 +41,7 @@ The Austrian manufacturer counts amongst its customers various military and spec
 
 Here's what I like about the Heat 3 mittens. First, the outer shell is waterproof and windproof. It has a zipper pocket to hold hand warmers, which any landscape or wildlife photographer will appreciate. 
 
-{% img /images/bli/2015/01/heat-2.JPG %}
+{% img /images/bli/2015/01/heat-2.jpg %}
 
 The palms are made of full goat leather for a phenomenal grip and added warmth. Four ounces of Primaloft are added to boost warmth. 
 
@@ -49,7 +49,7 @@ The mitten shell extends far up the wrist to keep that part of your body warm an
 
 Inside the mitten is an integrated, thin fleece glove. The Shell has a zipper on the palm side that allows one to remove four fingers when you have to work your camera controls. One of the fingers has a silver fabric coating that allowed me to use my iPhone and access my CamRanger controls. 
 
-{% img /images/bli/2015/01/heat-3.JPG %}
+{% img /images/bli/2015/01/heat-3.jpg %}
 
 I am still in awe of how the designers thought of everything. I have used mittens before that allow fingers to come out of the shell, but then the mitten flap keeps getting in the way of glove operations. Not so with the Heat 3. The mitten flap secures to the back of the mitten with a magnetized snap that couldn't be easier to use. 
 
