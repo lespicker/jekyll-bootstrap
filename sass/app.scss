@@ -422,7 +422,7 @@ h1{
 }
 
 #books{
-  @include block-grid($per-row: 4, $base-style: true);
+  @include block-grid($per-row: 5, $base-style: true);
   //Why negative margins??? maybe just use the regular grid instead?
 }
 

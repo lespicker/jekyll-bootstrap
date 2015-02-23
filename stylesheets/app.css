@@ -9676,7 +9676,7 @@ h1 {
 }
 /* line 47, ../bower_components/foundation/scss/foundation/components/_block-grid.scss */
 #books > li {
-  width: 25%;
+  width: 20%;
   padding: 0 0.625rem 1.25rem;
   list-style: none;
 }
@@ -9685,7 +9685,7 @@ h1 {
   clear: none;
 }
 /* line 55, ../bower_components/foundation/scss/foundation/components/_block-grid.scss */
-#books > li:nth-of-type(4n+1) {
+#books > li:nth-of-type(5n+1) {
   clear: both;
 }
 
