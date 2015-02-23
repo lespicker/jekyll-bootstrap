@@ -11,13 +11,11 @@ amazon: http://www.amazon.com/Lester-Picker/e/B009E6U9R0/ref=sr_tc_2_0?qid=13555
 
 Writing **The First Pharaoh** fulfilled a lifelong dream of mine. As a child, my father would take me at least once a year to the Metropolitan Museum of Art in New York City. For some reason I was fascinated by the Egyptian wing, although we'd also spend some time at the Medieval knights display. 
 
-Segue now a whole bunch of years into the future. I had been a science teacher, earned a doctorate in ecology from the University of Maine and then landed a faculty position at the University of Delaware. Suddenly, I was asked to interview Anwar Sadat for a publication and to consult to the Egyptian government on ecological affairs. Off I went on the first of many trips to Egypt.
-
----
-
 > 5 out of 5 stars <br><br>[Dazzling Historical Fiction](http://www.amazon.com/review/R21FOOIIIXJOC3/ref=cm_cr_dp_title?ie=UTF8&ASIN=1479202304&nodeID=283155&store=books). This is superb writing - not only skillful but passionate. Highly recommended. <cite>Grady Harp (Amazon HALL OF FAME TOP 50 REVIEWER)</cite>
 
----
+Segue now a whole bunch of years into the future. I had been a science teacher, earned a doctorate in ecology from the University of Maine and then landed a faculty position at the University of Delaware. Suddenly, I was asked to interview Anwar Sadat for a publication and to consult to the Egyptian government on ecological affairs. Off I went on the first of many trips to Egypt.
+
+> This historically based novel ably blends fact and fiction and considers the mutual love of a wise man and his protégé...<br><br> This tale of historical fiction seamlessly blends rich factual detail about ancient Egypt with a young man’s ascendancy to the throne amidst court intrigue.<cite>Kirkus Reviews</cite>
 
 As luck would have it, Sadat was assassinated just ten days before my first visit. I went anyway, arrived at midnight and on my first morning awoke up to a bright sun rising over the Nile River, with the Pyramids of Giza in the distance. It was a humbling and emotional experience. I immediately thought of my father, who had died a few years before. 
 
