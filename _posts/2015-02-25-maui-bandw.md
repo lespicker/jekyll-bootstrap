@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Pain of Leaving Maui"
+title: The Pain of Leaving Maui
 comments: true
 categories:
 - Featured
@@ -10,6 +10,7 @@ tags:
 - Hawaii
 - Maui
 - photography
+- landscape
 - travel
 - tourists
 - Hana
