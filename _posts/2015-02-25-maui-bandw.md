@@ -49,5 +49,13 @@ Click on each of the samples to see them full frame.
 
 Mahalo!
 
+---
+
+{% include themes/lpfa/gallery.html %}
+
+---
+
+
+
 
  
