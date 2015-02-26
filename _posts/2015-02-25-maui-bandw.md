@@ -16,17 +16,16 @@ tags:
 - Hana
 - waterfall
 - Haleakala
-img_path: /images/bli/2015/02/maui-bandw-thumbs/
+img_path: /images/bli/2015/02/maui-g1/
 gallery:
 - [DSC_1561.jpg, "Tree and Tide"]
 - [DSC_2253.jpg, "Trees, Clouds and Haleakala"]
 - [DSC_2358.jpg, "Breaching Whale"]
 - [DSC_5716.jpg, "Hana Sunset"]
-- [DSC_5857.jpg, "Grasses, Trees and Clouds""]
+- [DSC_5857.jpg, "Grasses Trees and Clouds"]
 - [DSC_5871.jpg, "Windswept Tree"]
 - [DSC_5891.jpg, "Haleakala Landscape"]
 - [DSC_5946.jpg, "Survivor"]
-- [DSC_6119.jpg, "Grandmother Tree Canopy"]
 - [DSC_6299.jpg, "Bamboo Forest"]
 - [DSC_6577.jpg, "Yucca"]
 - [DSC_6593.jpg, "Rocky Beach"]
