@@ -26,7 +26,6 @@ gallery:
 - [DSC_5871.jpg, "Windswept Tree"]
 - [DSC_5891.jpg, "Haleakala Landscape"]
 - [DSC_5946.jpg, "Survivor"]
-- [DSC_6119.jpg, "Grandmother Tree Canopy"]
 - [DSC_6299.jpg, "Bamboo Forest"]
 - [DSC_6577.jpg, "Yucca"]
 - [DSC_6593.jpg, "Rocky Beach"]
