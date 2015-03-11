@@ -43,7 +43,7 @@ Novelists have to conjure up characters to challenge our protagonists and spur t
 
 Yes, no and maybe. It is certainly likely that all the early kings had a military chief to take care of armed struggles. This role became more formalized as Egypt matured. So, I extrapolated back from what we know from the historical record in later dynasties to my creation of the Herihor character. 
 
-**Did women really enjoy certain right sin ancient Egypt?**
+**Did women really enjoy certain rights in ancient Egypt?**
 
 That is absolutely true. Even from early times women had the right to initiate divorce, to run their own businesses, to inherit and disburse their assets. And these are only some of the rights enjoyed by women. That is not to say that women were viewed as equal to men, but they did have certain basic protections and legal rights. 
 
