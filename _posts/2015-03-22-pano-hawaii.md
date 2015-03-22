@@ -17,7 +17,7 @@ tags:
 - stitching
 ---
 
-{% img /images/bli/2015/03/DSC_1025- 2800px Panorama-PTGUI- 2800px-Pano-4.jpg %}
+{% img /images/bli/2015/03/DSC_1025-2800px-Panorama-PTGUI- 2800px-Pano-4.jpg %}
 
 Last year I produced a first attempt at an instructional video. Admittedly, the video is pretty amateurish, shot with an iPhone on the fly. Still, the video has been seen by 25,056 as of this writing, and has generated more than a fair share of comments and criticism (mostly because I blah-blah-blah too much!). But I think the eyeballs are attracted because of the video's content, namely [how to shoot panoramas](https://www.youtube.com/watch?v=edgmob9gtQ4). 
 
