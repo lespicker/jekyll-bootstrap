@@ -43,12 +43,17 @@ In this image I painted over the dark patch of grass with a brush, lightening th
 
 I also did a very slight tone curve adjustment in the BASIC panel to increase contrast, and added a sliver of Clarity. 
 
-
 {% img /images/bli/2015/03/hawaii-pano-4.jpg%}
 
 For this "final" image I added some contrast to the sky between the two rock piles, to bring out the clouds a bit. Don't forget that you really can't use polarizing filters when doing panos, so I knew from the start that I would have some sky adjustments to make in post. 
 
-So, that's about it for this demo. I promise in future instructional videos to be more succinct. But in any event I really do appreciate your critiques and the lively comments and discussions that result. 
+### ... And a Few Tidbits
+
+A few more quick points. When shooting a pano you will often encounter issues with clouds and sky. Clouds move, sometimes very quickly, but these can be patched during post. Water also poses challenges, but can often be smoothed in post. Most important, if you take too long, as I did in the above pano, exposure can change dramatically, leaving you with significant post work, if you can save the image at all. 
+
+One thing I recommend is that you shoot your first panos in small jpegs, so that post-processing is dramatically shortened. Once your technique is etched into muscle memory, you can set up your shoot and proceed through it quickly and smoothly. 
+
+That's about it for this demo. I promise in future instructional videos to be more succinct. But, in any event, I really do appreciate your critiques and the lively comments and discussions that result. 
 
 Happy shooting!
 
