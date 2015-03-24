@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elephants Crossing the Road"
+title: "Elephants Crossing Road"
 comments: true
 categories:
 - Featured
