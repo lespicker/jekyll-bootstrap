@@ -10,11 +10,61 @@ title: Upcoming Workshops
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
+To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
+
 Some call it the most beautiful National Park in the country, a tiny gem compared to its larger siblings. Whether or not you agree, Maine’s Acadia National Park is an eye-candy destination for its combination of geology, flora, fauna… and weather.
 
 Join me for a 4-day exploration of the exciting photographic possibilities in Acadia. We will explore its intimate coves and vaunted mountains, its pristine seashore and lush forests. We have also timed this workshop to take advantage of fall foliage with its resplendent colors.
 
-Each morning we will embark on an adventure taking us to the fog-shrouded rocky coast or to photograph sunrise atop a mountain. We might hike a wooded path to capture sunlight streaking through mature pine forests, or photograph along one of Acadia’s picturesque fresh-water ponds.For more information and to register, [click here](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1319).
+Each morning we will embark on an adventure taking us to the fog-shrouded rocky coast or to photograph sunrise atop a mountain. We might hike a wooded path to capture sunlight streaking through mature pine forests, or photograph along one of Acadia’s picturesque fresh-water ponds.
+
+Each evening we will have an optional image review and critique.
+
+Les lived in Maine for ten years and received his doctorate in ecology from the University of Maine, using Acadia National Park for his research. Few photographers know the intricacies of Acadia as does Les.
+
+### Workshop Fees
+
+$1095, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
+
+### Workshop Itinerary
+
+#### October 15
+
+Arrive by 5:00 PM in our Bar Harbor hotel
+
+5:30-7:00 PM - dinner
+
+7:00-9:00 PM Introduction and Orientation
+
+#### October 16, 17, 18
+
+Wake up early for sunrise/first morning shoot (locations are weather dependent)
+
+Second morning shoot
+
+LUNCH
+
+First afternoon shoot
+
+Second afternoon shoot
+
+Sunset shoot
+
+Dinner
+
+Evening image review and critique
+
+#### October 19
+
+Early morning shoot
+
+Discussion and wrap-up by noon
+
+Depending on daily weather conditions, we'll attempt to photograph these places:
+
+Depending on daily weather conditions, we will photograph some of the most iconic and spectacular scenics in and around the National Park, including Jordan Pond and The Bubbles, Ocean Drive, Sand Beach, Otter Cliffs and Cove, Somes Sound, Bass Harbor, and more.
+
+To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
 
 ---
 
