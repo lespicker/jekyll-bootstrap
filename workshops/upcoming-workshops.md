@@ -66,6 +66,14 @@ Depending on daily weather conditions, we will photograph some of the most iconi
 
 To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
 
+### Additional Acadia Information
+
+For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbor and all the other picturesque towns where we will be photographing, including places to eat, I recommend these websites:
+
+[Explore, Eat, and Relax in Acadia National Park, Mount Desert Island, Maine.](http://www.ouracadia.com/)
+
+[A New Yorker Talks to Herself about Maine | News and Notes about Acadia National Park and Mount Desert Island.](https://ouracadia.wordpress.com/)
+
 ---
 
 ### [Sri Lanka: Culture & Wildlife](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1318) 
