@@ -10,7 +10,7 @@ gallery:
 - [canada-port-3.jpg, “”]
 - [canada-port-4.jpg, “”]
 - [canada-port-5.jpg, “”]
-- [canada-porte-6.jpg, “”]
+- [canada-port-6.jpg, “”]
 - [canada-port-7.jpg, “”]
 - [canada-port-8.jpg, “”]
 - [canada-port-9.jpg, “”]
