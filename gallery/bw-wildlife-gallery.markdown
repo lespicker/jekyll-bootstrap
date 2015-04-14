@@ -3,7 +3,7 @@ layout: page
 title: "MVS Black and White"
 comments: true
 categories:
-img_path: /images/bli/gallery/bw-wildlife
+img_path: /images/bli/gallery/bw-wildlife/
 gallery:
 - [bw-wildlife-1.jpg, “”]
 - [bw-wildlife-2.jpg, “”]
