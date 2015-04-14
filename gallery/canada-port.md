@@ -14,7 +14,6 @@ gallery:
 - [canada-port-7.jpg, “”]
 - [canada-port-8.jpg, “”]
 - [canada-port-9.jpg, “”]
-- [canada-port-10.jpg, “”]
 - [canada-port-11.jpg, “”]
 - [canada-port-12.jpg, “”]
 - [canada-port-13.jpg, “”]
