@@ -17,6 +17,7 @@ gallery:
 - [canada-port-10.jpg, “”]
 - [canada-port-11.jpg, “”]
 - [canada-port-12.jpg, “”]
+- [canada-port-13.jpg, “”]
 ---
 
 {% include themes/lpfa/gallery.html %}
