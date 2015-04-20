@@ -50,6 +50,11 @@
 @import "compass/css3/transition";
 @import "compass/css3/transform";
 @import "white-topbar";
+@import "socicon";
+
+.socicon {
+    font-family: 'socicon' !important;
+}
 
 @mixin font-smoothing($font-smoothing) { 
   // none | antialiased | subpixel-antialiased
@@ -381,6 +386,21 @@ blockquote cite{
 
 #content{
   @include grid-column(12);
+}
+
+.social-block{
+	@include grid-column(12);
+	border-color: #e5e5e5;
+	border-top: 2px solid #e5e5e5;
+	display: inline-block;
+}
+
+.social-list{
+	float: right;
+	list-style: none;
+	li{
+		display: inline;
+	}
 }
 
 #sidebar{
