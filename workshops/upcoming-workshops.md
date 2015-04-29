@@ -68,7 +68,7 @@ How to sign up:	Go to http://www.lesterpickerphoto.com/xxxxxx
 
 #### Registration
 
-[Click here for quick, easy and secure payment through PayPal](http://shop.lesterpickerphoto.com/). 
+[Click here for quick, easy and secure payment through PayPal](http://shop.lesterpickerphoto.com/page/802). 
 
 **Refunds:**	 Things happen; we know that. If you cancel for any reason up to 48 hours prior to the workshop, we will refund 100% of your fee. Beyond that, we can only issue a refund if we (or you) can secure another full-pay participant. That is usually not an issue, but we have to explain the downside. 
 
@@ -80,7 +80,7 @@ How to sign up:	Go to http://www.lesterpickerphoto.com/xxxxxx
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
-To register, [**click here**](http://shop.lesterpickerphoto.com/page/802).
+To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
 
 Some call it the most beautiful National Park in the country, a tiny gem compared to its larger siblings. Whether or not you agree, Maine’s Acadia National Park is an eye-candy destination for its combination of geology, flora, fauna… and weather.
 
