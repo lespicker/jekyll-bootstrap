@@ -15,7 +15,7 @@ Using the finest large-format printers, Les and Master Printmaker Robert Boyer w
 Our print workshops are strictly limited to five participants so you are able to get one-on-one attention whenever you wish. Workshops sell out so we advise you to sign up quickly. 
 
 
-#### In this workshop you will learn:
+#### In this workshop you will learn
 
 - What is meant by color-managed workflow
 
@@ -60,11 +60,10 @@ You will get hands-on experience with the finest color-managed printers availabl
 3. Image files for post-processing (5-10)
 4. Bag lunch
 
-Take away:		One (or more) 17” x 22” print on archival (museum) quality fine art paper
-		 	Two packets of Museo Fine Art papers
-			Workflow guidelines
-
-How to sign up:	Go to http://www.lesterpickerphoto.com/xxxxxx
+#### Take away
+- One (or more) 17” x 22” print on archival (museum) quality fine art paper
+- Two packets of Museo Fine Art papers
+- Workflow guidelines
 
 #### Registration
 
