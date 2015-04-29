@@ -4,13 +4,83 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-### [Acadia National Park, Maine: Fall Foliage](http://www.nikoniansacademy.com/all/viewWorkshop.html?course_id=1319)
+#### Intensive One-Day Printing Workshop
+
+{% img /images/2015/04/image34-canvas.jpg %}
+
+Join us in our photo studio to share in the magic of fine art photographic printing. Immerse yourself for a full day learning and experiencing in a hands-on environment.  
+
+Using the finest large-format printers, Les and Master Printmaker Robert Boyer will take you on a journey from image file to a completed large-format fine art print. Watch your artwork as it comes out of the printer and experience the joy and tactile sensation of printmaking. 
+
+Our print workshops are strictly limited to five participants so you are able to get one-on-one attention whenever you wish. Workshops sell out so we advise you to sign up quickly. 
+
+
+#### In this workshop you will learn:
+
+- What is meant by color-managed workflow
+
+- How to create a color managed workflow
+
+- Common myths and misconceptions about fine art printing (it’s easier than you think!)
+
+- How to post-process your images for trouble-free prints
+
+- ICC profiles: where to find them and how to use them
+
+- The benefits and limitations of soft-proofing
+
+- What papers to use for specific image types
+
+- Matting your prints
+
+- Various fine art print display options
+
+{% img /images/2015/04/DSC9784.jpg %}
+
+#### Equipment
+
+You will get hands-on experience with the finest color-managed printers available today. In our studio we have the following printers for your use: 
+
+- Epson 9900, which produces images up to 44” wide by 100 feet or more in length 
+- Canon iPF6400, which produces images up to 24” wide by 100 feet or more in length
+- Canon Pro-1, which produces images up to 13” x 19”
+
+#### Saturday, July 11
+
+**Time:** 	9:00 AM to 4:00 PM (with enough time afterwards to complete all print jobs)
+
+**Location:**	Les Picker’s Photography Studio, Havre de Grace, MD (directions will be 	sent upon registration
+
+**Fee:	** $300, which includes all paper and ink used to create your prints, snacks and beverages
+
+#### Requirements
+	
+1. laptop computer
+2. Lightroom (and/or Photoshop); instructions will be for latest version of 	Lightroom 
+3. Image files for post-processing (5-10)
+4. Bag lunch
+
+Take away:		One (or more) 17” x 22” print on archival (museum) quality fine art paper
+		 	Two packets of Museo Fine Art papers
+			Workflow guidelines
+
+How to sign up:	Go to http://www.lesterpickerphoto.com/xxxxxx
+
+#### Registration
+
+[Click here for quick, easy and secure payment through PayPal](http://shop.lesterpickerphoto.com/). 
+
+**Refunds:**	 Things happen; we know that. If you cancel for any reason up to 48 hours prior to the workshop, we will refund 100% of your fee. Beyond that, we can only issue a refund if we (or you) can secure another full-pay participant. That is usually not an issue, but we have to explain the downside. 
+
+---
+
+### Acadia National Park, Maine: Fall Foliage
 
 #### October 15-19, 2015
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
-To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
+To register, [**click here**](http://shop.lesterpickerphoto.com/page/802).
 
 Some call it the most beautiful National Park in the country, a tiny gem compared to its larger siblings. Whether or not you agree, Maine’s Acadia National Park is an eye-candy destination for its combination of geology, flora, fauna… and weather.
 
