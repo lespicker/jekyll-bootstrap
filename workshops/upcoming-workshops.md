@@ -6,7 +6,7 @@ title: Upcoming Workshops
 
 #### Intensive One-Day Printing Workshop
 
-{% img /images/2015/04/image34-canvas.jpg %}
+{% img /images/bli/2015/04/image34-canvas.jpg %}
 
 Join us in our photo studio to share in the magic of fine art photographic printing. Immerse yourself for a full day learning and experiencing in a hands-on environment.  
 
@@ -35,7 +35,7 @@ Our print workshops are strictly limited to five participants so you are able to
 
 - Various fine art print display options
 
-{% img /images/2015/04/DSC9784.jpg %}
+{% img /images/bli/2015/04/DSC9784.jpg %}
 
 #### Equipment
 
