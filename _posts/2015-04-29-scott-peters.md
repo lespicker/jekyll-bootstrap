@@ -6,7 +6,7 @@ categories:
 - breaking
 ---
 
-{% img /images/bli/2015/04/Egypt-About-by-Scott-Peters.jpg %}
+{% img /images/bli/2015/04/61NiAVdRJ5L._UX250_.jpg %}
 
 I was recently interviewed by Scott Peters, the wonderful children and young adult book author. Peters specializes in mysteries that take place in Ancient Egypt. 
 
