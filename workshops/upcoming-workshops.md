@@ -65,7 +65,7 @@ You will get hands-on experience with the finest color-managed printers availabl
 - Two packets of Museo Fine Art papers
 - Workflow guidelines
 
-#### Registration
+#### Registration- - - SORRY! WE ARE SOLD OUT! Please stay tuned for our next printing workshop date. 
 
 [Click here for quick, easy and secure payment through PayPal](http://shop.lesterpickerphoto.com/page/802). 
 
