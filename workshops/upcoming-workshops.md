@@ -67,7 +67,7 @@ You will get hands-on experience with the finest color-managed printers availabl
 
 #### Registration- - - SORRY! WE ARE SOLD OUT! Please stay tuned for our next printing workshop date. 
 
-[Click here for quick, easy and secure payment through PayPal](http://shop.lesterpickerphoto.com/page/802). 
+[Would you like to be on our waiting list? Send us an email at lespicker@gmail.com](mailto:lespicker@gmail.com). 
 
 **Refunds:**	 Things happen; we know that. If you cancel for any reason up to 48 hours prior to the workshop, we will refund 100% of your fee. Beyond that, we can only issue a refund if we (or you) can secure another full-pay participant. That is usually not an issue, but we have to explain the downside. 
 
