@@ -28,7 +28,7 @@ Les was named Best Travel Photographer for the prestigious Canada Northern Light
 
 ### Robert Boyer
 
-{% img /images/LAP8645.jpg %}
+{% img /images/bli/2015/05/DSC_7099.jpg %}
 
 Bob is our in-house Master Printer and tech guru. Bob handles all post-processing through printing. He produces our museum-quality prints, as well as wall coverings and other display options for clients. He is the interface between Les' artwork and commercial labs for specialty displays. 
 
