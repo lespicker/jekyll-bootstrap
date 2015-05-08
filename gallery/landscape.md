@@ -26,7 +26,7 @@ gallery:
 comments: false
 ---
 
-## Landscape
+## Land
 
 ---
 
