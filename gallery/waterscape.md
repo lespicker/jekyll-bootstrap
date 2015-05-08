@@ -23,7 +23,7 @@ gallery:
 comments: false
 ---
 
-## Waterscape
+## Water
 
 ---
 
