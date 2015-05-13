@@ -129,9 +129,9 @@ Early morning shoot
 
 Discussion and wrap-up by noon
 
-Depending on daily weather conditions, we'll attempt to photograph these places:
-
 Depending on daily weather conditions, we will photograph some of the most iconic and spectacular scenics in and around the National Park, including Jordan Pond and The Bubbles, Ocean Drive, Sand Beach, Otter Cliffs and Cove, Somes Sound, Bass Harbor, and more.
+
+To see images taken by previous workshop participants and for testimonials about the Acadia workshop, please [**visit here**](http://www.lesterpickerphoto.com/workshops/past-workshop.html). 
 
 To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
 
