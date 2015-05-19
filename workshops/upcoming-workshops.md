@@ -8,68 +8,59 @@ title: Upcoming Workshops
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
 
-Join us in our photo studio to share in the magic of fine art photographic printing. Immerse yourself for a full day learning and experiencing in a hands-on environment.  
+##### Saturday September 26, 2015
 
-Using the finest large-format printers, Les and Master Printmaker Robert Boyer will take you on a journey from image file to a completed large-format fine art print. Watch your artwork as it comes out of the printer and experience the joy and tactile sensation of printmaking. 
+[**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
-Our print workshops are strictly limited to five participants so you are able to get one-on-one attention whenever you wish. Workshops sell out so we advise you to sign up quickly. 
+Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop. 
+
+If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts. 
+
+By the end of our one- or two-day workshop, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
+
+In the workshop you will print an unlimited number of proofs of  your best images. You will create large format prints. And, you can use any extra time to print as many other images as you want for simply the cost of materials. 
+
+And unlike virtually all printing workshops you will see advertised, we never accept more than five people, so you are assured of individual attention in a learning environment second to none. 
 
 
-#### In this workshop you will learn
+##### About Us
+Les Picker (www.lesterpickerphoto.com) is an award-winning freelance photographer with credits in National Geographic publications and dozens of magazines, books and newspapers. His prints are featured in permanent exhibitions. His blog is followed by passionate photographers worldwide. Les is the Master Photographer for Museo Fine Art papers. He is a faculty member of the Nikonians Academy, where he leads photography workshops and tours worldwide. 
 
-- What is meant by color-managed workflow
+Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bob’s meticulous work and dynamic prints can be seen in permanent exhibits, as well as private homes. 
 
-- How to create a color managed workflow
+##### Our Learning Environment
+Our studio has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable. 
 
-- Common myths and misconceptions about fine art printing (it’s easier than you think!)
+We use an Epson 9900 large format printer for prints up to 44” wide, as well as Canon printers for prints up to 24”. 
 
-- How to post-process your images for trouble-free prints
+Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing. 
 
-- ICC profiles: where to find them and how to use them
+##### What You Will Learn
+- Color-managed workflow
+- Lightroom post-processing for prints
+- How to effectively negotiate the Lightroom Print Module
+- How to select appropriate papers for images
+- How to judge prints
+- Print display options
 
-- The benefits and limitations of soft-proofing
+##### What is included
+- Refreshments
+- Museum-quality photo paper
+- Use of professional and prosumer printers
+- Instruction from passionate photographers/print-makers
+- Individualized hands-on practice
 
-- What papers to use for specific image types
+##### What is Not Included
+- Laptop
+- Software
+- Lunch
 
-- Matting your prints
+##### What You Must Bring
+- Laptop computer
+- Latest v version of Lightroom
+- Up to 10 high-quality images (preferably in RAW format)
 
-- Various fine art print display options
-
-{% img /images/bli/2015/04/DSC9784.jpg %}
-
-#### Equipment
-
-You will get hands-on experience with the finest color-managed printers available today. In our studio we have the following printers for your use: 
-
-- Epson 9900, which produces images up to 44” wide by 100 feet or more in length 
-- Canon iPF6400, which produces images up to 24” wide by 100 feet or more in length
-- Canon Pro-1, which produces images up to 13” x 19”
-
-#### Saturday, July 11
-
-**Time:** 	9:00 AM to 4:00 PM (with enough time afterwards to complete all print jobs)
-
-**Location:**	Les Picker’s Photography Studio, Havre de Grace, MD (directions will be 	sent upon registration
-
-**Fee:	** $300, which includes all paper and ink used to create your prints, snacks and beverages
-
-#### Requirements
-	
-1. laptop computer
-2. Lightroom (and/or Photoshop); instructions will be for latest version of 	Lightroom 
-3. Image files for post-processing (5-10)
-4. Bag lunch
-
-#### Take away
-- One (or more) 17” x 22” print on archival (museum) quality fine art paper
-- Two packets of Museo Fine Art papers
-- Workflow guidelines
-
-#### Registration- - - SORRY! WE ARE SOLD OUT! Please stay tuned for our next printing workshop date. 
-
-[Would you like to be on our waiting list? Send us an email at lespicker@gmail.com](mailto:lespicker@gmail.com). 
-
-**Refunds:**	 Things happen; we know that. If you cancel for any reason up to 48 hours prior to the workshop, we will refund 100% of your fee. Beyond that, we can only issue a refund if we (or you) can secure another full-pay participant. That is usually not an issue, but we have to explain the downside. 
+[**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
 ---
 
