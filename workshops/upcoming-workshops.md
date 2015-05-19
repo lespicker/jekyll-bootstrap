@@ -45,7 +45,7 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 
 ##### What is included
 - Refreshments
-- Museum-quality photo paper
+- Museum-quality photo papers
 - Use of professional and prosumer printers
 - Instruction from passionate photographers/print-makers
 - Individualized hands-on practice
@@ -57,7 +57,7 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 
 ##### What You Must Bring
 - Laptop computer
-- Latest v version of Lightroom
+- Latest version of Lightroom
 - Up to 10 high-quality images (preferably in RAW format)
 
 [**Register here**](http://shop.lesterpickerphoto.com/page/803)
