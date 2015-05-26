@@ -148,7 +148,7 @@ For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbo
 ### Sri Lanka: Culture & Wildlife 
 #### March 12-23, 2016
 
-{% img /images/2012/11/DSC_1881.jpg %}
+{% img /images/bli/2015/05/conde-nast-ocean-picker-2.jpg %}
 
 Some call it the most beautiful island in Asia. Whether or not you agree, Sri Lanka (formerly known as Ceylon) is a sparkling jewel for its combination of geology, flora, fauna, people, culture and tropical weather. Sri Lanka has enjoyed peace and prosperity since its insurrection ended several years ago. Food and accommodations across the country are excellent.
 
