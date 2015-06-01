@@ -59,7 +59,7 @@ Here are some comments from participants:
 
 > The Nikonians Workshop in Maine, specifically to Mt. Desert Island in Acadia, led by Dr Lester Picker is an enriching, rewarding experience.  I suppose one could use the Internet to research iconic and remote photographic locations, make a list, and then try and do this sort of outing by yourself. But what you would be missing is Lester’s considerable experience and knowledge of the environs, the biology, ecology and geology of this unique area. What Les adds to the experience is what you are paying for, and you do get your money’s worth. His photographic experience is vast and going with Les lets you capitalize on all the wonderful ways he captures nature. His portfolio, speaks to this experience.<cite>Michael Neff, Virginia</cite>
 
-### Sri Lanka
+### <a name="srilanka"></a>Sri Lanka
 
 Participants call this 11-day photo tour of Sri Lanka the height of their photographic experiences. That’s no wonder to me. Sri Lanka is a mostly undiscovered, photographic jewel located off the southern coast of India. 
 
