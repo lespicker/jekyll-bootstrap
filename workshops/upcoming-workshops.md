@@ -151,7 +151,7 @@ Join us for a 12-day (11-night) exploration of the unparalleled photographic pos
 
 In this photography tour we will intimately explore Sri Lanka’s landscape, from vaunted mountains to its pristine seashore, from its tidy and colorful tea plantations to its lush forests.
 
-Each morning we will embark on an adventure taking us from fog-shrouded tea plantations to cascading waterfalls, en route to photographing mountain sunsets. We will visit the country’s most picturesque temples and historical structures for architectural photos and opportunities to interact with Sri Lanka’s wonderful indigenous people. One of the highlights of the tour will be spending two days in famed Yalla National Park, which boasts the densest wild leopard population on earth, along with bull elephants, crocodiles, water buffalo, monkeys and an incredible variety of colorful birds. Most evenings we will have an optional image review and critique. [See what other's had to say about Les' previous Sri Lanka photo-tour](http://www.lesterpickerphoto.com/workshops/past-workshop.html#srilanka).
+Each morning we will embark on an adventure taking us from fog-shrouded tea plantations to cascading waterfalls, en route to photographing mountain sunsets. We will visit the country’s most picturesque temples and historical structures for architectural photos and opportunities to interact with Sri Lanka’s wonderful indigenous people. One of the highlights of the tour will be spending two days in famed Yala National Park, which boasts the densest wild leopard population on earth, along with bull elephants, crocodiles, water buffalo, monkeys and an incredible variety of colorful birds. Most evenings we will have an optional image review and critique. [See what other's had to say about Les' previous Sri Lanka photo-tour](http://www.lesterpickerphoto.com/workshops/past-workshop.html#srilanka).
 
 Our air-conditioned bus will also have a certified country guide and a porter throughout the trip to help with luggage at each stop. Porters are also available inexpensively at each location for those who wish to hire someone to help carry photo gear.
 
@@ -188,19 +188,19 @@ Visit Nuwara Eliya, stopping for landscape images. En-route visit a Tea plantati
 
 Full day visit to Horton Plains National Park. Walk though the grasslands and Cloud Forests to a popular viewpoint know as World’s end, which is an escarpment with a 870 m drop. Horton Plains offers excellent opportunities to photograph Sambar, Sri Lanka’s largest species of deer which are seen near the entrance. We look for montane endemics Yellow- eared Bulbul, Sri Lanka Bush Warbler, Sri Lanka Wood Pigeon, Sri Lanka White Eye, Dull Blue Flycatcher and if lucky the scarce montane endemic, Sri Lanka Whistling Thrush and many other birds. Also visit scenic  Bakers Falls. 
 
-##### Day 6: En route to Yalla National Park
+##### Day 6: En route to Yala National Park
 
 Many opportunities for landscape and rural village images. Late afternoon safari.   
 
-##### Day 7: Yalla National Park
+##### Day 7: Yala National Park
 
-A true highlight for anyone visiting Sri Lanka, we will take open-air safari vehicles through Yalla NP. Yalla is a forested park on the southwest side of the island, bordered by the Indian Ocean. Here we have the chance to see its famous leopards (the highest density of leopards in the world), huge bull elephants, water buffalo, monkeys, wild boar, colorful birds and other wildlife. Safaris take place at sunrise and in mid to late afternoon. In between we have time for a siesta or for individual photography outside the park.
+A true highlight for anyone visiting Sri Lanka, we will take open-air safari vehicles through Yala NP. Yala is a forested park on the southwest side of the island, bordered by the Indian Ocean. Here we have the chance to see its famous leopards (the highest density of leopards in the world), huge bull elephants, water buffalo, monkeys, wild boar, colorful birds and other wildlife. Safaris take place at sunrise and in mid to late afternoon. In between we have time for a siesta or for individual photography outside the park.
 
 {% img /images/bli/2015/05/conde-nast-ocean-picker-7.jpg "Leopard" %}
 
-##### Day 8: Yalla National Park and Udawalwe
+##### Day 8: Yala National Park and Udawalwe
 
-One last morning safari at Yalla National Park. Afterwards leave for Udawalawe for one night. Afternoon photography safari in Udawalawe National Park where close to 50-60 Elephants can be seen and the Nursery Herd which comprise of many baby Elephants is one of the key attractions. The park is good for birds of prey and we will look for Grey-headed Fish Eagle, Black-shouldered Kite, Changeable Hawk Eagle, Crested Serpent Eagle, White-bellied Sea Eagle, Shikra, Common Kestrel, Brown Fish Owl and Western Marsh Harrier and many others.
+One last morning safari at Yala National Park. Afterwards leave for Udawalawe for one night. Afternoon photography safari in Udawalawe National Park where close to 50-60 Elephants can be seen and the Nursery Herd which comprise of many baby Elephants is one of the key attractions. The park is good for birds of prey and we will look for Grey-headed Fish Eagle, Black-shouldered Kite, Changeable Hawk Eagle, Crested Serpent Eagle, White-bellied Sea Eagle, Shikra, Common Kestrel, Brown Fish Owl and Western Marsh Harrier and many others.
 
 ##### Day 9: Galle
 
@@ -213,7 +213,7 @@ Travel to the old port city of Galle for two nights, via Weligama. En-route phot
 Morning photo walk through the historic town. In the afternoon a photography session at the Galle Fort (UNESCO world heritage site). Here we focus on street photography and daily life. There are several buildings still rich with their original architecture. The maritime museum and the old Dutch museum harbor many artifacts of the colonial period of the country. The Dutch Church, built in the 18 century, is a unique photo opp. 
 At dusk take a walk along the shoreline.
 
-{% img /images/bli/2015/05/conde-nast-ocean-picker.jpg "Macaque Monkeys" %}
+{% img /images/bli/2015/05/conde-nast-ocean-picker.jpg "Gray Langur Monkeys" %}
 
 ##### Day 11: Columbo
 
