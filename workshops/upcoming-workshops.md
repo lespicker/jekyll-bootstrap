@@ -4,7 +4,7 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-#### Intensive One-Day Printing Workshop
+#### <a name="printing"></a>Intensive One-Day Printing Workshop
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
 
