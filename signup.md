@@ -5,7 +5,7 @@ title: Sign Up
 
 ## Sign-Up
 
-  Sign-up for events, eBook releases, how-to's, and the rest of it.
+  Sign-up for events, eBook releases, how-to's, and freebies. We promise not to spam you. We do not rent, sell, or otherwise use your information for any other purposes.
 
 ---  
 <!-- Begin MailChimp Signup Form -->
@@ -32,14 +32,6 @@ title: Sign Up
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-<div class="mc-field-group input-group">
-    <strong>Photography </strong>
-    <ul><li><input type="checkbox" value="1" name="group[5005][1]" id="mce-group[5005]-5005-0"><label for="mce-group[5005]-5005-0">Travel Workshop</label></li>
-<li><input type="checkbox" value="2" name="group[5005][2]" id="mce-group[5005]-5005-1"><label for="mce-group[5005]-5005-1">Local Workshop</label></li>
-<li><input type="checkbox" value="4" name="group[5005][4]" id="mce-group[5005]-5005-2"><label for="mce-group[5005]-5005-2">Education</label></li>
-<li><input type="checkbox" value="8" name="group[5005][8]" id="mce-group[5005]-5005-3"><label for="mce-group[5005]-5005-3">General</label></li>
-</ul>
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
