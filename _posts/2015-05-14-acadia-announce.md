@@ -26,7 +26,7 @@ gallery:
 
 {% img /images/bli/2014/07/A0022734-pano.jpg %}
 
-Memorial Day is around the corner, so it's time to put out the word about my annual Fall Acadia National Park workshop. 
+Independence Day is around the corner, so it's time to put out the word about my annual Fall Acadia National Park workshop. 
 
 <!--more-->
 
@@ -40,7 +40,7 @@ Every year we have a marvelous four days traveling the back roads of Acadia. I l
 
 ---
 
-If you are looking for an exciting and fun experience in one of America's premier national parks, amidst the colorful fireworks of Maine's incomparable fall foliage, waves crashing on the rocky coast, and forests filled with lush mosses and meandering streams, then [check out this workshop](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html). Enrollment is strictly limited to 10 people so I can give individual attention to every participant.
+If you are looking for an exciting and fun experience in one of America's premier national parks, amidst the colorful fireworks of Maine's incomparable fall foliage, waves crashing on the rocky coast, and forests filled with lush mosses and meandering streams, then [check out this workshop](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html). Enrollment is strictly limited to 10 people so I can give individual attention to every participant. There are still a few spots left.
 
 ---
 
@@ -86,16 +86,5 @@ Depending on daily weather conditions, we will photograph some of the most iconi
 
 To see images taken by previous workshop participants and for testimonials about the Acadia workshop, please [**visit here**](http://www.lesterpickerphoto.com/workshops/past-workshop.html). 
 
-To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
-
-### Additional Acadia Information
-
-For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbor and all the other picturesque towns where we will be photographing, including places to eat, I recommend these websites:
-
-[Explore, Eat, and Relax in Acadia National Park, Mount Desert Island, Maine.](http://www.ouracadia.com/)
-
-[A New Yorker Talks to Herself about Maine | News and Notes about Acadia National Park and Mount Desert Island.](https://ouracadia.wordpress.com/)
-
-
-
+To register, [**click here**](http://shop.lesterpickerphoto.com/page/801). Once you register I will send you a detailed email with where to stay, what to bring and what to wear.
  
