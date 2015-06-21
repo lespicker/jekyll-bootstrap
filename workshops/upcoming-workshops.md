@@ -4,7 +4,7 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-#### Intensive One-Day Printing Workshop
+#### <a name="printing"></a>Intensive One-Day Printing Workshop
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
 
@@ -139,7 +139,7 @@ For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbo
 ### Sri Lanka: Culture & Wildlife 
 #### March 12-23, 2016
 
-{% img /images/2012/11/DSC_1881.jpg %}
+{% img /images/bli/2015/05/conde-nast-ocean-picker-2.jpg %}
 
 [**Register here**](http://shop.lesterpickerphoto.com/page/802).
 
@@ -149,15 +149,17 @@ Some call it the most beautiful island in Asia. Whether or not you agree, Sri La
 
 Join us for a 12-day (11-night) exploration of the unparalleled photographic possibilities in this island nation. Located off the southernmost tip of India, Sri Lanka is replete with some of the oldest Buddhist and Hindu temples in the world (many still in use), some of the friendliest and most photogenic people on Earth, and wildlife that rivals Africa’s best locations  − all at a fraction of the cost. 
 
-In this photography tour we will intimately explore Sri Lanka’s landscape, from vaunted mountains to its pristine seashore, from its tidy and colorful tea plantations to its lush forests. 
+In this photography tour we will intimately explore Sri Lanka’s landscape, from vaunted mountains to its pristine seashore, from its tidy and colorful tea plantations to its lush forests.
 
-Each morning we will embark on an adventure taking us from fog-shrouded tea plantations to cascading waterfalls, en route to photographing mountain sunsets. We will visit the country’s most picturesque temples and historical structures for architectural photos and opportunities to interact with Sri Lanka’s wonderful indigenous people. One of the highlights of the tour will be spending two days in famed Yalla National Park, which boasts the densest wild leopard population on earth, along with bull elephants, crocodiles, water buffalo, monkeys and an incredible variety of colorful birds. Most evenings we will have an optional image review and critique. 
+Each morning we will embark on an adventure taking us from fog-shrouded tea plantations to cascading waterfalls, en route to photographing mountain sunsets. We will visit the country’s most picturesque temples and historical structures for architectural photos and opportunities to interact with Sri Lanka’s wonderful indigenous people. One of the highlights of the tour will be spending two days in famed Yala National Park, which boasts the densest wild leopard population on earth, along with bull elephants, crocodiles, water buffalo, monkeys and an incredible variety of colorful birds. Most evenings we will have an optional image review and critique. [See what other's had to say about Les' previous Sri Lanka photo-tour](http://www.lesterpickerphoto.com/workshops/past-workshop.html#srilanka).
 
 Our air-conditioned bus will also have a certified country guide and a porter throughout the trip to help with luggage at each stop. Porters are also available inexpensively at each location for those who wish to hire someone to help carry photo gear.
 
 The workshop will be led by [Les Picker](www.lesterpickerphoto.com), a professional photographer who has more than 650 published credits in National Geographic books and magazines, Forbes, Fortune publications, Better Homes & Gardens and dozens of other magazines and newspapers. [Les’ blog](http://blog.lesterpickerphoto.com) is widely followed and often quoted by media. Les received the prestigious Canada Northern Lights Award for Best Travel Photography. Les received a doctorate in ecology and has worked as a nature and photography guide in many locales. 
 
 Workshop is limited to 12 participants.
+
+{% img /images/bli/2015/05/conde-nast-ocean-picker-6.jpg "Dambulla" %}
 
 #### Tour Itinerary
 
@@ -186,27 +188,39 @@ Visit Nuwara Eliya, stopping for landscape images. En-route visit a Tea plantati
 
 Full day visit to Horton Plains National Park. Walk though the grasslands and Cloud Forests to a popular viewpoint know as World’s end, which is an escarpment with a 870 m drop. Horton Plains offers excellent opportunities to photograph Sambar, Sri Lanka’s largest species of deer which are seen near the entrance. We look for montane endemics Yellow- eared Bulbul, Sri Lanka Bush Warbler, Sri Lanka Wood Pigeon, Sri Lanka White Eye, Dull Blue Flycatcher and if lucky the scarce montane endemic, Sri Lanka Whistling Thrush and many other birds. Also visit scenic  Bakers Falls. 
 
-##### Day 6: En route to Yalla National Park
+##### Day 6: En route to Yala National Park
 
 Many opportunities for landscape and rural village images. Late afternoon safari.   
 
-##### Day 7: Yalla National Park
+##### Day 7: Yala National Park
 
-A true highlight for anyone visiting Sri Lanka, we will take open-air safari vehicles through Yalla NP. Yalla is a forested park on the southwest side of the island, bordered by the Indian Ocean. Here we have the chance to see its famous leopards (the highest density of leopards in the world), huge bull elephants, water buffalo, monkeys, wild boar, colorful birds and other wildlife. Safaris take place at sunrise and in mid to late afternoon. In between we have time for a siesta or for individual photography outside the park. 
+A true highlight for anyone visiting Sri Lanka, we will take open-air safari vehicles through Yala NP. Yala is a forested park on the southwest side of the island, bordered by the Indian Ocean. Here we have the chance to see its famous leopards (the highest density of leopards in the world), huge bull elephants, water buffalo, monkeys, wild boar, colorful birds and other wildlife. Safaris take place at sunrise and in mid to late afternoon. In between we have time for a siesta or for individual photography outside the park.
 
-##### Day 8: Yalla National Park and Udawalwe
+{% img /images/bli/2015/05/conde-nast-ocean-picker-7.jpg "Leopard" %}
 
-One last morning safari at Yala National Park. Afterwards leave for Udawalwe for one night. Afternoon photography safari in Udawalawe National Park where close to 50-60 Elephants can be seen and the Nursery Herd which comprise of many baby Elephants is one of the key attractions. The park is good for birds of prey and we will look for Grey-headed Fish Eagle, Black-shouldered Kite, Changeable Hawk Eagle, Crested Serpent Eagle, White-bellied Sea Eagle, Shikra, Common Kestrel, Brown Fish Owl and Western Marsh Harrier an d many others.
-Day 9: Galle
-Travel to the old port city of Galle for two nights, via Weligama. En-route photograph the stilt fishermen in the region near Galle. 
+##### Day 8: Yala National Park and Udawalwe
+
+One last morning safari at Yala National Park. Afterwards leave for Udawalawe for one night. Afternoon photography safari in Udawalawe National Park where close to 50-60 Elephants can be seen and the Nursery Herd which comprise of many baby Elephants is one of the key attractions. The park is good for birds of prey and we will look for Grey-headed Fish Eagle, Black-shouldered Kite, Changeable Hawk Eagle, Crested Serpent Eagle, White-bellied Sea Eagle, Shikra, Common Kestrel, Brown Fish Owl and Western Marsh Harrier and many others.
+
+##### Day 9: Galle
+
+Travel to the old port city of Galle for two nights, via Weligama. En-route photograph the stilt fishermen in the region near Galle.
+
+{% img /images/bli/2015/05/conde-nast-ocean-picker-3.jpg "Stilt Fisherman" %}
 
 ##### Day 10: Galle
 
 Morning photo walk through the historic town. In the afternoon a photography session at the Galle Fort (UNESCO world heritage site). Here we focus on street photography and daily life. There are several buildings still rich with their original architecture. The maritime museum and the old Dutch museum harbor many artifacts of the colonial period of the country. The Dutch Church, built in the 18 century, is a unique photo opp. 
-At dusk take a walk along the shoreline.  
-Day 11: Columbo
-After breakfast we leave for Columbo. Take a walking tour of the capital city’s historical Fort and Pettah districts, where we will find everything from textiles to electronics to spices. The Old Dutch Museum, built in the 17th Century, still maintains its pristine architecture. The walk continues into the commercial hub of Colombo, now host to high-end restaurants, bars and shops, where we can take a breather, admire the artifacts and have a drink or two. 
-Day 12: Departure
+At dusk take a walk along the shoreline.
+
+{% img /images/bli/2015/05/conde-nast-ocean-picker.jpg "Gray Langur Monkeys" %}
+
+##### Day 11: Columbo
+
+After breakfast we leave for Columbo. Take a walking tour of the capital city’s historical Fort and Pettah districts, where we will find everything from textiles to electronics to spices. The Old Dutch Museum, built in the 17th Century, still maintains its pristine architecture. The walk continues into the commercial hub of Colombo, now host to high-end restaurants, bars and shops, where we can take a breather, admire the artifacts and have a drink or two.
+
+##### Day 12: Departure
+
 After a quick meeting, exchange of email addresses and a wrap-up, we leave for the airport, exhausted, but with some memorable experiences and incredible images. 
 
 
