@@ -4,11 +4,11 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-#### <a name="printing"></a>Intensive One-Day Printing Workshop
+### <a name="printing"></a>Intensive One-Day Printing Workshop
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
 
-##### Saturday September 26, 2015
+#### Saturday September 26, 2015
 
 [**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
@@ -23,19 +23,19 @@ In the workshop you will print an unlimited number of proofs of  your best image
 And unlike virtually all printing workshops you will see advertised, we never accept more than five people, so you are assured of individual attention in a learning environment second to none. 
 
 
-##### About Us
+#### About Us
 Les Picker (www.lesterpickerphoto.com) is an award-winning freelance photographer with credits in National Geographic publications and dozens of magazines, books and newspapers. His prints are featured in permanent exhibitions. His blog is followed by passionate photographers worldwide. Les is the Master Photographer for Museo Fine Art papers. He is a faculty member of the Nikonians Academy, where he leads photography workshops and tours worldwide. 
 
 Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bob’s meticulous work and dynamic prints can be seen in permanent exhibits, as well as private homes. 
 
-##### Our Learning Environment
+#### Our Learning Environment
 Our studio has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable. 
 
 We use an Epson 9900 large format printer for prints up to 44” wide, as well as Canon printers for prints up to 24”. 
 
 Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing. 
 
-##### What You Will Learn
+#### What You Will Learn
 - Color-managed workflow
 - Lightroom post-processing for prints
 - How to effectively negotiate the Lightroom Print Module
@@ -43,19 +43,19 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 - How to judge prints
 - Print display options
 
-##### What is included
+#### What is included
 - Refreshments
 - Museum-quality photo papers
 - Use of professional and prosumer printers
 - Instruction from passionate photographers/print-makers
 - Individualized hands-on practice
 
-##### What is Not Included
+#### What is Not Included
 - Laptop
 - Software
 - Lunch
 
-##### What You Must Bring
+#### What You Must Bring
 - Laptop computer
 - Latest version of Lightroom
 - Up to 10 high-quality images (preferably in RAW format)
@@ -64,7 +64,7 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 
 ---
 
-### Acadia National Park, Maine: Fall Foliage
+### <a name="acadia"></a>Acadia National Park, Maine: Fall Foliage
 
 #### October 15-19, 2015
 
@@ -136,7 +136,7 @@ For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbo
 
 ---
 
-### Sri Lanka: Culture & Wildlife 
+### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife 
 #### March 12-23, 2016
 
 {% img /images/bli/2015/05/conde-nast-ocean-picker-2.jpg %}
