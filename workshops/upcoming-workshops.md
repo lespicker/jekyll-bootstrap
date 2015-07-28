@@ -70,7 +70,7 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
-To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
+To register, [**SOLD OUT**](http://shop.lesterpickerphoto.com/page/801).
 
 Some call it the most beautiful National Park in the country, a tiny gem compared to its larger siblings. Whether or not you agree, Maine’s Acadia National Park is an eye-candy destination for its combination of geology, flora, fauna… and weather.
 
@@ -84,7 +84,7 @@ Les lived in Maine for ten years and received his doctorate in ecology from the 
 
 ### Workshop Fees
 
-$1095, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
+$1095, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. To register, [**SOLD OUT**](http://shop.lesterpickerphoto.com/page/801).
 
 ### Workshop Itinerary
 
@@ -124,7 +124,7 @@ Depending on daily weather conditions, we will photograph some of the most iconi
 
 To see images taken by previous workshop participants and for testimonials about the Acadia workshop, please [**visit here**](http://www.lesterpickerphoto.com/workshops/past-workshop.html). 
 
-To register, [**click here**](http://shop.lesterpickerphoto.com/page/801).
+To register, [**SOLD OUT**](http://shop.lesterpickerphoto.com/page/801).
 
 ### Additional Acadia Information
 
