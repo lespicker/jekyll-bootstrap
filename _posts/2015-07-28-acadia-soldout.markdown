@@ -15,7 +15,7 @@ tags:
 
 ---
 
-{% img /desktop/lpfa-bli/2015/07/DSC_4494.jpg %}
+{% img /images/lpfa-bli/2015/07/DSC_4494.jpg %}
 
 Just a quick update...
 
