@@ -31,7 +31,7 @@ I'm here for three weeks and this is what greeted me on my first trek up north f
 
 And so, despite a miserable weather forecast, thinnest day I continued on a little ways on the Dempster Highway to Tombstone Park. I wanted to spend a few days there, but the weather folks were right and it rained almost all day. Photographers have to be patient if they are to be successful, so I waited it out, sitting at a lovely overlook, inhaling the rich aromatics released by the wet plants. Sure enough, the skies parted for an hour or two. I grabbed my gear and scurried around to get this shot of the late sun lighting up Tombstone Valley. I used a polarizer and underexposed 2/3 stop to accentuate the light on the birches. 
 
-{% img /images/bli/2015/08/DSC_1410 %}
+{% img /images/bli/2015/08/DSC_1410.jpg %}
 
 Thank heavens camera adjustments are by now second nature to this old(er) photographer, because I was soaking in this unfolding spectacle. How precious nature is. I laugh when I hear young people overuse the word 'awesome'. Let them come here and get a true understanding of the word. Yukoners get it. That's the soul-filling ingredient that keeps them here.  
 
