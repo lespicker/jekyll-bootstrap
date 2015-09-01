@@ -15,7 +15,7 @@ tags:
 - adventure
 ---
 
-{% img /images/bli/2015/08/DSC_1525.jpg %}
+{% img /images/bli/2015/08/DSC_1515.jpg %}
 
 It's hard to believe that it's been almost three years since I've been back to the land of Robert Service and Jack London. I can still remember my childhood dream of visiting this magnificent land after reading Call of the Wild and White Fang. I even recall shivers running down my spine when I first read Service's "The Cremation of Sam McGee." If you've never heard of it I urge you to buy the recording of Johnny Cash reciting it (Amazon Music sells it). It's a classic.
 
