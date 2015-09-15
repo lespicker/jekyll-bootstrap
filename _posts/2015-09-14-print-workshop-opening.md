@@ -1,4 +1,4 @@
-—
+---
 layout: post
 title: "Fine Art Printing Workshop Opening"
 comments: true
@@ -14,7 +14,7 @@ tags:
 - Canon
 - photography
 - workshop
-—
+---
 
 {% img /images/bli/2015/07/DSC_3592.jpg A proud participant %}
 
