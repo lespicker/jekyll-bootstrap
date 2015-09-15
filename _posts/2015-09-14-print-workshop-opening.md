@@ -20,7 +20,7 @@ tags:
 
 Our next printing workshop is slated for Saturday, September 26 and we have exactly one spot left. A health issue caused one person to cancel, so we have this last opening. Here's your chance to grab this spot and have a fun day learning the ins and outs of fine art printing.
 
-<!—more—>
+<!-more->
 
 If you'd like to find out more about the workshop, take a peak at the [detailed description](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html) and read my [blog](http://www.lesterpickerphoto.com/2015/07/13/print-workshop/) about the last successful workshop, complete with images of the participants and their luscious fine art prints.
 
