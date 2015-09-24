@@ -18,7 +18,7 @@ tags:
 
 
 
-{% img /images/bli/2015/07/DSC\_3592.jpg A proud participant %}
+{% img /images/bli/2015/07/DSC_3592.jpg A proud participant %}
 
 Our next printing workshop is slated for Saturday, September 26 and we have exactly one spot left. A health issue caused one person to cancel, so we have this last opening. Here's your chance to grab this spot and have a fun day learning the ins and outs of fine art printing.
 
