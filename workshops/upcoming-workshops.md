@@ -10,7 +10,7 @@ title: Upcoming Workshops
 
 #### Saturday September 26, 2015
 
-[**Register here**](http://shop.lesterpickerphoto.com/page/803)
+[**Register here**][**SOLD OUT**](http://shop.lesterpickerphoto.com/page/803)
 
 Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop. 
 
