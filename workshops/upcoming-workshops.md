@@ -12,6 +12,8 @@ title: Upcoming Workshops
 
 [**Register here**][**SOLD OUT**](http://shop.lesterpickerphoto.com/page/803)
 
+[**Next workshop in January. Sign up for our mailing list to receive the announcement**]
+
 Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop. 
 
 If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts. 
@@ -60,7 +62,7 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 - Latest version of Lightroom
 - Up to 10 high-quality images (preferably in RAW format)
 
-[**Register here**](http://shop.lesterpickerphoto.com/page/803)
+[**Register here**][**SOLD OUT**](http://shop.lesterpickerphoto.com/page/803)
 
 ---
 
