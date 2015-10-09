@@ -14,7 +14,7 @@ tags:
 - photography
 ---
 
-{% img /images/bli/2015/10/DSC_3475.jpg Bob Presenting Color Management %}
+{% img /images/bli/2015/10/DSC_3475.jpg %}
 
 # The Print-A-Thon
 
