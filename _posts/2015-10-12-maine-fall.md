@@ -24,6 +24,6 @@ I arrived in Maine, the Pine Tree state, two days ago. I'm here preparing for my
 
 I was driving back to my motel late in the afternoon, when my eye caught the scene you see here. I pulled over, as did about a dozen other cars, to capture this scene. It reminds me, yet again, of why I love being here, especially at this time of year. 
 
-The image was shot with a Nikon D810, 24-70mm Nikkor lens @ 70mm, 1/30 sec @ f11 (-2/3 EV). I used a 3-stop graduated neutral density filterer the sky and tilted it a bit to deal with the bright colors in the trees on the left. I opened the shadows on the right side just a tad in post. I may end up cloning out the branch on the upper left when I get back to the studio. 
+The image was shot with a Nikon D810, 24-70mm Nikkor lens @ 70mm, 1/30 sec @ f11 (-2/3 EV). I used a 3-stop graduated neutral density filter for the sky and tilted it a bit to deal with the bright colors in the trees on the left. I opened the shadows on the right side just a tad in post. I may end up cloning out the branch on the upper left when I get back to the studio. 
 
 In any event, this was the end of a good day and I'll say thanks to the photo gods. Tomorrow it's supposed to rain!
