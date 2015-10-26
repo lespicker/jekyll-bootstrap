@@ -10,4 +10,4 @@ categories:
 
 ## What Participants Have To Say
 
-> Blah Blah Blah \<cite\>Mickey Mouse\</cite\>
+> Blah Blah Blah <cite>Mickey Mouse</cite>
