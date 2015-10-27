@@ -8,7 +8,7 @@ categories:
 
 # Acadia Workshop
 
-## What Participants Have To Say
+## A Sampling of What Participants Have To Say
 ### 2015 Workshop 
 
 > In October 2015, I spent five days in one of the most beautiful places in the United States -- Acadia National Park in Maine. This workshop was led by Nikonian and internationally known photographer Les Picker. Fall in New England is great, but fall at the time of peak color in Acadia is the best! It covers streams to oceans, woodlands and wetlands, mountains, forests and coastlines. And Les knows this place like the back of his hand, having lived and worked in Maine for a good part of his life.
@@ -33,3 +33,9 @@ categories:
 > Les proved to be a great workshop instructor. He was attentive to the varied skill levels and needs that all of us brought to the event and was readily available in the field to provide technical assistance and one-on-one teaching. As someone who probably has better technique than vision, I really appreciated his gentle challenges to try new things.
 
 > To sum up, this was a great experience! Mt. Desert Island and Acadia National Park in the fall are unbelievably beautiful, and Les Picker allowed us to take maximum advantage of our time there. I know that he is planning to offer this workshop again next year, and I can recommend it without reservation. <cite>Dave Soderlund, New York</cite>
+
+> Thank you very much for a wonderful time in Acadia NP. Lynne and I enjoyed the opportunity to see the park from the perspective of someone who knows it well PLUS the photography input and experience. We also enjoyed the group as well - good conversations, good sharing of experiences, photo and otherwise. <cite>Ed and Lynn DiThomas</cite>
+
+
+> Les, it was a privilege and a pleasure to be with you and your wife for the Acadia Park photo shoot. I recognized that I was probably among the least experienced members of the group but honestly it did not bother me at all. I give you credit for making me feel being a part of the group and not someone who would be a "drag" on the group's activity. You answered my questions, relatively simple that they may have been, with clarity and with no hint of condescendence. The group, as well, was most welcoming in every sense of word. I was particularly pleased when you looked at a photo that I took at Stanley Brook and complimented me on taking a good shot without the assistance of a tripod. You noted that I must have a "steady hand."  <cite>Harry Jaroslaw, New York City</cite>
+
