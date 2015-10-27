@@ -20,3 +20,16 @@ categories:
 
 > To sum it up, Les' Acadia workshop was a wonderful experience. Acadia is incredibly beautiful, and I have some wonderful memories and images that I will treasure. <cite>John Sternbergh, North Carolina </cite>
 
+### 2011-2014 Acadia Workshops
+
+> Due to a hurricane well offshore, we had three days of overcast skies and wind.  Les was still able to find great locations for us to photograph.  If one location didn't work out, he knew another.  It was a small group and we quickly all became friends.
+
+> As a result of this workshop I never look at things the same.  I am ALWAYS looking for the composition and the best way to take the photograph.  <cite>Jim Leary, Walpole, Massachusetts</cite>
+
+> I attended the workshop in Acadia National Park with Lester Picker in October 2014.  I have attended many photography workshops, and this was one of the best. Les is quite knowledgeable, both of all matters concerning photography and of Acadia NP. He is friendly and approachable, and provided much assistance and many useful ideas in the field. The workshop was well organized and run.  I highly recommend both Les and the Acadia workshop. <cite>Peter Curato</cite>
+
+> Eight other folks and I spent the better part of four photography-packed days exploring Mt. Desert Island under Les Picker's guidance. His depth of knowledge of the landscape, history and biology of the island informed our photography and took us to places that most other workshops just don't see. Les provided itineraries that were well-balanced between iconic locations (Cadillac Mountain, Bass Harbor Lighthouse) and out-of-the-way gems. When the weather turned against us Saturday morning, he led a stimulating, free-wheeling discussion in which all of the participants shared freely some of their favorite tools and photographic tricks. That afternoon we capitalized on the rain with a hike to Hemlock Falls (in full flow!) on Parkman Mountain. Each evening we capped the day's work with a review of the day's events and Les' insightful critiques of a few of our images.
+
+> Les proved to be a great workshop instructor. He was attentive to the varied skill levels and needs that all of us brought to the event and was readily available in the field to provide technical assistance and one-on-one teaching. As someone who probably has better technique than vision, I really appreciated his gentle challenges to try new things.
+
+> To sum up, this was a great experience! Mt. Desert Island and Acadia National Park in the fall are unbelievably beautiful, and Les Picker allowed us to take maximum advantage of our time there. I know that he is planning to offer this workshop again next year, and I can recommend it without reservation. <cite>Dave Soderlund, New York</cite>
