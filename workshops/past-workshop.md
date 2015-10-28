@@ -61,7 +61,19 @@ Here are some of the images the participants captured during the tour. Looking f
 
 ### <a name="print"></a>Print Workshops
 
-Our print workshops are offered three or four times each year. We limit the workshop to six participants so that we may offer individualized attention. The workshop is co-taught by Les Picker and his assistant, Master Printmaker Robert Boyer. 
+Our print workshops are offered three or four times each year.
+
+{% img /images/2015/10/DSC_0396.jpg Prepping their prints %}
+
+We limit the workshop to six participants so that we may offer individualized attention. 
+
+{% img /images/2015/10/DSC_3475.jpg Bob instructing group %}
+
+The workshop is co-taught by Les Picker and his assistant, Master Printmaker Robert Boyer. 
+
+{% img /images/2015/10/DSC_3590.jpg A proud workshop attendee %}
 
 Please [click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) to see a sample of comments from past print workshop participants.
+
+{% img /images/2015/10/DSC_3602.jpg A gorgeous fine art print %}
 
