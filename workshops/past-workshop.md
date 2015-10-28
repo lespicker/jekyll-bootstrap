@@ -63,7 +63,7 @@ Here are some of the images the participants captured during the tour. Looking f
 
 Our print workshops are offered three or four times each year.
 
-{% img /images/2015/10/DSC_0396.jpg %}
+{% img /images/2015/10/DSC_0396.jpg Prepping files for printing %}
 
 We limit the workshop to six participants so that we may offer individualized attention. 
 
