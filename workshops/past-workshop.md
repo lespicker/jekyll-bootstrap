@@ -51,11 +51,8 @@ Participants call this 11-day photo tour of Sri Lanka the height of their photog
 
 Sri Lanka boasts a warm climate, spectacular beach scenes, friendly and photogenic people, historical sites, architectural wonders, tea plantations, village culture and some of the best wildlife photography in the world (think elephants, leopards, bears, exotic birds and more).  And, for 11 intense days, we cover it all!
 
-Here are some comments from previous participants, along with some of the images they captured during the tour. Looking for high photo adventure? Consider the Nikonians Sri Lanka photo tour, next slated for March, 2016. 
+To read comments and testimonials from former participants, [please click here](http://www.lesterpickerphoto.com/workshops/srilanka-tes.html).
 
+Here are some of the images the participants captured during the tour. Looking for high photo adventure? Consider the Nikonians Sri Lanka photo tour, next slated for March 12-23, 2016.
 {% img /images/bli/2014/11/sri-lanka-student-images/langur-monkeys.jpg %}
-
-> The Sri Lanka trip was the most bang for the buck of any photo tour I have taken. The tour guide, Lester Picker, was knowledgeable, and full of information. Unlike many guides, he was there to make sure that the photo opportunities were available to the participants. On many tours, I think the tour guide is their only for a free ride to take his own shots! If you want to learn Lester is a great teacher. I would love to travel with him again. <cite>Will Randall, Florida</cite>
-
-> The Nikonians workshop in Sri Lanka with Les Picker was my second Nikonians workshop with Les.  The experiences in Sri Lanka were outstanding.  Les worked with each student as much or as little as the student desired. He had planned to trip to optimize photo opportunities with a mixture of temples, nature, animals, landscape and people.  The tour company that handled the transportation, lodging and guides was excellent.  The lodging accommodations and dining were first class.  I look forward to my next tour with Les. <cite>James Harris, New Mexico</cite>
 
