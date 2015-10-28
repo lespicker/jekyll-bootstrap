@@ -8,11 +8,9 @@ title: Upcoming Workshops
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
 
-#### Saturday September 26, 2015
+#### Saturday January 16, 2016
 
-[**Register here**][**SOLD OUT**](http://shop.lesterpickerphoto.com/page/803)
-
-[**Next workshop in January. Sign up for our mailing list to receive the announcement**]
+[**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
 Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop. 
 
@@ -62,7 +60,7 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 - Latest version of Lightroom
 - Up to 10 high-quality images (preferably in RAW format)
 
-[**Register here**][**SOLD OUT**](http://shop.lesterpickerphoto.com/page/803)
+[**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
 ---
 
