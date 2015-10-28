@@ -45,6 +45,7 @@ Lunches and dinners are enjoyed together, over micro-brew beers, nice wines and 
 For comments and testimonials from participants, [please click here](http://www.lesterpickerphoto.com/workshops/acadia.html). 
 
 
+
 ### <a name="srilanka"></a>Sri Lanka
 
 Participants call this 11-day photo tour of Sri Lanka the height of their photographic experiences. That’s no wonder to me. Sri Lanka is a mostly undiscovered, photographic jewel located off the southern coast of India. 
@@ -55,4 +56,9 @@ To read comments and testimonials from former participants, [please click here](
 
 Here are some of the images the participants captured during the tour. Looking for high photo adventure? Consider the Nikonians Sri Lanka photo tour, next slated for March 12-23, 2016.
 {% img /images/bli/2014/11/sri-lanka-student-images/langur-monkeys.jpg %}
+
+
+### <a name="print"></a>Print Workshops
+
+Our print workshops are offered three or four times each year. We limit the workshop to six participants so that we may offer individualized attention. The workshop is co-taught by Les Picker and his assistant, Master Printmaker Robert Boyer. 
 
