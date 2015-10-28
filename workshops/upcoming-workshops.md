@@ -72,7 +72,7 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
-To register, (http://shop.lesterpickerphoto.com/page/801).
+To register, please [click here](http://shop.lesterpickerphoto.com/page/801).
 
 Some call it the most beautiful National Park in the country, a tiny gem compared to its larger siblings. Whether or not you agree, Maine’s Acadia National Park is an eye-candy destination for its combination of geology, flora, fauna… and weather.
 
