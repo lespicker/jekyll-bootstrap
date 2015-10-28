@@ -57,6 +57,7 @@ To read comments and testimonials from former participants, [please click here](
 Here are some of the images the participants captured during the tour. Looking for high photo adventure? Consider the Nikonians Sri Lanka photo tour, next slated for March 12-23, 2016.
 {% img /images/bli/2014/11/sri-lanka-student-images/langur-monkeys.jpg %}
 
+---
 
 ### <a name="print"></a>Print Workshops
 
