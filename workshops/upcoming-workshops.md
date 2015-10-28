@@ -22,6 +22,8 @@ In the workshop you will print an unlimited number of proofs of  your best image
 
 And unlike virtually all printing workshops you will see advertised, we never accept more than five people, so you are assured of individual attention in a learning environment second to none. 
 
+[Click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) for a sampling of what former workshop participants have to say about the workshop.
+
 
 #### About Us
 Les Picker (www.lesterpickerphoto.com) is an award-winning freelance photographer with credits in National Geographic publications and dozens of magazines, books and newspapers. His prints are featured in permanent exhibitions. His blog is followed by passionate photographers worldwide. Les is the Master Photographer for Museo Fine Art papers. He is a faculty member of the Nikonians Academy, where he leads photography workshops and tours worldwide. 
