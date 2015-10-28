@@ -44,7 +44,7 @@ Lunches and dinners are enjoyed together, over micro-brew beers, nice wines and 
 
 For comments and testimonials from participants, [please click here](http://www.lesterpickerphoto.com/workshops/acadia.html). 
 
-
+---
 
 ### <a name="srilanka"></a>Sri Lanka
 
