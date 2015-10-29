@@ -4,6 +4,10 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
+[Printing Workshop](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
+[Acadia National Park Fall 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
+[Sri Lanka March 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
+
 ### <a name="printing"></a>Intensive One-Day Printing Workshop
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
