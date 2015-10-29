@@ -10,6 +10,8 @@ title: Upcoming Workshops
 
 [Sri Lanka March 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
+---
+
 ### <a name="printing"></a>Intensive One-Day Printing Workshop
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
