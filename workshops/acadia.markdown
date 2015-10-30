@@ -20,6 +20,11 @@ categories:
 
 > To sum it up, Les' Acadia workshop was a wonderful experience. Acadia is incredibly beautiful, and I have some wonderful memories and images that I will treasure. <cite>John Sternbergh, North Carolina </cite>
 
+> Coming from Colorado and not knowing Les Picker, I had no idea what to expect. That notion was quickly dispelled as Les exhibited true concern for his students. Pre workshop and during the time together, he was what might be described as a "helicopter" instructor!!!!  He was there at all times and answered questions in advance of the workshop as well as during. His knowledge of Acadia proved to be invaluable as the schedule was constantly changing due to weather. My expression is we had to be "rigidly flexible". As a result our group quickly bonded together and shared experiences.  I would not hesitate to take another workshop from Les and especially Acadia.  Now to process all the photos I took and assess how many winners I have. Congrats to Les for a successful workshop!
+<cite>Basil Katsaros, Colorado</cite>
+
+
+
 ### 2011-2014 Acadia Workshops
 
 > Due to a hurricane well offshore, we had three days of overcast skies and wind.  Les was still able to find great locations for us to photograph.  If one location didn't work out, he knew another.  It was a small group and we quickly all became friends.
