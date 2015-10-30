@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Yukon Adventure"
+title: "Yukon Photo Adventure"
 comments: false
 categories:
 - workshop
 ---
 
-# Yukon Adventure
+# Yukon Photo Adventure
 
 ## A Sampling of What Participants Have To Say
 
