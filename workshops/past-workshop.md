@@ -61,19 +61,21 @@ Here are some of the images the participants captured during the tour. Looking f
 
 ### <a name="print"></a>Print Workshops
 
-Our print workshops are offered three or four times each year.
+Our print workshops are offered three or four times each year, in our modern studio located in historic Havre de Grace, Maryland. We utilize the latest in large format print technology, especially the latest printers from Canon. Canon is also one of our sponsors. 
 
 {% img /images/bli/2015/10/DSC_0396.jpg Prepping files for printing %}
 
-We limit the workshop to six participants so that we may offer individualized attention. 
+We limit the workshop to six participants so that we may offer individualized attention. Participants print their images on museum-quality archival papers made by Museo Fine Art Papers. 
 
 {% img /images/bli/2015/10/DSC_3475.jpg Bob instructing group %}
 
-The workshop is co-taught by Les Picker and his assistant, Master Printmaker Robert Boyer. 
+The workshop is co-taught by Les Picker and his assistant, Master Printmaker Robert Boyer. Les is an international award-winning photographer with more than 40 years experience. Bob runs all print and IT operations for Les Picker Fine Art Photography. 
 
 {% img /images/bli/2015/10/DSC_3590.jpg A proud workshop attendee %}
 
-Please [click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) to see a sample of comments from past print workshop participants.
+Our fine art print workshop is an intense, fun and collegial experience designed to teach the fundamentals of printmaking, while also having the satisfaction of returning home with 2-6 large format prints, ready for framing. Please [click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) to see a sample of comments from past print workshop participants.
 
 {% img /images/bli/2015/10/DSC_3602.jpg A gorgeous fine art print %}
+
+We welcome any questions you may have about our fine art print workshop. Please write directly to Les: lespicker@gmail.com
 
