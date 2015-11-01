@@ -10,6 +10,8 @@ title: Upcoming Workshops
 
 [Sri Lanka March 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
+[Yukon Photo Adventure](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
+
 ---
 
 ### <a name="printing"></a>Intensive One-Day Printing Workshop
