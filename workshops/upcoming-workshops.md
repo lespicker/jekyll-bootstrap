@@ -269,41 +269,41 @@ For sample comments and testimonials from previous Yukon photo tours, please [cl
 #### Day 1
 All participants will be greeted at the airport and transported to the hotel (included in trip fee). 
 
-Day 2
+#### Day 2
 After an early breakfast, we load up and take off for Dawson City, site of the Klondike Gold Rush. Dawson City is a gold mine (excuse the pun) for photography. The town itself has many national historic buildings and vestiges of the gold rush are everywhere. The Tr’ondëk Hwëch’in aboriginal culture is evident both in exhibits within their cultural center and in their living culture in Dawson City and the surrounding countryside. Later that night, conditions permitting, we will awaken you for our first opportunity to photograph the incomparable Northern Lights. 
 
-Day 3
+#### Day 3
 Today we will wander the streets and alleyways of Dawson City, photographing its historic attractions and its people. We will drive to some of the major attractions from the Klondike’s Gold Rush past. At night, once again we will try to photograph the Northern Lights. 
 
-Day 4
+#### Day 4
 We leave Dawson City and cross the mighty Yukon River to explore the views along the spectacular Top of the World Highway... and our first opportunity to see caribou. Tonight is also our first portfolio review, where you will have an opportunity to share your best images, ask for critiques or just participate in helping the others improve their photographic skills. If Mother Nature cooperates, we have another chance to photograph the Northern Lights.
 
 {% img /images/bli/2015/11/DSC_3150 %}
 
-Day 5
+#### Day 5
 It’s up and out before sunrise, as we drive up the rugged Dempster Highway, Yukon’s only passage to the Arctic Circle. We eat breakfast while on the road and stop frequently to take advantage of the amazing scenery as it changes from forest to tundra. The mountains and valleys of the tundra cannot be described, except in photographs. En route we will have opportunities to see beaver, fox, black bears, grizzlies, moose and caribou. This is truly a landscape and wildlife photographer’s dream. 
 
 {% img /images/bli/2015/11/_LAP1876.jpg %}
 
-Day 6
+#### Day 6
 After a night spent in Eagle Plains, we wake up before dawn for an Arctic Circle sunrise.  We will spend the day photographing north and south of the Circle, capped off by sunset images. 
 
 {% img /images/bli/2015/11/_LAP2863-Edit %}
 
-Day 7
+#### Day 7
 We travel back to Dawson City, once again photographing the landscape and wildlife as we go. We arrive in Dawson City for a late dinner. Northern Lights again, anyone? How about occasional grizzlies?
 
 {% img /images/bli/2015/11/LAP_5261-Edit.jpg %}
 
-Day 8
+#### Day 8
 After an early breakfast we head back to Whitehorse. Depending on weather, we either head west to Kluane National Park or to Haines, Alaska. 
 
-Day 9
+#### Day 9
 A day in Kluane National Park or Haines, Alaska, followed by dinner and a workshop wrap-up. This is an opportunity to share images and ask for critique.
 
 {% img /images/bli/2015/11/Kluane-flightseeing.jpg %}
 
-Day 10
+#### Day 10
 Depending on flight schedules, we meet for breakfast and say farewells… for now. Transportation provided to the airport. 
 
 
