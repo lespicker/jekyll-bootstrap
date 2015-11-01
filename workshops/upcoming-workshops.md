@@ -255,7 +255,7 @@ Prepare yourself for a truly memorable adventure as we photograph our way from W
 
 Our goal of capturing the perfect light means sunrises and sunsets spent behind our cameras. But the best light of all may very well be at night, as we mount our cameras on tripods to photograph the exquisite and magical Northern Lights. 
 
-{% img /images/bli/2015/11/Aurora-over-Yukon.jpg %}
+{% img /images/lpfa-bli/2015/11/Aurora-over-Yukon.jpg %}
 
 En route, we will also spend time in Dawson City, epicenter of the historic Klondike Gold Rush. This quaint and historic town, with gravel roads, wood sidewalks, aboriginal culture and historic buildings, is tailor made for photography. 
 
@@ -310,7 +310,7 @@ Depending on flight schedules, we meet for breakfast and say farewells… for no
 ### Cost
 The cost of the Yukon workshop is $8,500 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers.  
 
-$2,000 deposit is due at sign up. Simply [click here]() to go to our Registration page. 
+$2,000 deposit is due at sign up. Simply [click here](http://shop.lesterpickerphoto.com/page/804) to go to our Registration page. 
 
 Deposits are refundable until 180 days prior to the start date, minus a $250 fee. From 180 days to 120 days prior to the start date, 50% of the deposit is refundable. After 120 days the entire deposit is non-refundable. 120 days prior to the start date all remaining fees are due. A reminder will be sent to participants. If three people do not sign up, the trip will be cancelled and 100% of all funds returned. 
 
