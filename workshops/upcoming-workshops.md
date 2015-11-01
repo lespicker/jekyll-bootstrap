@@ -255,7 +255,7 @@ Prepare yourself for a truly memorable adventure as we photograph our way from W
 
 Our goal of capturing the perfect light means sunrises and sunsets spent behind our cameras. But the best light of all may very well be at night, as we mount our cameras on tripods to photograph the exquisite and magical Northern Lights. 
 
-{% img /images/lpfa-bli/2015/11/Aurora-over-Yukon.jpg %}
+{% img /images/bli/2015/11/Aurora-over-Yukon.jpg %}
 
 En route, we will also spend time in Dawson City, epicenter of the historic Klondike Gold Rush. This quaint and historic town, with gravel roads, wood sidewalks, aboriginal culture and historic buildings, is tailor made for photography. 
 
