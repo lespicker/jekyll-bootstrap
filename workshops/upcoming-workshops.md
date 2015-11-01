@@ -278,7 +278,7 @@ Today we will wander the streets and alleyways of Dawson City, photographing its
 #### Day 4
 We leave Dawson City and cross the mighty Yukon River to explore the views along the spectacular Top of the World Highway... and our first opportunity to see caribou. Tonight is also our first portfolio review, where you will have an opportunity to share your best images, ask for critiques or just participate in helping the others improve their photographic skills. If Mother Nature cooperates, we have another chance to photograph the Northern Lights.
 
-{% img /images/bli/2015/11/DSC_3150 %}
+{% img /images/bli/2015/11/DSC_3150.jpg %}
 
 #### Day 5
 It’s up and out before sunrise, as we drive up the rugged Dempster Highway, Yukon’s only passage to the Arctic Circle. We eat breakfast while on the road and stop frequently to take advantage of the amazing scenery as it changes from forest to tundra. The mountains and valleys of the tundra cannot be described, except in photographs. En route we will have opportunities to see beaver, fox, black bears, grizzlies, moose and caribou. This is truly a landscape and wildlife photographer’s dream. 
@@ -288,7 +288,7 @@ It’s up and out before sunrise, as we drive up the rugged Dempster Highway, Yu
 #### Day 6
 After a night spent in Eagle Plains, we wake up before dawn for an Arctic Circle sunrise.  We will spend the day photographing north and south of the Circle, capped off by sunset images. 
 
-{% img /images/bli/2015/11/_LAP2863-Edit %}
+{% img /images/bli/2015/11/_LAP2863-Edit.jpg %}
 
 #### Day 7
 We travel back to Dawson City, once again photographing the landscape and wildlife as we go. We arrive in Dawson City for a late dinner. Northern Lights again, anyone? How about occasional grizzlies?
