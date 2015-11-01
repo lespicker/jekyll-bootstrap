@@ -266,7 +266,7 @@ For sample comments and testimonials from previous Yukon photo tours, please [cl
 
 ### General Itinerary
 
-Day 1
+#### Day 1
 All participants will be greeted at the airport and transported to the hotel (included in trip fee). 
 
 Day 2
