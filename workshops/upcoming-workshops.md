@@ -178,13 +178,13 @@ Special instructions regarding clothing, equipment and other information will be
 
 #### August 27 to September 4, 2016
 
-#### Photograph Grizzlies, Landscapes, and the Amazing Northern Lights
+##### Photograph Grizzlies, Landscapes, and the Amazing Northern Lights
 
 Please [Register Here](http://shop.lesterpickerphoto.com/page/804)
 
-### A Photo Adventure Like No Other: Canada’s Untamed Yukon Wilderness
+### A Photo Adventure Like No Other 
 
-Prepare yourself for a truly memorable adventure as we photograph our way from Whitehorse, Yukon to the Arctic Circle and back. Along the way we will witness the exotic arctic tundra changing into its dramatic fall colors right before our eyes. Traveling up the famed, graveled Dempster Highway, we will undoubtedly have opportunities to photograph trophy species such as grizzly bears, beaver, fox, and caribou. The luscious reds and yellows of the tundra light up the mountains and valleys during the day, making for incomparable landscape images. 
+Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back. Along the way we will witness the exotic arctic tundra changing into its dramatic fall colors right before our eyes. Traveling up the famed, graveled Dempster Highway, we will undoubtedly have opportunities to photograph trophy species such as grizzly bears, beaver, fox, and caribou. The luscious reds and yellows of the tundra light up the mountains and valleys during the day, making for incomparable landscape images. 
 
 {% img /images/bli/2015/11/DSC_3212-Pano.jpg %}
 
