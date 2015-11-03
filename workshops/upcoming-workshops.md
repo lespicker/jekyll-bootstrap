@@ -6,11 +6,11 @@ title: Upcoming Workshops
 
 [Printing Workshop](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
 
-[Acadia National Park Fall 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
-
 [Sri Lanka March 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
-[Yukon Photo Adventure](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
+[Yukon Photo Adventure August 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
+
+[Acadia National Park Fall 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
 
 ---
 
@@ -73,74 +73,6 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 - Up to 10 high-quality images (preferably in RAW format)
 
 [**Register here**](http://shop.lesterpickerphoto.com/page/803)
-
----
-
-### <a name="acadia"></a>Acadia National Park, Maine: Fall Foliage
-
-#### October 10-14, 2016
-
-{% img /images/2012/11/A0022734-pano.jpg %}
-
-To register, please [click here](http://shop.lesterpickerphoto.com/page/801).
-
-Some call it the most beautiful National Park in the country, a tiny gem compared to its larger siblings. Whether or not you agree, Maine’s Acadia National Park is an eye-candy destination for its combination of geology, flora, fauna… and weather.
-
-Join me for a 5-day exploration of the exciting photographic possibilities in Acadia. We will explore its intimate coves and vaunted mountains, its pristine seashore and lush forests. We have also timed this workshop to take advantage of fall foliage with its resplendent colors.
-
-Each morning we will embark on an adventure taking us to the fog-shrouded rocky coast or to photograph sunrise atop a mountain. We might hike a wooded path to capture sunlight streaking through mature pine forests, or photograph along one of Acadia’s picturesque fresh-water ponds.
-
-Each evening we will have an optional image review and critique.
-
-Les lived in Maine for ten years and received his doctorate in ecology from the University of Maine, using Acadia National Park for his research. Few photographers know the intricacies of Acadia as does Les.
-
-Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for a sampling of what former Acadia workshop attendees said about the workshop.
-
-### Workshop Fees
-
-$1495, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. To register, (http://shop.lesterpickerphoto.com/page/801).
-
-### Workshop Itinerary
-
-#### Monday, October 10
-
-Arrival, orientation and first shoot. 
-
-#### October 11, 12, 13
-
-Wake up early for sunrise/first morning shoot (locations are weather dependent)
-
-Second morning shoot
-
-LUNCH
-
-First afternoon shoot
-
-Second afternoon shoot
-
-Sunset shoot
-
-Dinner
-
-Evening image review and critique
-
-#### October 15
-
-Early morning shoots and wrap-up by noon
-
-Depending on daily weather conditions, we will photograph some of the most iconic and spectacular scenics in and around the National Park, including Jordan Pond and The Bubbles, Ocean Drive, Sand Beach, Otter Cliffs and Cove, Somes Sound, Bass Harbor, and more.
-
-To see images taken by previous workshop participants and for testimonials about the Acadia workshop, please [**visit here**](http://www.lesterpickerphoto.com/workshops/past-workshop.html). 
-
-To register, (http://shop.lesterpickerphoto.com/page/801).
-
-### Additional Acadia Information
-
-For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbor and all the other picturesque towns where we will be photographing, including places to eat, I recommend these websites:
-
-[Explore, Eat, and Relax in Acadia National Park, Mount Desert Island, Maine.](http://www.ouracadia.com/)
-
-[A New Yorker Talks to Herself about Maine | News and Notes about Acadia National Park and Mount Desert Island.](https://ouracadia.wordpress.com/)
 
 ---
 
@@ -340,6 +272,75 @@ Please do not book your air flights until we advise you to do so. You must also 
 
 
 [Register Here](http://shop.lesterpickerphoto.com/page/804)
+
+---
+
+### <a name="acadia"></a>Acadia National Park, Maine: Fall Foliage
+
+#### October 10-14, 2016
+
+{% img /images/2012/11/A0022734-pano.jpg %}
+
+To register, please [click here](http://shop.lesterpickerphoto.com/page/801).
+
+Some call it the most beautiful National Park in the country, a tiny gem compared to its larger siblings. Whether or not you agree, Maine’s Acadia National Park is an eye-candy destination for its combination of geology, flora, fauna… and weather.
+
+Join me for a 5-day exploration of the exciting photographic possibilities in Acadia. We will explore its intimate coves and vaunted mountains, its pristine seashore and lush forests. We have also timed this workshop to take advantage of fall foliage with its resplendent colors.
+
+Each morning we will embark on an adventure taking us to the fog-shrouded rocky coast or to photograph sunrise atop a mountain. We might hike a wooded path to capture sunlight streaking through mature pine forests, or photograph along one of Acadia’s picturesque fresh-water ponds.
+
+Each evening we will have an optional image review and critique.
+
+Les lived in Maine for ten years and received his doctorate in ecology from the University of Maine, using Acadia National Park for his research. Few photographers know the intricacies of Acadia as does Les.
+
+Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for a sampling of what former Acadia workshop attendees said about the workshop.
+
+### Workshop Fees
+
+$1495, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. To register, (http://shop.lesterpickerphoto.com/page/801).
+
+### Workshop Itinerary
+
+#### Monday, October 10
+
+Arrival, orientation and first shoot. 
+
+#### October 11, 12, 13
+
+Wake up early for sunrise/first morning shoot (locations are weather dependent)
+
+Second morning shoot
+
+LUNCH
+
+First afternoon shoot
+
+Second afternoon shoot
+
+Sunset shoot
+
+Dinner
+
+Evening image review and critique
+
+#### October 15
+
+Early morning shoots and wrap-up by noon
+
+Depending on daily weather conditions, we will photograph some of the most iconic and spectacular scenics in and around the National Park, including Jordan Pond and The Bubbles, Ocean Drive, Sand Beach, Otter Cliffs and Cove, Somes Sound, Bass Harbor, and more.
+
+To see images taken by previous workshop participants and for testimonials about the Acadia workshop, please [**visit here**](http://www.lesterpickerphoto.com/workshops/past-workshop.html). 
+
+To register, (http://shop.lesterpickerphoto.com/page/801).
+
+### Additional Acadia Information
+
+For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbor and all the other picturesque towns where we will be photographing, including places to eat, I recommend these websites:
+
+[Explore, Eat, and Relax in Acadia National Park, Mount Desert Island, Maine.](http://www.ouracadia.com/)
+
+[A New Yorker Talks to Herself about Maine | News and Notes about Acadia National Park and Mount Desert Island.](https://ouracadia.wordpress.com/)
+
 
 
 
