@@ -332,7 +332,7 @@ Depending on daily weather conditions, we will photograph some of the most iconi
 
 To see images taken by previous workshop participants and for testimonials about the Acadia workshop, please [**visit here**](http://www.lesterpickerphoto.com/workshops/past-workshop.html). 
 
-To register, (http://shop.lesterpickerphoto.com/page/801).
+[Register Now](http://shop.lesterpickerphoto.com/page/801).
 
 ### Additional Acadia Information
 
