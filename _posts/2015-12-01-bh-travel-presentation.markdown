@@ -17,7 +17,7 @@ tags:
 
 {% img /images/bli/2015/12/travel-ebook-jpg.jpg iBook example page %}
 
-In conjunction with the release of my latest photo ebook on Travel Photography, I will be giving a two-hour [travel photography presentation](#)(http://www.bhphotovideo.com/find/eventDetails.jsp/id/2202) at B&H Photo in The Big Apple. Attendance is free at B&H's amazing EventSpace. Located at B&H Photo, 420 9th Ave, New York City at 34th Street. Event Space is a high-tech room where I'll showcase both my worldwide travel photography, as well as present tips and techniques to bring your travel images from okay to WOW! I'll end my presentation with a roundup of the Museo Fine Art Papers on which we print our Limited Edition prints, as well as a discussion of the Canon printers we use for our large format photography. 
+In conjunction with the release of my latest photo ebook on Travel Photography, I will be giving a two-hour [travel photography presentation](http://www.bhphotovideo.com/find/eventDetails.jsp/id/2202) at B&H Photo in The Big Apple. Attendance is free at B&H's amazing EventSpace. Located at B&H Photo, 420 9th Ave, New York City at 34th Street. Event Space is a high-tech room where I'll showcase both my worldwide travel photography, as well as present tips and techniques to bring your travel images from okay to WOW! I'll end my presentation with a roundup of the Museo Fine Art Papers on which we print our Limited Edition prints, as well as a discussion of the Canon printers we use for our large format photography. 
 
 <!--more-->
 
