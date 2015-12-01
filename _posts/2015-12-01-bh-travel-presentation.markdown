@@ -23,7 +23,7 @@ In conjunction with the release of my latest photo ebook on Travel Photography, 
 
 The date is Thursday, December 17, from 4-6 PM on the second floor Event Space. 
 
-{% img img-left /images/bli/2015/12/travel-ebook-jpg.jpg iBook example page %}
+{% img img-left /images/bli/2015/12/travel-cover.44129a2f9d6347f6b1232524a69d95a1.jpg iBook cover %}
 
 And for those of you interested in upping your travel photography game, here is a link to my latest ebook, available as a pdf  [here](#)(http://shop.lesterpickerphoto.com/page/110) or as an iBook [here](#)(https://itunes.apple.com/us/book/travel-photography/id1058575742?ls=1&mt=11). My travel ebook contains 234 pages chock full of tips, techniques, images and suggestions for raising the bar for the visual travel stories you dream of showcasing to friends and family. 
 
