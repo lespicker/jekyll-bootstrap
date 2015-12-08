@@ -21,11 +21,9 @@ gallery:
 
 ### Acadia National Park, Mt. Desert Island, Maine
 
-These 4-day workshops take place every October in Maine's iconic Acadia National Park. For landscape artists few places can beat it, with its rocky coast, evergreen forests, streams, lakes, waterfalls and moss-cushioned woods. (All images here were taken by workshop participants). 
+These 4-day workshops take place every October in Maine's iconic Acadia National Park. For landscape artists few places can beat it, with its rocky coast, evergreen forests, streams, lakes, waterfalls and moss-cushioned woods. Registration is fast and simple. (All images here were taken by workshop participants). 
 
 {% img /images/2012/11/water-reflection-c-soderlund.jpg %}
-
-The Acadia National Park workshop is offered through [Nikonians Academy](http://www.nikoniansacademy.com/viewFacultyPage.html?page_id=7), where I am on the faculty. Registration is fast and simple. 
 
 ___
 
@@ -44,20 +42,9 @@ Our itinerary looks something like this, subject to weather conditions:
 Lunches and dinners are enjoyed together, over micro-brew beers, nice wines and lots of laughter and learning. 
 
 
-Here are some comments from participants:
+For comments and testimonials from participants, [please click here](http://www.lesterpickerphoto.com/workshops/acadia.html). 
 
-> I recently returned from a Nikonians workshop led by Les Picker at Acadia National Park. In a word it was outstanding. Les is an excellent teacher, photographer and leader. He was extremely knowledgeable about the Park and scouted out several beautiful photo venues in advance. He offered solid and comprehensive shooting tips geared to our individual needs and provided insightful feed back after each shoot. Perhaps most important he provided additional opportunity to review and improve our images after we returned home from the workshop. He was genuinely interested in our progress and it didn't end with the workshop. I recommend the workshop without reservation and look forward to attending another one with him.<cite>Lewis Rothman, M.D., New York City</cite>
-
-
->  I spent the better part of four photography-packed days exploring Mt. Desert Island under Les Picker's guidance. His depth of knowledge of the landscape, history and biology of the island informed our photography and took us to places that most other workshops just don't see. Les provided itineraries that were well-balanced between iconic locations and out-of-the-way gems. When the weather turned against us he led a stimulating, free-wheeling discussion in which all of the participants shared freely some of their favorite tools and photographic tricks. That afternoon we capitalized on the rain with a hike to a waterfall in full flow! Each evening we capped the day's work with a review of the day's events and Les' insightful critiques of a few of our images.
-
-> Les proved to be a great workshop instructor. He was attentive to the varied skill levels and needs that all of us brought to the event and was readily available in the field to provide technical assistance and one-on-one teaching. I really appreciated his gentle challenges to try new things.
-
-> To sum up, this was a great experience! Mt. Desert Island and Acadia National Park in the fall are unbelievably beautiful, and I can recommend it without reservation.<cite>Dave Soderlund, Ithaca, New York</cite>
-
-> This workshop was a special experience at multiple levels: image creation, learning, and in the case of this particular workshop, enjoying the camaraderie of a diverse group of people that quickly bonded sharing their passion for photography and enjoying each others company. Les' in-depth knowledge of Acadia enabled him to guide the group to a diverse set of sites on a off the beaten path, sunrise to sunset.  His gracious style in sharing his artistic and technical expertise set the tone for the group dynamics. Post shoot discussions were nicely balanced between a focus on developing an eye for the creative image and technical/practical tips and techniques. <cite>Thomas E. Wilson, North Sandwich, NH</cite>
-
-> The Nikonians Workshop in Maine, specifically to Mt. Desert Island in Acadia, led by Dr Lester Picker is an enriching, rewarding experience.  I suppose one could use the Internet to research iconic and remote photographic locations, make a list, and then try and do this sort of outing by yourself. But what you would be missing is Lester’s considerable experience and knowledge of the environs, the biology, ecology and geology of this unique area. What Les adds to the experience is what you are paying for, and you do get your money’s worth. His photographic experience is vast and going with Les lets you capitalize on all the wonderful ways he captures nature. His portfolio, speaks to this experience.<cite>Michael Neff, Virginia</cite>
+---
 
 ### <a name="srilanka"></a>Sri Lanka
 
@@ -65,11 +52,30 @@ Participants call this 11-day photo tour of Sri Lanka the height of their photog
 
 Sri Lanka boasts a warm climate, spectacular beach scenes, friendly and photogenic people, historical sites, architectural wonders, tea plantations, village culture and some of the best wildlife photography in the world (think elephants, leopards, bears, exotic birds and more).  And, for 11 intense days, we cover it all!
 
-Here are some comments from previous participants, along with some of the images they captured during the tour. Looking for high photo adventure? Consider the Nikonians Sri Lanka photo tour, next slated for March, 2016. 
+To read comments and testimonials from former participants, [please click here](http://www.lesterpickerphoto.com/workshops/srilanka-tes.html).
 
+Here are some of the images the participants captured during the tour. Looking for high photo adventure? Consider the Nikonians Sri Lanka photo tour, next slated for March 12-23, 2016.
 {% img /images/bli/2014/11/sri-lanka-student-images/langur-monkeys.jpg %}
 
-> The Sri Lanka trip was the most bang for the buck of any photo tour I have taken. The tour guide, Lester Picker, was knowledgeable, and full of information. Unlike many guides, he was there to make sure that the photo opportunities were available to the participants. On many tours, I think the tour guide is their only for a free ride to take his own shots! If you want to learn Lester is a great teacher. I would love to travel with him again. <cite>Will Randall, Florida</cite>
+---
 
-> The Nikonians workshop in Sri Lanka with Les Picker was my second Nikonians workshop with Les.  The experiences in Sri Lanka were outstanding.  Les worked with each student as much or as little as the student desired. He had planned to trip to optimize photo opportunities with a mixture of temples, nature, animals, landscape and people.  The tour company that handled the transportation, lodging and guides was excellent.  The lodging accommodations and dining were first class.  I look forward to my next tour with Les. <cite>James Harris, New Mexico</cite>
+### <a name="print"></a>Print Workshops
+
+Our print workshops are offered three or four times each year, in our modern studio located in historic Havre de Grace, Maryland. We utilize the latest in large format print technology, especially the latest printers from Canon. Canon is also one of our sponsors. 
+
+{% img /images/bli/2015/10/DSC_0396.jpg Prepping files for printing %}
+
+We limit the workshop to six participants so that we may offer individualized attention. Participants print their images on museum-quality archival papers made by Museo Fine Art Papers. 
+
+{% img /images/bli/2015/10/DSC_3475.jpg Bob instructing group %}
+
+The workshop is co-taught by Les Picker and his assistant, Master Printmaker Robert Boyer. Les is an international award-winning photographer with more than 40 years experience. Bob runs all print and IT operations for Les Picker Fine Art Photography. 
+
+{% img /images/bli/2015/10/DSC_3590.jpg A proud workshop attendee %}
+
+Our fine art print workshop is an intense, fun and collegial experience designed to teach the fundamentals of printmaking, while also having the satisfaction of returning home with 2-6 large format prints, ready for framing. Please [click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) to see a sample of comments from past print workshop participants.
+
+{% img /images/bli/2015/10/DSC_3602.jpg A gorgeous fine art print %}
+
+We welcome any questions you may have about our fine art print workshop. Please write directly to Les: lespicker@gmail.com
 

@@ -23,13 +23,13 @@ Last year I produced a first attempt at an instructional video. Admittedly, the 
 
 <!--more-->
 
-In making the video I was so distracted I actually missed taking a few shots in the sequence, which spells death for a pano, since you cannot just clone in large sections of images. Well, I guess you can, but it would never look right. When I discovered the error of my ways (or means), I was plenty upset. But I was saved by the fact that I had taken another pano for practice before I made the video. 
+In making the video I was so distracted I actually missed taking a few shots in the sequence, which spells death for a pano, since you cannot just clone in large sections of images. Well, I guess you can, but it would never look right. When I discovered the error of my ways (or means), I was plenty upset. But I was saved by the fact that I had taken another pano for practice before I made the video. One of the things I teach in my [workshops](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html) is to try to get at least two panos of the same scene to cover yourself in the case of screwups. 
 
 I thought I'd try to accomplish two things with this blog. First, show what a pano looks like taken from the scene of the instructional video, although about 100 feet back from the exact spot of the video. Second, to give you an idea of how I post-processed the pano. 
 
 ### Quick-And-Dirty
 
-First some data. The pano consists of 78 images taken in 3 rows of 26 images each. They were taken with a D800 at 36MP per image. You can imagine how long it took to assemble the image, even though I have a screaming fast pro desktop! Second, I am in the midst of several deadlines, so I did not devote a whole lot of time to post-0processing, as you'll see. The majority of the time was spent waiting for files to process and to stitch them together. Third, I would never have been able to do this without the help of my assistant, Bob, who graciously agreed that we needed to get this done since people have been requesting this for a year!!
+First some data. The pano consists of 78 images taken in 3 rows of 26 images each. They were taken with a D800 at 36MP per image. You can imagine how long it took to assemble the image, even though I have a screaming fast pro desktop! Second, I am in the midst of several deadlines, so I did not devote a whole lot of time to post-processing, as you'll see. The majority of the time was spent waiting for files to process and to stitch them together. Third, I would never have been able to do this without the help of my assistant, Bob, who graciously agreed that we needed to get this done since people have been requesting this for a year!!
 
 {% img /images/bli/2015/03/hawaii-pano-2.jpg %}
 
@@ -51,7 +51,7 @@ For this "final" image I added some contrast to the sky between the two rock pil
 
 A few more quick points. When shooting a pano you will often encounter issues with clouds and sky. Clouds move, sometimes very quickly, but these can be patched during post. Water also poses challenges, but can often be smoothed in post. Most important, if you take too long, as I did in the above pano, exposure can change dramatically, leaving you with significant post work, if you can save the image at all. 
 
-One thing I recommend is that you shoot your first panos in small jpegs, so that post-processing is dramatically shortened. Once your technique is etched into muscle memory, you can set up your shoot and proceed through it quickly and smoothly. 
+One thing I recommend is that you shoot your first panos in small jpegs, so that post-processing is dramatically shortened. Once your technique is etched into muscle memory, you can set up your shoot and proceed through it quickly and smoothly in RAW. 
 
 That's about it for this demo. I promise in future instructional videos to be more succinct. But, in any event, I really do appreciate your critiques and the lively comments and discussions that result. 
 
