@@ -79,6 +79,9 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 ### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife 
 #### March 12-23, 2016
 
+### Dubai Extension
+#### March 23-26, 2016
+
 {% img /images/bli/2015/05/conde-nast-ocean-picker-2.jpg %}
 
 [**Register here**](http://shop.lesterpickerphoto.com/page/802).
@@ -164,11 +167,22 @@ After breakfast we leave for Columbo. Take a walking tour of the capital city’
 After a quick meeting, exchange of email addresses and a wrap-up, we leave for the airport, exhausted, but with some memorable experiences and incredible images. 
 
 
-**Tour fee:** $5,500, double occupancy. Single room supplement is $900. Your fee includes fine hotels, in-country transportation, two meals/day (breakfast and dinner), qualified, English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
+**Tour fee:** $5,500 USD, double occupancy. Single room supplement is $900. Your fee includes fine hotels, in-country transportation, two meals/day (breakfast and dinner), qualified, English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
 
-**Deposit:** $1,000. Remainder will be billed and is due by end of November, 2015. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
+**Deposit:** $1,000. Remainder will be billed and is due by mid-January, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
 
 Special instructions regarding clothing, equipment and other information will be provided for participants when they register. Please note that daily destinations may change due to weather, impassable roads, or other conditions beyond our control.
+
+### Dubai Extension (4-days)
+### March 23-26, 2016
+
+Those of us who elect the Dubai extension will leave from Sri Lanka and fly directly to Dubai, the epicenter of the United Arab Emirates. Truly a cosmopolitan city, Dubai has the most skyscrapers of any city in the world. Beyond that, city planners have given unparalleled freedom to architects. The result is a photographer's paradise, with angles, reflections, spiraling towers, and architectural landscapes that are unmatched. 
+
+But our tour will definitely not be confined to architecture. We will be visiting mosques, capturing images from up high, shoot the desert and its sand dunes, markets of all types, Bedouins, beaches, and more. Plus, we will have an entire evening of night shooting in places that few tourists know about and rarely see.
+
+The cost of the Dubai extension is $1,250 USD.
+
+Interested? Contact us for more information or [**Register here**](http://shop.lesterpickerphoto.com/page/802). 
 
 ---
 
