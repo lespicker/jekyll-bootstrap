@@ -24,7 +24,7 @@ Man, am I excited! My upcoming 12-day [Sri Lanka Photo Tour](http://www.lesterpi
 
 Yes, I say "we all", because the Dubai segment is so incredible everyone who registered for Sri Lanka has elected to add the Dubai extension. No wonder. We will be doing a 4-hour night shoot, with Dubai's lights and skyscrapers and reflections. Then three 8-hour days of shooting sand dunes, desert, Bedouins, markets, beaches, architecture, mosques and more. 
 
-{% img imv-left /images/bli/2015/12/DSC_1158.jpg %}
+{% img img-left /images/bli/2015/12/DSC_1158.jpg %}
 
 Last year I spent a wonderful three days in Dubai, just getting acquainted with all it has to offer. I came away rather impressed by its energy, friendliness, architecture and food. So when the opportunity to go back with my tour group came up, I pounced. 
 
