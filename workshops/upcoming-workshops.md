@@ -173,7 +173,7 @@ After a quick meeting, exchange of email addresses and a wrap-up, we leave for t
 
 Special instructions regarding clothing, equipment and other information will be provided for participants when they register. Please note that daily destinations may change due to weather, impassable roads, or other conditions beyond our control.
 
-### Dubai Extension (4 days)
+### Dubai (4 days) Extension 
 #### March 23-26, 2016
 
 Those of us who elect the Dubai extension will leave from Sri Lanka and fly directly to Dubai, the epicenter of the United Arab Emirates. Truly a cosmopolitan city, Dubai has the most skyscrapers of any city in the world. Beyond that, city planners have given unparalleled freedom to architects. The result is a photographer's paradise, with angles, reflections, spiraling towers, and architectural landscapes that are unmatched. 
