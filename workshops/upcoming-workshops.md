@@ -176,6 +176,8 @@ Special instructions regarding clothing, equipment and other information will be
 ### Dubai Extension (4 days) 
 #### March 23-26, 2016
 
+{% img imv-left /images/bli/2015/12/DSC_1158.jpg %}
+
 Those of us who elect the Dubai extension will leave from Sri Lanka and fly directly to Dubai, the epicenter of the United Arab Emirates. Truly a cosmopolitan city, Dubai has the most skyscrapers of any city in the world. Beyond that, city planners have given unparalleled freedom to architects. The result is a photographer's paradise, with angles, reflections, spiraling towers, and architectural landscapes that are unmatched. 
 
 But our tour will definitely not be confined to architecture. We will be visiting mosques, capturing images from up high, shoot the desert and its sand dunes, markets of all types, Bedouins, beaches, and more. Plus, we will have an entire evening of night shooting in places that few tourists know about and rarely see.
