@@ -8163,21 +8163,11 @@ th.hide-for-touch {
   .top-bar-section ul.dropdown li {
     background: white;
   }
+  /* line 36, ../sass/_white-topbar.scss */
+  .top-bar-section a.social {
+    padding: 0 !important;
+  }
 }
-@font-face {
-  font-family: 'socicon';
-  src: url("/assets/font/socicon-webfont.eot");
-  src: url("/assets/font/socicon-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/font/socicon-webfont.woff") format("woff"), url("/assets/font/socicon-webfont.woff2") format("woff2"), url("/assets/font/socicon-webfont.ttf") format("truetype"), url("/assets/font/socicon-webfont.svg#sociconregular") format("svg");
-  font-weight: normal;
-  font-style: normal;
-  text-transform: initial;
-}
-
-/* line 55, ../sass/app.scss */
-.socicon {
-  font-family: 'socicon' !important;
-}
-
 /* line 68, ../sass/app.scss */
 .wf-loading h1 {
   visibility: hidden;
@@ -8859,46 +8849,47 @@ blockquote cite {
 }
 /* line 401, ../sass/app.scss */
 .social-list li {
+  padding-top: 1rem;
   display: inline;
 }
 
-/* line 406, ../sass/app.scss */
+/* line 407, ../sass/app.scss */
 #sidebar {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
   width: 100%;
   float: left;
 }
-/* line 409, ../sass/app.scss */
+/* line 410, ../sass/app.scss */
 #sidebar img {
   margin-top: 0.3em;
   margin-bottom: 1em;
 }
-/* line 413, ../sass/app.scss */
+/* line 414, ../sass/app.scss */
 #sidebar p {
   font-weight: 400;
 }
-/* line 416, ../sass/app.scss */
+/* line 417, ../sass/app.scss */
 #sidebar h3 {
   /* 		font-size: ms(1); */
   font-size: 1.2em;
   font-family: "anivers-sc";
   margin-bottom: 0;
 }
-/* line 422, ../sass/app.scss */
+/* line 423, ../sass/app.scss */
 #sidebar ul {
   margin-left: 0;
   padding-left: 0;
   list-style: none;
   list-style-type: none;
 }
-/* line 430, ../sass/app.scss */
+/* line 431, ../sass/app.scss */
 #sidebar a {
   font-family: "chaparral-pro-web";
 }
 
 @media screen and (min-width: 700px) {
-  /* line 436, ../sass/app.scss */
+  /* line 437, ../sass/app.scss */
   #content {
     padding-left: 0.9375rem;
     padding-right: 0.9375rem;
@@ -8908,7 +8899,7 @@ blockquote cite {
     float: right;
   }
 
-  /* line 439, ../sass/app.scss */
+  /* line 440, ../sass/app.scss */
   #sidebar {
     padding-left: 0.9375rem;
     padding-right: 0.9375rem;
@@ -8918,7 +8909,7 @@ blockquote cite {
     float: left;
   }
 }
-/* line 445, ../sass/app.scss */
+/* line 446, ../sass/app.scss */
 #bott-row {
   width: auto;
   margin-left: -0.9375rem;
@@ -8938,7 +8929,7 @@ blockquote cite {
   clear: both;
 }
 
-/* line 449, ../sass/app.scss */
+/* line 450, ../sass/app.scss */
 #bott-1 {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
@@ -8946,7 +8937,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 453, ../sass/app.scss */
+/* line 454, ../sass/app.scss */
 #bott-2 {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
@@ -8954,7 +8945,7 @@ blockquote cite {
   float: left;
 }
 
-/* line 457, ../sass/app.scss */
+/* line 458, ../sass/app.scss */
 #bott-3 {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
@@ -8963,7 +8954,7 @@ blockquote cite {
 }
 
 @media screen and (min-width: 700px) {
-  /* line 462, ../sass/app.scss */
+  /* line 463, ../sass/app.scss */
   #bott-1 {
     padding-left: 0.9375rem;
     padding-right: 0.9375rem;
@@ -8971,7 +8962,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 465, ../sass/app.scss */
+  /* line 466, ../sass/app.scss */
   #bott-2 {
     padding-left: 0.9375rem;
     padding-right: 0.9375rem;
@@ -8979,7 +8970,7 @@ blockquote cite {
     float: left;
   }
 
-  /* line 468, ../sass/app.scss */
+  /* line 469, ../sass/app.scss */
   #bott-3 {
     padding-left: 0.9375rem;
     padding-right: 0.9375rem;
@@ -8987,23 +8978,23 @@ blockquote cite {
     float: left;
   }
 }
-/* line 475, ../sass/app.scss */
+/* line 476, ../sass/app.scss */
 #archive ul {
   list-style: none;
   list-style-type: none;
 }
-/* line 479, ../sass/app.scss */
+/* line 480, ../sass/app.scss */
 #archive li {
   /* 		font-size: ms(1); */
 }
 
-/* line 485, ../sass/app.scss */
+/* line 486, ../sass/app.scss */
 #featured img {
   padding: 0;
   margin: 0;
 }
 
-/* line 491, ../sass/app.scss */
+/* line 492, ../sass/app.scss */
 .folio-grid {
   display: block;
   padding: 0;
@@ -9041,7 +9032,7 @@ blockquote cite {
   clear: both;
 }
 @media screen and (min-width: 700px) {
-  /* line 491, ../sass/app.scss */
+  /* line 492, ../sass/app.scss */
   .folio-grid {
     display: block;
     padding: 0;
@@ -9080,24 +9071,24 @@ blockquote cite {
   }
 }
 
-/* line 498, ../sass/app.scss */
+/* line 499, ../sass/app.scss */
 .nivoslider a {
   border: 0px;
   display: block;
 }
 
-/* line 503, ../sass/app.scss */
+/* line 504, ../sass/app.scss */
 .slider-wrapper.theme-light {
   padding: 0 !important;
   margin: 0 !important;
 }
-/* line 506, ../sass/app.scss */
+/* line 507, ../sass/app.scss */
 .slider-wrapper.theme-light img {
   padding: 0 !important;
   margin: 0 !important;
 }
 
-/* line 512, ../sass/app.scss */
+/* line 513, ../sass/app.scss */
 .theme-light .nivo-caption {
   background: rgba(0, 0, 0, 0.3) !important;
   font-family: "anivers-sc", "anivers-sc", Helvetica, Arial, sans-serif !important;

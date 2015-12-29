@@ -50,11 +50,11 @@
 @import "compass/css3/transition";
 @import "compass/css3/transform";
 @import "white-topbar";
-@import "socicon";
+//@import "socicon";
 
-.socicon {
-    font-family: 'socicon' !important;
-}
+//.socicon {
+//    font-family: 'socicon' !important;
+//}
 
 @mixin font-smoothing($font-smoothing) { 
   // none | antialiased | subpixel-antialiased
@@ -399,6 +399,7 @@ blockquote cite{
 	float: right;
 	list-style: none;
 	li{
+  	padding-top: 1rem;
 		display: inline;
 	}
 }
