@@ -214,6 +214,8 @@ Lester Picker (www.lesterpickerphoto.com), has more than 650 credits in major pu
 
 For sample comments and testimonials from previous Yukon photo tours, please [click here](http://www.lesterpickerphoto.com/workshops/yukon-tes.html).
 
+Please Note: medical/evacuation insurance is required for this trip. Les will provide suggestions for vendors upon registration. 
+
 
 ### General Itinerary
 
