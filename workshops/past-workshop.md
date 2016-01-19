@@ -67,7 +67,7 @@ Our print workshops are offered three or four times each year, in our modern stu
 
 We limit the workshop to six participants so that we may offer individualized attention. Participants print their images on museum-quality archival papers made by Museo Fine Art Papers. 
 
-{% img /images/bli/2015/10/DSC_3475.jpg Bob instructing group %}
+{% img /images/bli/2016/01/DSC_4779.jpg Group portrait %}
 
 The workshop is co-taught by Les Picker and his assistant, Master Printmaker Robert Boyer. Les is an international award-winning photographer with more than 40 years experience. Bob runs all print and IT operations for Les Picker Fine Art Photography. 
 
