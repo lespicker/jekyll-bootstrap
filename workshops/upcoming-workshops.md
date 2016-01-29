@@ -193,7 +193,7 @@ Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments al
 
 {% img /images/bli/2015/11/V2Print.jpg %}
 
-#### August 27 to September 4, 2016
+#### August 27 to September 5, 2016
 
 ##### Photograph Grizzlies, Landscapes, and the Amazing Northern Lights
 
