@@ -35,7 +35,7 @@ After an evening spent photographing sunset at one of Hana's beaches, we woke ne
 
 As with nearly all my rainbow images, this was shot with only a polarizing filter attached to my lens to allow the rainbow to pop. 
 
-Believe me, it was a fulfilling, photo-filled day as we drove back tot he northwest side of the island. Sunset over the water did not seem like it would amount to much, so my expectations were not high. But, a look toward the mountains and I pulled over to the side of the road for a final shot of a very partial rainbow. Not much to look at, but still a treat. 
+Believe me, it was a fulfilling, photo-filled day as we drove back to the northwest side of the island. Sunset over the water did not seem like it would amount to much, so my expectations were not high. But, a look toward the mountains and I pulled over to the side of the road for a final shot of a very partial rainbow. Not much to look at, but still a treat. 
 
 {% img /images/bli/2016/02/maui-rainbow-2.jpg %}
 
