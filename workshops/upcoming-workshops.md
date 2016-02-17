@@ -139,7 +139,7 @@ Are you ready to move your photo images from hiding in the dark recesses of your
 
 If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts. 
 
-By the end of our one- or two-day workshop, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
+By the end of our one- or two-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
 
 In the workshop you will print an unlimited number of proofs of  your best images. You will create large format prints. And, you can use any extra time to print as many other images as you want for simply the cost of materials. 
 
@@ -154,11 +154,13 @@ Les Picker (www.lesterpickerphoto.com) is an award-winning freelance photographe
 Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bob’s meticulous work and dynamic prints can be seen in permanent exhibits, as well as private homes. 
 
 #### Our Learning Environment
-Our studio has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable. 
+Our studio in Havre de Grace, Maryland has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable. 
 
 We use an Epson 9900 large format printer for prints up to 44” wide, as well as Canon printers for prints up to 24”. 
 
 Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing. 
+
+Our historic town of Havre de Grace is fortunate to have excellent lodging choices, great restaurants and lots of photographic opportunities. We will provide you with a lsit of these possibilities when you register. 
 
 #### What You Will Learn
 - Color-managed workflow
