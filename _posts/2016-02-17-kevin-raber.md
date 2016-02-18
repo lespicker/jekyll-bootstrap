@@ -30,7 +30,7 @@ It is a bit of a hassle getting to Molokai. You can get there by small plane, bu
 
 {% img /images/bli/2016/02/molokai-south-mountains.jpg Southern topography of Molokai %}
 
-Once off the boat on this visit, my first stop was at the popular Paddler's Inn, not to eat, but to visit with Al Mercel, a senior Hawaiian gentleman who is a legendary bonsai master. I am into bonsai (the art of miniature Japanese trees) myself, so my wife and I had a grand time spending a couple of hours with Al and Paddler's Inn owner Jerry. I love learning from experienced bonsai masters and Al fit the bill perfectly. Can't wait to see him next year. 
+Once off the boat on this visit, my first stop was at the popular Paddler's Inn, not to eat, but to visit with Al Mercel, a senior Hawaiian gentleman who is a legendary bonsai master. I am into bonsai (the art of miniature Japanese trees) myself, so my wife and I had a grand time spending a couple of hours with Al and Paddler's Inn owner Jerry. I love learning from experienced bonsai masters and Al fit the bill perfectly. Al's masterpieces are on display in the restaurant/bar and get lots of attention. Can't wait to see him next year. 
 
 On we went to Halawa Valley on the island's far east coast. This is not a trip for the faint-hearted, as the road hugs the coastal cliffs and winds its way to the spectacularly beautiful Halawa Valley park. The scenery is spectacular, but we were on Molokai only for a day visit this time, so I was conscious of the ferry's ticking clock and my need to keep moving. 
 
