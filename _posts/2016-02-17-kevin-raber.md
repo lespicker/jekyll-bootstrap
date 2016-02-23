@@ -17,7 +17,7 @@ tags:
 - Luminous Landscape
 ---
 
-{% img /images/bli/2016/02/halawa-valley.jpg % Halawa Valley}
+{% img /images/bli/2016/02/halawa-valley.jpg  Halawa Valley %}
 
 The thing with photography is that sometimes fun things happen with no warning whatsoever and for no apparent reason. Dumb luck, I suppose. So it was when I was on Molokai, Hawaii last week. 
 
