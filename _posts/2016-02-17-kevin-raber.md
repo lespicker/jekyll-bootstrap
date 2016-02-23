@@ -7,6 +7,7 @@ categories:
 - Headline
 - Travelogue
 tags:
+- test
 - photography
 - travel
 - Hawaii
