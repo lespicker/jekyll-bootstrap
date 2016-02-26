@@ -24,9 +24,11 @@ When it comes to recording panorama images, there is simple and complex. I often
 
 <!--more-->
 
-Yesterday I was driving along the back side of Haleakala, the extinct volcanic mountain that dominates the island of Maui, when I came to one of my favorite spots on the island. From where I stood there is a commanding view of the entire sweep of Haleakala, from its 10,000-foot summit to the ocean. I have tried to render this pano a few other times, but I was unsuccessful for one reason or other, be it weather, a missed frame or difficult lighting. 
+Yesterday I was driving along the dry back side of Haleakala, the extinct volcanic mountain that dominates the island of Maui, when I came to one of my favorite spots on the island. From where I stood there is a commanding view of the entire sweep of Haleakala, from its 10,000-foot summit to the ocean. I have tried to render this pano a few other times, but I was unsuccessful for one reason or other, be it weather, a missed frame or difficult lighting. 
 
-This time I was a little pressed for time, so I decided to just capture a simple, one-row pano, as you can see if the lead image. I've done a YouTube video on how to capture a [multi-row pano](https://www.youtube.com/watch?v=edgmob9gtQ4), which now has more than 60,000 views. But this time, since I was doing a one-row pano, I thought I'd share with you some tips on shooting panos. 
+This time I was a little pressed for time, so I decided to just capture a simple, one-row pano. I liked the way that Haleakala captured the clouds in a tidy line and how they obscure the summit. 
+
+I've done a YouTube video on how to capture a [multi-row pano](https://www.youtube.com/watch?v=edgmob9gtQ4), which now has more than 60,000 views. But this time, since I was doing a one-row pano, I thought I'd share with you some tips on shooting panos. 
 
 ### The Data
 
