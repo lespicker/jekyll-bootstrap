@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tales of Whales
+title: Haleakala Pano
 comments: true
 categories:
 - Featured
