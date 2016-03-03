@@ -37,7 +37,7 @@ Leuthard generously gives away his work in [free ebook downloads](http://thomas.
 
 As a former newspaper photographer several lifetimes ago, I agree with his take... in principal. However, Leuthard's work is so intensely personal, sometimes painfully so, I can't imagine what he must have done to capture some of his amazing images. But, there, I said it! The artistic end result is amazing. As for me, when I seek to capture a street portrait in detail, I almost always ask for permission first. 
 
-{% img /images/bli/2016/03/leuthard-woman-praying.jpg Leuthard image %}
+{% img /images/bli/2016/03/leuthard-muslim-woman.jpg Leuthard image %}
 
 Leuthard's body of work reminds me a bit of Dorothea Lange's iconic work during the Great Depression. If you are serious about street photography, I urge you to take a leisurely stroll through Leuthard's work. Look carefully. Study his use of shadows, how he can tell a story through capturing images of people's feet (!), how he masterfully defines the human experience in the mundane details of everyday life. There is much to learn. 
 
