@@ -57,7 +57,7 @@ I then backtracked to Dawson City, one of my very favorite places to be. With a 
 
 That night I looked at the sky, as I always do in Dawson, and saw the beginnings of some twinkling on the horizon. I dressed warmly, grabbed my photo gear and raced out the door. Fifteen minutes later I was atop Dome Mountain, shooting a spectacular Northern Lights display. If you've ever seen a proper Northern Lights display, you know how humbling, even spiritual, it is. And this one was a grand-daddy display. 
 
-{% img /images/bli/2016/03/DSC_2941.jpg %}
+{% img /images/bli/2016/03/DSC_2941.jpg Yukon River lit up by the Northern Lights %}
 
 A group of tourists from Japan stood near me, oohing and aahing with every pulse of the lights. Streaks, curtains and flares lit up the night. Then, as suddenly as it started, it was over. I left at 3:00 AM, tired, but feeling very full, like I had eaten a gourmet meal. 
 
