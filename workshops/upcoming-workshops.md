@@ -7,11 +7,11 @@ title: Upcoming Workshops
 
 [Sri Lanka March 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
-[Printing Workshop April 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
+[Printing Workshop June 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
 
 [Yukon Photo Adventure August 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
 
-[Acadia National Park Fall 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
+[Acadia National Park October 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
 
 ---
 
@@ -131,7 +131,7 @@ Interested? Contact us for more information or [**Register here**](http://shop.l
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
 
-#### Saturday April 23, 2016
+#### Saturday June 4, 2016
 
 [**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
