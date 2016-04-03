@@ -52,7 +52,7 @@ If you think that cruising is nothing but one big, fat eat-fest, you’re… wel
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-572010-11-07.jpg"><img class="size-medium wp-image-788" title="Rhapsody of the Seas-Royal Caribbean 572010-11-07" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-572010-11-07-300x199.jpg" alt="" width="300" height="199"></a>
 
-Then there are the multitude of little cafes aboard ship, where one can indulge without incurring extra fees, as well as specialty cafes, like Ben and Jerry’s ice cream shops, for example, where you pay extra. And again, there are the free midnight buffets or “Chocolate Extravaganzas,” where even sniffing the decadent desserts concocted by the pastry chefs can cost you boku calories.
+Then there are the multitude of little cafes aboard ship, where one can indulge without incurring extra fees, as well as specialty cafes, like Ben and Jerry’s ice cream shops, for example, where you pay extra. And again, there are the free midnight buffets or “Chocolate Extravaganzas,” where even sniffing the decadent desserts concocted by the pastry chefs can cost you beaucoup calories.
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-282010-11-07.jpg"><img class="size-medium wp-image-789" title="Rhapsody of the Seas-Royal Caribbean 282010-11-07" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-282010-11-07-300x199.jpg" alt="" width="300" height="199"></a>
 
