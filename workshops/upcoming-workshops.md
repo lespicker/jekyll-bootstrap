@@ -18,7 +18,7 @@ title: Upcoming Workshops
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
 
-#### Saturday June 4, 2016
+#### Saturday June 11, 2016
 
 [**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
