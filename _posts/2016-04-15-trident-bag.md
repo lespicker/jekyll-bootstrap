@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trident Laptop Bag: A Review
+title: A Review of the Trident Messenger Bag
 comments: true
 categories:
 - Featured
@@ -22,7 +22,7 @@ Every so often I am sent photography-related products to review for my readers (
 
 <!--more-->
 
-That is how I arranged with [e/c/b/c](www.ec-bc.com) to review their Trident Messenger Bag laptop case, along with their ultra-slim portable power pack. I was intrigued by the Trident's  design and possible utility for photographers on the move. 
+That is how I arranged with [e/c/b/c](http://www.ec-bc.com) to review their Trident Messenger Bag laptop case, along with their ultra-slim portable power pack. I was intrigued by the Trident's  design and possible utility for photographers on the move. 
 
 To set the stage, I used the Trident for an entire month, lugging it with me through airports, on boats, and on a photo assignment in Hawaii. So before sentencing you to reading this entire review, I'll summarize here: this bag is fantastic and would be the perfect bag for many photographers IF e/c/b/c would add just one thing to the bag. And what is that one thing? Ha! You'll have to serve your sentence to find out. 
 
