@@ -46,7 +46,7 @@ The images were shot @ 1/15 second @ f16 to get as much depth of field as possib
 
 **Center**. Make sure that the barrel of the lens is directly over the center of the tripod if you are using a pano head. This is critical to avoiding parallax issues. Nowadays more sophisticated software can compensate to a degree, but why take chances if you are putting in all this effort?
 
-**Nodal Point**. I recommend that you know the nodal point of your lenses and that you place the camera such that the nodal point is also directly over the central point of the tripod. I am preparing a video on finding the nodal point, so stay tuned for that (or go to the [RRS website](http://www.reallyrightstuff.com/Find-No-Parallax-Point) for a text explanation). 
+**Nodal Point**. I recommend that you know the nodal point of your lenses and that you place the camera such that the nodal point is also directly over the central point of the tripod. I have a [video on YouTube](https://youtu.be/IFQHoCjFTn8) on how to determine the nodal points for your lenses. 
 
 **Manual Exposure**. Once you set your exposure to the desired effect, switch to manual and lock it in. You do not want widely divergent exposures as you pan across the scene as that would be difficult, if not impossible, to repair in post. 
 
