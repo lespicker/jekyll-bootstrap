@@ -206,7 +206,7 @@ Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for 
 
 ### Workshop Fees
 
-$1495, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. To register, (http://shop.lesterpickerphoto.com/page/801).
+$1495, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
 
 ### Workshop Itinerary
 
@@ -230,9 +230,9 @@ Sunset shoot
 
 Dinner
 
-Evening image review and critique
+Evening image review and critique and/or night shoot
 
-#### October 15
+#### October 14
 
 Early morning shoots and wrap-up by noon
 
@@ -253,10 +253,10 @@ For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbo
 ---
 
 ### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife 
-#### March, 2017 (Exact Date TBA)
+#### March 11-22, 2017
 
 ### Dubai Extension
-#### March, 2017 (Exact Date TBA)
+#### March 22-26, 2017
 
 {% img /images/bli/2015/05/conde-nast-ocean-picker-2.jpg %}
 
@@ -276,7 +276,7 @@ Our air-conditioned bus will also have a certified country guide and a porter th
 
 The workshop will be led by [Les Picker](www.lesterpickerphoto.com), a professional photographer who has more than 650 published credits in National Geographic books and magazines, Forbes, Fortune publications, Better Homes & Gardens and dozens of other magazines and newspapers. [Les’ blog](http://blog.lesterpickerphoto.com) is widely followed and often quoted by media. Les received the prestigious Canada Northern Lights Award for Best Travel Photography. Les received a doctorate in ecology and has worked as a nature and photography guide in many locales. 
 
-Workshop is limited to 12 participants.
+Workshop is limited to 10 participants.
 
 {% img /images/bli/2015/05/conde-nast-ocean-picker-6.jpg "Dambulla" %}
 
@@ -288,9 +288,9 @@ Arrive in Columbo, capital of Sri Lanka. We arrange for you to be picked up at t
 
 8:00-9:00 PM Welcome and Orientation
 
-##### Day 2: Dambulla and Polonnaruwa
+##### Day 2: Dambulla and Surrounding Region
 
-Dambulla is famous for its rock paintings and rock temples and is one of the most important sites for Buddhist pilgrimage. Dambulla leaves a lasting impression on many visitors. The heady mix of ancient art and fervent religious activity combined with the spiritual location leaves many visitors overwhelmed by the experience. Afternoon visit to  Polonnaruwa (UNESCO World Heritage Site), the medieval capital of Sri Lanka. Visit the world famous rock-cut Buddha statues of Gal Vihara and the Parakrama Samudra (‘Sea of Parakrama’) a 2500-hectare man made reservoir built between 1153 and1186 AD.
+Dambulla is famous for its rock paintings and rock temples and is one of the most important sites for Buddhist pilgrimage. Dambulla leaves a lasting impression on many visitors. The heady mix of ancient art and fervent religious activity combined with the spiritual location leaves many visitors overwhelmed by the experience. 
 Image review and discussion (each night)
 
 ##### Day 3: Sigiriya
@@ -309,9 +309,9 @@ Full day visit to Horton Plains National Park. Walk though the grasslands and Cl
 
 ##### Day 6: En route to Yala National Park
 
-Many opportunities for landscape and rural village images. Late afternoon safari.   
+Many opportunities for landscape and rural village images. 
 
-##### Day 7: Yala National Park
+##### Day 7: Yala National Park (2 safaris; morning and evening)
 
 A true highlight for anyone visiting Sri Lanka, we will take open-air safari vehicles through Yala NP. Yala is a forested park on the southwest side of the island, bordered by the Indian Ocean. Here we have the chance to see its famous leopards (the highest density of leopards in the world), huge bull elephants, water buffalo, monkeys, wild boar, colorful birds and other wildlife. Safaris take place at sunrise and in mid to late afternoon. In between we have time for a siesta or for individual photography outside the park.
 
@@ -319,11 +319,11 @@ A true highlight for anyone visiting Sri Lanka, we will take open-air safari veh
 
 ##### Day 8: Yala National Park and Udawalwe
 
-One last morning safari at Yala National Park. Afterwards leave for Udawalawe for one night. Afternoon photography safari in Udawalawe National Park where close to 50-60 Elephants can be seen and the Nursery Herd which comprise of many baby Elephants is one of the key attractions. The park is good for birds of prey and we will look for Grey-headed Fish Eagle, Black-shouldered Kite, Changeable Hawk Eagle, Crested Serpent Eagle, White-bellied Sea Eagle, Shikra, Common Kestrel, Brown Fish Owl and Western Marsh Harrier and many others.
+Leave for Udawalawe for one night. Afternoon photography safari in Udawalawe National Park where close to 50-60 Elephants can be seen and the Nursery Herd which comprise of many baby Elephants is one of the key attractions. The park is good for birds of prey and we will look for Grey-headed Fish Eagle, Black-shouldered Kite, Changeable Hawk Eagle, Crested Serpent Eagle, White-bellied Sea Eagle, Shikra, Common Kestrel, Brown Fish Owl and Western Marsh Harrier and many others.
 
 ##### Day 9: Galle
 
-Travel to the old port city of Galle for two nights, via Weligama. En-route photograph the stilt fishermen in the region near Galle.
+Travel to the old port city of Galle for two nights, via Weligama. En-route photograph the stilt fishermen in the region.
 
 {% img /images/bli/2015/05/conde-nast-ocean-picker-3.jpg "Stilt Fisherman" %}
 
@@ -343,22 +343,26 @@ After breakfast we leave for Columbo. Take a walking tour of the capital city’
 After a quick meeting, exchange of email addresses and a wrap-up, we leave for the airport, exhausted, but with some memorable experiences and incredible images. 
 
 
-**Tour fee:** $5,500 USD, double occupancy. Single room supplement is $900. Your fee includes fine hotels, in-country transportation, two meals/day (breakfast and dinner), qualified, English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
+**Tour fee:** $6,150 USD, double occupancy. Single room supplement is $1,025. Your fee includes the finest hotels, in-country transportation, two excellent meals/day (breakfast and dinner), qualified and licensed English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
 
-**Deposit:** $1,000. Remainder will be billed and is due by mid-January, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
+**Not included:** Airfare, tips, alcoholic beverages, lunch. 
 
-Special instructions regarding clothing, equipment and other information will be provided for participants when they register. Please note that daily destinations may change due to weather, impassable roads, or other conditions beyond our control.
+**Deposit:** $2,000; non-refundable after December 15, 2016. Remainder of fee will be billed and is due by December 31, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
+
+Detailed instructions regarding clothing, equipment and other information will be provided for participants when they register. Please note that daily destinations may change due to weather, impassable roads, or other conditions beyond our control.
 
 ### Dubai Extension (4 days) 
 #### March 23-26, 2016
 
 {% img img-left /images/bli/2015/12/DSC_1158.jpg %}
 
-Those of us who elect the Dubai extension will leave from Sri Lanka and fly directly to Dubai, the epicenter of the United Arab Emirates. Truly a cosmopolitan city, Dubai has the most skyscrapers of any city in the world. Beyond that, city planners have given unparalleled freedom to architects. The result is a photographer's paradise, with angles, reflections, spiraling towers, and architectural landscapes that are unmatched. 
+Those of us who elect the Dubai extension will leave from Sri Lanka and fly directly to Dubai, the epicenter of the United Arab Emirates and one of the safest cities in the world. Truly a cosmopolitan city, Dubai has the most skyscrapers of any city in the world. Beyond that, city planners have given unparalleled freedom to architects. The result is a photographer's paradise, with angles, reflections, spiraling towers, and architectural landscapes that are unmatched. 
 
-But our tour will definitely not be confined to architecture. We will be visiting mosques, capturing images from up high, shoot the desert and its sand dunes, markets of all types, Bedouins, beaches, and more. Plus, we will have an entire evening of night shooting in places that few tourists know about and rarely see.
+But our tour will definitely not be confined to architecture. We will be visiting mosques, capturing images from many vantage points, markets of all types, beaches, and more. Plus, we will have two evenings of night shooting in Dubai's exciting public spaces.
 
-The cost of the Dubai extension is $1,250 USD.
+We encourage our clients to book flights on Emirates airlines, as the stop-over in Dubai is free and no visa is required for Americans and tourists from several other nations. 
+
+The cost of the Dubai extension is $1,550 USD.
 
 Interested? Contact us for more information or [**Register here**](http://shop.lesterpickerphoto.com/page/802). 
 
