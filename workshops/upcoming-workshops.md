@@ -345,9 +345,9 @@ After a quick meeting, exchange of email addresses and a wrap-up, we leave for t
 
 **Tour fee:** $6,150 USD, double occupancy. Single room supplement is $1,025. Your fee includes the finest hotels, in-country transportation, two excellent meals/day (breakfast and dinner), qualified and licensed English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
 
-**Not included:** Airfare, tips, alcoholic beverages, lunch. 
+**Not included:** Airfare, tips, alcoholic beverages, some lunches. 
 
-**Deposit:** $2,000; non-refundable after December 15, 2016. Remainder of fee will be billed and is due by December 31, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
+**Deposit:** $2,000; non-refundable after November 15, 2016. Remainder of fee will be billed and is due by December 31, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
 
 Detailed instructions regarding clothing, equipment and other information will be provided for participants when they register. Please note that daily destinations may change due to weather, impassable roads, or other conditions beyond our control.
 
