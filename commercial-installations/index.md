@@ -10,7 +10,9 @@ comments: false
 
 At Les Picker Fine Art Photography we take great pride in transforming office, hospital, and corporate environments into luscious, visually exciting living spaces. Research has clearly shown the benefits of fine art images in promoting feelings of well-being. 
 
-We will never promote a one-size-fits-all approach to our valued clients. Instead we arrange an initial consultation where we discuss your needs and desired outcomes. We measure the available spaces and then propose a customized visual solution.  Whether it be planning an entire hospital's installation of calming naturescapes, or travel and cultural images for an international consulting company, we work with our clients to develop an individualized solution. We help you create the mood you desire, with an artful grouping of images and displays. 
+We will never promote a one-size-fits-all approach to our valued clients. Instead we arrange an initial consultation where we discuss your needs and desired outcomes. We measure the available spaces and then propose a customized visual solution.  Whether it be planning an entire hospital's installation of calming naturescapes, or travel and cultural images for an international consulting company, we work with our clients to develop an individualized solution. We help you create the mood you desire, with an artful grouping of images and displays.
+
+<iframe src="https://player.vimeo.com/video/163415026" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/163415026">Hospital Installations</a> from <a href="https://vimeo.com/user4796650">Lester Picker</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
 
 We offer a wide variety of display options, including traditional framed prints, modern front-mounted plexiglass or aluminum prints, backlit LED displays, window treatments, and our popular and durable wall coverings, as well as other display options. Each is briefly described below.  
 
