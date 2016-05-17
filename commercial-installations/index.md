@@ -4,7 +4,7 @@ title: Commercial Installations
 comments: false
 ---
 
-## Commercial Art Installations
+## Corporate Art Installations
 
 {% img /images/2012/11/Sinai0080.jpg %}
 
@@ -44,7 +44,7 @@ We print our images on the highest quality backlit fabrics and synthetic materia
 
 ### Wall Coverings
 
-<iframe src="http://player.vimeo.com/video/53699025?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/53699025">Wall Covering Installation</a> from <a href="http://vimeo.com/user4796650">Lester Picker</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/133679502" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/133679502">wallpaper-2-HD</a> from <a href="https://vimeo.com/user4796650">Lester Picker</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Are you looking for exceptional visual pizzazz for large wall coverage? Then our specialized wall coverings are perfect. We print in our studio on the best quality wall covering vinyl from Intelicoat Technologies, the finest manufacturer in the United States. We then double coat each strip to achieve utmost durability. We can install images as long as your wall runs. The video (above) shows a recent thirty-foot wall that we covered with one of Les' purpose-shot images of Baltimore Harbor. 
 
