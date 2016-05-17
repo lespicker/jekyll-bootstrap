@@ -206,7 +206,7 @@ Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for 
 
 ### Workshop Fees
 
-$1495, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
+$1495, plus hotel, transportation, meals. The workshop is limited to 8 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
 
 ### Workshop Itinerary
 
