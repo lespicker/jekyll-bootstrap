@@ -36,4 +36,6 @@ categories:
  
 > Would I do it again? Yes, but my bucket list is overflowing at the moment. <cite>Joe Farrell, Pennsylvania, 2016</cite>
 
+> I had visited Sri Lanka over 40 years ago, so my experience on this trip was like a new adventure for me to this fascinating island nation. In addition, this was my first trip on an organized photo tour led by a professional photographer. Everything about the trip went remarkably smoothly, evidence of all the unseen efforts that went into planning and organizing our daily activities, the high quality of our accommodations and food, and the friendly, knowledgeable and helpful guide who accompanied us. All of this contributed to the ease with which we were able to concentrate on the myriad photographic opportunities that we encountered. The shorter trip to Dubai presented us with a very different photographic environment but equally fascinating and rewarding. Finding myself in the company of Les and a small group of highly accomplished and supportive photographers contributed greatly to the quality of my experience. I have already signed up for two additional forthcoming trips with Les, and am looking forward to building on the knowledge and insights gained on this trip. <cite>Chris Cluett, Washington, 2016</cite>
+
 
