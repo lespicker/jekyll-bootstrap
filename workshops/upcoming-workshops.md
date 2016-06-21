@@ -4,77 +4,13 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-[Printing Workshop June 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
-
 [Yukon Photo Adventure August 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
+
+[Printing Workshop September 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
 
 [Acadia National Park October 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
 
 [Sri Lanka March 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
-
----
-
-### <a name="printing"></a>Intensive One-Day Printing Workshop
-
-{% img /images/bli/2015/04/image34-canvas.jpg %}
-
-#### Saturday June 11, 2016
-
-[**Register here**](http://shop.lesterpickerphoto.com/page/803)
-
-Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop. 
-
-If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts. 
-
-By the end of our one- or two-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
-
-In the workshop you will print an unlimited number of proofs of  your best images. You will create large format prints. And, you can use any extra time to print as many other images as you want for simply the cost of materials. 
-
-And unlike virtually all printing workshops you will see advertised, we never accept more than five people, so you are assured of individual attention in a learning environment second to none. 
-
-[Click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) for a sampling of what former workshop participants have to say about the workshop.
-
-
-#### About Us
-Les Picker (www.lesterpickerphoto.com) is an award-winning freelance photographer with credits in National Geographic publications and dozens of magazines, books and newspapers. His prints are featured in permanent exhibitions. His blog is followed by passionate photographers worldwide. Les is the Master Photographer for Museo Fine Art papers. He is a faculty member of the Nikonians Academy, where he leads photography workshops and tours worldwide. 
-
-Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bob’s meticulous work and dynamic prints can be seen in permanent exhibits, as well as private homes. 
-
-#### Our Learning Environment
-Our studio in Havre de Grace, Maryland has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable. 
-
-We use an Epson 9900 large format printer for prints up to 44” wide, as well as Canon printers for prints up to 24”. 
-
-Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing. 
-
-Our historic town of Havre de Grace is fortunate to have excellent lodging choices, great restaurants and lots of photographic opportunities. We will provide you with a lsit of these possibilities when you register. 
-
-#### What You Will Learn
-- Color-managed workflow
-- Lightroom post-processing for prints
-- How to effectively negotiate the Lightroom Print Module
-- How to select appropriate papers for images
-- How to judge prints
-- Print display options
-
-#### What is included
-- Refreshments
-- Museum-quality photo papers
-- Use of professional and prosumer printers
-- Instruction from passionate photographers/print-makers
-- Individualized hands-on practice
-
-#### What is Not Included
-- Laptop
-- Software
-- Lunch
-
-#### What You Must Bring
-- Laptop computer
-- Latest version of Lightroom
-- Up to 10 high-quality images (preferably in RAW format)
-
-[**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
 ---
 
@@ -181,6 +117,70 @@ Please do not book your air flights until we advise you to do so. You must also 
 
 
 [Register Here](http://shop.lesterpickerphoto.com/page/804)
+
+---
+
+### <a name="printing"></a>Intensive One-Day Printing Workshop
+
+{% img /images/bli/2015/04/image34-canvas.jpg %}
+
+#### Saturday September 24, 2016
+
+[**Register here**](http://shop.lesterpickerphoto.com/page/803)
+
+Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop. 
+
+If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts. 
+
+By the end of our one- or two-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
+
+In the workshop you will print an unlimited number of proofs of  your best images. You will create large format prints. And, you can use any extra time to print as many other images as you want for simply the cost of materials. 
+
+And unlike virtually all printing workshops you will see advertised, we never accept more than five people, so you are assured of individual attention in a learning environment second to none. 
+
+[Click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) for a sampling of what former workshop participants have to say about the workshop.
+
+
+#### About Us
+Les Picker (www.lesterpickerphoto.com) is an award-winning freelance photographer with credits in National Geographic publications and dozens of magazines, books and newspapers. His prints are featured in permanent exhibitions. His blog is followed by passionate photographers worldwide. Les is the Master Photographer for Museo Fine Art papers. He is a faculty member of the Nikonians Academy, where he leads photography workshops and tours worldwide. 
+
+Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bob’s meticulous work and dynamic prints can be seen in permanent exhibits, as well as private homes. 
+
+#### Our Learning Environment
+Our studio in Havre de Grace, Maryland has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable. 
+
+We use an Epson 9900 large format printer for prints up to 44” wide, as well as Canon printers for prints up to 24”. 
+
+Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing. 
+
+Our historic town of Havre de Grace is fortunate to have excellent lodging choices, great restaurants and lots of photographic opportunities. We will provide you with a lsit of these possibilities when you register. 
+
+#### What You Will Learn
+- Color-managed workflow
+- Lightroom post-processing for prints
+- How to effectively negotiate the Lightroom Print Module
+- How to select appropriate papers for images
+- How to judge prints
+- Print display options
+
+#### What is included
+- Refreshments
+- Museum-quality photo papers
+- Use of professional and prosumer printers
+- Instruction from passionate photographers/print-makers
+- Individualized hands-on practice
+
+#### What is Not Included
+- Laptop
+- Software
+- Lunch
+
+#### What You Must Bring
+- Laptop computer
+- Latest version of Lightroom
+- Up to 10 high-quality images (preferably in RAW format)
+
+[**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
 ---
 
