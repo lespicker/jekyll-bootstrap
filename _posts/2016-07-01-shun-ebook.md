@@ -38,7 +38,7 @@ But whatever the inspiration, nothing great in photography has ever been achieve
 
 In every great photographer's career, we see a tipping point where they suddenly find their style, a way of expressing themselves that is at once comfortable and somehow unique. That **differentiation** is what makes an Adams print so recognizable, or a Galen Rowell or Jimmy Chin image. 
 
-The final 'tion' in the external cycle of winning photographers is **experimentation**. These alpha photographers are constantly experimenting, trying new techniques, fiddling with equipment, and post-processing using new technologies. Ansel Adams sometimes pent weeks experimenting with ways to improve one print. In our day, exemplars like Tony Sweet are constantly stretching the envelope, embracing new technologies (think iPhones) or creative long exposures to advance their art. Fortunately we all benefit from their pioneering work. 
+The final 'tion' in the external cycle of winning photographers is **experimentation**. These alpha photographers are constantly experimenting, trying new techniques, fiddling with equipment, and post-processing using new technologies. Ansel Adams sometimes spent weeks experimenting with ways to improve one print. In our day, exemplars like Tony Sweet are constantly stretching the envelope, embracing new technologies (think iPhones) or creative long exposures to advance their art. Fortunately we all benefit from their pioneering work. 
 
 ### The Inner Muse
 
