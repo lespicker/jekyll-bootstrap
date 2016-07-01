@@ -8,6 +8,7 @@ categories:
 - Travelogue
 tags:
 - photography
+- ebook
 - masters
 - lessons
 - inspiration
