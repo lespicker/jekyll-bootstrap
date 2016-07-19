@@ -366,6 +366,124 @@ The cost of the Dubai extension is $1,550 USD.
 
 Interested? Contact us for more information or [**Register here**](http://shop.lesterpickerphoto.com/page/802). 
 
+---
+
+### <a name="myanmar"></a>Myanmar Photo Adventure 
+
+{% img /images/bli/2016/07/13956083160_5cbfce4be7_o.jpg %}
+
+#### November 1 to 14, 2017
+
+##### Photograph Culture, Landscapes, and Wildlife
+
+Please [Register Here](http://shop.lesterpickerphoto.com/page/805)
+
+### A Photo Adventure Like No Other 
+
+{% img /images/bli/2016/07/9028991715_10ae1976d9_o.jpg %}
+
+Myanmar (formerly Burma) is one of the most strikingly beautiful places on Earth, with lots of landscape, wildlife and cultural photo opps. I have crafted a private photo tour to Myanmar that is truly special. 
+
+By "private", I mean really private. I have been offered an opportunity to take just 5 photographers with me on this tour of a lifetime. The 14-day tour includes 13 nights accommodations in 4-star hotels and a 14-seater air conditioned bus just for our small group. All domestic flights within Myanmar are included, plus tons of extras. 
+
+I will be coordinating this trip with the same tour company that has coordinated my very successful Sri Lanka photo tours for the past few years, so I am confident this will be a very special event. I have included the itinerary below. 
+
+Perhaps the most exciting aspect of the trip is that we will be accompanied by world-renowned Myanmar photographer A.P. Soe. You may want to check out his imagery here. 
+
+The fee for the tour will be $7,250 and does not include airfare to and from Myanmar. A $3,500 deposit is required to reserve your spot. That deposit is 100% refundable until December 1, 2016. Final payment will be due on May 31, 2017. 
+
+
+## Myanmar Photo tour 
+Les Picker Fine Art Photography
+14 Days / 13 Nights
+November, 2017
+
+{% img /images/bli/2016/07/13956024027_a363780ab8_k.jpg %}
+
+#### Day 01 Arrival Yangon – Yangon City Tour
+Upon arrival in Yangon, you will be greeted, assisted and transferred to your hotel. There will be an orientation in a hotel conference room. Then visit Great Shwedagon Pagoda one of the wonders of the world where we can observe the ways of life of Buddhists such as offering the water, candles, flowers, etc. Then we celebrate with a welcome dinner at the hotel. Overnight at hotel in Yangon. 
+
+#### Day 02 Yangon – Bagan (Early morning flight)
+Breakfast at hotel. Then transfer to airport flight to Bagan. Arrive at Bagan and Visit - Novice Monastery & Environmental Portraiture – Temple sunset 1. Overnight at hotel in Bagan. 
+
+#### Day 03 Bagan
+Early morning transfer for hot air balloon photography over Bagan. Then back to hotel. Visit Bagan – Monks & Temple interiors – Low Light Portraiture – Temple sunset. Overnight at hotel in Bagan.
+ 
+#### Day 04 Bagan – Mandalay (Morning flight)
+Temple sunrise. Back to hotel and breakfast. Then transfer to airport flight to Mandalay. Arrive at Mandalay – Street Shoot – Monastery Shoot – U Bein sunset Bridge. Overnight at hotel in Mandalay. 
+
+#### Day 05 Mandalay
+Mandalay Hill Sunrise – Back to hotel and breakfast. Irrwaddy River Cruise to Mingun – Mingun Model Shoot. Back to Mandalay and overnight at hotel in Mandalay.
+ 
+#### Day 06 Mandalay – Kyaing Tong (Afternoon flight)
+Sunrise at U Bein Bridge. Transfer to airport flight to Kyaing Tong. Arrive at Kyaing Tong and transfer to hotel. Overnight at hotel in Kyaing Tong. 
+
+#### Day 07 Kyaing Tong
+Kyaing Tong – Vanishing En Tribe village Trek & Photo Shoot. 
+
+#### Day 08 Kyaing Tong 
+Kyaing Tong – Rice Terraces & Various Tribes. 
+
+#### Day 09 Kyaing Tong – Heho – Inle lake (Afternoon flight) 
+Kyaing Tong – Heho Flight 
+
+#### Day 10 Inle lake 
+Inle Lake – Shwe Yan Pyae Teakwood Novice Monastery – Fishermen Sunset. Photograph hazy blue mountains, floating farms and several kind of birds. Visit village of Inthars; photograph beautiful faces of Pa-O tribes, away from the tourist crowds; photograph sights around Inle Lake. Sunset from hotel. Overnight at hotel in Inle Lake. 
+
+#### Day 11 Inle lake – Indein Village 
+Sunrise from Hotel. Inle Lake – Indein – Photograph In Thein pagodas which is in ruins covered by trees and bushes; photograph floating gardens and floating villages, lotus-petal robe weaving looms. Ruins of Nyaung Oak – Padding “Studio” Session. 
+
+#### Day 12 Inle lake – Heho – Yangon (Evening flight) 
+Inle Lake – Sunrise of the Intha Fishermen. Morning boat excursion along the lake. Floating villages – Yangon 
+
+#### Day 13 Yangon
+Breakfast at hotel. Visit Yangon – including Novice Nunnery – Circular Train – Farewell Buffet Dinner at Karaweik Palace Restaurant with cultural show and dance. 
+
+#### Day 14 Yangon Departure
+Breakfast at hotel. Tour wrap-up, then transfer to airport for International departure. 
+
+{% img /images/bli/2016/07/9028991715_10ae1976d9_o.jpg %}
+
+#### 4+ Star Hotels 
+Yangon (Kandawgyi Palace Hotel)
+Bagan  (Aureum Palace Resort)
+Mandalay (Sedona Hotel)
+Inle lake (Inle Resort & Spa)
+Kyaing Tong (Amazing Kengtong Resort)
+We reserve the right to substitute hotels of equal status if these hotels are fully booked.
+
+{% img /images/bli/2016/07/14142664735_14590b1302_o.jpg %} 
+
+#### Service Included: 
+1. 13 Nights hotel accommodation including breakfast (Double/Twin Sharing basis) and dinner. 
+2. All transfers & sightseeing by private tour, 14-seater, a/c bus
+3. All domestic flight tickets as per itinerary. 
+4. Private boat at Inle Lake, Indein Villages, sunset boat at Bagan and Mingun Boat in Mandalay.
+5. Horse-carts at Bagan and Innwa in Mandalay and Premier Service of Ballooning in Bagan 
+6. All entrance fees and zone fees as per mentioned itinerary.
+7. A bottle of mineral water + a refresh towel each day.
+8. Domestic Airport Departure Tax.
+9. Porters fees for airports.
+10. Cameras and Video Cameras fees.
+11. All government taxes and service charges.
+12. Very experienced accompanying Photo tour guide 
+
+{% img /images/bli/2016/07/14139816262_1fcc5c5b79_o.jpg %} 
+
+#### Services Excluded
+Visa fees for Myanmar
+International Air-tickets to/from Myanmar 
+Personal expenditures Insurance fees for tour Lunches and dinners Tips for guide, drivers and model
+
+#### Fees
+Tour fee: 				$7,250/pp. double occupancy
+Single supplement: 1,200/pp
+
+Please [Register Here](http://shop.lesterpickerphoto.com/page/805)
+
+
+**All photographs by Aung P. Soe**
+
 
 
 
