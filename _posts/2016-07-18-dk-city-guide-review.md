@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DK City Guides: A Review
+title: DK City Guides - A Review
 comments: true
 categories:
 - Featured
