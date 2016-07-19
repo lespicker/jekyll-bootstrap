@@ -12,6 +12,8 @@ title: Upcoming Workshops
 
 [Sri Lanka March 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
+[Myanmar November 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#myanmar)
+
 ---
 
 ### <a name="yukon"></a>Yukon Photo Adventure 
@@ -442,9 +444,7 @@ Breakfast at hotel. Visit Yangon – including Novice Nunnery – Circular Train
 #### Day 14 Yangon Departure
 Breakfast at hotel. Tour wrap-up, then transfer to airport for International departure. 
 
-{% img /images/bli/2016/07/9028991715_10ae1976d9_o.jpg %}
-
-#### 4+ Star Hotels 
+### 4+ Star Hotels 
 Yangon (Kandawgyi Palace Hotel)
 Bagan  (Aureum Palace Resort)
 Mandalay (Sedona Hotel)
@@ -454,7 +454,7 @@ We reserve the right to substitute hotels of equal status if these hotels are fu
 
 {% img /images/bli/2016/07/14142664735_14590b1302_o.jpg %} 
 
-#### Service Included: 
+### Service Included: 
 1. 13 Nights hotel accommodation including breakfast (Double/Twin Sharing basis) and dinner. 
 2. All transfers & sightseeing by private tour, 14-seater, a/c bus
 3. All domestic flight tickets as per itinerary. 
@@ -470,12 +470,12 @@ We reserve the right to substitute hotels of equal status if these hotels are fu
 
 {% img /images/bli/2016/07/14139816262_1fcc5c5b79_o.jpg %} 
 
-#### Services Excluded
+### Services Excluded
 Visa fees for Myanmar
 International Air-tickets to/from Myanmar 
 Personal expenditures Insurance fees for tour Lunches and dinners Tips for guide, drivers and model
 
-#### Fees
+### Fees
 Tour fee: 				$7,250/pp. double occupancy
 Single supplement: 1,200/pp
 
