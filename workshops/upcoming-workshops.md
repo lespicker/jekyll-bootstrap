@@ -479,13 +479,12 @@ We reserve the right to substitute hotels of equal status if these hotels are fu
 6. Tips for guide and drivers
 
 ### Fees
-> Tour fee: 	$7,250/pp. double occupancy
-> Single supplement: 1,200/pp
+Tour fee: 	$7,250/pp. double occupancy (Single supplement: 1,200/pp)
 
 Please [Register Here](http://shop.lesterpickerphoto.com/page/805)
 
 
-**All photographs by Aung P. Soe, whop will be our guide**
+**All photographs by Aung P. Soe, who will be our guide**
 
 
 
