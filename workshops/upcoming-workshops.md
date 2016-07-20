@@ -471,18 +471,21 @@ We reserve the right to substitute hotels of equal status if these hotels are fu
 {% img /images/bli/2016/07/14139816262_1fcc5c5b79_o.jpg %} 
 
 ### Services Excluded
-Visa fees for Myanmar
-International Air-tickets to/from Myanmar 
-Personal expenditures Insurance fees for tour Lunches and dinners Tips for guide, drivers and model
+1. Visa fees for Myanmar
+2. International Air-tickets to/from Myanmar 
+3. Personal expenditures
+4. Insurance fees for tour
+5. Lunches
+6. Tips for guide and drivers
 
 ### Fees
-Tour fee: 				$7,250/pp. double occupancy
-Single supplement: 1,200/pp
+> Tour fee: 	$7,250/pp. double occupancy
+> Single supplement: 1,200/pp
 
 Please [Register Here](http://shop.lesterpickerphoto.com/page/805)
 
 
-**All photographs by Aung P. Soe**
+**All photographs by Aung P. Soe, whop will be our guide**
 
 
 
