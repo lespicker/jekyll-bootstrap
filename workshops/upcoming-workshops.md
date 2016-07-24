@@ -374,7 +374,7 @@ Interested? Contact us for more information or [**Register here**](http://shop.l
 
 {% img /images/bli/2016/07/13956083160_5cbfce4be7_o.jpg %}
 
-#### November 1 to 14, 2017
+#### November 1 to 14, 2017 - SOLD OUT
 
 ##### Photograph Culture, Landscapes, and Wildlife
 
@@ -398,7 +398,7 @@ The fee for the tour will be $7,250 and does not include airfare to and from Mya
 ## Myanmar Photo tour 
 Les Picker Fine Art Photography
 14 Days / 13 Nights
-November, 2017
+November, 2017 - **SOLD OUT**
 
 {% img /images/bli/2016/07/13956024027_a363780ab8_k.jpg %}
 
@@ -481,7 +481,7 @@ We reserve the right to substitute hotels of equal status if these hotels are fu
 ### Fees
 Tour fee: 	$7,250/pp. double occupancy (Single supplement: 1,200/pp)
 
-Please [Register Here](http://shop.lesterpickerphoto.com/page/805)
+Please [Register Here](http://shop.lesterpickerphoto.com/page/805) - **SOLD OUT**
 
 
 **All photographs by Aung P. Soe, who will be our guide**
