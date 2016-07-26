@@ -24,7 +24,7 @@ gallery:
 - [wildlife-7000-2.jpg, "Here's Looking At Ya, Yukon Territory, Canada"]
 - [wildlife-7000-3.jpg, "Bison, Yellowstone, USA"]
 - [DSC_2586.jpg, "The Breach, Maui, Hawaii"]
-- [wildlife-7000-5.jpg, "Lying in Wait, Kruger National Park, South Africa"]
+- [DSC_4594-Edit.jpg, "Lying in Wait, Kruger National Park, South Africa"]
 - [wildlife-7000-6.jpg, "Another Boring Photographer, Kruger National Park, Canada"]
 - [wildlife-7000-7.jpg, "Kalahari, South Africa"]
 - [DSC_2733.jpg, "Evening Light, Addo Park, South Africa"]
