@@ -19,7 +19,7 @@ gallery:
 - [water-0672.jpg, "Snaefellsnes, Iceland"]
 - [water-0673.jpg, "Insignificant, Iceland"]
 - [water-0674.jpg, "Icy Storm, Iceland"]
-- [water-7000-1.jpg, "Restless Ocean, Maui, Hawaii, USA"]
+- [B8397818.jpg, "Vermillion Lakes, Banff, Canada"]
 comments: false
 ---
 
