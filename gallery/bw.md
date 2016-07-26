@@ -25,7 +25,7 @@ gallery:
 - [bw-0600.jpg, "Brewing Storm, Milford Sound, New Zealand"]
 - [bw-0601.jpg, "Leaf, Zion National Park, USA"]
 - [bw-0602.jpg, "Sentinel of the Rocks, Zion National Park, USA"]
-- [_LAP9817-Edit.jpg, "Church, Albuquerque New Mexico]
+- [_LAP9817-Edit.jpg, "Church, Albuquerque New Mexico"]
 comments: false
 ---
 
