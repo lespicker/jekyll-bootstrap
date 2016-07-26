@@ -27,8 +27,8 @@ gallery:
 - [wildlife-7000-5.jpg, "Lying in Wait, Kruger National Park, South Africa"]
 - [wildlife-7000-6.jpg, "Another Boring Photographer, Kruger National Park, Canada"]
 - [wildlife-7000-7.jpg, "Kalahari, South Africa"]
-- [wildlife-7000-8.jpg, "Evening Light, Addo Park, South Africa"]
-- [DSC_2733.jpg, "Mom, Addo National Park, South Africa"]
+- [DSC_2733.jpg, "Evening Light, Addo Park, South Africa"]
+- [wildlife-7000-9.jpg, "Mom, Addo National Park, South Africa"]
 - [wildlife-7000-10.jpg, "End of Day, Addo Park, South Africa"]
 - [wildlife-7000-12.jpg, "The Buss, South Africa"]
 comments: false
