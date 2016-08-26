@@ -4,190 +4,15 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-
-[Sri Lanka March 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
-
-[Printing Workshop April 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
-
 [Yukon Photo Adventure August 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
 
-[Acadia National Park Fall 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
+[Printing Workshop September 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
 
----
+[Acadia National Park October 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
 
-### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife 
-#### March 12-23, 2016
+[Sri Lanka March 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
-### Dubai Extension
-#### March 23-26, 2016
-
-{% img /images/bli/2015/05/conde-nast-ocean-picker-2.jpg %}
-
-[**Register here**](http://shop.lesterpickerphoto.com/page/802).
-
-#### Photo Tour Description
-
-Some call it the most beautiful island in Asia. Whether or not you agree, Sri Lanka (formerly known as Ceylon) is most definitely a sparkling, mostly undiscovered jewel for its combination of geology, flora, fauna, people, culture and tropical weather. Sri Lanka has enjoyed peace and prosperity since its insurrection ended several years ago. Food and accommodations across the country are excellent. 
-
-Join us for a 12-day (11-night) exploration of the unparalleled photographic possibilities in this island nation. Located off the southernmost tip of India, Sri Lanka is replete with some of the oldest Buddhist and Hindu temples in the world (many still in use), some of the friendliest and most photogenic people on Earth, and wildlife that rivals Africa’s best locations  − all at a fraction of the cost. 
-
-In this photography tour we will intimately explore Sri Lanka’s landscape, from vaunted mountains to its pristine seashore, from its tidy and colorful tea plantations to its lush forests.
-
-Each morning we will embark on an adventure taking us from fog-shrouded tea plantations to cascading waterfalls, en route to photographing mountain sunsets. We will visit the country’s most picturesque temples and historical structures for architectural photos and opportunities to interact with Sri Lanka’s wonderful indigenous people. One of the highlights of the tour will be spending two days in famed Yala National Park, which boasts the densest wild leopard population on earth, along with bull elephants, crocodiles, water buffalo, monkeys and an incredible variety of colorful birds. Most evenings we will have an optional image review and critique. [See what other's had to say about Les' previous Sri Lanka photo-tour](http://www.lesterpickerphoto.com/workshops/past-workshop.html#srilanka).
-
-Our air-conditioned bus will also have a certified country guide and a porter throughout the trip to help with luggage at each stop. Porters are also available inexpensively at each location for those who wish to hire someone to help carry photo gear.
-
-The workshop will be led by [Les Picker](www.lesterpickerphoto.com), a professional photographer who has more than 650 published credits in National Geographic books and magazines, Forbes, Fortune publications, Better Homes & Gardens and dozens of other magazines and newspapers. [Les’ blog](http://blog.lesterpickerphoto.com) is widely followed and often quoted by media. Les received the prestigious Canada Northern Lights Award for Best Travel Photography. Les received a doctorate in ecology and has worked as a nature and photography guide in many locales. 
-
-Workshop is limited to 12 participants.
-
-{% img /images/bli/2015/05/conde-nast-ocean-picker-6.jpg "Dambulla" %}
-
-#### Tour Itinerary
-
-##### Day 1
-
-Arrive in Columbo, capital of Sri Lanka. We arrange for you to be picked up at the airport and taken to your hotel for a good night’s sleep.
-
-8:00-9:00 PM Welcome and Orientation
-
-##### Day 2: Dambulla and Polonnaruwa
-
-Dambulla is famous for its rock paintings and rock temples and is one of the most important sites for Buddhist pilgrimage. Dambulla leaves a lasting impression on many visitors. The heady mix of ancient art and fervent religious activity combined with the spiritual location leaves many visitors overwhelmed by the experience. Afternoon visit to  Polonnaruwa (UNESCO World Heritage Site), the medieval capital of Sri Lanka. Visit the world famous rock-cut Buddha statues of Gal Vihara and the Parakrama Samudra (‘Sea of Parakrama’) a 2500-hectare man made reservoir built between 1153 and1186 AD.
-Image review and discussion (each night)
-
-##### Day 3: Sigiriya
-
-Visit Sigiriya Rock Fortress archaeological site for a morning shoot and climb throughout the complex.
-
-Afternoon safari in Minneriya National Park for Elephants. Over 300 elephants gather on the receding shores of the Minneriya Tank. ‘The Gathering’ of Elephants at Minneriya is an awesome natural spectacle.
-
-##### Day 4: Landscapes and tea plantation
-
-Visit Nuwara Eliya, stopping for landscape images. En-route visit a Tea plantation. Overnight at Nuwara Elliya, a very rural, gorgeous mountain region with gorgeous landscape and waterfall photo opps.
-
-##### Day 5: Horton Plains National Park
-
-Full day visit to Horton Plains National Park. Walk though the grasslands and Cloud Forests to a popular viewpoint know as World’s end, which is an escarpment with a 870 m drop. Horton Plains offers excellent opportunities to photograph Sambar, Sri Lanka’s largest species of deer which are seen near the entrance. We look for montane endemics Yellow- eared Bulbul, Sri Lanka Bush Warbler, Sri Lanka Wood Pigeon, Sri Lanka White Eye, Dull Blue Flycatcher and if lucky the scarce montane endemic, Sri Lanka Whistling Thrush and many other birds. Also visit scenic  Bakers Falls. 
-
-##### Day 6: En route to Yala National Park
-
-Many opportunities for landscape and rural village images. Late afternoon safari.   
-
-##### Day 7: Yala National Park
-
-A true highlight for anyone visiting Sri Lanka, we will take open-air safari vehicles through Yala NP. Yala is a forested park on the southwest side of the island, bordered by the Indian Ocean. Here we have the chance to see its famous leopards (the highest density of leopards in the world), huge bull elephants, water buffalo, monkeys, wild boar, colorful birds and other wildlife. Safaris take place at sunrise and in mid to late afternoon. In between we have time for a siesta or for individual photography outside the park.
-
-{% img /images/bli/2015/05/conde-nast-ocean-picker-7.jpg "Leopard" %}
-
-##### Day 8: Yala National Park and Udawalwe
-
-One last morning safari at Yala National Park. Afterwards leave for Udawalawe for one night. Afternoon photography safari in Udawalawe National Park where close to 50-60 Elephants can be seen and the Nursery Herd which comprise of many baby Elephants is one of the key attractions. The park is good for birds of prey and we will look for Grey-headed Fish Eagle, Black-shouldered Kite, Changeable Hawk Eagle, Crested Serpent Eagle, White-bellied Sea Eagle, Shikra, Common Kestrel, Brown Fish Owl and Western Marsh Harrier and many others.
-
-##### Day 9: Galle
-
-Travel to the old port city of Galle for two nights, via Weligama. En-route photograph the stilt fishermen in the region near Galle.
-
-{% img /images/bli/2015/05/conde-nast-ocean-picker-3.jpg "Stilt Fisherman" %}
-
-##### Day 10: Galle
-
-Morning photo walk through the historic town. In the afternoon a photography session at the Galle Fort (UNESCO world heritage site). Here we focus on street photography and daily life. There are several buildings still rich with their original architecture. The maritime museum and the old Dutch museum harbor many artifacts of the colonial period of the country. The Dutch Church, built in the 18 century, is a unique photo opp. 
-At dusk take a walk along the shoreline.
-
-{% img /images/bli/2015/05/conde-nast-ocean-picker.jpg "Gray Langur Monkeys" %}
-
-##### Day 11: Columbo
-
-After breakfast we leave for Columbo. Take a walking tour of the capital city’s historical Fort and Pettah districts, where we will find everything from textiles to electronics to spices. The Old Dutch Museum, built in the 17th Century, still maintains its pristine architecture. The walk continues into the commercial hub of Colombo, now host to high-end restaurants, bars and shops, where we can take a breather, admire the artifacts and have a drink or two.
-
-##### Day 12: Departure
-
-After a quick meeting, exchange of email addresses and a wrap-up, we leave for the airport, exhausted, but with some memorable experiences and incredible images. 
-
-
-**Tour fee:** $5,500 USD, double occupancy. Single room supplement is $900. Your fee includes fine hotels, in-country transportation, two meals/day (breakfast and dinner), qualified, English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
-
-**Deposit:** $1,000. Remainder will be billed and is due by mid-January, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
-
-Special instructions regarding clothing, equipment and other information will be provided for participants when they register. Please note that daily destinations may change due to weather, impassable roads, or other conditions beyond our control.
-
-### Dubai Extension (4 days) 
-#### March 23-26, 2016
-
-{% img img-left /images/bli/2015/12/DSC_1158.jpg %}
-
-Those of us who elect the Dubai extension will leave from Sri Lanka and fly directly to Dubai, the epicenter of the United Arab Emirates. Truly a cosmopolitan city, Dubai has the most skyscrapers of any city in the world. Beyond that, city planners have given unparalleled freedom to architects. The result is a photographer's paradise, with angles, reflections, spiraling towers, and architectural landscapes that are unmatched. 
-
-But our tour will definitely not be confined to architecture. We will be visiting mosques, capturing images from up high, shoot the desert and its sand dunes, markets of all types, Bedouins, beaches, and more. Plus, we will have an entire evening of night shooting in places that few tourists know about and rarely see.
-
-The cost of the Dubai extension is $1,250 USD.
-
-Interested? Contact us for more information or [**Register here**](http://shop.lesterpickerphoto.com/page/802). 
-
----
-
-### <a name="printing"></a>Intensive One-Day Printing Workshop
-
-{% img /images/bli/2015/04/image34-canvas.jpg %}
-
-#### Saturday April 23, 2016
-
-[**Register here**](http://shop.lesterpickerphoto.com/page/803)
-
-Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop. 
-
-If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts. 
-
-By the end of our one- or two-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
-
-In the workshop you will print an unlimited number of proofs of  your best images. You will create large format prints. And, you can use any extra time to print as many other images as you want for simply the cost of materials. 
-
-And unlike virtually all printing workshops you will see advertised, we never accept more than five people, so you are assured of individual attention in a learning environment second to none. 
-
-[Click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) for a sampling of what former workshop participants have to say about the workshop.
-
-
-#### About Us
-Les Picker (www.lesterpickerphoto.com) is an award-winning freelance photographer with credits in National Geographic publications and dozens of magazines, books and newspapers. His prints are featured in permanent exhibitions. His blog is followed by passionate photographers worldwide. Les is the Master Photographer for Museo Fine Art papers. He is a faculty member of the Nikonians Academy, where he leads photography workshops and tours worldwide. 
-
-Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bob’s meticulous work and dynamic prints can be seen in permanent exhibits, as well as private homes. 
-
-#### Our Learning Environment
-Our studio in Havre de Grace, Maryland has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable. 
-
-We use an Epson 9900 large format printer for prints up to 44” wide, as well as Canon printers for prints up to 24”. 
-
-Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing. 
-
-Our historic town of Havre de Grace is fortunate to have excellent lodging choices, great restaurants and lots of photographic opportunities. We will provide you with a lsit of these possibilities when you register. 
-
-#### What You Will Learn
-- Color-managed workflow
-- Lightroom post-processing for prints
-- How to effectively negotiate the Lightroom Print Module
-- How to select appropriate papers for images
-- How to judge prints
-- Print display options
-
-#### What is included
-- Refreshments
-- Museum-quality photo papers
-- Use of professional and prosumer printers
-- Instruction from passionate photographers/print-makers
-- Individualized hands-on practice
-
-#### What is Not Included
-- Laptop
-- Software
-- Lunch
-
-#### What You Must Bring
-- Laptop computer
-- Latest version of Lightroom
-- Up to 10 high-quality images (preferably in RAW format)
-
-[**Register here**](http://shop.lesterpickerphoto.com/page/803)
+[Myanmar November 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#myanmar)
 
 ---
 
@@ -297,6 +122,70 @@ Please do not book your air flights until we advise you to do so. You must also 
 
 ---
 
+### <a name="printing"></a>Intensive One-Day Printing Workshop
+
+{% img /images/bli/2015/04/image34-canvas.jpg %}
+
+#### Saturday September 24, 2016
+
+[**Register here**](http://shop.lesterpickerphoto.com/page/803)
+
+Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop. 
+
+If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts. 
+
+By the end of our one- or two-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
+
+In the workshop you will print an unlimited number of proofs of  your best images. You will create large format prints. And, you can use any extra time to print as many other images as you want for simply the cost of materials. 
+
+And unlike virtually all printing workshops you will see advertised, we never accept more than six people, so you are assured of individual attention in a learning environment second to none. 
+
+[Click here](http://www.lesterpickerphoto.com/workshops/print-tes.html) for a sampling of what former workshop participants have to say about the workshop.
+
+
+#### About Us
+Les Picker (www.lesterpickerphoto.com) is an award-winning freelance photographer with credits in National Geographic publications and dozens of magazines, books and newspapers. His prints are featured in permanent exhibitions. His blog is followed by passionate photographers worldwide. Les is the Master Photographer for Museo Fine Art papers. He is a faculty member of the Nikonians Academy, where he leads photography workshops and tours worldwide. Les was named a Moab Master for his excellence in fine art printing. 
+
+Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bob’s meticulous work and dynamic prints of Les' work can be seen in permanent exhibits, exhibitions, offices, and private homes. 
+
+#### Our Learning Environment
+Our studio in Havre de Grace, Maryland has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable. 
+
+We use an Epson 9900 large format printer for prints up to 44” wide, as well as three Canon printers for prints up to 24”. 
+
+Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing. 
+
+Our historic town of Havre de Grace is fortunate to have excellent lodging choices, great restaurants and lots of photographic opportunities. We will provide you with a lsit of these possibilities when you register. 
+
+#### What You Will Learn
+- Color-managed workflow
+- Lightroom post-processing for prints
+- How to effectively negotiate the Lightroom Print Module
+- How to select appropriate papers for images
+- How to judge prints
+- Print display options
+
+#### What is included
+- Refreshments
+- Museum-quality photo papers
+- Use of professional and prosumer printers
+- Instruction from passionate photographers/print-makers
+- Individualized hands-on practice
+
+#### What is Not Included
+- Laptop
+- Software
+- Lunch
+
+#### What You Must Bring
+- Laptop computer
+- Latest version of Lightroom
+- Up to 10 high-quality images (preferably in RAW format)
+
+[**Register here**](http://shop.lesterpickerphoto.com/page/803)
+
+---
+
 ### <a name="acadia"></a>Acadia National Park, Maine: Fall Foliage
 
 #### October 10-14, 2016
@@ -319,7 +208,7 @@ Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for 
 
 ### Workshop Fees
 
-$1495, plus hotel, transportation, meals. The workshop is limited to 10 participants. Meals are at participants’ expense. Healthy snacks and bottled water are provided as part of workshop fee. To register, (http://shop.lesterpickerphoto.com/page/801).
+$1495, plus hotel, transportation, meals. The workshop is limited to 8 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
 
 ### Workshop Itinerary
 
@@ -343,9 +232,9 @@ Sunset shoot
 
 Dinner
 
-Evening image review and critique
+Evening image review and critique and/or night shoot
 
-#### October 15
+#### October 14
 
 Early morning shoots and wrap-up by noon
 
@@ -363,6 +252,239 @@ For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbo
 
 [A New Yorker Talks to Herself about Maine | News and Notes about Acadia National Park and Mount Desert Island.](https://ouracadia.wordpress.com/)
 
+---
+
+### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife 
+#### March 11-22, 2017
+
+### Dubai Extension
+#### March 22-26, 2017
+
+{% img /images/bli/2015/05/conde-nast-ocean-picker-2.jpg %}
+
+[**Register here**](http://shop.lesterpickerphoto.com/page/802).
+
+#### Photo Tour Description
+
+Some call it the most beautiful island in Asia. Whether or not you agree, Sri Lanka (formerly known as Ceylon) is most definitely a sparkling, mostly undiscovered jewel for its combination of geology, flora, fauna, people, culture and tropical weather. Sri Lanka has enjoyed peace and prosperity since its insurrection ended several years ago. Food and accommodations across the country are excellent. 
+
+Join us for a 12-day (11-night) exploration of the unparalleled photographic possibilities in this island nation. Located off the southernmost tip of India, Sri Lanka is replete with some of the oldest Buddhist and Hindu temples in the world (many still in use), some of the friendliest and most photogenic people on Earth, and wildlife that rivals Africa’s best locations  − all at a fraction of the cost. 
+
+In this photography tour we will intimately explore Sri Lanka’s landscape, from vaunted mountains to its pristine seashore, from its tidy and colorful tea plantations to its lush forests.
+
+Each morning we will embark on an adventure taking us from fog-shrouded tea plantations to cascading waterfalls, en route to photographing mountain sunsets. We will visit the country’s most picturesque temples and historical structures for architectural photos and opportunities to interact with Sri Lanka’s wonderful indigenous people. One of the highlights of the tour will be spending two days in famed Yala National Park, which boasts the densest wild leopard population on earth, along with bull elephants, crocodiles, water buffalo, monkeys and an incredible variety of colorful birds. Most evenings we will have an optional image review and critique. [See what other's had to say about Les' previous Sri Lanka photo-tour](http://www.lesterpickerphoto.com/workshops/past-workshop.html#srilanka).
+
+Our air-conditioned bus will also have a certified country guide and a porter throughout the trip to help with luggage at each stop. Porters are also available inexpensively at each location for those who wish to hire someone to help carry photo gear.
+
+The workshop will be led by [Les Picker](www.lesterpickerphoto.com), a professional photographer who has more than 650 published credits in National Geographic books and magazines, Forbes, Fortune publications, Better Homes & Gardens and dozens of other magazines and newspapers. [Les’ blog](http://blog.lesterpickerphoto.com) is widely followed and often quoted by media. Les received the prestigious Canada Northern Lights Award for Best Travel Photography. Les received a doctorate in ecology and has worked as a nature and photography guide in many locales. 
+
+Workshop is limited to 10 participants.
+
+{% img /images/bli/2015/05/conde-nast-ocean-picker-6.jpg "Dambulla" %}
+
+#### Tour Itinerary
+
+##### Day 1
+
+Arrive in Columbo, capital of Sri Lanka. We arrange for you to be picked up at the airport and taken to your hotel for a good night’s sleep.
+
+8:00-9:00 PM Welcome and Orientation
+
+##### Day 2: Dambulla and Surrounding Region
+
+Dambulla is famous for its rock paintings and rock temples and is one of the most important sites for Buddhist pilgrimage. Dambulla leaves a lasting impression on many visitors. The heady mix of ancient art and fervent religious activity combined with the spiritual location leaves many visitors overwhelmed by the experience. 
+Image review and discussion (each night)
+
+##### Day 3: Sigiriya
+
+Visit Sigiriya Rock Fortress archaeological site for a morning shoot and climb throughout the complex.
+
+Afternoon safari in Minneriya National Park for Elephants. Over 300 elephants gather on the receding shores of the Minneriya Tank. ‘The Gathering’ of Elephants at Minneriya is an awesome natural spectacle.
+
+##### Day 4: Landscapes and tea plantation
+
+Visit Nuwara Eliya, stopping for landscape images. En-route visit a Tea plantation. Overnight at Nuwara Elliya, a very rural, gorgeous mountain region with gorgeous landscape and waterfall photo opps.
+
+##### Day 5: Horton Plains National Park
+
+Full day visit to Horton Plains National Park. Walk though the grasslands and Cloud Forests to a popular viewpoint know as World’s end, which is an escarpment with a 870 m drop. Horton Plains offers excellent opportunities to photograph Sambar, Sri Lanka’s largest species of deer which are seen near the entrance. We look for montane endemics Yellow- eared Bulbul, Sri Lanka Bush Warbler, Sri Lanka Wood Pigeon, Sri Lanka White Eye, Dull Blue Flycatcher and if lucky the scarce montane endemic, Sri Lanka Whistling Thrush and many other birds. Also visit scenic  Bakers Falls. 
+
+##### Day 6: En route to Yala National Park
+
+Many opportunities for landscape and rural village images. 
+
+##### Day 7: Yala National Park (2 safaris; morning and evening)
+
+A true highlight for anyone visiting Sri Lanka, we will take open-air safari vehicles through Yala NP. Yala is a forested park on the southwest side of the island, bordered by the Indian Ocean. Here we have the chance to see its famous leopards (the highest density of leopards in the world), huge bull elephants, water buffalo, monkeys, wild boar, colorful birds and other wildlife. Safaris take place at sunrise and in mid to late afternoon. In between we have time for a siesta or for individual photography outside the park.
+
+{% img /images/bli/2015/05/conde-nast-ocean-picker-7.jpg "Leopard" %}
+
+##### Day 8: Yala National Park and Udawalwe
+
+Leave for Udawalawe for one night. Afternoon photography safari in Udawalawe National Park where close to 50-60 Elephants can be seen and the Nursery Herd which comprise of many baby Elephants is one of the key attractions. The park is good for birds of prey and we will look for Grey-headed Fish Eagle, Black-shouldered Kite, Changeable Hawk Eagle, Crested Serpent Eagle, White-bellied Sea Eagle, Shikra, Common Kestrel, Brown Fish Owl and Western Marsh Harrier and many others.
+
+##### Day 9: Galle
+
+Travel to the old port city of Galle for two nights, via Weligama. En-route photograph the stilt fishermen in the region.
+
+{% img /images/bli/2015/05/conde-nast-ocean-picker-3.jpg "Stilt Fisherman" %}
+
+##### Day 10: Galle
+
+Morning photo walk through the historic town. In the afternoon a photography session at the Galle Fort (UNESCO world heritage site). Here we focus on street photography and daily life. There are several buildings still rich with their original architecture. The maritime museum and the old Dutch museum harbor many artifacts of the colonial period of the country. The Dutch Church, built in the 18 century, is a unique photo opp. 
+At dusk take a walk along the shoreline.
+
+{% img /images/bli/2015/05/conde-nast-ocean-picker.jpg "Gray Langur Monkeys" %}
+
+##### Day 11: Columbo
+
+After breakfast we leave for Columbo. Take a walking tour of the capital city’s historical Fort and Pettah districts, where we will find everything from textiles to electronics to spices. The Old Dutch Museum, built in the 17th Century, still maintains its pristine architecture. The walk continues into the commercial hub of Colombo, now host to high-end restaurants, bars and shops, where we can take a breather, admire the artifacts and have a drink or two.
+
+##### Day 12: Departure
+
+After a quick meeting, exchange of email addresses and a wrap-up, we leave for the airport, exhausted, but with some memorable experiences and incredible images. 
+
+
+**Tour fee:** $6,150 USD, double occupancy. Single room supplement is $1,025. Your fee includes the finest hotels, in-country transportation, two excellent meals/day (breakfast and dinner), qualified and licensed English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
+
+**Not included:** Airfare, tips, alcoholic beverages, some lunches. 
+
+**Deposit:** $2,000; non-refundable after November 15, 2016. Remainder of fee will be billed and is due by December 31, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
+
+Detailed instructions regarding clothing, equipment and other information will be provided for participants when they register. Please note that daily destinations may change due to weather, impassable roads, or other conditions beyond our control.
+
+### Dubai Extension (4 days) 
+#### March 23-26, 2016
+
+{% img img-left /images/bli/2015/12/DSC_1158.jpg %}
+
+Those of us who elect the Dubai extension will leave from Sri Lanka and fly directly to Dubai, the epicenter of the United Arab Emirates and one of the safest cities in the world. Truly a cosmopolitan city, Dubai has the most skyscrapers of any city in the world. Beyond that, city planners have given unparalleled freedom to architects. The result is a photographer's paradise, with angles, reflections, spiraling towers, and architectural landscapes that are unmatched. 
+
+But our tour will definitely not be confined to architecture. We will be visiting mosques, capturing images from many vantage points, markets of all types, beaches, and more. Plus, we will have two evenings of night shooting in Dubai's exciting public spaces.
+
+We encourage our clients to book flights on Emirates airlines, as the stop-over in Dubai is free and no visa is required for Americans and tourists from several other nations. 
+
+The cost of the Dubai extension is $1,550 USD.
+
+Interested? Contact us for more information or [**Register here**](http://shop.lesterpickerphoto.com/page/802). 
+
+---
+
+### <a name="myanmar"></a>Myanmar Photo Adventure 
+
+{% img /images/bli/2016/07/13956083160_5cbfce4be7_o.jpg %}
+
+#### November 1 to 14, 2017 - SOLD OUT
+
+##### Photograph Culture, Landscapes, and Wildlife
+
+Please [Register Here](http://shop.lesterpickerphoto.com/page/805)
+
+### A Photo Adventure Like No Other 
+
+{% img /images/bli/2016/07/9028991715_10ae1976d9_o.jpg %}
+
+Myanmar (formerly Burma) is one of the most strikingly beautiful places on Earth, with lots of landscape, wildlife and cultural photo opps. I have crafted a private photo tour to Myanmar that is truly special. 
+
+By "private", I mean really private. I have been offered an opportunity to take just 5 photographers with me on this tour of a lifetime. The 14-day tour includes 13 nights accommodations in 4-star hotels and a 14-seater air conditioned bus just for our small group. All domestic flights within Myanmar are included, plus tons of extras. 
+
+I will be coordinating this trip with the same tour company that has coordinated my very successful Sri Lanka photo tours for the past few years, so I am confident this will be a very special event. I have included the itinerary below. 
+
+Perhaps the most exciting aspect of the trip is that we will be accompanied by world-renowned Myanmar photographer A.P. Soe. You may want to check out his imagery here. 
+
+The fee for the tour will be $7,250 and does not include airfare to and from Myanmar. A $3,500 deposit is required to reserve your spot. That deposit is 100% refundable until December 1, 2016. Final payment will be due on May 31, 2017. 
+
+
+## Myanmar Photo tour 
+Les Picker Fine Art Photography
+14 Days / 13 Nights
+November, 2017 - **SOLD OUT**
+
+{% img /images/bli/2016/07/13956024027_a363780ab8_k.jpg %}
+
+#### Day 01 Arrival Yangon – Yangon City Tour
+Upon arrival in Yangon, you will be greeted, assisted and transferred to your hotel. There will be an orientation in a hotel conference room. Then visit Great Shwedagon Pagoda one of the wonders of the world where we can observe the ways of life of Buddhists such as offering the water, candles, flowers, etc. Then we celebrate with a welcome dinner at the hotel. Overnight at hotel in Yangon. 
+
+#### Day 02 Yangon – Bagan (Early morning flight)
+Breakfast at hotel. Then transfer to airport flight to Bagan. Arrive at Bagan and Visit - Novice Monastery & Environmental Portraiture – Temple sunset 1. Overnight at hotel in Bagan. 
+
+#### Day 03 Bagan
+Early morning transfer for hot air balloon photography over Bagan. Then back to hotel. Visit Bagan – Monks & Temple interiors – Low Light Portraiture – Temple sunset. Overnight at hotel in Bagan.
+ 
+#### Day 04 Bagan – Mandalay (Morning flight)
+Temple sunrise. Back to hotel and breakfast. Then transfer to airport flight to Mandalay. Arrive at Mandalay – Street Shoot – Monastery Shoot – U Bein sunset Bridge. Overnight at hotel in Mandalay. 
+
+#### Day 05 Mandalay
+Mandalay Hill Sunrise – Back to hotel and breakfast. Irrwaddy River Cruise to Mingun – Mingun Model Shoot. Back to Mandalay and overnight at hotel in Mandalay.
+ 
+#### Day 06 Mandalay – Kyaing Tong (Afternoon flight)
+Sunrise at U Bein Bridge. Transfer to airport flight to Kyaing Tong. Arrive at Kyaing Tong and transfer to hotel. Overnight at hotel in Kyaing Tong. 
+
+#### Day 07 Kyaing Tong
+Kyaing Tong – Vanishing En Tribe village Trek & Photo Shoot. 
+
+#### Day 08 Kyaing Tong 
+Kyaing Tong – Rice Terraces & Various Tribes. 
+
+#### Day 09 Kyaing Tong – Heho – Inle lake (Afternoon flight) 
+Kyaing Tong – Heho Flight 
+
+#### Day 10 Inle lake 
+Inle Lake – Shwe Yan Pyae Teakwood Novice Monastery – Fishermen Sunset. Photograph hazy blue mountains, floating farms and several kind of birds. Visit village of Inthars; photograph beautiful faces of Pa-O tribes, away from the tourist crowds; photograph sights around Inle Lake. Sunset from hotel. Overnight at hotel in Inle Lake. 
+
+#### Day 11 Inle lake – Indein Village 
+Sunrise from Hotel. Inle Lake – Indein – Photograph In Thein pagodas which is in ruins covered by trees and bushes; photograph floating gardens and floating villages, lotus-petal robe weaving looms. Ruins of Nyaung Oak – Padding “Studio” Session. 
+
+#### Day 12 Inle lake – Heho – Yangon (Evening flight) 
+Inle Lake – Sunrise of the Intha Fishermen. Morning boat excursion along the lake. Floating villages – Yangon 
+
+#### Day 13 Yangon
+Breakfast at hotel. Visit Yangon – including Novice Nunnery – Circular Train – Farewell Buffet Dinner at Karaweik Palace Restaurant with cultural show and dance. 
+
+#### Day 14 Yangon Departure
+Breakfast at hotel. Tour wrap-up, then transfer to airport for International departure. 
+
+### 4+ Star Hotels 
+Yangon (Kandawgyi Palace Hotel)
+Bagan  (Aureum Palace Resort)
+Mandalay (Sedona Hotel)
+Inle lake (Inle Resort & Spa)
+Kyaing Tong (Amazing Kengtong Resort)
+We reserve the right to substitute hotels of equal status if these hotels are fully booked.
+
+{% img /images/bli/2016/07/14142664735_14590b1302_o.jpg %} 
+
+### Service Included: 
+1. 13 Nights hotel accommodation including breakfast (Double/Twin Sharing basis) and dinner. 
+2. All transfers & sightseeing by private tour, 14-seater, a/c bus
+3. All domestic flight tickets as per itinerary. 
+4. Private boat at Inle Lake, Indein Villages, sunset boat at Bagan and Mingun Boat in Mandalay.
+5. Horse-carts at Bagan and Innwa in Mandalay and Premier Service of Ballooning in Bagan 
+6. All entrance fees and zone fees as per mentioned itinerary.
+7. A bottle of mineral water + a refresh towel each day.
+8. Domestic Airport Departure Tax.
+9. Porters fees for airports.
+10. Cameras and Video Cameras fees.
+11. All government taxes and service charges.
+12. Very experienced accompanying Photo tour guide 
+
+{% img /images/bli/2016/07/14139816262_1fcc5c5b79_o.jpg %} 
+
+### Services Excluded
+1. Visa fees for Myanmar
+2. International Air-tickets to/from Myanmar 
+3. Personal expenditures
+4. Insurance fees for tour
+5. Lunches
+6. Tips for guide and drivers
+
+### Fees
+Tour fee: 	$7,250/pp. double occupancy (Single supplement: 1,200/pp)
+
+Please [Register Here](http://shop.lesterpickerphoto.com/page/805) - **SOLD OUT**
+
+
+**All photographs by Aung P. Soe, who will be our guide**
 
 
 

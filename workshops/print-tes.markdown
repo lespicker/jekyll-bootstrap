@@ -22,6 +22,15 @@ categories:
 
 > One spot left...." and I was fortunate enough to get it. I can say that meeting Les and Bob was a great experience in professionalism and talent. The "Print Your Own" workshop was small and intimate. It was a six to two (or 3 to 1) ratio of learners to instructors; usually unheard of in the art of photography workshops. The learners were talented photographers who had digital images worth hanging on the wall and the instructors who demonstrated multiple ways of accomplishing that goal. I highly recommend this workshop if you, as a photographer, are ready to hang your images on other people's walls or your own. <cite>Alfred Jerry Taylor, Maryland</cite> 
 
+> Bob and Les were outstanding. The amount and quality of the information was only limited by my ability to grasp and write it all down. Would highly recommend this workshop to anyone interested in purchasing a printer, getting more out of your printer, or looking for expertise in printing images. <cite>Dan Huddleston, Virginia</cite> 
+
+> Les…thanks so much for a terrific workshop.  I learned a lot, and came home with some beautiful prints!  But equally importantly, I feel as if I made a new friend in you. <cite>Gary Kohn, Maryland</cite> 
+
+> Les a hearty thank you to you and Bob. I was very impressed with your studio and the level of instruction.  I may have learned more today about processing and printing than in all of the 2 years I've been working at digital photography. Best of all my wife loves the prints.<cite>Frank Aquino, Maryland</cite> 
+
+
+
+
 
 
 

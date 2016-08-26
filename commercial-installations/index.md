@@ -4,13 +4,15 @@ title: Commercial Installations
 comments: false
 ---
 
-## Commercial Art Installations
+## Corporate Art Installations
 
 {% img /images/2012/11/Sinai0080.jpg %}
 
 At Les Picker Fine Art Photography we take great pride in transforming office, hospital, and corporate environments into luscious, visually exciting living spaces. Research has clearly shown the benefits of fine art images in promoting feelings of well-being. 
 
-We will never promote a one-size-fits-all approach to our valued clients. Instead we arrange an initial consultation where we discuss your needs and desired outcomes. We measure the available spaces and then propose a customized visual solution.  Whether it be planning an entire hospital's installation of calming naturescapes, or travel and cultural images for an international consulting company, we work with our clients to develop an individualized solution. We help you create the mood you desire, with an artful grouping of images and displays. 
+We will never promote a one-size-fits-all approach to our valued clients. Instead we arrange an initial consultation where we discuss your needs and desired outcomes. We measure the available spaces and then propose a customized visual solution.  Whether it be planning an entire hospital's installation of calming naturescapes, or travel and cultural images for an international consulting company, we work with our clients to develop an individualized solution. We help you create the mood you desire, with an artful grouping of images and displays.
+
+<iframe src="https://player.vimeo.com/video/163415026" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/163415026">Hospital Installations</a> from <a href="https://vimeo.com/user4796650">Lester Picker</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
 
 We offer a wide variety of display options, including traditional framed prints, modern front-mounted plexiglass or aluminum prints, backlit LED displays, window treatments, and our popular and durable wall coverings, as well as other display options. Each is briefly described below.  
 
@@ -44,7 +46,7 @@ We print our images on the highest quality backlit fabrics and synthetic materia
 
 ### Wall Coverings
 
-<iframe src="http://player.vimeo.com/video/53699025?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/53699025">Wall Covering Installation</a> from <a href="http://vimeo.com/user4796650">Lester Picker</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/133679502" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/133679502">Wall Coverings</a> from <a href="https://vimeo.com/user4796650">Lester Picker</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Are you looking for exceptional visual pizzazz for large wall coverage? Then our specialized wall coverings are perfect. We print in our studio on the best quality wall covering vinyl from Intelicoat Technologies, the finest manufacturer in the United States. We then double coat each strip to achieve utmost durability. We can install images as long as your wall runs. The video (above) shows a recent thirty-foot wall that we covered with one of Les' purpose-shot images of Baltimore Harbor. 
 
