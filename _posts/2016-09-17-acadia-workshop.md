@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oh, To Be Back in Maine!
+title: Don't Miss Out... Register Now!
 comments: true
 categories:
 - Featured
