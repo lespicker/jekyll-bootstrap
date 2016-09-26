@@ -363,7 +363,7 @@ Once registered, I will provide you with a very detailed list of what to bring, 
 ### Special Notes
 I emphasize that this is truly an adventure. Yukon is huge (20% larger land mass than California) with only 35,000 people (compared with California’s 35 million)!! That means we will be doing a lot of driving between Whitehorse, Dawson City and the Arctic Circle. It will also mean eating lunch from a cooler between shoots on some days. We will be using a rugged SUV, but things like flat tires are common. Weather is, of course, unpredictable and the sample itinerary above may need to be altered. Please note that cell phones do not work in most of the Yukon. Both men and women are welcome on this workshop. 
 
-Please do not book your air flights until we advise you to do so. You must also have traveler’s health and accident insurance. 
+Please do not book your air flights until we advise you to do so. You **must** also have traveler’s health and accident insurance. 
 
 
 [Register Here](http://shop.lesterpickerphoto.com/page/804)
