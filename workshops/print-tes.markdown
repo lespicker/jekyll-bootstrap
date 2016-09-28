@@ -28,6 +28,8 @@ categories:
 
 > Les a hearty thank you to you and Bob. I was very impressed with your studio and the level of instruction.  I may have learned more today about processing and printing than in all of the 2 years I've been working at digital photography. Best of all my wife loves the prints.<cite>Frank Aquino, Maryland</cite> 
 
+> The Les Picker Printing Workshop was an extremely valuable experience.  Whether one is considering printing at home or office, or whether one is considering improving results from an outside printing service…this workshop will improve your prints.  Utilizing both lecture and practical printing experience, knowledge was gained in software workflow, paper considerations and printer options/functionality.  And best of all were the actual large format prints which will soon be framed and on display.  A worthwhile experience!!! <cite>Steve Sattler, Maryland</cite>
+
 
 
 
