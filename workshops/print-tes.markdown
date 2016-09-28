@@ -24,6 +24,8 @@ categories:
 
 > Bob and Les were outstanding. The amount and quality of the information was only limited by my ability to grasp and write it all down. Would highly recommend this workshop to anyone interested in purchasing a printer, getting more out of your printer, or looking for expertise in printing images. <cite>Dan Huddleston, Virginia</cite> 
 
+> The workshop was informative, enjoyable, & organized, well worth attending. The time flew way to fast. It was great working with both Les and Bob.<cite>Debra Bailey, Maryland</cite>
+
 > Les…thanks so much for a terrific workshop.  I learned a lot, and came home with some beautiful prints!  But equally importantly, I feel as if I made a new friend in you. <cite>Gary Kohn, Maryland</cite> 
 
 > Les a hearty thank you to you and Bob. I was very impressed with your studio and the level of instruction.  I may have learned more today about processing and printing than in all of the 2 years I've been working at digital photography. Best of all my wife loves the prints.<cite>Frank Aquino, Maryland</cite> 
