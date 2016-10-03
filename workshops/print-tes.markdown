@@ -32,6 +32,8 @@ categories:
 
 > The Les Picker Printing Workshop was an extremely valuable experience.  Whether one is considering printing at home or office, or whether one is considering improving results from an outside printing service…this workshop will improve your prints.  Utilizing both lecture and practical printing experience, knowledge was gained in software workflow, paper considerations and printer options/functionality.  And best of all were the actual large format prints which will soon be framed and on display.  A worthwhile experience!!! <cite>Steve Sattler, Maryland</cite>
 
+> I want to thank you for a wonderful workshop. You opened up a whole world of printing and papers that I never knew. Spending time with two artisans that love their art is truly refreshing. Now I understand the quest of matching an image with the paper that best conveys the emotion.  Special thanks for letting me come back to print my large format prints; including my 22 x 66 panoramic of Sedona!<cite>Kevin Duncan, Maryland</cite>
+
 
 
 
