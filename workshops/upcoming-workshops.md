@@ -4,121 +4,15 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-[Yukon Photo Adventure August 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
-
 [Printing Workshop September 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
 
 [Acadia National Park October 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
 
 [Sri Lanka March 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
+[Yukon Photo Adventure August 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
+
 [Myanmar November 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#myanmar)
-
----
-
-### <a name="yukon"></a>Yukon Photo Adventure 
-
-{% img /images/bli/2015/11/V2Print.jpg %}
-
-#### August 27 to September 5, 2016
-
-##### Photograph Grizzlies, Landscapes, and the Amazing Northern Lights
-
-Please [Register Here](http://shop.lesterpickerphoto.com/page/804)
-
-### A Photo Adventure Like No Other 
-
-Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back. Along the way we will witness the exotic arctic tundra changing into its dramatic fall colors right before our eyes. Traveling up the famed, graveled Dempster Highway, we will undoubtedly have opportunities to photograph trophy species such as grizzly bears, beaver, fox, and caribou. The luscious reds and yellows of the tundra light up the mountains and valleys during the day, making for incomparable landscape images. 
-
-{% img /images/bli/2015/11/DSC_3212-Pano.jpg %}
-
-Our goal of capturing the perfect light means sunrises and sunsets spent behind our cameras. But the best light of all may very well be at night, as we mount our cameras on tripods to photograph the exquisite and magical Northern Lights. 
-
-{% img /images/bli/2015/11/Aurora-over-Yukon.jpg %}
-
-En route, we will also spend time in Dawson City, epicenter of the historic Klondike Gold Rush. This quaint and historic town, with gravel roads, wood sidewalks, aboriginal culture and historic buildings, is tailor made for photography. 
-
-Lester Picker (www.lesterpickerphoto.com), has more than 650 credits in major publications such as National Geographic books and magazines, Forbes, Better Homes & Gardens, Time, Inc. publications and dozens of others. Les was given Canada’s highest photography honor, the Northern Lights Award for Best Travel Photographer, a peer-juried competition. Les’ blog (http://blog.lesterpickerphoto.com) is widely followed and often quoted by media. 
-
-For sample comments and testimonials from previous Yukon photo tours, please [click here](http://www.lesterpickerphoto.com/workshops/yukon-tes.html).
-
-Please Note: medical/evacuation insurance is required for this trip. Les will provide suggestions for vendors upon registration. 
-
-
-### General Itinerary
-
-#### Day 1
-All participants will be greeted at the airport and transported to the hotel (included in trip fee). 
-
-#### Day 2
-After an early breakfast, we load up and take off for Dawson City, site of the Klondike Gold Rush. Dawson City is a gold mine (excuse the pun) for photography. The town itself has many national historic buildings and vestiges of the gold rush are everywhere. The Tr’ondëk Hwëch’in aboriginal culture is evident both in exhibits within their cultural center and in their living culture in Dawson City and the surrounding countryside. Later that night, conditions permitting, we will awaken you for our first opportunity to photograph the incomparable Northern Lights. 
-
-#### Day 3
-Today we will wander the streets and alleyways of Dawson City, photographing its historic attractions and its people. We will drive to some of the major attractions from the Klondike’s Gold Rush past. At night, once again we will try to photograph the Northern Lights. 
-
-#### Day 4
-We leave Dawson City and cross the mighty Yukon River to explore the views along the spectacular Top of the World Highway... and our first opportunity to see caribou. Tonight is also our first portfolio review, where you will have an opportunity to share your best images, ask for critiques or just participate in helping the others improve their photographic skills. If Mother Nature cooperates, we have another chance to photograph the Northern Lights.
-
-{% img /images/bli/2015/11/DSC_3150.jpg %}
-
-#### Day 5
-It’s up and out before sunrise, as we drive up the rugged Dempster Highway, Yukon’s only passage to the Arctic Circle. We eat breakfast while on the road and stop frequently to take advantage of the amazing scenery as it changes from forest to tundra. The mountains and valleys of the tundra cannot be described, except in photographs. En route we will have opportunities to see beaver, fox, black bears, grizzlies, moose and caribou. This is truly a landscape and wildlife photographer’s dream. 
-
-{% img /images/bli/2015/11/_LAP1876.jpg %}
-
-#### Day 6
-After a night spent in Eagle Plains, we wake up before dawn for an Arctic Circle sunrise.  We will spend the day photographing north and south of the Circle, capped off by sunset images. 
-
-{% img /images/bli/2015/11/_LAP2863-Edit.jpg %}
-
-#### Day 7
-We travel back to Dawson City, once again photographing the landscape and wildlife as we go. We arrive in Dawson City for a late dinner. Northern Lights again, anyone? How about occasional grizzlies?
-
-{% img /images/bli/2015/11/LAP_5261-Edit.jpg %}
-
-#### Day 8
-After an early breakfast we head back to Whitehorse. Depending on weather, we either head west to Kluane National Park or to Haines, Alaska. 
-
-#### Day 9
-A day in Kluane National Park or Haines, Alaska, followed by dinner and a workshop wrap-up. This is an opportunity to share images and ask for critique.
-
-{% img /images/bli/2015/11/Kluane-flightseeing.jpg %}
-
-#### Day 10
-Depending on flight schedules, we meet for breakfast and say farewells… for now. Transportation provided to the airport. 
-
-
-### Cost
-The cost of the Yukon workshop is $8,500 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers.  
-
-$2,000 deposit is due at sign up. Simply [click here](http://shop.lesterpickerphoto.com/page/804) to go to our Registration page. 
-
-Deposits are refundable until 180 days prior to the start date, minus a $250 fee. From 180 days to 120 days prior to the start date, 50% of the deposit is refundable. After 120 days the entire deposit is non-refundable. 120 days prior to the start date all remaining fees are due. A reminder will be sent to participants. If three people do not sign up, the trip will be cancelled and 100% of all funds returned. 
-
-All trip fees are quoted in US dollars and must be paid in US dollars.
-
-[Register Here](http://shop.lesterpickerphoto.com/page/804)
-
-### You Will Learn
-We will spend each day (and nights in the case of Northern Lights) photographing landscapes and wildlife with individualized instruction from Les. You will learn about the sub-Arctic and Arctic landscape, geology, geography, natural history and culture of the Yukon. You will learn beginning, intermediate and advanced techniques for photographing landscapes and wildlife. 
-
-### What To Bring
-You will be provided with a detailed list of what to bring. Medium format cameras are welcome, as Les is also an experienced Hasselblad digital photographer. 
-
-### What is Provided
-The fee includes almost everything once you arrive in Whitehorse, Yukon, such as airport transfers, all ground transportation, all meals, snacks, water, lodging (single person occupancy), insect repellent, bear spray, etc.* I also carry a GPS with an emergency rescue beacon. Your friends and relatives will be able to track you on a web-based map in near-real time as we progress. 
-
-Once registered, I will provide you with a very detailed list of what to bring, what to expect and more. 
-
-*Costs exclude transportation to and from Whitehorse, Yukon, vaccinations, passport fees, tips, alcoholic beverages and incidental expenses. 
-
-### Special Notes
-I emphasize that this is truly an adventure. Yukon is huge (20% larger land mass than California) with only 35,000 people (compared with California’s 35 million)!! That means we will be doing a lot of driving between Whitehorse, Dawson City and the Arctic Circle. It will also mean eating lunch from a cooler between shoots on some days. We will be using a rugged SUV, but things like flat tires are common. Weather is, of course, unpredictable and the sample itinerary above may need to be altered. Please note that cell phones do not work in most of the Yukon. Both men and women are welcome on this workshop. 
-
-Please do not book your air flights until we advise you to do so. You must also have traveler’s health and accident insurance. 
-
-
-[Register Here](http://shop.lesterpickerphoto.com/page/804)
 
 ---
 
@@ -367,6 +261,112 @@ We encourage our clients to book flights on Emirates airlines, as the stop-over 
 The cost of the Dubai extension is $1,550 USD.
 
 Interested? Contact us for more information or [**Register here**](http://shop.lesterpickerphoto.com/page/802). 
+
+---
+
+### <a name="yukon"></a>Yukon Photo Adventure 
+
+{% img /images/bli/2015/11/V2Print.jpg %}
+
+#### August 26 to September 4, 2017
+
+##### Photograph Grizzlies, Landscapes, and the Amazing Northern Lights
+
+Please [Register Here](http://shop.lesterpickerphoto.com/page/804)
+
+### A Photo Adventure Like No Other 
+
+Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back. Along the way we will witness the exotic arctic tundra changing into its dramatic fall colors right before our eyes. Traveling up the famed, graveled Dempster Highway, we will undoubtedly have opportunities to photograph trophy species such as grizzly bears, beaver, fox, and caribou. The luscious reds and yellows of the tundra light up the mountains and valleys during the day, making for incomparable landscape images. 
+
+{% img /images/bli/2015/11/DSC_3212-Pano.jpg %}
+
+Our goal of capturing the perfect light means sunrises and sunsets spent behind our cameras. But the best light of all may very well be at night, as we mount our cameras on tripods to photograph the exquisite and magical Northern Lights. 
+
+{% img /images/bli/2015/11/Aurora-over-Yukon.jpg %}
+
+En route, we will also spend time in Dawson City, epicenter of the historic Klondike Gold Rush. This quaint and historic town, with gravel roads, wood sidewalks, aboriginal culture and historic buildings, is tailor made for photography. 
+
+Lester Picker (www.lesterpickerphoto.com), has more than 650 credits in major publications such as National Geographic books and magazines, Forbes, Better Homes & Gardens, Time, Inc. publications and dozens of others. Les was given Canada’s highest photography honor, the Northern Lights Award for Best Travel Photographer, a peer-juried competition. Les’ blog (http://blog.lesterpickerphoto.com) is widely followed and often quoted by media. 
+
+For sample comments and testimonials from previous Yukon photo tours, please [click here](http://www.lesterpickerphoto.com/workshops/yukon-tes.html).
+
+Please Note: medical/evacuation insurance is required for this trip. Les will provide suggestions for vendors upon registration. 
+
+
+### General Itinerary
+
+#### Day 1
+All participants will be greeted at the airport and transported to the hotel (included in trip fee). 
+
+#### Day 2
+After an early breakfast, we load up and take off for Dawson City, site of the Klondike Gold Rush. Dawson City is a gold mine (excuse the pun) for photography. The town itself has many national historic buildings and vestiges of the gold rush are everywhere. The Tr’ondëk Hwëch’in aboriginal culture is evident both in exhibits within their cultural center and in their living culture in Dawson City and the surrounding countryside. Later that night, conditions permitting, we will awaken you for our first opportunity to photograph the incomparable Northern Lights. 
+
+#### Day 3
+Today we will wander the streets and alleyways of Dawson City, photographing its historic attractions and its people. We will drive to some of the major attractions from the Klondike’s Gold Rush past. At night, once again we will try to photograph the Northern Lights. 
+
+#### Day 4
+We leave Dawson City and cross the mighty Yukon River to explore the views along the spectacular Top of the World Highway... and our first opportunity to see caribou. Tonight is also our first portfolio review, where you will have an opportunity to share your best images, ask for critiques or just participate in helping the others improve their photographic skills. If Mother Nature cooperates, we have another chance to photograph the Northern Lights.
+
+{% img /images/bli/2015/11/DSC_3150.jpg %}
+
+#### Day 5
+It’s up and out before sunrise, as we drive up the rugged Dempster Highway, Yukon’s only passage to the Arctic Circle. We eat breakfast while on the road and stop frequently to take advantage of the amazing scenery as it changes from forest to tundra. The mountains and valleys of the tundra cannot be described, except in photographs. En route we will have opportunities to see beaver, fox, black bears, grizzlies, moose and caribou. This is truly a landscape and wildlife photographer’s dream. 
+
+{% img /images/bli/2015/11/_LAP1876.jpg %}
+
+#### Day 6
+After a night spent in Eagle Plains, we wake up before dawn for an Arctic Circle sunrise.  We will spend the day photographing north and south of the Circle, capped off by sunset images. 
+
+{% img /images/bli/2015/11/_LAP2863-Edit.jpg %}
+
+#### Day 7
+We travel back to Dawson City, once again photographing the landscape and wildlife as we go. We arrive in Dawson City for a late dinner. Northern Lights again, anyone? How about occasional grizzlies?
+
+{% img /images/bli/2015/11/LAP_5261-Edit.jpg %}
+
+#### Day 8
+After an early breakfast we head back to Whitehorse. Depending on weather, we either head west to Kluane National Park or to Haines, Alaska. 
+
+#### Day 9
+A day in Kluane National Park or Haines, Alaska, followed by dinner and a workshop wrap-up. This is an opportunity to share images and ask for critique.
+
+{% img /images/bli/2015/11/Kluane-flightseeing.jpg %}
+
+#### Day 10
+Depending on flight schedules, we meet for breakfast and say farewells… for now. Transportation provided to the airport. 
+
+
+### Cost
+The cost of the Yukon workshop is $8,500 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers.  
+
+$3,000 deposit is due at sign up. Simply [click here](http://shop.lesterpickerphoto.com/page/804) to go to our Registration page. 
+
+Deposits are refundable until 180 days prior to the start date, minus a $250 fee. From 180 days to 120 days prior to the start date, 50% of the deposit is refundable. After 120 days the entire deposit is non-refundable. 120 days prior to the start date all remaining fees are due. A reminder will be sent to participants. If three people do not sign up, the trip will be cancelled and 100% of all funds returned. 
+
+All trip fees are quoted in US dollars and must be paid in US dollars.
+
+[Register Here](http://shop.lesterpickerphoto.com/page/804)
+
+### You Will Learn
+We will spend each day (and nights in the case of Northern Lights) photographing landscapes and wildlife with individualized instruction from Les. You will learn about the sub-Arctic and Arctic landscape, geology, geography, natural history and culture of the Yukon. You will learn beginning, intermediate and advanced techniques for photographing landscapes and wildlife. 
+
+### What To Bring
+You will be provided with a detailed list of what to bring. Medium format cameras are welcome, as Les is also an experienced Hasselblad digital photographer. 
+
+### What is Provided
+The fee includes almost everything once you arrive in Whitehorse, Yukon, such as airport transfers, all ground transportation, all meals, snacks, water, lodging (single person occupancy), insect repellent, bear spray, etc.* I also carry a GPS with an emergency rescue beacon. Your friends and relatives will be able to track you on a web-based map in near-real time as we progress. 
+
+Once registered, I will provide you with a very detailed list of what to bring, what to expect and more. 
+
+*Costs exclude transportation to and from Whitehorse, Yukon, vaccinations, passport fees, tips, alcoholic beverages and incidental expenses. 
+
+### Special Notes
+I emphasize that this is truly an adventure. Yukon is huge (20% larger land mass than California) with only 35,000 people (compared with California’s 35 million)!! That means we will be doing a lot of driving between Whitehorse, Dawson City and the Arctic Circle. It will also mean eating lunch from a cooler between shoots on some days. We will be using a rugged SUV, but things like flat tires are common. Weather is, of course, unpredictable and the sample itinerary above may need to be altered. Please note that cell phones do not work in most of the Yukon. Both men and women are welcome on this workshop. 
+
+Please do not book your air flights until we advise you to do so. You **must** also have traveler’s health and accident insurance. 
+
+
+[Register Here](http://shop.lesterpickerphoto.com/page/804)
 
 ---
 
