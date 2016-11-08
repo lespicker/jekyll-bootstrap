@@ -239,11 +239,11 @@ After breakfast we leave for Columbo. Take a walking tour of the capital city’
 After a quick meeting, exchange of email addresses and a wrap-up, we leave for the airport, exhausted, but with some memorable experiences and incredible images. 
 
 
-**Tour fee:** $6,150 USD, double occupancy. Single room supplement is $1,025. Your fee includes the finest hotels, in-country transportation, two excellent meals/day (breakfast and dinner), qualified and licensed English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
+**Tour fee:** $7,650 USD, double occupancy. Single room supplement is $1,025. Your fee includes the finest hotels, in-country transportation, two excellent meals/day (breakfast and dinner), qualified and licensed English-speaking guide, experienced driver, porter, photography guide (Les Picker), entrance fees, walking tour fees, safari jeeps, in-country tour taxes, water and snacks. 
 
 **Not included:** Airfare, tips, alcoholic beverages, some lunches. 
 
-**Deposit:** $2,000; non-refundable after November 15, 2016. Remainder of fee will be billed and is due by December 31, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
+**Deposit:** $3,000; non-refundable after December 15, 2016. Remainder of fee will be billed and is due by December 28, 2016. [**Register here**](http://shop.lesterpickerphoto.com/page/802).
 
 Detailed instructions regarding clothing, equipment and other information will be provided for participants when they register. Please note that daily destinations may change due to weather, impassable roads, or other conditions beyond our control.
 
@@ -258,7 +258,7 @@ But our tour will definitely not be confined to architecture. We will be visitin
 
 We encourage our clients to book flights on Emirates airlines, as the stop-over in Dubai is free and no visa is required for Americans and tourists from several other nations. 
 
-The cost of the Dubai extension is $1,550 USD.
+The cost of the Dubai extension is $2,300 USD.
 
 Interested? Contact us for more information or [**Register here**](http://shop.lesterpickerphoto.com/page/802). 
 
@@ -292,6 +292,7 @@ For sample comments and testimonials from previous Yukon photo tours, please [cl
 
 Please Note: medical/evacuation insurance is required for this trip. Les will provide suggestions for vendors upon registration. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J6gjcn9rzjQ" frameborder="0" allowfullscreen></iframe>
 
 ### General Itinerary
 
