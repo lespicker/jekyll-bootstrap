@@ -4,13 +4,13 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
-[Printing Workshop September 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
-
-[Acadia National Park October 2016](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
+[Printing Workshop March 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
 
 [Sri Lanka March 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
 [Yukon Photo Adventure August 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
+
+[Acadia National Park October 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
 
 [Myanmar November 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#myanmar)
 
@@ -20,7 +20,7 @@ title: Upcoming Workshops
 
 {% img /images/bli/2015/04/image34-canvas.jpg %}
 
-#### Saturday September 24, 2016
+#### Saturday March 4, 2017
 
 [**Register here**](http://shop.lesterpickerphoto.com/page/803)
 
@@ -28,7 +28,7 @@ Are you ready to move your photo images from hiding in the dark recesses of your
 
 If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts. 
 
-By the end of our one- or two-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
+By the end of our one-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers. 
 
 In the workshop you will print an unlimited number of proofs of  your best images. You will create large format prints. And, you can use any extra time to print as many other images as you want for simply the cost of materials. 
 
@@ -49,7 +49,7 @@ We use an Epson 9900 large format printer for prints up to 44” wide, as well a
 
 Our in-studio kitchenette has fresh coffee, teas and drinks and  refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing. 
 
-Our historic town of Havre de Grace is fortunate to have excellent lodging choices, great restaurants and lots of photographic opportunities. We will provide you with a lsit of these possibilities when you register. 
+Our historic town of Havre de Grace is fortunate to have excellent lodging choices, great restaurants and lots of photographic opportunities. We will provide you with a list of these possibilities when you register. 
 
 #### What You Will Learn
 - Color-managed workflow
@@ -82,7 +82,7 @@ Our historic town of Havre de Grace is fortunate to have excellent lodging choic
 
 ### <a name="acadia"></a>Acadia National Park, Maine: Fall Foliage
 
-#### October 10-14, 2016
+#### October 9-13, 2017
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
@@ -102,15 +102,15 @@ Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for 
 
 ### Workshop Fees
 
-$1495, plus hotel, transportation, meals. The workshop is limited to 8 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
+$1495, plus hotel, transportation, meals. The workshop is limited to 5 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
 
 ### Workshop Itinerary
 
-#### Monday, October 10
+#### Monday, October 9
 
 Arrival, orientation and first shoot. 
 
-#### October 11, 12, 13
+#### October 10, 11, 12
 
 Wake up early for sunrise/first morning shoot (locations are weather dependent)
 
@@ -128,7 +128,7 @@ Dinner
 
 Evening image review and critique and/or night shoot
 
-#### October 14
+#### October 13
 
 Early morning shoots and wrap-up by noon
 
@@ -148,7 +148,7 @@ For interesting reading about Acadia National Park, Mt. Desert Island, Bar Harbo
 
 ---
 
-### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife 
+### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife **Sold Out**
 #### March 11-22, 2017
 
 ### Dubai Extension
