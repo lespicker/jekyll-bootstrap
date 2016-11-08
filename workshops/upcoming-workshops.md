@@ -292,7 +292,11 @@ For sample comments and testimonials from previous Yukon photo tours, please [cl
 
 Please Note: medical/evacuation insurance is required for this trip. Les will provide suggestions for vendors upon registration. 
 
+### Fragments From The 2016 Yukon Adventure
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J6gjcn9rzjQ" frameborder="0" allowfullscreen></iframe>
+
+Watch a few highlights and hear what participants say about the last Yukon adventure.
 
 ### General Itinerary
 
