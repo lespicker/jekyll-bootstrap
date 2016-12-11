@@ -19,6 +19,8 @@ tags:
 
 If you plan on reading on, you'll have to excuse what will probably be a picture-less rant. I'm here to say that one of the very best ways to improve your photography, to move it from good to WOW!, is not with your eyes, but with your ears!
 
+<!--more-->
+
 I have a friend who is a dedicated amateur photographer and I mean really dedicated. In recent years he has obviously decided to up his skill level, as well as broaden his travels to encompass travel photography and landscapes. As a professional photographer and judge of photo contests, I can honestly say that, from what I have seen, he has improved. 
 
 Like many amateurs that I know, this man reads about photography constantly. He watches photography shows and website videos and I am sure he must scour information on the Web. He belongs to camera clubs. Without question, that's terrific.
