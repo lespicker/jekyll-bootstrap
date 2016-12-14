@@ -19,6 +19,8 @@ tags:
 
 Last week we had a major printer glitch in our studio and I figure it was instructive enough for a blog. Since we teach fine art printing workshops regularly, we get a good share of questions from the alumni of our workshops and from online printmakers. But this case even stumped us for a while.
 
+<!--more-->
+
 I'll state at the outset that we primarily use Canon printers. In fact, we like them so much we recently decided to become a Canon-exclusive studio. We like their ease of setup, better use of ink and the stunning prints they produce. So, it was a shock to us when we printed the following image on our newest Canon Pro-1000 printer. This image is popular with our clients, so we have printed it dozens of times with no problems at all. Here is how it should look out of the printer, in this case on a rich Moab fine art paper (all images here taken on the fly with an iPhone 7). 
 
 {% img /images/bli/2016/12/canon-1000-1.jpg %}
