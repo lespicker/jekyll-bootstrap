@@ -9,10 +9,11 @@ categories:
 tags:
 - fine art printing
 - Canon
-- Epson
 - problems
 - troubleshooting
 - test prints
+- nozzle check
+- system cleaning
 ---
 
 {% img /images/bli/2016/12/canon-1000-twins.jpg %}
@@ -52,7 +53,6 @@ So we sent the printer through a deep cleaning cycle. Marginal improvement; pink
 Finally, after a couple of other nozzle checks, we resorted to the dreaded SYSTEM CLEANING! This is not to be taken lightly. It's like going to DefCon 6, waiting for the printer to be nuked. But, to Canon's credit, it is easy to initiate, doesn't take too long and - guess what? - it solved the problem. Take another look at the fan of nozzle checks above and below. The print on the far right shows the channel fully functional. 
 
 {% img /images/bli/2016/12/canon-1000-two-sheets.jpg %}
-
 
 ### Lesson Learned
 
