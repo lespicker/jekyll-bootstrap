@@ -275,7 +275,7 @@ Interested? Contact us for more information or [**Register here**](http://shop.l
 
 **A two-day workshop offered by Moab Master Photographer Les Picker and Master Printer Robert Boyer.** 
 
-[**Register here**](http://shop.lesterpickerphoto.com/page/803)
+[**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Four Participants*
 
 > Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images, offered in an elegant, state-of-the-art presentation and designed to advance your photographic goals. 
 
@@ -352,7 +352,8 @@ We will also help you to understand how to best utilize your portfolio to improv
 
 After a final lunch and afternoon discussion, you will leave with your professional, hand-made portfolio and with the knowledge of how to use it and update it to keep it current. 
 
-Fee: $1,250.
+Fee: $1,250. [**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Four Participants*
+
 
 #### Requirements 
 You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunches on both days (we try our best to accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day. 
