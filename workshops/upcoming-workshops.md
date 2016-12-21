@@ -269,7 +269,7 @@ Interested? Contact us for more information or [**Register here**](http://shop.l
 ### <a name="portfolio"></a>Portfolio Creation Workshop
 **Part of our Master Workshop Series**
 
-{% img /images/bli/2015/12/DSCF7174.jpg %}
+{% img /images/bli/2016/12/DSCF7174.jpg %}
 
 #### May 20th And 21st 2017
 
@@ -304,7 +304,7 @@ Yet, in our experience we have found that the majority of photographers either d
 
 If you are a serious photographer, here is a chance for you to walk home with a beautifully hand-crafted, hand-printed, and carefully curated fine art portfolio that will show off your work to the highest standard in the industry today. 
 
-{% img /images/bli/2015/12/DSCF7227.jpg %}
+{% img /images/bli/2016/12/DSCF7227.jpg %}
 
 #### Image Curation
 
@@ -318,7 +318,7 @@ Another aspect of online critiques that we do not favor is this: a photographer 
 
 #### Our Process: The Value We Bring to You
 
-{% img /images/bli/2015/12/DSCF7160.jpg %}
+{% img /images/bli/2016/12/DSCF7160.jpg %}
 
 Emotional attachment to one's own imagery clouds every photographer's judgment. Our process provides you with the combined judgment of Bob and I, mastered through decades of experience and professional success. Through our process you will gain self-confidence and understand the elements of solid portfolio development using professional critique to ensure you are showcasing your finest work. 
 
@@ -330,7 +330,7 @@ That commitment to excellence is at the heart of this process. We start with you
 
 We firmly believe that every aspect of your portfolio should  reflect your best work, with attention to detail. That is why we have our portfolio boxes individually made by hand in the USA by old-world craftsmen. These cloth-covered portfolios are works of art in their own right.
 
-{% img /images/bli/2015/12/DSCF7227.jpg %}
+{% img /images/bli/2016/12/DSCF7227.jpg %}
 
 We intentionally limit this workshop to four dedicated photographers, so that our attention to detail exceeds your highest expectations. 
 
@@ -340,7 +340,7 @@ Once you are on site, and after showing you some sample professional portfolios,
 
 Then we work side-by-side with you to post-process your images so that they shine and are ready for our state-of-the-art large format Canon printers. By the end of the day, you will have a selection of images that you can rightfully point to with pride. 
 
-{% img /images/bli/2015/12/DSCF7232.jpg %}
+{% img /images/bli/2016/12/DSCF7232.jpg %}
 
 That evening, we print your images on large format, 13" x 19" fine art, museum-quality paper by world-renowned Moab Paper (a division of Legion Paper). We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio. 
 
@@ -354,7 +354,7 @@ After a final lunch and afternoon discussion, you will leave with your professio
 
 Fee: $1,250.
 
-{% img /images/bli/2015/12/DSCF7174.jpg %}
+{% img /images/bli/2016/12/DSCF7174.jpg %}
 
 #### Requirements 
 You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunches on both days (we try our best to accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day. 
