@@ -8,6 +8,8 @@ title: Upcoming Workshops
 
 [Sri Lanka March 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
 
+[Portfolio Workshop May 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#portfolio)
+
 [Yukon Photo Adventure August 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
 
 [Acadia National Park October 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
