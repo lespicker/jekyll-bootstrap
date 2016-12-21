@@ -330,7 +330,7 @@ That commitment to excellence is at the heart of this process. We start with you
 
 We firmly believe that every aspect of your portfolio should  reflect your best work, with attention to detail. That is why we have our portfolio boxes individually made by hand in the USA by old-world craftsmen. These cloth-covered portfolios are works of art in their own right.
 
-{% img /images/bli/2016/12/DSCF7227.jpg %}
+{% img /images/bli/2016/12/DSCF7198.jpg %}
 
 We intentionally limit this workshop to four dedicated photographers, so that our attention to detail exceeds your highest expectations. 
 
@@ -353,8 +353,6 @@ We will also help you to understand how to best utilize your portfolio to improv
 After a final lunch and afternoon discussion, you will leave with your professional, hand-made portfolio and with the knowledge of how to use it and update it to keep it current. 
 
 Fee: $1,250.
-
-{% img /images/bli/2016/12/DSCF7174.jpg %}
 
 #### Requirements 
 You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunches on both days (we try our best to accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day. 
