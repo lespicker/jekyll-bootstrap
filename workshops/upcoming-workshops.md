@@ -343,15 +343,15 @@ On Saturday we work side-by-side with you sharing insights, techniques, and Ligh
 
 {% img /images/bli/2016/12/DSCF7232.jpg %}
 
-That evening, we print your images on large format, 13" x 19" fine art, museum-quality paper by world-renowned Moab Paper (a division of Legion Paper). We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio. 
+Sunday, together we print your images on large format, 13" x 19" fine art, museum-quality paper by world-renowned Moab Paper. We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio. 
 
-The next morning you will assemble your portfolio as we finish any prints that still need to be printed or revised. You will develop a cover sheet for your portfolio, which we will then print.  Then you will have the distinct joy of completing the physical assembly of your professional portfolio. 
+Afterwards you will assemble your portfolio. You will develop a cover sheet for your portfolio, which we will then print.  Then you will have the distinct joy of completing the physical assembly of your professional portfolio. 
 
-Before you leave we will provide you with information on how to maximize your exposure on social media. We will discuss branding, how to collect material together, and how to create specific personalities in different social media. We will show you how to use images that do not make the final portfolio as teasers in social media. We will also cover how to document the process of making the work - what is known as BTS, or Behind The Scenes - as promotional material to drive viewers to your site. 
+Finally, we will provide you with information on how to maximize your exposure on social media. We will discuss branding, how to collect material together, and how to create specific personalities in different social media. We will show you how to use images that do not make the final portfolio as teasers in social media. We will also cover how to document the process of making the work - what is known as BTS, or Behind The Scenes - as promotional material to drive viewers to your site. 
 
 We will also help you to understand how to best utilize your portfolio to improve your professional image, represent yourself to galleries, increase sales, and showcase your art to family and friends.
 
-After a final lunch and afternoon discussion, you will leave with your professional, hand-made portfolio and with the knowledge of how to use it and update it to keep it current. 
+You will leave with your professional, hand-made portfolio and with the knowledge of how to use it and update it to keep it current. 
 
 Fee: $1,250. [**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Four Participants*
 
