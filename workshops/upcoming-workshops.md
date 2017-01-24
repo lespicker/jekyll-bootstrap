@@ -271,9 +271,9 @@ Interested? Contact us for more information or [**Register here**](http://shop.l
 
 {% img /images/bli/2016/12/DSCF7174.jpg %}
 
-#### May 20th And 21st 2017
+#### May 19th Thru 21st 2017
 
-**A two-day workshop offered by Moab Master Photographer Les Picker and Master Printer Robert Boyer.** 
+**A 2-1/2 day workshop offered by Moab Master Photographer Les Picker and Master Printer Robert Boyer.** 
 
 [**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Four Participants*
 
@@ -334,11 +334,12 @@ We firmly believe that every aspect of your portfolio should  reflect your best 
 
 We intentionally limit this workshop to four dedicated photographers, so that our attention to detail exceeds your highest expectations. 
 
-Prior to the workshop, we ask that you select up to 30 of your finest images and share them with us online (we will tell you how to do this). We will help you narrow that group down to 15 images prior to coming to the workshop.
+Prior to the workshop, we ask that you select up to 40 of your finest images and share them with us online (we will tell you how to do this). We will help you narrow that group down to 20 images prior to coming to the workshop.
 
-Once you are on site, and after showing you some sample professional portfolios, we spend the rest of the day working with you, helping you curate your images to the best ten images, in a collegial atmosphere where you can also seek input from the other attendees. We structure those discussions so that they are a positive and affirming experience and provide you with a template for utilizing positive professional critique in your future endeavors.
+Once you are on site, and after showing you some sample professional portfolios, we spend the rest of the day 
+Friday with you, helping you curate your images to the best ten images, in a collegial atmosphere where you can also seek input from the other attendees. We structure those discussions so that they are a positive and affirming experience and provide you with a template for utilizing positive professional critique in your future endeavors.
 
-Then we work side-by-side with you to post-process your images so that they shine and are ready for our state-of-the-art large format Canon printers. By the end of the day, you will have a selection of images that you can rightfully point to with pride. 
+On Saturday we work side-by-side with you sharing insights, techniques, and Lightroom methods to finalize your selections while getting the most out of Lightroom. We'll also offer one-on-one assistance to post-process your images so that they shine and are ready for our state-of-the-art large format Canon printers. By the end of the day, you will have a selection of images that you can rightfully point to with pride. 
 
 {% img /images/bli/2016/12/DSCF7232.jpg %}
 
