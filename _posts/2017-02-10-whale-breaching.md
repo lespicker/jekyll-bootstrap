@@ -44,6 +44,6 @@ I'm sure Mom reminded baby that practice makes prefect.
 
 And finally, baby scores big!
 
-{% img /images/bli/2017/02/DSC_0768  Success! %}
+{% img /images/bli/2017/02/DSC_0768.jpg  Success %}
 
 If you are looking for tips on how to photograph whales, [click here](http://www.lesterpickerphoto.com/2016/02/23/whale-tale/).
