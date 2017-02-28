@@ -495,7 +495,7 @@ Please [Register Here](http://shop.lesterpickerphoto.com/page/805) - **SOLD OUT*
 
 {% img /images/bli/2015/05/conde-nast-ocean-picker-2.jpg %}
 
-[**Register here**](http://workshops.lesterpickerphoto.com/page/805).
+[**Register here**](http://workshops.lesterpickerphoto.com/page/811).
 
 #### Photo Tour Description
 
@@ -599,7 +599,7 @@ We encourage our clients to book flights on Emirates airlines, as the stop-over 
 
 The cost of the Dubai extension is $2,300 USD.
 
-Interested? Contact us for more information or [**Register here**](http://shop.lesterpickerphoto.com/page/802).
+Interested? Contact us for more information or [**Register here**](http://workshops.lesterpickerphoto.com/page/811).
 
 ---
 
