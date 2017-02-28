@@ -487,7 +487,7 @@ Please [Register Here](http://shop.lesterpickerphoto.com/page/805) - **SOLD OUT*
 
 ---
 
-### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife **Sold Out**
+### <a name="srilanka"></a>Sri Lanka: Culture & Wildlife 
 #### March 2018
 
 ### Dubai Extension
