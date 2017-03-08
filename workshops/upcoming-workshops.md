@@ -26,7 +26,7 @@ title: Upcoming Workshops
 
 #### April 29th 2017
 
-[**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Six Participants*
+[**Register here**](http://workshops.lesterpickerphoto.com/page/812) *Limited To Six Participants*
 
 Immerse yourself into the world of black and white photography. What makes a great black and white photograph? In this seven-hour workshop we will take a look at some styles of the masters past and current, and give you tips on looking at the world a little differently when you're out with your camera. 
 
@@ -57,7 +57,7 @@ No matter if you are a life-long black and white enthusiast or are just starting
 
 ### Workshop Fee
 
-$295.
+Fee $295: [**Register here**](http://workshops.lesterpickerphoto.com/page/812) *Limited To Six Participants*x
 
 ---
 
