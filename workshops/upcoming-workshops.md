@@ -66,7 +66,7 @@ Fee $295: [**Register here**](http://workshops.lesterpickerphoto.com/page/812) *
 
 {% img /images/bli/2016/12/DSCF7174.jpg %}
 
-#### May 19th Thru 21st 2017
+#### May 19th Thru 21st 2017 - SOLD OUT
 
 **A 2-1/2 day workshop offered by Moab Master Photographer Les Picker and Master Printer Robert Boyer.**
 
@@ -148,7 +148,7 @@ We will also help you to understand how to best utilize your portfolio to improv
 
 You will leave with your professional, hand-made portfolio and with the knowledge of how to use it and update it to keep it current.
 
-Fee: $1,250. [**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Four Participants*
+Fee: $1,250. [**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Four Participants* - SOLD OUT
 
 
 #### Requirements
