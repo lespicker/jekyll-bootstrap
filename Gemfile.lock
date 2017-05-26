@@ -28,6 +28,8 @@ GEM
     pygments.rb (0.5.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
+    rdiscount (2.1.6)
+    rubypants (0.2.0)
     safe_yaml (0.7.1)
     tilt (1.4.1)
     yajl-ruby (1.1.0)
@@ -38,3 +40,5 @@ PLATFORMS
 DEPENDENCIES
   haml (~> 4.0.4)
   jekyll (~> 1.0.3)
+  rdiscount (~> 2.1.6)
+  rubypants (~> 0.2.0)
