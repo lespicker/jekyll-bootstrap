@@ -32,7 +32,7 @@ I have to admit that the very first time I was caught up in it, more than a deca
 
 However, once you get accustomed to it, the experience is awe-inspiring. One year, as the cloud began to dissipate slightly, the setting sun shone brightly through it, creating the most intense sky fire I have ever witnessed. This image has not been retouched at all. 
 
-{% img /images/bli/2016/08/DSC_3807.jpg Lights Over the Yukon River %}
+{% img /images/bli/2017/05/LAP_5430.jpg %}
 
 My clients last year got to experience it, albeit not as a full-fledged blanket. Still, they were pretty impressed. Another one of the many reasons for you to experience the incomparable Yukon Territory. 
 
