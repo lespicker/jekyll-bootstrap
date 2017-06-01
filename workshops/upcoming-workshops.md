@@ -217,6 +217,8 @@ Topics:
 
 No matter if you are a life-long black and white enthusiast or are just starting to test the waters of this classic medium, this workshop will up your game. We'll be covering the entire Lightroom develop module in ways that will give you a new outlook on how it can be most effectively used not only for black and white but will give you a fresh perspective on post-processing your color images as well.
 
+[Click here](http://www.lesterpickerphoto.com/workshops/bw-tes.html) for a sampling of what former workshop participants have to say about the workshop.
+
 #### What you'll need to bring:
 
 - A laptop with Lightroom installed.
@@ -227,7 +229,7 @@ No matter if you are a life-long black and white enthusiast or are just starting
 #### What We Provide
 
 - Water, coffee, tea, snacks 
-- Instruction by Les Picker and Bob Boyer
+- Hands-on instruction by Les Picker and Bob Boyer
 
 ### Workshop Fee
 
