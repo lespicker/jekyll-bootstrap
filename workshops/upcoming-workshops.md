@@ -240,6 +240,7 @@ Fee $295: [**Register here**](http://workshops.lesterpickerphoto.com/page/812) *
 ### <a name="acadia"></a>Acadia National Park, Maine: Fall Foliage
 
 #### October 9-13, 2017
+#### SOLD OUT 
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
@@ -259,7 +260,7 @@ Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for 
 
 ### Workshop Fees
 
-$1495, plus hotel, transportation, meals. The workshop is limited to 5 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
+$1495, plus hotel, transportation, meals. The workshop is limited to 5 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801). **SOLD OUT**
 
 ### Workshop Itinerary
 
