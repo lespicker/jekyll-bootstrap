@@ -217,6 +217,8 @@ Topics:
 
 No matter if you are a life-long black and white enthusiast or are just starting to test the waters of this classic medium, this workshop will up your game. We'll be covering the entire Lightroom develop module in ways that will give you a new outlook on how it can be most effectively used not only for black and white but will give you a fresh perspective on post-processing your color images as well.
 
+[Click here](http://www.lesterpickerphoto.com/workshops/bw-tes.html) for a sampling of what former workshop participants have to say about the workshop.
+
 #### What you'll need to bring:
 
 - A laptop with Lightroom installed.
@@ -227,7 +229,7 @@ No matter if you are a life-long black and white enthusiast or are just starting
 #### What We Provide
 
 - Water, coffee, tea, snacks 
-- Instruction by Les Picker and Bob Boyer
+- Hands-on instruction by Les Picker and Bob Boyer
 
 ### Workshop Fee
 
@@ -238,6 +240,7 @@ Fee $295: [**Register here**](http://workshops.lesterpickerphoto.com/page/812) *
 ### <a name="acadia"></a>Acadia National Park, Maine: Fall Foliage
 
 #### October 9-13, 2017
+#### SOLD OUT 
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
@@ -257,7 +260,7 @@ Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for 
 
 ### Workshop Fees
 
-$1495, plus hotel, transportation, meals. The workshop is limited to 5 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
+$1495, plus hotel, transportation, meals. The workshop is limited to 5 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801). **SOLD OUT**
 
 ### Workshop Itinerary
 
@@ -291,7 +294,7 @@ Depending on daily weather conditions, we will photograph some of the most iconi
 
 To see images taken by previous workshop participants and for testimonials about the Acadia workshop, please [**visit here**](http://www.lesterpickerphoto.com/workshops/past-workshop.html).
 
-[Register Now](http://workshops.lesterpickerphoto.com/page/801).
+[Register Now](http://workshops.lesterpickerphoto.com/page/801). **SOLD OUT**
 
 ### Additional Acadia Information
 
