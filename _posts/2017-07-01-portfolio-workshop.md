@@ -3,6 +3,7 @@ layout: post
 title: Is There a Portfolio in Your Future?
 comments: true
 categories:
+- News
 - Featured
 - Headline
 - Travelogue
