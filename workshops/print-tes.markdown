@@ -34,7 +34,7 @@ categories:
 
 > I want to thank you for a wonderful workshop. You opened up a whole world of printing and papers that I never knew. Spending time with two artisans that love their art is truly refreshing. Now I understand the quest of matching an image with the paper that best conveys the emotion.  Special thanks for letting me come back to print my large format prints; including my 22 x 66 panoramic of Sedona!<cite>Kevin Duncan, Maryland</cite>
 
-
+> 
 
 
 
