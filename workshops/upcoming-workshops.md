@@ -4,17 +4,165 @@ title: Upcoming Workshops
 ---
 # Upcoming Workshops
 
+[Black & White Workshop April 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#blackandwhite)
+
+[Portfolio Workshop May 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#portfolio)
+
 [Printing Workshop July 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing)
 
 [Yukon Photo Adventure August 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon)
-
-[Black & White Workshop September 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#blackandwhite)
 
 [Acadia National Park October 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#acadia)
 
 [Myanmar November 2017](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#myanmar)
 
 [Sri Lanka March 2018](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka)
+
+---
+
+### <a name="blackandwhite"></a>Black & White Workshop
+
+{% img /images/bli/2017/03/_LAP2490.jpg %}
+
+#### April 29th 2017
+
+[**Register here**](http://workshops.lesterpickerphoto.com/page/812) *Limited To Six Participants*
+
+Immerse yourself into the world of black and white photography. What makes a great black and white photograph? In this seven-hour workshop we will take a look at some styles of the masters past and current, and give you tips on looking at the world a little differently when you're out with your camera. 
+
+The emphasis in this hands-on learning experience will be on taking a deep dive into processing your black and white photographs using Lightroom. We'll cover creative and artistic decisions and how to translate those into great black and white photographs using the vast technical tools available in Lightroom. You will receive lots of one-on-one attention with your own images. You'll learn how to translate the topics we present and apply them directly to your own work. 
+
+Topics:
+
+- What scenes make great black and white photographs
+- Global vs. local adjustments
+- A practical as well as technical look at the Lightroom "basic" panel and how much it's changed in the last few years. More importantly how you might take better advantage of how differently it works now as compared to other RAW processors
+- Point curves vs. parameterized curves vs. exposure/contrast/shadows/highlights/whites/blacks
+- Translating color to monochrome and how to best use the color mix controls
+- Tips and tricks for achieving modern and vintage looks
+
+No matter if you are a life-long black and white enthusiast or are just starting to test the waters of this classic medium, this workshop will up your game. We'll be covering the entire Lightroom develop module in ways that will give you a new outlook on how it can be most effectively used not only for black and white but will give you a fresh perspective on post-processing your color images as well.
+
+#### What you'll need to bring:
+
+- A laptop with Lightroom installed.
+- A good selection/diversity of RAW images.
+- A very basic knowledge of Lightroom.
+- Lunch
+
+#### What We Provide
+
+- Water, coffee, tea, snacks 
+- Instruction by Les Picker and Bob Boyer
+
+### Workshop Fee
+
+Fee $295: [**Register here**](http://workshops.lesterpickerphoto.com/page/812) *Limited To Six Participants*x
+
+---
+
+### <a name="portfolio"></a>Portfolio Creation Workshop
+**Part of our Master Workshop Series**
+
+{% img /images/bli/2016/12/DSCF7174.jpg %}
+
+#### May 19th Thru 21st 2017 - SOLD OUT
+
+**A 2-1/2 day workshop offered by Moab Master Photographer Les Picker and Master Printer Robert Boyer.**
+
+[**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Four Participants*
+
+> Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images, offered in an elegant, state-of-the-art presentation and designed to advance your photographic goals.
+
+#### The Bottom Line
+
+**Top Ten Takeaways From This Workshop**
+
+- Two-on-one consultation with two experienced, successful, professional photographers to help you curate and edit your work
+- Assistance selecting and post-processing your best images
+- Fresh perspectives on your own work and how to make effective editorial decisions
+- Learn numerous strategies for dealing with your own editorial process
+- A weekend of considered dialog with other serious artists
+- Develop contacts for editorial assistance going forward
+- Experience the value of outside editorial input on your work
+- How the editorial process can shape your art
+- Ten archival prints professionally printed on Moab fine art papers, using state-of-the-art Canon printers.
+- Distinctive, cloth-covered portfolio box, hand crafted in the USA
+
+One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
+
+What serious photographer does not realize he or she needs to have a professional portfolio to show friends, potential clients, judges at juried shows, or to peruse for their own enjoyment?
+
+In fact, a professionally curated portfolio is essential for success as a serious photographer. Images come alive when carefully selected, meticulously edited and printed on fine art, archival paper. Viewers appreciate the look and feel of museum quality prints.
+
+Yet, in our experience we have found that the majority of photographers either do not have a portfolio to showcase their art, or the one they use is actually detrimental to their success. Unfortunately, photographic portfolios are often poorly planned, poorly curated, and even more poorly executed.
+
+If you are a serious photographer, here is a chance for you to walk home with a beautifully hand-crafted, hand-printed, and carefully curated fine art portfolio that will show off your work to the highest standard in the industry today.
+
+{% img /images/bli/2016/12/DSCF7227.jpg %}
+
+#### Image Curation
+
+Selecting images for a portfolio is difficult, but critically important. People naturally judge our work by what they see, so we must invest a lot of time in making selections. Frustratingly, we often spend too much time on images that we never should mess with in the first place! Editing an image to death is not the solution to developing your portfolio. Image selection, what we call curation, is the Number One priority. And in this workshop, you will learn to master that aspect of your art.
+
+And how do we know when an image is portfolio worthy? Is it the number of "likes" we receive online? Hardly. On social media people most often say nothing as they flick through images a second at a time. Maybe they'll hit the like button here and there. But, what does that tell you? Nothing, really. Social media is simply not a good selection tool.
+
+What about online photography forums? The Internet is an amazing tool, but not great for developing a portfolio. Every image can be critiqued to death, until there is no emotion left in it. Honest, trusted editing doesn't exist on the Internet, unless you are fortunate to have developed a one-on-one relationship with an experienced and respected photographer. Internet comments are often motivated by jealousy and competitiveness and can lower one's self-confidence.
+
+Another aspect of online critiques that we do not favor is this: a photographer posts an image and the forum leader comments that s/he likes or dislikes it. Then the forum lemmings fall into line, creating an echo chamber of not-so-helpful criticism. Sound familiar?
+
+#### Our Process: The Value We Bring to You
+
+{% img /images/bli/2016/12/DSCF7160.jpg %}
+
+Emotional attachment to one's own imagery clouds every photographer's judgment. Our process provides you with the combined judgment of Bob and I, mastered through decades of experience and professional success. Through our process you will gain self-confidence and understand the elements of solid portfolio development using professional critique to ensure you are showcasing your finest work.
+
+> Les Picker and Bob Boyer are experts in different types of photography. Les is a nature, landscape and wildlife artist, while Bob is a studio photographer and master printer. In their eight years of working together, they often differ in their opinions about an image. They respectfully challenge each other, knowing that the passionate effort they put into it results in far higher artistic levels.
+
+That commitment to excellence is at the heart of this process. We start with you sharing with us up to 50 of your top images. We will work with you to curate them and select 25 of your best. Those images can be thematic, project oriented, or a "best of" collection. We will provide you with detailed feedback and will discuss the curation with you by email and phone. And all this occurs even before you arrive for your first on-site session.
+
+#### Your Professional Portfolio
+
+We firmly believe that every aspect of your portfolio should  reflect your best work, with attention to detail. That is why we have our portfolio boxes individually made by hand in the USA by old-world craftsmen. These cloth-covered portfolios are works of art in their own right.
+
+{% img /images/bli/2016/12/DSCF7198.jpg %}
+
+We intentionally limit this workshop to four dedicated photographers, so that our attention to detail exceeds your highest expectations.
+
+Prior to the workshop, we ask that you select up to 40 of your finest images and share them with us online (we will tell you how to do this). We will help you narrow that group down to 20 images prior to coming to the workshop.
+
+Once you are on site, and after showing you some sample professional portfolios, we spend the rest of the day
+Friday with you, helping you curate your images to the best ten images, in a collegial atmosphere where you can also seek input from the other attendees. We structure those discussions so that they are a positive and affirming experience and provide you with a template for utilizing positive professional critique in your future endeavors.
+
+On Saturday we work side-by-side with you sharing insights, techniques, and Lightroom methods to finalize your selections while getting the most out of Lightroom. We'll also offer one-on-one assistance to post-process your images so that they shine and are ready for our state-of-the-art large format Canon printers. By the end of the day, you will have a selection of images that you can rightfully point to with pride.
+
+{% img /images/bli/2016/12/DSCF7232.jpg %}
+
+Sunday, together we print your images on large format, 13" x 19" fine art, museum-quality paper by world-renowned Moab Paper. We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio.
+
+Afterwards you will assemble your portfolio. You will develop a cover sheet for your portfolio, which we will then print.  Then you will have the distinct joy of completing the physical assembly of your professional portfolio.
+
+Finally, we will provide you with information on how to maximize your exposure on social media. We will discuss branding, how to collect material together, and how to create specific personalities in different social media. We will show you how to use images that do not make the final portfolio as teasers in social media. We will also cover how to document the process of making the work - what is known as BTS, or Behind The Scenes - as promotional material to drive viewers to your site.
+
+We will also help you to understand how to best utilize your portfolio to improve your professional image, represent yourself to galleries, increase sales, and showcase your art to family and friends.
+
+You will leave with your professional, hand-made portfolio and with the knowledge of how to use it and update it to keep it current.
+
+Fee: $1,250. [**Register here**](http://workshops.lesterpickerphoto.com/page/810) *Limited To Four Participants* - SOLD OUT
+
+
+#### Requirements
+You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunches on both days (we try our best to accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day.
+
+
+#### Lodging
+Once registered we will send you a list of lodging options within minutes of our studio. We recommend that you arrive the day before, as Havre de Grace is a historic town with wonderful photographic possibilities.
+
+
+#### About Us
+Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications, Better Homes & Gardens, Forbes, Time, Inc. Publications, Money, Fortune Small Business, Bloomberg Personal Finance, National Parks Magazine, and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, lauded for his fine art printing and his workshops.
+
+Robert Boyer is a master printer and oversees all fine art printing for LPFA. Bob is also a computer and software technician. He is an experienced studio photographer and workshop presenter.
 
 ---
 
@@ -194,53 +342,9 @@ Please do not book your air flights until we advise you to do so. You **must** a
 
 ---
 
-### <a name="blackandwhite"></a>Black & White Workshop
-
-{% img /images/bli/2017/03/_LAP2490.jpg %}
-
-#### September 9th 2017
-
-[**Register here**](http://workshops.lesterpickerphoto.com/page/812) *Limited To Six Participants*
-
-Immerse yourself into the world of black and white photography. What makes a great black and white photograph? In this seven-hour workshop we will take a look at some styles of the masters past and current, and give you tips on looking at the world a little differently when you're out with your camera. 
-
-The emphasis in this hands-on learning experience will be on taking a deep dive into processing your black and white photographs using Lightroom. We'll cover creative and artistic decisions and how to translate those into great black and white photographs using the vast technical tools available in Lightroom. You will receive lots of one-on-one attention with your own images. You'll learn how to translate the topics we present and apply them directly to your own work. 
-
-Topics:
-
-- What scenes make great black and white photographs
-- Global vs. local adjustments
-- A practical as well as technical look at the Lightroom "basic" panel and how much it's changed in the last few years. More importantly how you might take better advantage of how differently it works now as compared to other RAW processors
-- Point curves vs. parameterized curves vs. exposure/contrast/shadows/highlights/whites/blacks
-- Translating color to monochrome and how to best use the color mix controls
-- Tips and tricks for achieving modern and vintage looks
-
-No matter if you are a life-long black and white enthusiast or are just starting to test the waters of this classic medium, this workshop will up your game. We'll be covering the entire Lightroom develop module in ways that will give you a new outlook on how it can be most effectively used not only for black and white but will give you a fresh perspective on post-processing your color images as well.
-
-[Click here](http://www.lesterpickerphoto.com/workshops/bw-tes.html) for a sampling of what former workshop participants have to say about the workshop.
-
-#### What you'll need to bring:
-
-- A laptop with Lightroom installed.
-- A good selection/diversity of RAW images.
-- A very basic knowledge of Lightroom.
-- Lunch
-
-#### What We Provide
-
-- Water, coffee, tea, snacks 
-- Hands-on instruction by Les Picker and Bob Boyer
-
-### Workshop Fee
-
-Fee $295: [**Register here**](http://workshops.lesterpickerphoto.com/page/812) *Limited To Six Participants*x
-
----
-
 ### <a name="acadia"></a>Acadia National Park, Maine: Fall Foliage
 
 #### October 9-13, 2017
-#### SOLD OUT 
 
 {% img /images/2012/11/A0022734-pano.jpg %}
 
@@ -260,7 +364,7 @@ Please [click here](http://www.lesterpickerphoto.com/workshops/acadia.html) for 
 
 ### Workshop Fees
 
-$1495, plus hotel, transportation, meals. The workshop is limited to 5 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801). **SOLD OUT**
+$1495, plus hotel, transportation, meals. The workshop is limited to 5 participants. Meals are at participants’ expense. Healthy (and maybe not-so-healthy) snacks and bottled water are provided as part of workshop fee. [To register](http://shop.lesterpickerphoto.com/page/801).
 
 ### Workshop Itinerary
 
@@ -294,7 +398,7 @@ Depending on daily weather conditions, we will photograph some of the most iconi
 
 To see images taken by previous workshop participants and for testimonials about the Acadia workshop, please [**visit here**](http://www.lesterpickerphoto.com/workshops/past-workshop.html).
 
-[Register Now](http://workshops.lesterpickerphoto.com/page/801). **SOLD OUT**
+[Register Now](http://workshops.lesterpickerphoto.com/page/801).
 
 ### Additional Acadia Information
 
