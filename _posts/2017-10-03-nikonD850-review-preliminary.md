@@ -37,7 +37,7 @@ I saved the best physical change for last. The 850 has an articulating screen. F
 
 ### Functional Things
 
-Just a few functional issues before I run. The increased 7 frames per second rate is welcome for those of us who shoot wildlife. I'm really looking forward to making use of that frame rate when I lead two safaris in Tanzania and Uganda in June. 
+Just a few functional issues before I run. The increased 7 frames per second rate is welcome for those of us who shoot wildlife. I'm really looking forward to making use of that frame rate when [I lead two safaris in Tanzania and Uganda in June 2018](http://tour.lesterpickerphoto.com/). 
 
 Focus acquisition with the D850 is lightning fast and highly accurate, even in poor lighting conditions. I see an immediate, if subtle, increase in dynamic range, very welcome even though the D810 was quite good. Coupled with the 45MP sensor, I find the D850 files to be very pleasing, even more so than the D810, which itself was a huge improvement over the D700 or even the D800, in my opinion. 
 
