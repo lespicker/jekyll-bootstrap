@@ -34,6 +34,6 @@ Notice the man under the hotel pod in the next picture. I can only imagine the c
 
 "I feel like a breath of fresh air, honey. I'll be back in a minute."
 
-"Don't forget your harness, pitons and ropes, dear. It rained last night and the cliff is a tad slippery."
+"Don't forget your harness, helmet, gloves, pitons and ropes, dear. It rained last night and the cliff is a tad slippery."
 
 But, hey, if you want to book into one of the Skylodge Adventure Suites at "Hotel Nightmare" [here is the link](http://naturavive.com/web/). Or [watch this video](https://www.youtube.com/watch?v=srFKQrmL3Fg&feature=youtu.be) and experience it prudently. 
