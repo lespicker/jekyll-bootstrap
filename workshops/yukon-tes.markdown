@@ -50,6 +50,12 @@ categories:
 
 > Each time I have traveled with a group Les has organized, the latest trip becomes my favorite. He arranges the best accommodations the area has to offer and his organizing ability is amazing, down to the tiniest detail.
 
-> Thank you, Les Picker for allowing me to experience not one, but TWO trips of a lifetime!<cite>Ruth B. Elkins, Sacramento CA</cite>
+> Thank you, Les Picker for allowing me to experience not one, but TWO trips of a lifetime! <cite>Ruth B. Elkins, Sacramento CA</cite>
 
- 
+<p></p>
+
+> My friend and travel companion told me I had to take this trip with Les Picker to the Yukon. She told me it would be a trip like no other. It was 600 miles of dirt road going to the arctic circle - it was 35 miles down the Pelly River in an aluminum “fishing” boat to the confluence of the Pelly and Yukon Rivers - visiting Fort Selkirk - dating from the Klondike gold rush - abandoned in the 1950’s.  It was either the boat or hiking how many miles? It was standing within 100 feet of grizzly bears fishing for spawning salmon - and them catching their limit every day. It was a trip like no other. 
+
+> It was “billed” as a photographic journey through the Yukon. Les knew of almost every photo op along the way - my travel companion with her hi-end digital camera and lenses - me with my iPhone. Les was there with advice and instructional tips for both of us when we need it - thanks Les. Helping my travel companion with f-stop, aperture, exposure. Helping with framing and videography. Next time I’ll bring the big guns. 
+
+> We had the best food available, the best accommodations available - and the biggest cinnamon roll extant. Would I travel with him again? See you in Africa... <cite>Ray Seamans, California</cite>
