@@ -40,3 +40,18 @@ categories:
 
 > Les, it was a privilege and a pleasure to be with you and your wife for the Acadia Park photo shoot. I recognized that I was probably among the least experienced members of the group but honestly it did not bother me at all. I give you credit for making me feel being a part of the group and not someone who would be a "drag" on the group's activity. You answered my questions, relatively simple that they may have been, with clarity and with no hint of condescendence. The group, as well, was most welcoming in every sense of word. I was particularly pleased when you looked at a photo that I took at Stanley Brook and complimented me on taking a good shot without the assistance of a tripod. You noted that I must have a "steady hand."  <cite>Harry Jaroslaw, New York City</cite>
 
+<p></p>
+
+> I recently returned from a workshop led by Les Picker at Acadia National Park. In a word it was outstanding. Les is an excellent teacher, photographer and leader. He was extremely knowledgeable about  the Park and scouted out several beautiful photo venues in advance. He offered solid and comprehensive shooting tips geared to our individual needs and provided insightful feed back after each shoot. Perhaps most important he provided additional opportunity to review and improve our images after we returned home from the workshop. He was genuinely interested in our progress and it didn't end with the workshop.I recommend the workshop without reservation and look forward to attending another one with him. <cite>Lewis Rothman,M.D., New York City</cite>
+
+<p></p>
+
+> This workshop was a special experience at multiple levels: image creation, learning, and in the case of this particular workshop enjoying the camaraderie of a diverse group of people that quickly bonded sharing their passion for photography and enjoying each others company.  Les Picker was the key to creating this experience. Les' in depth knowledge of Acadia enabled him to guide the group to a diverse set of sites on a off the beaten path, sunrise to sunset. His gracious style in sharing his artistic and technical expertise set the tone for the group dynamics. Post shoot discussions were nicely balanced between a focus on developing an eye for the creative image and technical/practical tips and techniques. Les' knowledge of the history and flora of Acadia enriched the experience. <cite>Thomas E. Wilson, New Hampshire</cite>
+
+<p></p>
+
+> The Acadia photo workshop with Les Picker was absolutely an amazing experience. The five days spent in the Acadia National Park were very well planned but flexible because of changing coastal weather. Les was always available for individual help to give technical or compositional suggestions. I would recommend this workshop without hesitation. Les and his wife, Leslie, are a wonderful couple and outstanding hosts! <cite>Richard Patrick, Ohio</cite>
+
+
+
+
