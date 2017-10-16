@@ -59,3 +59,19 @@ categories:
 > It was “billed” as a photographic journey through the Yukon. Les knew of almost every photo op along the way - my travel companion with her hi-end digital camera and lenses - me with my iPhone. Les was there with advice and instructional tips for both of us when we need it - thanks Les. Helping my travel companion with f-stop, aperture, exposure. Helping with framing and videography. Next time I’ll bring the big guns. 
 
 > We had the best food available, the best accommodations available - and the biggest cinnamon roll extant. Would I travel with him again? See you in Africa... <cite>Ray Seamans, California</cite>
+
+<p></p>
+
+> I thoroughly enjoyed the Yukon Territory photo tour with Les Picker.
+
+> Highlights: 
+•	Les has done this tour many times and knows the Yukon, its history, and its people very well.
+•	The tour participants consisted of Les and three photographers.
+•	Everything was well arranged and planned out.
+•	Les is a very knowledgeable photographer and ready to give help and guidance.
+•	The lodging accommodations were very comfortable.
+•	The travel, though extensive, were quite comfortable.
+•	We had an exclusive afternoon tour photographing the abandoned Fort Selkirk; only accessible via boat ride up the Yukon River.
+•	I came home with lots of good pictures and a couple of great ones.
+
+> I highly recommend this tour.
