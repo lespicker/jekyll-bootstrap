@@ -74,6 +74,4 @@ categories:
 •	We had an exclusive afternoon tour photographing the abandoned Fort Selkirk; only accessible via boat ride up the Yukon River.
 •	I came home with lots of good pictures and a couple of great ones.
 
-> I highly recommend this tour.
-
-<cite>Kevin Duncan, Washington, D.C.</cite>
+> I highly recommend this tour. <cite>Kevin Duncan, Washington, D.C.</cite>
