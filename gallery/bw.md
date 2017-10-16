@@ -5,17 +5,17 @@ categories:
 - gallery
 img_path: /images/bli/gallery/bw/
 gallery:
-- [bw-0583.jpg, "Elephantine Island, Egypt"]
-- [bw-0584.jpg, "Glen Canyon Dam, Arizona, USA"]
+- [DSC_3379.jpg, "White Sands, NM USA"]
+- [DSC_3542.jpg, "Eastern Shore #9, MD, USA"]
 - [bw-0585.jpg, "Glen Canyon Dam, Arizona, USA"]
 - [bw-0586.jpg, "Icebergs, Alaska, USA"]
 - [bw-0587.jpg, "Pigeon Man, Puerto Rico"]
 - [bw-0588.jpg, "Abandoned Truck, Yukon Territory, Canada"]
 - [bw-0589.jpg, "Driftwood, Gibsons, British Columbia, Canada"]
-- [bw-0590.jpg, "Fall Leaves, Harford County, Maryland, USA"]
+- [DSC_5234-Edit.jpg, "Hunter Beach, ME, USA"]
 - [bw-0591.jpg, "Silversword, Haleakala National Park, Hawaii, USA"]
 - [bw-0592.jpg, "Ford Truck, Yukon Territory, Canada"]
-- [bw-0593.jpg, "Abandoned Camp, Yukon Territory, Canada"]
+- [DSC_8859-Edit.jpg, "Cactus, Galapagos"]
 - [bw-0594.jpg, "Church, Yukon Territory, Canada"]
 - [bw-0595.jpg, "Great Deal, Jasper National Park, Canada"]
 - [bw-0596.jpg, "Moraine Lake, Canada"]
@@ -24,8 +24,14 @@ gallery:
 - [bw-0599.jpg, "Hands, Jamaica"]
 - [bw-0600.jpg, "Brewing Storm, Milford Sound, New Zealand"]
 - [bw-0601.jpg, "Leaf, Zion National Park, USA"]
-- [bw-0602.jpg, "Sentinel of the Rocks, Zion National Park, USA"]
+- [DSC_8353-Edit.jpg, "Bird Tracks, Galapagos"]
 - [_LAP9817-Edit.jpg, "Church, Albuquerque New Mexico"]
+- [DSC_0153-Edit.jpg, "Peru Woman, Peru"]
+- [DSC_0248-Edit.jpg, "Hands, Peru"]
+- [DSC_3589.jpg, "Eastern Shore #2, MD"]
+- [DSC_6268-Edit.jpg, "Amazon Boats, Ecuador"]
+- [DSC_7700-Edit.jpg, "Rocks, Galapagos"]
+- [DSC_8350-Edit.jpg, "Hillside Trees, Galapagos"]
 comments: false
 ---
 
