@@ -75,3 +75,5 @@ categories:
 •	I came home with lots of good pictures and a couple of great ones.
 
 > I highly recommend this tour.
+
+<cite>Kevin Duncan, Washington, D.C.</cite>
