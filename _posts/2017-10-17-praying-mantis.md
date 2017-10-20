@@ -38,7 +38,7 @@ Just like Linus and Lucy, every fall is witness to the Praying Mantis equivalent
 
 The female will then turn around and try to bite off the head of the male. In about 25% of cases in our local mantis species she succeeds. I won't go into the intricacies of this act, but you can judge for yourself from this image, taken about 35 years ago when I photographed the life cycle of the mantis for a magazine. 
 
-{% img /images/bli/2017/10/prayingmantis-mating-killingmale2 (1).jpg %}
+{% img /images/bli/2017/10/prayingmantis-killingmale.jpg %}
 
 With copulation over, the female will then secrete a sticky egg mass that will cling to just about any surface. Inside this mass will be anywhere from 75-200 eggs. The mass hardens into the characteristic shape we see here. 
 
@@ -46,7 +46,7 @@ With copulation over, the female will then secrete a sticky egg mass that will c
 
 That mass (known as the ootheca) will overwinter and in spring, after a sustained warm spell, out will come the little mantises. 
 
-{% img /images/bli/2017/10/praying mantis emerging-2_edited-1.jpg %}
+{% img /images/bli/2017/10/prayingmantis-emerging-2.jpg %}
 
 
 ### The Backstory
