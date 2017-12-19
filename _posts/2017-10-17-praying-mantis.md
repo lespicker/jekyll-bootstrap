@@ -61,6 +61,8 @@ Within a couple of months, I would only see a couple each day walking on my curt
 
 Anyway, to complete my mantis story, I had to get a shot of mantises mating, so the following year I gathered a bunch of adults and, once again, back to the aquarium. I did capture them mating and - yucch! - the biting off of the male's head, which my girlfriend at the time lovingly told me she would have happily done to me when that mantis was crawling on her. 
 
-So, have fun photographing mantises, but do so at your peril… and definitely avoid doing this if you are single and dating. 
+So, have fun photographing mantises, but do so at your peril… and definitely avoid doing this if you are single and dating… which the following cartoon will prove.
+
+{% img /images/bli/2017/10/mantis-cartoon.jpg %}
 
  
