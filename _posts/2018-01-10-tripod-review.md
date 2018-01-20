@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: FLM Travel Tripod
+title: FLM Travel Tripod Review
 comments: true
 categories:
 - Featured
