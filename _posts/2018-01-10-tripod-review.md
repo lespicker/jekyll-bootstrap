@@ -12,6 +12,8 @@ tags:
 - review
 - FLM
 - travel tripod
+- Gitzo 3541
+- MeFoto tripod
 ---
 
 {% img /images/bli/2018/01/IMG_2123.jpg %}
