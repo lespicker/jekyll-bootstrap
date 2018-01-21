@@ -34,18 +34,22 @@ First off, this is one beautifully engineered tool. The tolerances are ridiculou
 
 {% img /images/bli/2018/01/IMG_2141.jpg %}
 
-The FLM weighs in at about 4 pounds and at a folded length of about 21" (with ballhead). The legs fold tightly for easy backpacking. The tripod comes with a sturdy carry bag with strap and rubber leg tips, but interchangeable metal spikes are also available as an option. 
+The FLM weighs in at about 4 pounds and at a folded length of about 21" (with ball head). The legs fold tightly for easy backpacking. The tripod comes with a sturdy carry bag with strap and rubber leg tips, but interchangeable metal spikes are also available as an option. 
 
 Setup is extremely easy, with solid, ratcheting leg stops that prevent the legs from backing up as you set up. The SRB 40 manual clamp that came with the test tripod was also precision engineered. 
 
 The FLM has a nifty built-in feature that some photographers may find useful. There is a knob on the tripod head that, when engaged, allows for precise 15-degree click-stops as you rotate the head. That could be useful in certain single-row pano situations. However, please note that, while potentially useful, this feature does not take into account the nodal point of the lens you are using. Still, with the continuing advances in stitching software, this feature would be good for a quick 3-shot or perhaps even a 5-shot stitched image. 
 
+Another feature sure to please travelers is that the FLM allows you to fold down the tripod with the ball head inside the legs, creating a rather small footprint. 
+
+Finally, the FLM comes with an unprecendented 10-year warranty. 
+
 
 ## The Minuses
 
-Unfortunately, the minuses for me outweighed the pluses. There is a noticeable difference between solid engineering and design/function. I never base my reviews on engineering alone. Whether a piece of equipment works for me in the field is the deciding factor.  
+Unfortunately, the minuses for me outweighed the pluses. There is a noticeable difference between solid engineering and design/function. I never base my reviews on engineering alone. Whether a piece of equipment works for me in the field is the deciding factor. But, again, your style of shooting may be different enough from mine that the FLM would be a perfect choice. 
 
-**Height**. First, as you can see in these iPhone images, the tripod is short... as in unworkably short for a pro or advanced amateur that is over five-and-a-half feet tall. At 47" without the center column (55" with it fully extended), I had to bend over uncomfortably while using my Nikon D850. With my Fuji GFX the articulating eyepiece saved me some backache, but I still had to bend to use the FLM. I prefer not to use the center column because all such columns introduce camera shake, but if you find you like to use one, then the FLM CP-26 may work well for you. In contrast, the MeFoto sits higher, as you can see below. BTW, the monster tripod you see sheltering the travel babies is my go-to Gitzo 3541 with a Really Right Stuff BH-55 ballhead. Some difference, eh? That is why I prefer my Gitzo over any travel tripod. Like I said earlier, travel tripods are compromises.  
+**Height**. First, as you can see in these iPhone images, the tripod is short... as in unworkably short for a pro or advanced amateur that is over five-and-a-half feet tall. At 47" without the center column (55" with it fully extended), I had to bend over uncomfortably while using my Nikon D850. With my Fuji GFX the articulating eyepiece saved me some backache, but I still had to bend to use the FLM. I prefer not to use the center column because all such columns introduce camera shake, but if you find you like to use one, then the FLM CP-26 may work well for you. In contrast, the MeFoto sits higher, as you can see below. BTW, the monster tripod you see sheltering the travel babies is my go-to Gitzo 3541 with a Really Right Stuff BH-55 ball head. Some difference, eh? That is why I prefer my Gitzo over any travel tripod. Like I said earlier, travel tripods are compromises.  
 
 {% img /images/bli/2018/01/IMG_2121.jpg %}
 
@@ -61,7 +65,7 @@ The same held true with my Nikon D850 with an 80-400 Nikkor lens. My MeFoto did 
 
 {% img /images/bli/2018/01/IMG_2126.jpg %}
 
-Both tripods have the same folded 21" length with attached ballhead. Despite its thicker legs, the MeFoto clocks in at half-pound lighter than the FLM. 
+Both tripods have the same folded 21" length with attached ball head, although if you collapse the FLM with the ball head inside the legs, it reduces its footprint to only 15 inches. But, the FLM is a tad heavy for a travel tripod. Despite its thicker legs, the MeFoto clocks in at half-pound lighter than the FLM. One could argue that this extra mass is good, but I would rather add mass via my backpack attached to the center column loop than carry that extra weight around all day. 
 
 {% img /images/bli/2018/01/IMG_2129.jpg %}
 
@@ -82,7 +86,7 @@ FLM does offer a quick release clamp, but that was not available for my testing.
 {% img /images/bli/2018/01/IMG_2134.jpg %}
 
 
-**Price**. Okay, now we get to the penultimate decision point in your quest for a good travel tripod. The FLM unit, as sent to me for testing, costs $876 ($474 for the tripod, $398 for the ballhead, $54 for the clamp... the quick release clamp costs more). The MeFoto costs $299, all in. 'Nuf said. 
+**Price**. Okay, now we get to the penultimate decision point in your quest for a good travel tripod. The FLM unit, as sent to me for testing, costs $876 ($474 for the tripod, $398 for the ball head, $54 for the clamp... the quick release clamp costs more). The MeFoto costs $299, all in. 'Nuf said. 
 
 
 ### Conclusions
