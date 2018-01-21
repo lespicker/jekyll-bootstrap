@@ -79,7 +79,7 @@ One important item to me that I'll mention. The MeFoto tripod, but not the FLM, 
 
 **Rubber Feet**. In the image above, take a look at the difference in rubber foot design, hence stability, between the FLM and the MeFoto. The smaller rubber footprint of the FLM also contributes to instability, even if only slightly. 
 
-**Clamp**. If your general trend is towards smaller, lighter camera systems the FLM head/clamp should be adequate. For myself I am trending towards larger medium format systems, as are many pros and advanced amateurs. FLM's choice to use such a narrow clamp to hold down the camera is certainly not aimed at photographers going down the road of larger systems. The MeFoto has a wider clamping base (see below). 
+**Clamp**. If your general trend is towards smaller, lighter camera systems the FLM head/clamp should be adequate. I am trending towards larger medium format systems, as are many pros and advanced amateurs. FLM's choice to use such a narrow clamp to hold down the camera is certainly not aimed at photographers going down the road of larger systems. The MeFoto has a wider clamping base (see below). 
 
 FLM does offer a quick release clamp, but that was not available for my testing. 
 
