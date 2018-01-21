@@ -39,7 +39,7 @@ The truth is that for many children and armchair travelers, our photography is t
 
 There are more than a dozen environmental organizations and Native American tribes fighting this short-sighted Presidential decree in court. But those cases take lots of money and they can sure use your monetary support. 
 
-I'm sure you get my point, so I won't belabor it. However, I am asking that each and every landscape photographer out there send an email to your legislators, the White House (https://www.whitehouse.gov/contact/), and to the National Park Service (http://www.nps.gov) demanding that these precious resources remain protected, not only for us but for generations of future photographers. Here is a chance for you to give back for all the beauty you have captured from them. 
+I'm sure you get my point, so I won't belabor it. However, I am asking that each and every landscape photographer out there send an email to your legislators, [The White House](https://www.whitehouse.gov/contact/), and to the [National Park Service](http://www.nps.gov) demanding that these precious resources remain protected, not only for us but for generations of future photographers. Here is a chance for you to give back for all the beauty you have captured from them. 
 
 
 
