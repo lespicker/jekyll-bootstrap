@@ -32,6 +32,6 @@ For those of you who are curious, here is the file from which we created the wal
 
 In the video you may notice that one of the panels is a bit "off" in terms of color and shading. We ended up having to rush back to our studio late at night, reprint the 9-foot strip, coat it with sealer, and have it back bright and early the next morning for our people to install it. Stuff happens!
 
-BTW, I took this pano using 11 or so images across the bottom and the same number along the top, with my Nikon D800 and a 200-400mm lens set at 300mm. For details on how I shoot these panos, <a title="Panoramas: Part 2" href="http://blog.lesterpickerphoto.com/2012/09/02/panoramas-part-2-how-i-do-it/">check here</a> and <a title="Panoramas: Part 1" href="http://blog.lesterpickerphoto.com/2012/08/21/panoramas-nail-your-nodal-points/">here</a>.
+BTW, I took this pano using 12 images across the bottom and the same number in the middle, as well as along the top, with my Nikon D800 and a 200-400mm lens set at 300mm. For details on how I shoot these panos, <a title="Panoramas: Part 2" href="http://blog.lesterpickerphoto.com/2012/09/02/panoramas-part-2-how-i-do-it/">check here</a> and <a title="Panoramas: Part 1" href="http://blog.lesterpickerphoto.com/2012/08/21/panoramas-nail-your-nodal-points/">here</a>.
 
 Enjoy the video!
