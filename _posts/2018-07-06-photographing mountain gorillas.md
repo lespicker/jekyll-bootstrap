@@ -32,7 +32,7 @@ The difficulty in getting to the gorillas lies in the mountainous, heavily jungl
 
 Visitors are only allowed to spend an hour with the gorillas, so as not to stress them. But what an hour it was! At times we were no more than an arms length from members of the troop. The immense and powerful silverback kept somewhat of a distance - at most 10-20 feet - as he calmly kept check on his extended family. The babies played, wrestled one another, chased each other up and down trees, and occasionally stopped to nurse. I don't think anyone ever experienced an hour going by so quickly. Spending time with these sentient beings, to whom we are biologically so closely related (we share 98% of our DNA coding), is truly one of life's natural highs. 
 
-A few quick take-aways. First, we were surprised at how nonchalant the gorillas were by our presence. It was affirming to note that if we treat wildlife with respect we can learn to coexist. Second, the impression one gets from being with gorillas is how similar we are in terms of family experience. They touch each other, they hug, they groom, they play and scold, they eat and sleep together. 
+A few quick take-aways. First, we were surprised at how nonchalant the gorillas were in our presence. It was affirming to note that if we treat wildlife with respect we can learn to coexist. Second, the impression one gets from being with gorillas is how similar we are in terms of family experience. They touch each other, they hug, they groom, they play and scold, they eat and sleep together. 
 
 {% img /images/bli/2018/06/DSC_4576.jpg Looking for Playmates %}
 
