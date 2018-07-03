@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arriving-in-Serengeti
+title: Arriving in Serengeti
 comments: true
 categories:
 - Featured
