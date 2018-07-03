@@ -16,6 +16,8 @@ tags:
 - serengeti
 - lions
 - elephants
+- zebras
+- wildebeests
 ---
 
 {% img /images/bli/2018/07/IMG_2751.jpg %}
