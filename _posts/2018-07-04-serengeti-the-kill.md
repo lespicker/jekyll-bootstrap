@@ -42,13 +42,13 @@ Robert whispered to us to be ready, that the action would be fast and furious. T
 
 When the yearling crossed the road, not twenty feet from us, the lions pounced. The kill happened so fast and was so close to us, my Nikkor 400mm with a 1.4 tele-extender could not even lock focus on the initial action. The zebra tried to turn away with a burst of powerful rear muscles, but she was no match for the lead lioness. With a balletic twist of her body the lioness grabbed the unfortunate zebra by her neck in her claws. In a split second the other two lionesses pounced on the youngster. 
 
-{% img /images/bli/2018/06/DSC_8291%}
+{% img /images/bli/2018/06/DSC_8291 %}
 
 Now all nine young lionesses from the pride rushed over and joined the action. 
 
 In less than a minute it was over. The lionesses tore the neck of the zebra and began to devour her, all this taking place right at the side of our vehicle. 
 
-{% img /images/bli/2018/06/DSC_8426 %}
+{% img /images/bli/2018/06/DSC_8426.jpg %}
 
 We stayed to photograph for about an hour, mesmerized by what we were witnessing. The balance of nature, the sacrifice of prey to feed the predator, an ecosystem functioning as it should. Humbling is a word that gains new meaning when one witnesses such life and death drama.
 
@@ -60,7 +60,7 @@ I'll never forget the scene; the zebra squealing as the lions jumped from the gr
 
 Two of the senior lionesses formed a barrier to make sure that the mother zebra did not return. But, most of all, I'll never forget the zebra mother, pacing back and forth in the background, as if waiting for her young to somehow emerge from the grass, miraculously whole.  
 
-{% img /images/bli/2018/06/DSC_8341 %}
+{% img /images/bli/2018/06/DSC_8341.jpg %}
 
 These are but a few of the images we all shot that day. My clients, the six of us in two Rovers, would look at each other every so often as this unfolded, each of us reflecting without words the amazement and wonder of the moment. It was truly a gift. 
 
