@@ -30,6 +30,8 @@ It was early morning and we had already been out since before sunrise. Our pheno
 
 The senior lionesses were missing and Robert scanned the plains before he spotted the pack leader walking down the road some 200 feet behind us. After 27 years as a guide, he knew from her walk that she was on the hunt. Two of her sisters flanked her in the tall grass on either side of her. Robert turned around and followed. 
 
+<!--more-->
+
 The leader moved into the tall grass herself and suddenly became rigid as she stared at two zebras, a mother and her offspring, across the road about a half-mile away. We stood in the Rover, our cameras at the ready. No one spoke a word. 
 
 {% img /images/bli/2018/06/DSC_6016.jpg Frozen on the prey %}
