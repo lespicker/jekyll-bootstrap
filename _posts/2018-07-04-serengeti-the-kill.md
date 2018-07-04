@@ -42,7 +42,7 @@ Robert whispered to us to be ready, that the action would be fast and furious. T
 
 When the yearling crossed the road, not twenty feet from us, the lions pounced. The kill happened so fast and was so close to us, my Nikkor 400mm with a 1.4 tele-extender could not even lock focus on the initial action. The zebra tried to turn away with a burst of powerful rear muscles, but she was no match for the lead lioness. With a balletic twist of her body the lioness grabbed the unfortunate zebra by her neck in her claws. In a split second the other two lionesses pounced on the youngster. 
 
-{% img /images/bli/2018/06/DSC_8291 %}
+{% img /images/bli/2018/06/DSC_8291.jpg %}
 
 Now all nine young lionesses from the pride rushed over and joined the action. 
 
