@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photographing in the Serengeti
+title: Photographing-in-the-Serengeti
 comments: true
 categories:
 - Featured
