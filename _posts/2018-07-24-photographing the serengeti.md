@@ -25,6 +25,8 @@ tags:
 
 I don't believe it makes a difference whether you are professional wildlife photographer or a serious amateur landscape photographer. I suspect that every photographer dreams of a photo trip to Tanzania's amazing Serengeti National Park and Ngorongoro Crater. 
 
+<!--more-->
+
 I just led a photo tour to Tanzania (and Uganda), and what an experience it was! My five clients had a ball and came away with simply fantastic images. From the wildebeest and zebra migration  to a pride's kill of a zebra right in front of us, we relished it all. 
 
 There are some photography tips and techniques that I'd like to share with you about photographing in the Serengeti and Ngorongoro Crater that you may want to consider when planning your own trip there. It's a long - and partial -list, but it's far better to be prepared than to arrive at a dramatic scene and find that you cannot take full advantage of it due to improper planning. 
