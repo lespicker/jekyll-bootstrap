@@ -10,12 +10,11 @@ tags:
 - Africa
 - photography
 - Les Picker
-- Uganda
 - Tanzania
 - wildlife
 - serengeti
 - lions
-- elephants
+- mating
 ---
 
 {% img /images/bli/2018/08/DSC_9724.jpg Mated Pair %}
