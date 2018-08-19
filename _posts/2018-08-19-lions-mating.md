@@ -22,7 +22,9 @@ tags:
 
 Pornography warning! 
 
-Driving through the Serengeti, one is taken by its immensity, stark beauty, and [miraculous abundance of flora and fauna](). On our recent visit we sighted more than 60 lions and lionesses, tens of thousands of zebras, wildebeests, African buffalo and gazelles. But, there are few things to get the adrenaline flowing than the sight of a pride of lions [on the hunt]().
+Driving through the Serengeti, one is taken by its immensity, stark beauty, and [miraculous abundance of flora and fauna](http://www.lesterpickerphoto.com/2018/07/03/arriving-in-serengeti/). On our recent visit we sighted more than 60 lions and lionesses, tens of thousands of zebras, wildebeests, African buffalo and gazelles. But, there are few things to get the adrenaline flowing than the sight of a pride of lions [on the hunt](http://www.lesterpickerphoto.com/2018/07/04/serengeti-the-kill/).
+
+<!--more-->
 
 Well, here is one of those few things. We also witnessed four distinct lion-lioness mating rituals, all of them not more than a hundred feet from our Rover and, in some cases, as close as 25 feet. 
 
